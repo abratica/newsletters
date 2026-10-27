@@ -1,4 +1,4 @@
-const SHELL = "nl-shell-v2";
+const SHELL = "nl-shell-v3";
 const SHELL_FILES = ["./", "index.html", "manifest.webmanifest",
   "css/base.css", "css/home.css", "css/sports.css", "js/app.js", "js/sports.js",
   "icons/icon-192.png", "icons/icon-512.png",
@@ -25,7 +25,8 @@ self.addEventListener("fetch", (e) => {
   if (e.request.method !== "GET" || url.origin !== location.origin) return;
   const bucket = url.pathname.endsWith(".json") ? "nl-data" : SHELL;
   e.respondWith(
-    fetch(e.request).then((res) => {
+    // no-cache: always check GitHub for a newer file, so app updates show up on the next open.
+    fetch(e.request, { cache: "no-cache" }).then((res) => {
       if (res.ok) { const copy = res.clone(); caches.open(bucket).then((c) => c.put(e.request, copy)); }
       return res;
     }).catch(() => caches.match(e.request).then((r) => r || caches.match("index.html")))

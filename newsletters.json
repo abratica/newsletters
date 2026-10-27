@@ -5,6 +5,12 @@
       "name": "Boston Sports",
       "cadence": "Daily",
       "layout": "sports"
+    },
+    {
+      "id": "league-wire",
+      "name": "League Wire",
+      "cadence": "Daily",
+      "layout": "wire"
     }
   ]
 }

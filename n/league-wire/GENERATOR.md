@@ -56,7 +56,7 @@ The 3 biggest stories across all four leagues, ranked. These should also appear 
 Always in this order: `nfl`, `nba`, `nhl`, `mlb`. Team names are nicknames only ("Celtics", "Red Sox").
 
 - **stories:** 3–5 per in-season league, from the last ~24–36 hours: results that matter, injuries, trades, firings, extensions, standings storylines. Boston teams only when it's genuinely league-wide news (Boston Sports covers them otherwise).
-- **scores:** every game from last night, including Boston's. `note` is `""` or one of `"OT"`, `"SO"`, `"Close"` (NBA ≤ 5 pts, NFL ≤ 8 pts, NHL/MLB 1 goal/run), `"Upset"` (only if a source calls it one). Order doesn't matter; the app puts Boston first.
+- **scores:** every game from last night, including Boston's. `note` is `""` or one of `"OT"`, `"SO"`, `"Close"` (NBA ≤ 5 pts, NFL ≤ 8 pts, NHL/MLB 1 goal/run), `"Upset"` (the betting underdog won, per a published line you read; never a judgment call). One note per game, in priority order OT/SO, Upset, Close. Order doesn't matter; the app puts Boston first.
   - **NFL:** on Mondays and Tuesdays show the whole week so far (Thu/international/Sun/Mon) with `scoresLabel: "Week N"`. Other days, only last night's game(s); no `scoresLabel`. Omit `scores` when there were none.
 - **standouts:** 2–3 best individual performances from last night (NFL: from the week, Mon/Tue only), stat lines verified from box scores. NFL: QB `CMP-ATT · YDS · TD · INT`, rusher `CAR-YDS-TD`, receiver `REC-YDS-TD`. NBA: `PTS · REB · AST` (+ FG if notable). NHL: `G · A` or goalie `SV · SV%`. MLB: pitcher `IP · H · ER · K`, hitter `H-AB · HR · RBI`.
 - **moves:** trades, signings, releases, waivers, IR, firings/hires from the last ~48 hours. Each with a source `url`. Empty array if none.

@@ -1,0 +1,1096 @@
+{
+  "date": "2026-10-27",
+  "headline": "Brewers rout Rays 10–1, one win from first World Series title",
+  "ticker": [
+    "Brewers lead WS 3–0",
+    "Cowboys 38, Eagles 21",
+    "Cavs 127, Wolves 125 (OT)",
+    "Matthews hits 800 points"
+  ],
+  "powerRankingsDay": true,
+  "top": [
+    {
+      "league": "mlb",
+      "headline": "Brewers rout Rays 10–1, one win from first World Series title",
+      "summary": "Milwaukee beat Tampa Bay 10–1 at Tropicana Field on Monday to take a 3–0 World Series lead, leaving the Brewers one win from the first title in franchise history. They scored eight runs with two outs in the fifth inning, with seven straight batters getting hits. Robert Gasser threw six scoreless innings and allowed one hit, and Jackson Chourio went 4-for-5. Game 4 is Tuesday at 8 p.m. ET in Tampa Bay.",
+      "source": "NBC Chicago",
+      "url": "https://www.nbcchicago.com/mlb/brewers-rays-world-series-game-3/4007692/"
+    },
+    {
+      "league": "nba",
+      "headline": "Thunder lose Jalen Williams, Cason Wallace to surgery",
+      "summary": "Jalen Williams will have surgery for a dislocated left ankle and fractured fibula, and Cason Wallace for a torn labrum in his left shoulder, after both were hurt in Sunday's win over the Clippers. GM Sam Presti said both are out indefinitely, and both are expected to miss several months, if not the entire season.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50290179/thunder-jalen-williams-cason-wallace-undergo-surgery"
+    },
+    {
+      "league": "nfl",
+      "headline": "Cowboys run past Eagles 38–21 on Monday night",
+      "summary": "Javonte Williams ran for a career-high 155 yards and a touchdown on 25 carries, and Dak Prescott threw three touchdown passes as Dallas snapped a two-game skid to reach 3–4. Philadelphia, starting Tanner McKee with Jalen Hurts out, lost its fifth straight to fall to 2–5. Saquon Barkley left with a back injury in his return from a hamstring injury.",
+      "source": "NBC Sports (PFT)",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-cowboys-run-past-eagles-38-21"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Cowboys run past Eagles 38–21 on Monday night",
+      "stories": [
+        {
+          "headline": "Cowboys run past Eagles 38–21 on Monday night",
+          "summary": "Javonte Williams ran for a career-high 155 yards and a touchdown on 25 carries, and Dak Prescott threw three touchdown passes as Dallas snapped a two-game skid to reach 3–4. Philadelphia, starting Tanner McKee with Jalen Hurts out, lost its fifth straight to fall to 2–5. Saquon Barkley left with a back injury in his return from a hamstring injury.",
+          "source": "NBC Sports (PFT)",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-cowboys-run-past-eagles-38-21"
+        },
+        {
+          "headline": "Unbeaten Vikings climb to No. 1 in power rankings",
+          "summary": "Minnesota (6–0), the league's last unbeaten team, took the top spot in Pete Prisco's Week 8 rankings at CBS Sports after a 16–10 win over the Colts. NFL.com also moved the Vikings to No. 1, while ESPN kept the 6–1 49ers on top and FOX put the Bills first.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/powerrankings/"
+        },
+        {
+          "headline": "Jerry Jones open to a deadline deal but calls it unlikely",
+          "summary": "After the win in Philadelphia, Cowboys owner Jerry Jones said on 105.3 The Fan that he would make a significant trade-deadline acquisition if one came along. He called such a deal unlikely for now because few teams are looking to sell good players. The trade deadline is Nov. 10.",
+          "source": "Bleacher Report",
+          "url": "https://bleacherreport.com/articles/25521028-jerry-jones-updates-cowboys-nfl-trade-deadline-plans-after-win-vs-eagles-mnf"
+        },
+        {
+          "headline": "49ers optimistic McCaffrey's hamstring is minor",
+          "summary": "Christian McCaffrey hurt his hamstring in San Francisco's Week 7 loss to Atlanta. Per 49ers insider Cam Inman, Kyle Shanahan is optimistic he will play in Week 9 against the Raiders after this week's bye. If he can't, rookie Kaelon Black would lead the backfield.",
+          "source": "Last Word on Sports",
+          "url": "https://lastwordonsports.com/nfl/2026/10/27/christian-mccaffrey-injury-2/"
+        }
+      ],
+      "scoresLabel": "Week 7",
+      "scores": [
+        {
+          "away": "Patriots",
+          "awayScore": 24,
+          "home": "Bears",
+          "homeScore": 30,
+          "note": "Close"
+        },
+        {
+          "away": "Steelers",
+          "awayScore": 16,
+          "home": "Saints",
+          "homeScore": 10,
+          "note": "Close"
+        },
+        {
+          "away": "Colts",
+          "awayScore": 10,
+          "home": "Vikings",
+          "homeScore": 16,
+          "note": "Close"
+        },
+        {
+          "away": "Dolphins",
+          "awayScore": 28,
+          "home": "Jets",
+          "homeScore": 25,
+          "note": "Upset"
+        },
+        {
+          "away": "Bengals",
+          "awayScore": 35,
+          "home": "Ravens",
+          "homeScore": 13,
+          "note": "Upset"
+        },
+        {
+          "away": "Browns",
+          "awayScore": 27,
+          "home": "Titans",
+          "homeScore": 24,
+          "note": "Close"
+        },
+        {
+          "away": "Buccaneers",
+          "awayScore": 43,
+          "home": "Panthers",
+          "homeScore": 13,
+          "note": "Upset"
+        },
+        {
+          "away": "49ers",
+          "awayScore": 20,
+          "home": "Falcons",
+          "homeScore": 29,
+          "note": "Upset"
+        },
+        {
+          "away": "Giants",
+          "awayScore": 27,
+          "home": "Texans",
+          "homeScore": 21,
+          "note": "OT"
+        },
+        {
+          "away": "Broncos",
+          "awayScore": 30,
+          "home": "Cardinals",
+          "homeScore": 16,
+          "note": ""
+        },
+        {
+          "away": "Rams",
+          "awayScore": 35,
+          "home": "Raiders",
+          "homeScore": 21,
+          "note": ""
+        },
+        {
+          "away": "Packers",
+          "awayScore": 17,
+          "home": "Lions",
+          "homeScore": 20,
+          "note": "Close"
+        },
+        {
+          "away": "Chiefs",
+          "awayScore": 3,
+          "home": "Seahawks",
+          "homeScore": 20,
+          "note": ""
+        },
+        {
+          "away": "Cowboys",
+          "awayScore": 38,
+          "home": "Eagles",
+          "homeScore": 21,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Javonte Williams",
+          "team": "Cowboys",
+          "line": "25 CAR · 155 YDS · 1 TD",
+          "note": "A career high and Dallas's first 150-yard rushing game since Ezekiel Elliott in 2018, powering a 204-yard ground attack in the win at Philadelphia."
+        },
+        {
+          "name": "Joe Burrow",
+          "team": "Bengals",
+          "line": "22-30 · 292 YDS · 4 TD · 0 INT",
+          "note": "All four touchdown passes came after halftime as Cincinnati erased a 13–0 deficit and routed Baltimore 35–13."
+        },
+        {
+          "name": "Jaxon Smith-Njigba",
+          "team": "Seahawks",
+          "line": "9 REC · 150 YDS · 1 TD",
+          "note": "Led Seattle's 20–3 Sunday night win that handed Kansas City its first loss of the season."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Panthers placed RT Taylor Moton on IR",
+          "url": "https://espn.ph/nfl/transactions"
+        },
+        {
+          "text": "Packers placed C/G Jacob Monk on IR and promoted G Mekhi Becton Sr. from the practice squad",
+          "url": "https://espn.ph/nfl/transactions"
+        },
+        {
+          "text": "Browns reinstated QB Dillon Gabriel from IR",
+          "url": "https://espn.ph/nfl/transactions"
+        },
+        {
+          "text": "Eagles reinstated G Landon Dickerson and TEs Grant Calcaterra and Eli Stowers from IR",
+          "url": "https://espn.ph/nfl/transactions"
+        },
+        {
+          "text": "Bills placed DB Chauncey Gardner-Johnson on the reserve/suspended list",
+          "url": "https://espn.ph/nfl/transactions"
+        }
+      ],
+      "powerRankings": {
+        "sources": [
+          "ESPN",
+          "NFL.com",
+          "CBS Sports",
+          "FOX Sports"
+        ],
+        "teams": [
+          {
+            "team": "Vikings",
+            "rank": 1,
+            "prev": 4,
+            "avg": 1.75
+          },
+          {
+            "team": "Bills",
+            "rank": 2,
+            "prev": 3,
+            "avg": 1.75
+          },
+          {
+            "team": "49ers",
+            "rank": 3,
+            "prev": 1,
+            "avg": 3.0
+          },
+          {
+            "team": "Chiefs",
+            "rank": 4,
+            "prev": 2,
+            "avg": 4.5
+          },
+          {
+            "team": "Seahawks",
+            "rank": 5,
+            "prev": 7,
+            "avg": 5.5
+          },
+          {
+            "team": "Broncos",
+            "rank": 6,
+            "prev": 6,
+            "avg": 6.75
+          },
+          {
+            "team": "Bengals",
+            "rank": 7,
+            "prev": 10,
+            "avg": 7.0
+          },
+          {
+            "team": "Jaguars",
+            "rank": 8,
+            "prev": 5,
+            "avg": 7.25
+          },
+          {
+            "team": "Bears",
+            "rank": 9,
+            "prev": 11,
+            "avg": 7.5
+          },
+          {
+            "team": "Lions",
+            "rank": 10,
+            "prev": 12,
+            "avg": 10.5
+          },
+          {
+            "team": "Patriots",
+            "rank": 11,
+            "prev": 8,
+            "avg": 10.5
+          },
+          {
+            "team": "Ravens",
+            "rank": 12,
+            "prev": 9,
+            "avg": 14.0
+          },
+          {
+            "team": "Browns",
+            "rank": 13,
+            "prev": 17,
+            "avg": 14.0
+          },
+          {
+            "team": "Steelers",
+            "rank": 14,
+            "prev": 16,
+            "avg": 14.0
+          },
+          {
+            "team": "Rams",
+            "rank": 15,
+            "prev": 18,
+            "avg": 15.25
+          },
+          {
+            "team": "Packers",
+            "rank": 16,
+            "prev": 14,
+            "avg": 15.25
+          },
+          {
+            "team": "Giants",
+            "rank": 17,
+            "prev": 21,
+            "avg": 17.0
+          },
+          {
+            "team": "Falcons",
+            "rank": 18,
+            "prev": 20,
+            "avg": 17.5
+          },
+          {
+            "team": "Panthers",
+            "rank": 19,
+            "prev": 13,
+            "avg": 18.0
+          },
+          {
+            "team": "Texans",
+            "rank": 20,
+            "prev": 15,
+            "avg": 20.25
+          },
+          {
+            "team": "Cowboys",
+            "rank": 21,
+            "prev": 22,
+            "avg": 21.0
+          },
+          {
+            "team": "Raiders",
+            "rank": 22,
+            "prev": 19,
+            "avg": 22.25
+          },
+          {
+            "team": "Buccaneers",
+            "rank": 23,
+            "prev": 29,
+            "avg": 23.0
+          },
+          {
+            "team": "Eagles",
+            "rank": 24,
+            "prev": 23,
+            "avg": 24.5
+          },
+          {
+            "team": "Saints",
+            "rank": 25,
+            "prev": 24,
+            "avg": 25.0
+          },
+          {
+            "team": "Colts",
+            "rank": 26,
+            "prev": 26,
+            "avg": 26.5
+          },
+          {
+            "team": "Commanders",
+            "rank": 27,
+            "prev": 28,
+            "avg": 27.25
+          },
+          {
+            "team": "Jets",
+            "rank": 28,
+            "prev": 27,
+            "avg": 28.25
+          },
+          {
+            "team": "Cardinals",
+            "rank": 29,
+            "prev": 25,
+            "avg": 28.5
+          },
+          {
+            "team": "Dolphins",
+            "rank": 30,
+            "prev": 32,
+            "avg": 29.0
+          },
+          {
+            "team": "Titans",
+            "rank": 31,
+            "prev": 30,
+            "avg": 29.5
+          },
+          {
+            "team": "Chargers",
+            "rank": 32,
+            "prev": 31,
+            "avg": 32.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Thunder lose Jalen Williams and Cason Wallace to surgery",
+      "stories": [
+        {
+          "headline": "Thunder lose Jalen Williams, Cason Wallace to surgery",
+          "summary": "Jalen Williams will have surgery for a dislocated left ankle and fractured fibula, and Cason Wallace for a torn labrum in his left shoulder, after both were hurt in Sunday's win over the Clippers. GM Sam Presti said both are out indefinitely, and both are expected to miss several months, if not the entire season.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/50290179/thunder-jalen-williams-cason-wallace-undergo-surgery"
+        },
+        {
+          "headline": "Edwards scores 47, but Cavs win in overtime",
+          "summary": "Anthony Edwards scored 47 points, but Cleveland beat Minnesota 127-125 in overtime. Donovan Mitchell scored 26, including a go-ahead 19-foot fadeaway with 48 seconds left in OT, and second-round rookie Meleek Thomas added 16 in his NBA debut.",
+          "source": "CBS News Minnesota (AP)",
+          "url": "https://www.cbsnews.com/minnesota/news/timberwolves-cleveland-cavaliers-edwards-harden-mcdaniels/"
+        },
+        {
+          "headline": "Perfect Curry, rookie Lendeborg give Warriors first win",
+          "summary": "Stephen Curry went 8-for-8 from the field for 24 points, and rookie Yaxel Lendeborg had 31 points, 12 rebounds and 6 assists as Golden State won 134-114 at Denver. It was the Warriors' first win of the season.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/steph-curry-yaxel-lendeborg-combine-072852188.html"
+        },
+        {
+          "headline": "Heat fall to 0–4 despite Giannis triple-double",
+          "summary": "Giannis Antetokounmpo had 29 points, 14 rebounds and 11 assists, his first triple-double since joining Miami, but the Heat gave up a fourth-quarter lead and lost 113-109 to Dallas. Cooper Flagg had 29 points, 11 assists, 5 steals and 3 blocks for the Mavericks after missing a game with a shoulder strain.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nba/breaking-news/article/heat-blow-fourth-quarter-lead-to-mavericks-fall-to-0-4-despite-giannis-antetokounmpo-triple-double-035705882.html"
+        },
+        {
+          "headline": "Brandon Miller pours in career-high 39",
+          "summary": "Brandon Miller scored a career-high 39 points with 6 rebounds, 3 steals and 2 blocks as Charlotte beat Washington 110-103. Moussa Diabate added 11 points and 17 rebounds, 11 of them offensive.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/brandon-miller-shines-posts-career-025158455.html"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Timberwolves",
+          "awayScore": 125,
+          "home": "Cavaliers",
+          "homeScore": 127,
+          "note": "OT"
+        },
+        {
+          "away": "Wizards",
+          "awayScore": 103,
+          "home": "Hornets",
+          "homeScore": 110,
+          "note": ""
+        },
+        {
+          "away": "Bulls",
+          "awayScore": 99,
+          "home": "Celtics",
+          "homeScore": 134,
+          "note": ""
+        },
+        {
+          "away": "Mavericks",
+          "awayScore": 113,
+          "home": "Heat",
+          "homeScore": 109,
+          "note": "Close"
+        },
+        {
+          "away": "Suns",
+          "awayScore": 114,
+          "home": "Thunder",
+          "homeScore": 125,
+          "note": ""
+        },
+        {
+          "away": "Pacers",
+          "awayScore": 102,
+          "home": "Bucks",
+          "homeScore": 110,
+          "note": ""
+        },
+        {
+          "away": "Hawks",
+          "awayScore": 110,
+          "home": "Rockets",
+          "homeScore": 120,
+          "note": ""
+        },
+        {
+          "away": "Grizzlies",
+          "awayScore": 110,
+          "home": "Jazz",
+          "homeScore": 105,
+          "note": "Close"
+        },
+        {
+          "away": "Warriors",
+          "awayScore": 134,
+          "home": "Nuggets",
+          "homeScore": 114,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Anthony Edwards",
+          "team": "Timberwolves",
+          "line": "47 PTS · 4 REB · 4 AST",
+          "note": "Hit 5 of 15 threes in a 127-125 overtime loss at Cleveland, his seventh career game of 47 or more points."
+        },
+        {
+          "name": "Brandon Miller",
+          "team": "Hornets",
+          "line": "39 PTS · 6 REB · 3 STL",
+          "note": "Career high on 15-of-28 shooting, with five 3-pointers, in a 110-103 win over Washington."
+        },
+        {
+          "name": "Yaxel Lendeborg",
+          "team": "Warriors",
+          "line": "31 PTS · 12 REB · 6 AST",
+          "note": "The rookie went 12 of 13 at the line as Golden State routed Denver for its first win."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Thunder: Jalen Williams (ankle/fibula) and Cason Wallace (shoulder) to have surgery; both out indefinitely",
+          "url": "https://www.espn.com/nba/story/_/id/50290179/thunder-jalen-williams-cason-wallace-undergo-surgery"
+        },
+        {
+          "text": "Raptors: Kawhi Leonard (left knee swelling) expected to miss weeks; re-evaluation in one week",
+          "url": "https://www.hoopsrumors.com/2026/10/kawhi-leonard-expected-to-miss-weeks-due-to-knee-issue.html"
+        },
+        {
+          "text": "Jazz: Lauri Markkanen (right wrist) and Jaren Jackson Jr. (right knee) getting MRIs after leaving Monday's loss",
+          "url": "https://www.hoopsrumors.com/2026/10/jazzs-markkanen-wrist-jackson-knee-undergoing-mris.html"
+        }
+      ],
+      "powerRankings": {
+        "sources": [
+          "NBA.com",
+          "NBC Sports",
+          "ClutchPoints",
+          "Yahoo Sports"
+        ],
+        "teams": [
+          {
+            "team": "Thunder",
+            "rank": 1,
+            "prev": 3,
+            "avg": 1.0
+          },
+          {
+            "team": "Pistons",
+            "rank": 2,
+            "prev": 7,
+            "avg": 2.25
+          },
+          {
+            "team": "Rockets",
+            "rank": 3,
+            "prev": 10,
+            "avg": 3.75
+          },
+          {
+            "team": "Timberwolves",
+            "rank": 4,
+            "prev": 11,
+            "avg": 4.25
+          },
+          {
+            "team": "76ers",
+            "rank": 5,
+            "prev": 4,
+            "avg": 5.25
+          },
+          {
+            "team": "Lakers",
+            "rank": 6,
+            "prev": 9,
+            "avg": 5.75
+          },
+          {
+            "team": "Spurs",
+            "rank": 7,
+            "prev": 2,
+            "avg": 9.5
+          },
+          {
+            "team": "Raptors",
+            "rank": 8,
+            "prev": 12,
+            "avg": 9.75
+          },
+          {
+            "team": "Celtics",
+            "rank": 9,
+            "prev": 6,
+            "avg": 10.0
+          },
+          {
+            "team": "Cavaliers",
+            "rank": 10,
+            "prev": 5,
+            "avg": 10.25
+          },
+          {
+            "team": "Hawks",
+            "rank": 11,
+            "prev": 15,
+            "avg": 12.25
+          },
+          {
+            "team": "Nuggets",
+            "rank": 12,
+            "prev": 8,
+            "avg": 12.75
+          },
+          {
+            "team": "Trail Blazers",
+            "rank": 13,
+            "prev": 17,
+            "avg": 13.25
+          },
+          {
+            "team": "Grizzlies",
+            "rank": 14,
+            "prev": 27,
+            "avg": 14.0
+          },
+          {
+            "team": "Pacers",
+            "rank": 15,
+            "prev": 14,
+            "avg": 14.0
+          },
+          {
+            "team": "Knicks",
+            "rank": 16,
+            "prev": 1,
+            "avg": 14.25
+          },
+          {
+            "team": "Hornets",
+            "rank": 17,
+            "prev": 23,
+            "avg": 16.75
+          },
+          {
+            "team": "Magic",
+            "rank": 18,
+            "prev": 16,
+            "avg": 17.0
+          },
+          {
+            "team": "Wizards",
+            "rank": 19,
+            "prev": 21,
+            "avg": 17.25
+          },
+          {
+            "team": "Mavericks",
+            "rank": 20,
+            "prev": 19,
+            "avg": 18.75
+          },
+          {
+            "team": "Suns",
+            "rank": 21,
+            "prev": 18,
+            "avg": 22.25
+          },
+          {
+            "team": "Heat",
+            "rank": 22,
+            "prev": 13,
+            "avg": 22.75
+          },
+          {
+            "team": "Clippers",
+            "rank": 23,
+            "prev": 26,
+            "avg": 23.25
+          },
+          {
+            "team": "Jazz",
+            "rank": 24,
+            "prev": 20,
+            "avg": 23.25
+          },
+          {
+            "team": "Bulls",
+            "rank": 25,
+            "prev": 25,
+            "avg": 25.0
+          },
+          {
+            "team": "Warriors",
+            "rank": 26,
+            "prev": 22,
+            "avg": 25.25
+          },
+          {
+            "team": "Pelicans",
+            "rank": 27,
+            "prev": 24,
+            "avg": 26.25
+          },
+          {
+            "team": "Bucks",
+            "rank": 28,
+            "prev": 29,
+            "avg": 27.5
+          },
+          {
+            "team": "Nets",
+            "rank": 29,
+            "prev": 28,
+            "avg": 28.0
+          },
+          {
+            "team": "Kings",
+            "rank": 30,
+            "prev": 30,
+            "avg": 29.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Matthews reaches 800 points, but the Flames win",
+      "stories": [
+        {
+          "headline": "Matthews hits 800 points faster than any Maple Leaf, but Flames win",
+          "summary": "Auston Matthews assisted on William Nylander's goal for his 800th career point in his 703rd game, the fastest in Maple Leafs history (Darryl Sittler needed 742). It came in a 5-2 loss in Calgary, where Matvei Gridin scored twice and the Flames won their fourth straight. Toronto's four-game winning streak ended.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/toronto-maple-leafs-calgary-flames-game-recap-october-26-2026"
+        },
+        {
+          "headline": "Postava wins NHL debut start as Red Wings top Oilers in shootout",
+          "summary": "Michal Postava made 25 saves and stopped all three Edmonton shootout attempts in his first NHL start, and Lucas Raymond scored the only shootout goal in Detroit's 4-3 win. Dylan Larkin tied it 3-3 late in the third with the goalie pulled. Connor McDavid had an assist, extending his season-opening point streak to 12 games, and Zach Hyman left in the second period and did not return.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/detroit-red-wings-edmonton-oilers-game-recap-october-26-2026"
+        },
+        {
+          "headline": "Doughty's three points lead Kings past Rangers at MSG",
+          "summary": "Drew Doughty had a goal and two assists, his first three-point game since Feb. 22, 2025, as Los Angeles won 6-3 at Madison Square Garden for its third win in four games. James Reimer, in his first start since signing with New York, allowed three goals on eight shots and was pulled in the first period. The Rangers (7-6-1) have lost three straight.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/los-angeles-kings-new-york-rangers-game-recap-october-26-2026"
+        },
+        {
+          "headline": "Quinn Hughes hits 500 points in his return to Vancouver",
+          "summary": "Quinn Hughes was booed in his first game back in Vancouver since the December 2025 trade, then scored a power-play goal on Sunday for his 500th NHL point, in his 520th game. He added an assist in the Wild's 4-2 win. Only Brian Leetch reached 500 points faster among American defensemen.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/quinn-hughes-hears-boos-cheers-during-vancouver-return"
+        },
+        {
+          "headline": "Kraken lose McCann for 10 weeks; Hall could return for Carolina",
+          "summary": "Seattle forward Jared McCann (lower body) was placed on injured reserve and will be out 10 weeks. Carolina's Taylor Hall came off injured reserve and could return from an upper-body injury against Boston on Tuesday. Philadelphia's Rasmus Ristolainen is expected to miss at least two weeks.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-october-26-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Kings",
+          "awayScore": 6,
+          "home": "Rangers",
+          "homeScore": 3,
+          "note": ""
+        },
+        {
+          "away": "Maple Leafs",
+          "awayScore": 2,
+          "home": "Flames",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Red Wings",
+          "awayScore": 4,
+          "home": "Oilers",
+          "homeScore": 3,
+          "note": "SO"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Matvei Gridin",
+          "team": "Flames",
+          "line": "2 G · 1 A",
+          "note": "First three-point game of his NHL career, including a power-play goal, as Calgary won its fourth straight."
+        },
+        {
+          "name": "Drew Doughty",
+          "team": "Kings",
+          "line": "1 G · 2 A · +3",
+          "note": "His first goal of the season moved him past Dustin Brown into seventh on the Kings' all-time points list (713)."
+        },
+        {
+          "name": "Michal Postava",
+          "team": "Red Wings",
+          "line": "25 SV · 3-for-3 in SO",
+          "note": "Won his first NHL start, stopping all three Edmonton shooters in the shootout."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Hurricanes re-sign RFA D Alexander Nikishin to a one-year, $3 million deal (Oct. 25)",
+          "url": "https://www.nhl.com/news/alexander-nikishin-one-year-contract-with-carolina-hurricanes"
+        },
+        {
+          "text": "Rangers sign G James Reimer, 38, to a one-year contract; he was pulled in his first start Monday",
+          "url": "https://www.nhl.com/news/new-york-rangers-sign-james-reimer-to-one-year-contract"
+        },
+        {
+          "text": "Kraken F Jared McCann (lower body) placed on IR, out 10 weeks",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-october-26-2026"
+        },
+        {
+          "text": "Flyers D Rasmus Ristolainen (upper body) out at least two weeks; Cam York activated off IR",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-october-26-2026"
+        }
+      ],
+      "powerRankings": {
+        "sources": [
+          "NHL.com Super 16 (Oct 22)",
+          "ESPN (Oct 23)",
+          "Daily Faceoff (Oct 26)",
+          "The Hockey Writers (Oct 26)"
+        ],
+        "teams": [
+          {
+            "team": "Hurricanes",
+            "rank": 1,
+            "prev": 1,
+            "avg": 1.0
+          },
+          {
+            "team": "Bruins",
+            "rank": 2,
+            "prev": 8,
+            "avg": 4.3
+          },
+          {
+            "team": "Golden Knights",
+            "rank": 3,
+            "prev": 2,
+            "avg": 4.5
+          },
+          {
+            "team": "Oilers",
+            "rank": 4,
+            "prev": 3,
+            "avg": 5.0
+          },
+          {
+            "team": "Mammoth",
+            "rank": 5,
+            "prev": 7,
+            "avg": 5.3
+          },
+          {
+            "team": "Wild",
+            "rank": 6,
+            "prev": 5,
+            "avg": 5.5
+          },
+          {
+            "team": "Lightning",
+            "rank": 7,
+            "prev": 6,
+            "avg": 5.5
+          },
+          {
+            "team": "Stars",
+            "rank": 8,
+            "prev": 12,
+            "avg": 7.0
+          },
+          {
+            "team": "Devils",
+            "rank": 9,
+            "prev": 20,
+            "avg": 11.0
+          },
+          {
+            "team": "Senators",
+            "rank": 10,
+            "prev": 11,
+            "avg": 11.3
+          },
+          {
+            "team": "Rangers",
+            "rank": 11,
+            "prev": 9,
+            "avg": 11.8
+          },
+          {
+            "team": "Avalanche",
+            "rank": 12,
+            "prev": 4,
+            "avg": 11.8
+          },
+          {
+            "team": "Panthers",
+            "rank": 13,
+            "prev": 10,
+            "avg": 12.3
+          },
+          {
+            "team": "Canadiens",
+            "rank": 14,
+            "prev": 16,
+            "avg": 13.3
+          },
+          {
+            "team": "Maple Leafs",
+            "rank": 15,
+            "prev": 23,
+            "avg": 14.5
+          },
+          {
+            "team": "Capitals",
+            "rank": 16,
+            "prev": 14,
+            "avg": 15.0
+          },
+          {
+            "team": "Kraken",
+            "rank": 17,
+            "prev": 17,
+            "avg": 15.0
+          },
+          {
+            "team": "Islanders",
+            "rank": 18,
+            "prev": 18,
+            "avg": 15.3
+          },
+          {
+            "team": "Jets",
+            "rank": 19,
+            "prev": 13,
+            "avg": 19.0
+          },
+          {
+            "team": "Blues",
+            "rank": 20,
+            "prev": 21,
+            "avg": 21.0
+          },
+          {
+            "team": "Predators",
+            "rank": 21,
+            "prev": 26,
+            "avg": 21.7
+          },
+          {
+            "team": "Red Wings",
+            "rank": 22,
+            "prev": 24,
+            "avg": 22.7
+          },
+          {
+            "team": "Penguins",
+            "rank": 23,
+            "prev": 22,
+            "avg": 23.0
+          },
+          {
+            "team": "Sharks",
+            "rank": 24,
+            "prev": 25,
+            "avg": 23.7
+          },
+          {
+            "team": "Sabres",
+            "rank": 25,
+            "prev": 19,
+            "avg": 24.0
+          },
+          {
+            "team": "Ducks",
+            "rank": 26,
+            "prev": 15,
+            "avg": 24.7
+          },
+          {
+            "team": "Blue Jackets",
+            "rank": 27,
+            "prev": 27,
+            "avg": 27.7
+          },
+          {
+            "team": "Flyers",
+            "rank": 28,
+            "prev": 32,
+            "avg": 28.0
+          },
+          {
+            "team": "Flames",
+            "rank": 29,
+            "prev": 29,
+            "avg": 28.3
+          },
+          {
+            "team": "Kings",
+            "rank": 30,
+            "prev": 30,
+            "avg": 30.0
+          },
+          {
+            "team": "Blackhawks",
+            "rank": 31,
+            "prev": 28,
+            "avg": 30.3
+          },
+          {
+            "team": "Canucks",
+            "rank": 32,
+            "prev": 31,
+            "avg": 32.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "in-season",
+      "summary": "World Series: Brewers lead Rays 3–0 · Game 4 tonight",
+      "stories": [
+        {
+          "headline": "Brewers rout Rays 10–1, one win from first World Series title",
+          "summary": "Milwaukee beat Tampa Bay 10–1 at Tropicana Field on Monday to take a 3–0 World Series lead, leaving the Brewers one win from the first title in franchise history. They scored eight runs with two outs in the fifth inning, with seven straight batters getting hits. Robert Gasser threw six scoreless innings and allowed one hit, and Jackson Chourio went 4-for-5. Game 4 is Tuesday at 8 p.m. ET in Tampa Bay.",
+          "source": "NBC Chicago",
+          "url": "https://www.nbcchicago.com/mlb/brewers-rays-world-series-game-3/4007692/"
+        },
+        {
+          "headline": "Lindor wins 2026 Roberto Clemente Award",
+          "summary": "Mets shortstop Francisco Lindor was named the 2026 Roberto Clemente Award winner on Monday. The award goes to one player each season for philanthropic work. His work includes money for disaster relief in Puerto Rico and a partnership with New Balance that provides school supplies for students.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/10/the-opener-brewers-dominate-rays-on-brink-lindor-wins-clemente-award.html"
+        },
+        {
+          "headline": "Mariners bring Espada, Kanzler in for in-person manager interviews",
+          "summary": "Seattle is holding in-person interviews this week with former Astros manager Joe Espada and Cubs player development director Jason Kanzler. This is the third round of talks for both candidates. Rocco Baldelli was scheduled for an in-person interview but withdrew over the weekend for family reasons. The Mariners have been searching for a manager since they parted ways with Dan Wilson after the regular season.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/mariners-interviewing-joe-espada-jason-kanzler-for-manager"
+        },
+        {
+          "headline": "Phillies hire ex-Red Sox hitting coach Peter Fatse",
+          "summary": "According to The Athletic's sources, the Phillies are hiring Peter Fatse as their hitting coach to replace Kevin Long. Fatse was with the Red Sox from 2019 until April 2026, when Boston let him go in the staff shakeup that also removed manager Alex Cora. He then worked as a hitting consultant for the Rays.",
+          "source": "NBC Sports",
+          "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-10-26/report-phillies-hire-peter-fatse-as-hitting-coach"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Brewers",
+          "awayScore": 10,
+          "home": "Rays",
+          "homeScore": 1,
+          "note": "WS Game 3"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Phillies hiring ex-Red Sox coach Peter Fatse as hitting coach (per The Athletic)",
+          "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-10-26/report-phillies-hire-peter-fatse-as-hitting-coach"
+        },
+        {
+          "text": "Mariners hold in-person manager interviews with Joe Espada and Jason Kanzler; Rocco Baldelli withdraws",
+          "url": "https://www.mlb.com/news/mariners-interviewing-joe-espada-jason-kanzler-for-manager"
+        },
+        {
+          "text": "Astros interviewing ex-Nationals GM Mike Rizzo for GM opening (per Bob Nightengale)",
+          "url": "https://dose.ca/2026/10/26/mlb-in-brief-mike-rizzo-to-houston-francisco-lindor-honored"
+        }
+      ]
+    }
+  ]
+}

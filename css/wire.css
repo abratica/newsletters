@@ -29,7 +29,7 @@ body.view-wire a { color: inherit; }
   position: relative;
   background: var(--mast);
   color: var(--mast-ink);
-  padding: calc(20px + env(safe-area-inset-top)) 18px 16px 50px;
+  padding: calc(20px + env(safe-area-inset-top)) 60px 16px 50px;
 }
 .wire-back {
   position: absolute;
@@ -74,7 +74,7 @@ body.view-wire a { color: inherit; }
 .wire-story .h, .wire-item .h { font-weight: 800; font-size: 15.5px; line-height: 1.3; }
 .wire-item .h { font-weight: 700; font-size: 14.5px; }
 .wire-story .s, .wire-item .s { color: var(--muted); font-size: 13.5px; margin-top: 3px; }
-.wire-src { display: inline-block; margin-top: 5px; color: var(--link); font-weight: 700; font-size: 12.5px; text-decoration: none; }
+body.view-wire .wire-src { display: inline-block; margin-top: 5px; color: var(--link); font-weight: 700; font-size: 12.5px; text-decoration: none; }
 
 /* League cards */
 .wire-league { background: var(--card); border: 1px solid var(--line); border-radius: 14px; margin-bottom: 10px; overflow: hidden; }
@@ -142,7 +142,7 @@ details[open] > summary .wire-chev { transform: rotate(180deg); }
 .up { color: var(--up); } .dn { color: var(--dn); } .eq { color: var(--muted); }
 .wire-rk-note { color: var(--muted); font-size: 12.5px; margin: 8px 0 0; }
 .wire-all { margin-top: 8px; }
-.wire-all > summary { list-style: none; cursor: pointer; color: var(--link); font-weight: 700; font-size: 13px; padding: 4px 0; }
+body.view-wire .wire-all > summary { list-style: none; cursor: pointer; color: var(--link); font-weight: 700; font-size: 13px; padding: 4px 0; }
 .wire-all > summary::-webkit-details-marker { display: none; }
 
 /* Archive */
@@ -175,3 +175,11 @@ details[open] > summary .wire-chev { transform: rotate(180deg); }
 .wire-badge { font-size: 12.5px; padding: 2px 9px; border-radius: 999px; background: var(--accent); color: var(--accent-ink); }
 
 @media (prefers-reduced-motion: reduce) { .wire-chev { transition: none; } }
+
+/* Dark */
+html[data-theme="dark"] body.view-wire {
+  --bg: #111111; --mast: #000000; --ink: #F1EFEA; --muted: #9A958C; --card: #1B1B1B; --sub: #232323;
+  --line: #2C2B29; --link: #FF6B62; --hl: #3A1A18; --up: #2FA463; --dn: #FF6B62;
+}
+html[data-theme="dark"] body.view-wire .wire-chip { background: #2A2A2A; }
+html[data-theme="dark"] body.view-wire .wire-mast { border-bottom: 1px solid #2C2B29; }

@@ -15,7 +15,8 @@
       "oppRecord": "0–3",
       "time": "7:30 PM",
       "venue": "TD Garden",
-      "league": "nba"
+      "league": "nba",
+      "tv": "NBC Sports Boston · Peacock"
     },
     {
       "teamKey": "bruins",
@@ -25,7 +26,8 @@
       "oppRecord": "9–2–2",
       "time": "8:00 PM",
       "venue": "Lenovo Center",
-      "league": "nhl"
+      "league": "nhl",
+      "tv": "ESPN"
     }
   ],
   "results": [

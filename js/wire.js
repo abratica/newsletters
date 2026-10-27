@@ -15,6 +15,7 @@
       <a class="wire-back" href="${ctx.backHref}" aria-label="${esc(ctx.backLabel)}">‹</a>
       <h1 class="wire-word">League <span>Wire</span></h1>
       <p class="wire-date">${esc(sub)}</p>
+      ${window.themeButton ? window.themeButton() : ""}
       ${flag ? `<span class="wire-flag">${esc(flag)}</span>` : ""}
     </header>`;
   }

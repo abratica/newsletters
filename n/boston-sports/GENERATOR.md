@@ -45,6 +45,7 @@ Every Boston game scheduled today (ET), sorted by start time.
 - `matchup`: `"vs Nets"` at home, `"at Hurricanes"` on the road (opponent nickname).
 - `oppRecord`: opponent's current record (NBA/NFL `W–L`, NHL `W–L–OT`, MLB `W–L`).
 - `time`: ET, like `"7:30 PM"`.
+- `tv`: where to watch, from an official or schedule source you read for this game (team/league schedule, NBC Sports Boston or NESN listings, the league's national TV schedule, or a broadcast-listing schedule like FanDuel Research's team schedule page). List the Boston-area option(s) a viewer in Boston would use, joined with ` · `: e.g. `"NBC Sports Boston · Peacock"` (Celtics local; Peacock streams NBCSB), `"NESN"` (Bruins/Red Sox local), `"ESPN"`, `"TNT"`, `"Prime Video"`, `"CBS"`. If a national broadcast is exclusive (local channel not listed), show only the national one. Omit the field if you can't confirm it. Never guess.
 - `venue`: home venue name for home games; for road games, the arena/stadium name only if a source confirms it, otherwise the city.
 - No extra notes (no back-to-backs, no TV unless asked later).
 

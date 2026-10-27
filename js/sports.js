@@ -18,8 +18,9 @@
   function masthead(name, sub, ctx) {
     return `<header class="masthead">
       <a class="back" href="${ctx.backHref}" aria-label="${esc(ctx.backLabel)}">‹</a>
-      <h1 class="wordmark">${esc(name)}</h1>
+      <h1 class="wordmark">${esc(name).replace(/ (\S+)$/, " <span>$1</span>")}</h1>
       <p class="dateline">${esc(sub)}</p>
+      ${window.themeButton ? window.themeButton() : ""}
     </header>`;
   }
 
@@ -40,6 +41,7 @@
         <div class="board-time">${esc(g.time)}</div>
         <div class="board-detail">${esc(g.matchup)}${g.oppRecord ? ` (${esc(g.oppRecord)})` : ""}</div>
         <div class="board-venue">${esc(g.venue || "")}</div>
+        ${g.tv ? `<div class="board-tv"><svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="5" width="19" height="13" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 21h8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>${esc(g.tv)}</div>` : ""}
       </${tag}>`;
     }).join("");
     return `<section class="board" aria-label="Today's games">
@@ -191,5 +193,5 @@
   window.addEventListener("hashchange", stopLive);
 
   window.Layouts = window.Layouts || {};
-  window.Layouts.sports = { issue, archive, mount, themeColor: "#1E3A2D" };
+  window.Layouts.sports = { issue, archive, mount, themeColor: "#141414" };
 })();

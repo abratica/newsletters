@@ -1,12 +1,13 @@
-const SHELL = "nl-shell-v3";
+const SHELL = "nl-shell-v4";
 const SHELL_FILES = ["./", "index.html", "manifest.webmanifest",
-  "css/base.css", "css/home.css", "css/sports.css", "js/app.js", "js/sports.js",
+  "css/base.css", "css/home.css", "css/sports.css", "css/wire.css", "js/app.js", "js/sports.js", "js/wire.js",
   "icons/icon-192.png", "icons/icon-512.png",
   "fonts/manrope-latin-500-normal.woff2", "fonts/manrope-latin-600-normal.woff2",
   "fonts/manrope-latin-700-normal.woff2", "fonts/manrope-latin-800-normal.woff2",
   "fonts/barlow-condensed-latin-500-normal.woff2", "fonts/barlow-condensed-latin-600-normal.woff2",
   "fonts/barlow-condensed-latin-700-normal.woff2", "fonts/source-serif-4-latin-400-normal.woff2",
-  "fonts/source-serif-4-latin-600-normal.woff2", "fonts/source-serif-4-latin-700-normal.woff2"];
+  "fonts/source-serif-4-latin-600-normal.woff2", "fonts/source-serif-4-latin-700-normal.woff2",
+  "fonts/archivo-black-latin-400-normal.woff2"];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(SHELL).then((c) => c.addAll(SHELL_FILES)).then(() => self.skipWaiting()));

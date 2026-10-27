@@ -10,18 +10,22 @@
     {
       "teamKey": "celtics",
       "team": "Celtics",
+      "record": "2–1",
       "matchup": "vs Nets",
       "oppRecord": "0–3",
       "time": "7:30 PM",
-      "venue": "TD Garden"
+      "venue": "TD Garden",
+      "league": "nba"
     },
     {
       "teamKey": "bruins",
       "team": "Bruins",
+      "record": "9–2–1",
       "matchup": "at Hurricanes",
       "oppRecord": "9–2–2",
       "time": "8:00 PM",
-      "venue": "Raleigh"
+      "venue": "Raleigh",
+      "league": "nhl"
     }
   ],
   "results": [

@@ -40,6 +40,8 @@ Publish an issue every day, even when no Boston team played or plays. On those d
 
 ### today (Today's games)
 Every Boston game scheduled today (ET), sorted by start time.
+- `league`: `"nfl"`, `"nba"`, `"nhl"`, or `"mlb"`. Required: the app uses it to show the live score during the game.
+- `record`: the Boston team's current record, same format as `oppRecord`. Shown next to the team name.
 - `matchup`: `"vs Nets"` at home, `"at Hurricanes"` on the road (opponent nickname).
 - `oppRecord`: opponent's current record (NBA/NFL `W–L`, NHL `W–L–OT`, MLB `W–L`).
 - `time`: ET, like `"7:30 PM"`.

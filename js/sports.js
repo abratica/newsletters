@@ -23,14 +23,25 @@
     </header>`;
   }
 
-  function board(today) {
-    const rows = (today || []).map((g) => `
-      <div class="board-row">
-        <div class="board-team"><span class="chip" style="${teamVar(g.teamKey)}"></span>${esc(g.team)}</div>
+  // ESPN's public scoreboard feed, used for live scores in Today's games.
+  const SPORT_PATH = { nba: "basketball/nba", nhl: "hockey/nhl", nfl: "football/nfl", mlb: "baseball/mlb" };
+  const ESPN_ABBR = { patriots: "NE", celtics: "BOS", bruins: "BOS", redsox: "BOS" };
+
+  function board(today, date) {
+    const ymd = String(date || "").replace(/-/g, "");
+    const rows = (today || []).map((g) => {
+      const league = SPORT_PATH[g.league] ? g.league : "";
+      const href = league ? `https://www.espn.com/${league}/scoreboard/_/date/${ymd}` : "";
+      const attrs = league ? ` href="${href}" target="_blank" rel="noopener" data-league="${league}" data-abbr="${ESPN_ABBR[g.teamKey] || ""}"` : "";
+      const tag = league ? "a" : "div";
+      return `<${tag} class="board-row"${attrs}>
+        <div class="board-team"><span class="chip" style="${teamVar(g.teamKey)}"></span>${esc(g.team)}${
+          g.record ? ` <span class="board-rec">${esc(g.record)}</span>` : ""}</div>
         <div class="board-time">${esc(g.time)}</div>
         <div class="board-detail">${esc(g.matchup)}${g.oppRecord ? ` (${esc(g.oppRecord)})` : ""}</div>
         <div class="board-venue">${esc(g.venue || "")}</div>
-      </div>`).join("");
+      </${tag}>`;
+    }).join("");
     return `<section class="board" aria-label="Today's games">
       <h2>Today's games</h2>
       ${rows || `<div class="board-empty">No Boston games today.</div>`}
@@ -94,7 +105,7 @@
     const injuries = data.injuries || [];
     return `${masthead(ctx.name, longDate(data.date), ctx)}
       <main class="sports-main">
-        ${board(data.today)}
+        ${board(data.today, data.date)}
         ${results.length ? `<h2 class="section-title">Last night</h2>${results.map(game).join("")}` : ""}
         ${off.length ? `<h2 class="section-title">No game</h2><ul class="off">${off.map((o) => `
           <li><span class="chip" style="${teamVar(o.teamKey)}"></span><span><b>${esc(o.team)}</b> ${esc(o.text)}</span></li>`).join("")}</ul>` : ""}
@@ -116,6 +127,69 @@
         </a></li>`).join("")}</ul></main>`;
   }
 
+  /* ── Live scores ─────────────────────────
+     While today's issue is open, poll ESPN every 30s for each game in Today's games.
+     If the feed can't be reached, rows stay as they are and still open ESPN when tapped. */
+  let timer = null;
+  function stopLive() {
+    if (timer) clearInterval(timer);
+    timer = null;
+    document.removeEventListener("visibilitychange", onVisible);
+  }
+  let tick = null;
+  function onVisible() { if (!document.hidden && tick) tick(); }
+
+  function showGame(row, ev) {
+    const comp = ev.competitions && ev.competitions[0];
+    if (!comp) return;
+    const us = comp.competitors.find((c) => c.team && c.team.abbreviation === row.dataset.abbr);
+    const them = comp.competitors.find((c) => c !== us);
+    if (!us || !them) return;
+    const link = (ev.links || []).find((l) => (l.rel || []).includes("summary")) || (ev.links || [])[0];
+    if (link && link.href) row.href = link.href;
+    const state = ev.status && ev.status.type && ev.status.type.state;
+    const detail = (ev.status && ev.status.type && ev.status.type.shortDetail) || "";
+    if (state === "pre") return;
+    const timeEl = row.querySelector(".board-time");
+    const venueEl = row.querySelector(".board-venue");
+    timeEl.innerHTML = `<span class="live-score">${esc(us.score)}<span class="dash">–</span>${esc(them.score)}</span>`;
+    row.classList.toggle("is-live", state === "in");
+    row.classList.toggle("is-final", state === "post");
+    venueEl.innerHTML = state === "in"
+      ? `<span class="live-dot" aria-hidden="true"></span>${esc(detail)}`
+      : `${us.winner ? "W" : them.winner ? "L" : ""} ${esc(detail)}`.trim();
+  }
+
+  function mount(root, data) {
+    stopLive();
+    const rows = [...root.querySelectorAll(".board-row[data-league]")];
+    const todayET = new Intl.DateTimeFormat("en-CA", { timeZone: "America/New_York" }).format(new Date());
+    if (!rows.length || data.date !== todayET) return;
+    const ymd = data.date.replace(/-/g, "");
+    tick = async () => {
+      if (document.hidden) return;
+      let allDone = true;
+      for (const league of [...new Set(rows.map((r) => r.dataset.league))]) {
+        try {
+          const res = await fetch(`https://site.api.espn.com/apis/site/v2/sports/${SPORT_PATH[league]}/scoreboard?dates=${ymd}`, { cache: "no-store" });
+          const json = await res.json();
+          rows.filter((r) => r.dataset.league === league).forEach((r) => {
+            const ev = (json.events || []).find((e) => e.competitions && e.competitions[0] &&
+              e.competitions[0].competitors.some((c) => c.team && c.team.abbreviation === r.dataset.abbr));
+            if (!ev) { allDone = false; return; }
+            showGame(r, ev);
+            if (!(ev.status && ev.status.type && ev.status.type.state === "post")) allDone = false;
+          });
+        } catch { allDone = false; }
+      }
+      if (allDone) stopLive();
+    };
+    tick();
+    timer = setInterval(tick, 30000);
+    document.addEventListener("visibilitychange", onVisible);
+  }
+  window.addEventListener("hashchange", stopLive);
+
   window.Layouts = window.Layouts || {};
-  window.Layouts.sports = { issue, archive, themeColor: "#1E3A2D" };
+  window.Layouts.sports = { issue, archive, mount, themeColor: "#1E3A2D" };
 })();

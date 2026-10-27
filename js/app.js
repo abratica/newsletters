@@ -136,6 +136,7 @@
     ctx.unreadOthers = issues.filter((i) => i.date !== date && !read.has(i.date)).length;
     setView(nl.layout, layout.themeColor);
     app.innerHTML = layout.issue(data, ctx);
+    if (layout.mount) layout.mount(app, data, ctx);
     markRead(id, date);
   }
 

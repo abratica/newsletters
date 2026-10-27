@@ -384,3 +384,29 @@ body.view-sports .status { text-align: center; color: var(--muted); margin-top: 
 body.view-sports .archive-link, body.view-sports .issues a, body.view-sports .back { text-decoration: none; color: inherit; }
 body.view-sports .back { color: var(--chalk); font-size: 34px; line-height: 1; padding: 0 10px 4px; top: calc(16px + env(safe-area-inset-top)); }
 body.view-sports .archive-link { box-sizing: border-box; }
+
+/* Today's games: our record, tappable rows, live scores */
+a.board-row { color: inherit; text-decoration: none; }
+.board-rec {
+  font-weight: 500;
+  font-size: 18px;
+  letter-spacing: 0.02em;
+  opacity: 0.7;
+  margin-left: 2px;
+}
+.live-score { font-variant-numeric: tabular-nums; }
+.live-score .dash { opacity: 0.55; padding: 0 2px; }
+.board-row.is-live .board-time { color: var(--lamp); }
+.board-row.is-live .board-venue { opacity: 1; color: var(--lamp); font-weight: 600; }
+.board-row.is-final .board-venue { opacity: 0.85; }
+.live-dot {
+  display: inline-block;
+  width: 8px; height: 8px;
+  margin-right: 6px;
+  border-radius: 50%;
+  background: #FF5A4E;
+  vertical-align: 1px;
+  animation: livepulse 1.6s ease-in-out infinite;
+}
+@keyframes livepulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+@media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }

@@ -1,0 +1,10 @@
+{
+  "newsletters": [
+    {
+      "id": "boston-sports",
+      "name": "Boston Sports",
+      "cadence": "Daily",
+      "layout": "sports"
+    }
+  ]
+}

@@ -73,11 +73,17 @@ Each result:
 - `teamKey`, `headline` (short, punchy, factual, e.g. "Pritchard's seven threes bury Chicago").
 - `home`: true/false. `boston` / `opp`: `abbr` (3 letters), `score`; `opp.name` is the opponent's nickname.
 - `result`: `"W"`, `"L"`, `"OTL"` (NHL overtime/shootout loss), or `"T"`. `record`: Boston's record after the game.
-- `videos` (optional): **one** video, the official full-game highlights, shown first in the opened card. `[{ "id": "<YouTube video id>", "title": "Bulls at Celtics: full game highlights", "channel": "NBA" }]`.
-  - **Official channels only:** the league (NBA, NHL, NFL, MLB), the team (Boston Celtics, NHL Bruins, New England Patriots, Red Sox), or the rights-holding broadcaster (NBC Sports Boston, NESN). Never fan, reaction, podcast, talk-show, postgame, or independent-media channels (e.g. CLNS).
-  - Find it, e.g. web search `"<AWAY> at <HOME>" "FULL GAME HIGHLIGHTS" "<Month D, YYYY>"` (NBA's title format), or a daily-links roundup page.
-  - **Verify** by fetching `https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=<id>&format=json`: `author_name` must be an official channel and `title` must match this game and date. If oEmbed fails, don't use it.
-  - Write `title` in plain sentence case. If no verified official video is up yet, omit `videos`. Never guess an id.
+- `videos` (optional): **one** video, a game highlights package, shown first in the opened card.
+  `[{ "id": "<YouTube video id>", "title": "Bulls at Celtics: full game highlights", "channel": "NBA", "kind": "full" }]`
+  - **Pick in this order**, using the first that exists:
+    1. The league's full-game highlights: NBA, NHL, NFL, MLB channels (e.g. NBA titles look like `"BULLS at CELTICS | FULL GAME HIGHLIGHTS | October 26, 2026"`).
+    2. Team or Boston broadcaster game highlights: Boston Celtics, NHL Bruins / Boston Bruins, New England Patriots, Red Sox, NBC Sports Boston, NESN.
+    3. A national rights-holding broadcaster's game highlights: ESPN / NBA on ESPN / ABC, NBC Sports, Prime Video, TNT / NHL on TNT, Sportsnet, CBS Sports, FOX Sports, NFL on FOX/CBS, MLB on FOX.
+  - `kind`: `"full"` for a whole-game highlights package from any tier above. `"standin"` only when no full-game package exists yet and a tier 1–3 channel has posted a **player-centered package** for this game (e.g. "40 points and a game-winner"). A stand-in gets replaced by the catch-up run once a full package is up.
+  - **Never:** single-play clips, talk shows, analysis, reaction, podcasts, postgame interviews, or fan/aggregator/independent channels (House of Highlights, CLNS, etc.), even if they look official.
+  - Find it: web search e.g. `"<AWAY> at <HOME>" "FULL GAME HIGHLIGHTS" "<Month D, YYYY>"`, `"NHL Highlights" "<Team> vs. <Team>" "<Month D, YYYY>"`, or a daily-links / highlights roundup page that embeds the YouTube video.
+  - **Verify** by fetching `https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=<id>&format=json`: `author_name` must be an allowed channel and `title` must match this game and date. If oEmbed fails, don't use it.
+  - Write `title` in plain sentence case; `channel` is the channel's display name. If nothing qualifies yet, omit `videos` (the catch-up run tries again). Never guess an id.
 - `report` (the game story, always shown when the card is opened):
   ```json
   "report": {
@@ -135,6 +141,13 @@ Full standings for every **in-season** league with a Boston team. Build it with 
 3. Put the output object in the issue as `standingsAll`.
 
 The script orders divisions with Boston's first, computes GB, derives NHL overtime losses and points and NFL ties from the feed, and flags the Boston row. Sanity-check Boston's line against its `record` in today's issue; if they disagree, trust the official standings page and note it in the final message. Don't hand-edit the output.
+
+## Catch-up run (about 8:37 AM)
+
+A second, smaller run fills in what wasn't available at 4:40 AM. It works on **today's** issue only and changes nothing else:
+1. For each game in `results` with no `videos`, or with a `kind: "standin"` video: look again using the rules above. Add a qualifying video, or replace the stand-in with a full-game package if one is now up.
+2. For each game with no `box`: try again to get the complete official box score (same rules and add-up check).
+3. If nothing changed, don't commit. Otherwise validate the JSON and commit `Boston Sports catch-up YYYY-MM-DD`. Don't touch `index.json`, the text, news, or standings.
 
 ## Final message of the run
 

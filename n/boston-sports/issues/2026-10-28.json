@@ -548,7 +548,15 @@
           ]
         }
       },
-      "takeaway": "Three straight wins, but Boston shot 11-of-41 from three and Robinson went 1-of-4 at the line, nearly handing a winless team its first win."
+      "takeaway": "Three straight wins, but Boston shot 11-of-41 from three and Robinson went 1-of-4 at the line, nearly handing a winless team its first win.",
+      "videos": [
+        {
+          "id": "NP6t5nqPcac",
+          "title": "Tatum's 40 points and OT game-winner vs. the Nets",
+          "channel": "NBA on ESPN",
+          "kind": "standin"
+        }
+      ]
     },
     {
       "teamKey": "bruins",
@@ -636,7 +644,15 @@
         }
       ],
       "oppLine": "Sebastian Aho scored the winner, his eighth goal; Jackson Blake had the other, and Pyotr Kochetkov stopped 14 of 15 shots to improve to 8-0-0.",
-      "takeaway": "The eight-game point streak is over, and it was Boston's first regulation loss since Oct. 5; 15 shots won't beat the East's best."
+      "takeaway": "The eight-game point streak is over, and it was Boston's first regulation loss since Oct. 5; 15 shots won't beat the East's best.",
+      "videos": [
+        {
+          "id": "c7bY0EEhznk",
+          "title": "Bruins vs. Hurricanes: game highlights",
+          "channel": "Sportsnet",
+          "kind": "full"
+        }
+      ]
     }
   ],
   "teamNews": {

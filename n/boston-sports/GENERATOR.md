@@ -30,7 +30,11 @@ Publish an issue every day, even when no Boston team played or plays.
 ## Data: where facts come from
 
 - Use the sports data tool first (`fetch_sports_data`): `scores` with the team filter for each league, `game_stats` with the game id for every Boston game that finished yesterday, and `standings` for each in-season league.
-- The official box score comes from the league/ESPN box score page (e.g. `https://www.espn.com/nba/boxscore/_/gameId/<id>`; find the id via search or the ESPN game page). The data tool's player list can be incomplete, so don't build the box score from it alone.
+- The official box score comes from ESPN's game data feed, fetched with WebFetch (the shell can't reach ESPN):
+  `https://site.api.espn.com/apis/site/v2/sports/<path>/summary?event=<ESPN gameId>` where `<path>` is `basketball/nba`, `hockey/nhl`, `football/nfl` or `baseball/mlb`. Find the gameId via search or the ESPN game page URL.
+  Use a prompt that asks for the data copied exactly, not summarized: for each team in `boxscore.players`, each statistics group's `labels` array verbatim, then one line per athlete with `displayName | stats array verbatim`, every athlete, and whether the game is final. Map the columns from the labels (don't assume positions).
+  - Backups, in order: the ESPN box score page (`https://www.espn.com/<league>/boxscore/_/gameId/<id>`), then the league's own box score page. The ESPN page can serve a snapshot from mid-game, so only use it if it shows the game as final.
+  - Never build the box score from the sports data tool's `game_stats`: its player list is often incomplete (it can miss the goal scorer, goalies and minutes).
 - If the tool isn't available or is missing something, use web search against official or major sources (NFL.com, NBA.com, NHL.com, MLB.com, ESPN, AP, Boston Globe, NBC Sports Boston, NESN).
 - **Only state facts that come from the data or a source you actually read.** No descriptors you haven't verified ("rookie", "career high", "first time since…") unless a source says so. If unsure, leave it out.
 - Whenever you mention a lead or a turning point, give the actual score at that point. If you don't have the exact score for a moment (like the peak of a lead), don't mention that moment.
@@ -116,7 +120,8 @@ Each result:
   - **NHL**: groups `"Skaters"` `["G","A","PTS","+/-","SOG","HIT","BLK","TOI"]` (sorted by TOI) and `"Goalies"` `["SA","SV","SV%","TOI"]`.
   - **NFL**: groups `"Passing"` `["C/ATT","YDS","TD","INT"]`, `"Rushing"` `["CAR","YDS","TD","LONG"]`, `"Receiving"` `["REC","YDS","TD","TGT"]`, `"Defense"` `["TCKL","SACK","TFL","INT","FF"]` (top 6 tacklers).
   - **MLB**: groups `"Batting"` `["AB","R","H","RBI","BB","K","HR"]` (lineup order) and `"Pitching"` `["IP","H","R","ER","BB","K","PC"]`.
-  - Check: each team's player points/goals/runs must add up to its final score. If the official box score isn't available, omit `box` rather than publish a partial one.
+  - Check: each team's player points/goals/runs must add up to its final score (NHL: also each team's skater shots on goal = the other goalie's shots against). If a source fails the check, try the next source in the order above. Only if none passes, omit `box` rather than publish a partial one, and say in the final message which sources failed and why.
+  - `source.url` is the ESPN box score page for the game (what a reader would open), whichever source the numbers came from.
 - `takeaway` ("What it means"): one sentence. Streak, standings move, concern, injury to watch. Also shown on the closed card.
 
 ## teamNews (Teams tab)

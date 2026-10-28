@@ -128,8 +128,11 @@
   function boxGroup(gr) {
     const cols = gr.columns || [];
     const n = gr.starters || 0;
+    // Bold the group's headline stat: points, yards, saves; hits for batters, strikeouts for pitchers.
+    const want = { Batting: "H", Pitching: "K" }[gr.label];
+    const key = want ? cols.indexOf(want) : cols.findIndex((c) => ["PTS", "YDS", "SV"].includes(c));
     const rows = (gr.rows || []).map((r, i) => `<tr class="${n && i === n - 1 ? "last-starter" : ""}">
-      <th scope="row">${esc(r.name)}</th>${cols.map((c, j) => `<td>${esc((r.values || [])[j] ?? "")}</td>`).join("")}</tr>`).join("");
+      <th scope="row">${esc(r.name)}</th>${cols.map((c, j) => `<td${j === key ? ' class="key"' : ""}>${esc((r.values || [])[j] ?? "")}</td>`).join("")}</tr>`).join("");
     const tot = gr.totals ? `<tr class="tot"><th scope="row">Team</th>${cols.map((c, j) => `<td>${esc(gr.totals[j] ?? "")}</td>`).join("")}</tr>` : "";
     return `${gr.label ? `<h5 class="bx-group">${esc(gr.label)}</h5>` : ""}
       <div class="bx-scroll"><table class="bx"><thead><tr><th scope="col">${esc(gr.label || "Player")}</th>${cols.map((c) => `<th scope="col">${esc(c)}</th>`).join("")}</tr></thead>

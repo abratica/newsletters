@@ -548,7 +548,7 @@ body.view-sports .bx thead th { border-top: 0; color: var(--muted); font-size: 1
 body.view-sports .bx th[scope="row"], body.view-sports .bx thead th:first-child { text-align: left; position: sticky; left: 0; background: var(--card); padding-left: 12px; font-weight: 600; color: var(--ink); }
 body.view-sports .bx thead th:first-child { color: var(--muted); }
 body.view-sports .bx tr.last-starter td, body.view-sports .bx tr.last-starter th { border-bottom: 2px solid var(--rule); }
-body.view-sports .bx td:nth-child(3) { font-weight: 700; color: var(--ink); }
+body.view-sports .bx td.key { font-weight: 700; color: var(--ink); }
 body.view-sports .bx tr.tot th, body.view-sports .bx tr.tot td { font-weight: 700; border-top: 2px solid var(--rule); }
 body.view-sports .team { background: var(--card); border: 1px solid var(--rule); border-left: 5px solid var(--team); border-radius: 14px; padding: 14px 14px 10px; margin-bottom: 14px; }
 body.view-sports .team-head { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }

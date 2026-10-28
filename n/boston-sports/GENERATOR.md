@@ -87,7 +87,12 @@ Each result:
     3. A national rights-holding broadcaster's game highlights: ESPN / NBA on ESPN / ABC, NBC Sports, Prime Video, TNT / NHL on TNT, Sportsnet, CBS Sports, FOX Sports, NFL on FOX/CBS, MLB on FOX.
   - `kind`: `"full"` for a whole-game highlights package from any tier above. `"standin"` only when no full-game package exists yet and a tier 1–3 channel has posted a **player-centered package** for this game (e.g. "40 points and a game-winner"). A stand-in gets replaced by the catch-up run once a full package is up.
   - **Never:** single-play clips, talk shows, analysis, reaction, podcasts, postgame interviews, or fan/aggregator/independent channels (House of Highlights, CLNS, etc.), even if they look official.
-  - Find it: web search e.g. `"<AWAY> at <HOME>" "FULL GAME HIGHLIGHTS" "<Month D, YYYY>"`, `"NHL Highlights" "<Team> vs. <Team>" "<Month D, YYYY>"`, or a daily-links / highlights roundup page that embeds the YouTube video.
+  - Find it. Exact-title searches often come back empty even when the video is up (the NBA's full-game highlights are usually posted within about an hour of the final), so don't stop at the first search. Work through these until one finds a qualifying video:
+    1. Exact title: `"<AWAY> at <HOME>" "FULL GAME HIGHLIGHTS" "<Month D, YYYY>"`, or for the NHL `"NHL Highlights" "<Team> vs. <Team>" "<Month D, YYYY>"`.
+    2. Looser, with `mode: "extended"`: `<Team> <Opponent> full game highlights <Month D> <YYYY> youtube`, plus a player or moment from the game if there was one (e.g. `Tatum overtime buzzer beater`).
+    3. Without the date words: `"<AWAY> at <HOME>" full game highlights youtube` and `<Team> vs <Opponent> highlights <league channel name>`.
+    4. A daily-links / highlights roundup page that embeds the YouTube video.
+    Search results include fan channels; that's fine, because oEmbed verification below decides. Only after all four come up empty, use a stand-in or omit `videos`.
   - **Verify** by fetching `https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=<id>&format=json`: `author_name` must be an allowed channel and `title` must match this game and date. If oEmbed fails, don't use it.
   - Write `title` in plain sentence case; `channel` is the channel's display name. If nothing qualifies yet, omit `videos` (the catch-up run tries again). Never guess an id.
 - `report` (the game story, always shown when the card is opened):

@@ -1,0 +1,441 @@
+{
+  "date": "2026-10-28",
+  "headline": "Rays walk off in 12th, avoid World Series sweep",
+  "ticker": [
+    "Rays 4, Brewers 3 (12 inn.)",
+    "Colts trade Nelson to SEA",
+    "Blazers 136, Lakers 129",
+    "Hellebuyck wins Devils debut"
+  ],
+  "top": [
+    {
+      "league": "mlb",
+      "headline": "Rays walk off in 12th, avoid World Series sweep",
+      "summary": "Cooper Pratt's solo homer in the top of the 12th put Milwaukee three outs from a title. Tampa Bay answered: Jonny DeLuca tied it with a single, and pinch-hitter Ben Williamson singled to right to score Nick Fortes for a 4–3 win. MLB.com says only the 1910 Cubs had won a World Series game on a walk-off while facing a sweep. The Brewers still lead 3–1, with Game 5 tonight at 8 p.m. ET.",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/news/rays-win-world-series-game-4-2026"
+    },
+    {
+      "league": "nfl",
+      "headline": "Colts trade Quenton Nelson to Seahawks",
+      "summary": "Indianapolis sent the eight-time Pro Bowl guard to Seattle on Tuesday for a 2027 third-round pick and a 2028 fifth. Nelson is in the last year of a four-year, $80 million extension. The 4-3 Seahawks have allowed 16 sacks, so they get line help now and pay little for it.",
+      "source": "NFL.com",
+      "url": "https://www.nfl.com/news/nfl-network-colts-trading-eight-time-pro-bowl-guard-quenton-nelson-to-seahawks"
+    },
+    {
+      "league": "nba",
+      "headline": "Blazers stay perfect, hand Lakers first loss",
+      "summary": "Portland won 136-129 in L.A. in a matchup of unbeaten teams. Damian Lillard hit the go-ahead 3 with 43 seconds left, and Ja Morant and Deni Avdija scored 23 each. Luka Doncic's 41 points weren't enough. The Blazers are 3-0 under new coach Micah Nori, only their second 3-0 start in 15 years.",
+      "source": "AP (via Bozeman Daily Chronicle)",
+      "url": "https://www.bozemandailychronicle.com/wire/sports/ja-morant-damian-lillard-lead-unbeaten-trail-blazers-past-lakers-136-129-despite-luka-doncics/article_aec323d4-57d9-5069-8b8c-c5c3b6c7647b.html"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Colts sell: Quenton Nelson to Seattle, DeForest Buckner to San Francisco",
+      "stories": [
+        {
+          "headline": "Colts trade Quenton Nelson to Seahawks",
+          "summary": "Indianapolis sent the eight-time Pro Bowl guard to Seattle on Tuesday for a 2027 third-round pick and a 2028 fifth. Nelson is in the last year of a four-year, $80 million extension. The 4-3 Seahawks have allowed 16 sacks, so they get line help now and pay little for it.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-network-colts-trading-eight-time-pro-bowl-guard-quenton-nelson-to-seahawks"
+        },
+        {
+          "headline": "Buckner goes back to San Francisco",
+          "summary": "A few hours after the Nelson deal, the Colts traded DT DeForest Buckner to the 49ers for a 2027 fourth-round pick. Buckner is 32 and in the final year of his deal, and the trade leaves Indianapolis with $10.8 million in dead money. The 6-1 49ers get a veteran next to Nick Bosa for the stretch run.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/breaking-news/article/colts-trade-dt-deforest-buckner-215520579.html"
+        },
+        {
+          "headline": "The Colts' rebuild is on",
+          "summary": "Indianapolis is 2-5 after three straight losses, fired GM Chris Ballard on Oct. 19, and is now trading veterans for picks under interim GM Ed Dodds. ESPN reports other teams want Jonathan Taylor, Grover Stewart and Josh Downs. The Colts have no 2027 first-round pick, so the extra picks matter.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50302002/colts-deforest-buckner-quenton-nelson-jonathan-taylor"
+        },
+        {
+          "headline": "Josh Simmons' future in Kansas City is in doubt",
+          "summary": "The Chiefs put their left tackle on IR with a back injury after reports that he was told to leave a team meeting. Ian Rapoport said, \"I don't know if he plays for the Chiefs again.\" Andy Reid said the meeting was \"no reason he was put on IR. He's got a bad back.\"",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/dont-know-plays-chiefs-again-214039143.html"
+        },
+        {
+          "headline": "Raiders stick with Cousins for now",
+          "summary": "Las Vegas has lost four straight after a 3-0 start, but Klint Kubiak says Kirk Cousins will start Sunday against the Jets and that \"there is no controversy there.\" No. 1 overall pick Fernando Mendoza \"is gonna play at some point… It's not gonna be this week.\" Another loss makes that answer harder to keep giving.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/raiders-klint-kubiak-sticking-with-kirk-cousins-as-starting-qb-for-week-8-game-vs-jets"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Colts traded G Quenton Nelson to Seahawks for a 2027 3rd and a 2028 5th",
+          "url": "https://www.nfl.com/news/nfl-network-colts-trading-eight-time-pro-bowl-guard-quenton-nelson-to-seahawks"
+        },
+        {
+          "text": "Colts traded DT DeForest Buckner to 49ers for a 2027 4th",
+          "url": "https://sports.yahoo.com/nfl/breaking-news/article/colts-trade-dt-deforest-buckner-215520579.html"
+        },
+        {
+          "text": "Seahawks waived G Christian Haynes to make room for Nelson",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-oct-27"
+        },
+        {
+          "text": "Chiefs placed LT Josh Simmons (back) on IR",
+          "url": "https://sports.yahoo.com/articles/dont-know-plays-chiefs-again-214039143.html"
+        },
+        {
+          "text": "Giants placed RB Tyrone Tracy Jr. (hamstring) on IR; signed RB Gregory Desrosiers off Chargers' practice squad",
+          "url": "https://sports.yahoo.com/articles/york-giants-place-ex-1-210716395.html"
+        },
+        {
+          "text": "Bengals placed TE Erick All on IR (believed torn ACL, per Rapoport); signed TE Cam Grandy off Vikings' practice squad",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-oct-27"
+        },
+        {
+          "text": "Panthers placed OT Taylor Moton on IR",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-oct-27"
+        },
+        {
+          "text": "Colts placed CB Cam Taylor-Britt on IR",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-oct-27"
+        },
+        {
+          "text": "Eagles waived RB Carson Steele with an injury settlement",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-oct-27"
+        },
+        {
+          "text": "Cowboys released RB Emari Demercado",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-oct-27"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Blazers hand Lakers their first loss and move to 3-0",
+      "stories": [
+        {
+          "headline": "Blazers stay perfect, hand Lakers first loss",
+          "summary": "Portland won 136-129 in L.A. in a matchup of unbeaten teams. Damian Lillard hit the go-ahead 3 with 43 seconds left, and Ja Morant and Deni Avdija scored 23 each. Luka Doncic's 41 points weren't enough. The Blazers are 3-0 under new coach Micah Nori, only their second 3-0 start in 15 years.",
+          "source": "AP (via Bozeman Daily Chronicle)",
+          "url": "https://www.bozemandailychronicle.com/wire/sports/ja-morant-damian-lillard-lead-unbeaten-trail-blazers-past-lakers-136-129-despite-luka-doncics/article_aec323d4-57d9-5069-8b8c-c5c3b6c7647b.html"
+        },
+        {
+          "headline": "Defending champion Knicks finally win, end Pistons' unbeaten start",
+          "summary": "New York beat Detroit 111-97 for its first win of the season. Karl-Anthony Towns had 27 points and 20 rebounds, and Jalen Brunson added 23. The Knicks are 1-3; Detroit, without injured center Jalen Duren, fell to 3-1.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909878"
+        },
+        {
+          "headline": "Spurs rout winless Kings",
+          "summary": "San Antonio won 130-103. Victor Wembanyama had 29 points and 10 rebounds on 14-of-21 shooting, and Julian Champagnie made 8 of 13 from 3. Sacramento is 0-4.",
+          "source": "KSAT (AP)",
+          "url": "https://www.ksat.com/sports/2026/10/28/wembanyamas-29-points-and-10-rebounds-fuels-spurs-in-130-103-victory-over-kings/"
+        },
+        {
+          "headline": "Jazz wait on MRIs for Markkanen and Jaren Jackson Jr.",
+          "summary": "Both left Monday's 110-105 loss to Memphis, Markkanen with a right wrist injury and Jackson with a right knee injury. Coach Will Hardy said, \"I think Jaren tore something.\" A long absence for either would gut Utah's frontcourt.",
+          "source": "Heavy",
+          "url": "https://heavy.com/sports/nba/utah-jazz/injury-jaren-jackson-lauri-markkanen/"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Nets",
+          "awayScore": 124,
+          "home": "Celtics",
+          "homeScore": 125,
+          "note": "OT"
+        },
+        {
+          "away": "Pistons",
+          "awayScore": 97,
+          "home": "Knicks",
+          "homeScore": 111,
+          "note": ""
+        },
+        {
+          "away": "Kings",
+          "awayScore": 103,
+          "home": "Spurs",
+          "homeScore": 130,
+          "note": ""
+        },
+        {
+          "away": "Trail Blazers",
+          "awayScore": 136,
+          "home": "Lakers",
+          "homeScore": 129,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Luka Doncic",
+          "team": "Lakers",
+          "line": "41 PTS · 5 REB · 9 AST · 12-22 FG",
+          "note": "He made 6 of 15 from 3, but L.A. lost for the first time this season."
+        },
+        {
+          "name": "Karl-Anthony Towns",
+          "team": "Knicks",
+          "line": "27 PTS · 20 REB · 3 AST · 12-21 FG",
+          "note": "His 20 rebounds carried New York to its first win."
+        },
+        {
+          "name": "Victor Wembanyama",
+          "team": "Spurs",
+          "line": "29 PTS · 10 REB · 2 AST · 14-21 FG",
+          "note": "He shot 14 of 21 as San Antonio dropped Sacramento to 0-4."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Jazz: Lauri Markkanen (right wrist) and Jaren Jackson Jr. (right knee) getting MRIs after leaving Monday's loss",
+          "url": "https://www.hoopsrumors.com/2026/10/jazzs-markkanen-wrist-jackson-knee-undergoing-mris.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Hellebuyck wins his Devils debut as the Jets lose a sixth straight",
+      "stories": [
+        {
+          "headline": "Hellebuyck wins Devils debut, ends Stars' streak",
+          "summary": "Connor Hellebuyck made 16 saves in his first game for New Jersey, and Nico Hischier scored twice in a 5-1 win in Dallas that ended the Stars' five-game winning streak. Winnipeg traded him Friday for Dawson Mercer, Nick Bjugstad, Nico Daws and picks. The Devils have won four straight and are 8-4-0; the Jets lost 5-1 to Florida, their sixth straight loss.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/new-jersey-devils-dallas-stars-game-recap-october-27-2026"
+        },
+        {
+          "headline": "Kochetkov goes 8-0 as Hurricanes end Bruins' run",
+          "summary": "Pyotr Kochetkov has won all eight of his starts this season, and Sebastian Aho scored in the third period to beat Boston 2-1. The loss ended the Bruins' eight-game point streak. Carolina is 10-2-2, but Taylor Hall hurt something different in the morning skate and will be out \"for a little bit.\"",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/boston-bruins-carolina-hurricanes-game-recap-october-27-2026"
+        },
+        {
+          "headline": "Fowler stops 46 in Canadiens' shutout of Blues",
+          "summary": "Jacob Fowler made a career-high 46 saves in a 2-0 win in St. Louis, his sixth straight win and second shutout this season. Florian Xhekaj scored his first NHL goal. St. Louis has been shut out in back-to-back games.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/montreal-canadiens-st-louis-blues-game-recap-october-27-2026"
+        },
+        {
+          "headline": "Canucks end 10-game skid in wild OT win",
+          "summary": "Vancouver scored three times late in regulation to beat Anaheim 6-5 in overtime, with Filip Hronek's 5-on-3 winner coming with 11 seconds left in OT. Jonathan Lekkerimaki scored twice, including the tying goal with 1:57 left. The Canucks had gone 0-9-1 during the streak and are still 3-10-1.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/vancouver-canucks-anaheim-ducks-game-recap-october-27-2026"
+        },
+        {
+          "headline": "Golden Knights win, but Hart hurt in morning skate",
+          "summary": "Carter Hart hurt a leg and left the morning skate, and Vegas has given no timetable. Adin Hill stopped 24 of 25 shots in a 4-1 win over Ottawa that ended a three-game skid. If Hart misses time, Hill carries the load.",
+          "source": "The Sporting Tribune",
+          "url": "https://www.thesportingtribune.com/2026/10/27/goldenknights-senators-oct272026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Blue Jackets",
+          "awayScore": 4,
+          "home": "Flyers",
+          "homeScore": 3,
+          "note": "OT"
+        },
+        {
+          "away": "Bruins",
+          "awayScore": 1,
+          "home": "Hurricanes",
+          "homeScore": 2,
+          "note": "Close"
+        },
+        {
+          "away": "Kings",
+          "awayScore": 1,
+          "home": "Blackhawks",
+          "homeScore": 2,
+          "note": "Close"
+        },
+        {
+          "away": "Canadiens",
+          "awayScore": 2,
+          "home": "Blues",
+          "homeScore": 0,
+          "note": ""
+        },
+        {
+          "away": "Islanders",
+          "awayScore": 4,
+          "home": "Predators",
+          "homeScore": 3,
+          "note": "SO"
+        },
+        {
+          "away": "Devils",
+          "awayScore": 5,
+          "home": "Stars",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Panthers",
+          "awayScore": 5,
+          "home": "Jets",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Wild",
+          "awayScore": 3,
+          "home": "Mammoth",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Senators",
+          "awayScore": 1,
+          "home": "Golden Knights",
+          "homeScore": 4,
+          "note": ""
+        },
+        {
+          "away": "Canucks",
+          "awayScore": 6,
+          "home": "Ducks",
+          "homeScore": 5,
+          "note": "OT"
+        },
+        {
+          "away": "Sabres",
+          "awayScore": 2,
+          "home": "Sharks",
+          "homeScore": 0,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Jacob Fowler",
+          "team": "Canadiens",
+          "line": "46 SV · 1.000 SV%",
+          "note": "Career-high save total in a shutout for his sixth straight win."
+        },
+        {
+          "name": "Kent Johnson",
+          "team": "Blue Jackets",
+          "line": "2 G · 1 A",
+          "note": "Scored the overtime winner after Columbus blew a 3-0 lead in Philadelphia."
+        },
+        {
+          "name": "Nico Hischier",
+          "team": "Devils",
+          "line": "2 G",
+          "note": "Scored twice as New Jersey ended Dallas' five-game winning streak."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Kraken placed Jared McCann (lower body, ~10 weeks) on IR; recalled Jani Nyman",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-october-27-2026"
+        },
+        {
+          "text": "Hurricanes re-signed Alexander Nikishin to a one-year contract",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-october-27-2026"
+        },
+        {
+          "text": "Hurricanes activated Taylor Hall from IR; he was hurt again in Tuesday's morning skate",
+          "url": "https://www.prohockeyrumors.com/2026/10/hurricanes-activate-taylor-hall-reassign-skyler-brindamour.html"
+        },
+        {
+          "text": "Kings placed Mats Zuccarello (upper body) on IR",
+          "url": "https://www.prohockeyrumors.com/2026/10/kings-place-mats-zuccarello-on-injured-reserve.html"
+        },
+        {
+          "text": "Flyers: Rasmus Ristolainen (upper body) out at least two weeks; Cam York activated from IR",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-october-27-2026"
+        },
+        {
+          "text": "Golden Knights recalled G Cameron Whitehead after Carter Hart's morning-skate injury",
+          "url": "https://www.thesportingtribune.com/2026/10/27/goldenknights-senators-oct272026"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "in-season",
+      "summary": "World Series: Brewers lead Rays 3–1 · Game 5 tonight",
+      "stories": [
+        {
+          "headline": "Rays walk off in 12th, avoid World Series sweep",
+          "summary": "Cooper Pratt's solo homer in the top of the 12th put Milwaukee three outs from a title. Tampa Bay answered: Jonny DeLuca tied it with a single, and pinch-hitter Ben Williamson singled to right to score Nick Fortes for a 4–3 win. MLB.com says only the 1910 Cubs had won a World Series game on a walk-off while facing a sweep. The Brewers still lead 3–1, with Game 5 tonight at 8 p.m. ET.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/rays-win-world-series-game-4-2026"
+        },
+        {
+          "headline": "Rays bullpen holds Milwaukee to one run over eight innings",
+          "summary": "Starter Griffin Jax lasted four innings. Seven Rays relievers then allowed one run in eight frames, Pratt's homer off Ian Seymour. Bryan Baker, the majors' saves leader at 41, threw two innings in his first World Series outing, his longest appearance of the season.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/rays/news/rays-bullpen-matches-brewers-in-2026-world-series-game-4-win"
+        },
+        {
+          "headline": "Phillies hire Peter Fatse, a Rays consultant, as hitting coach",
+          "summary": "Philadelphia named Peter Fatse its hitting coach on Tuesday, replacing the fired Kevin Long. Fatse has been a hitting consultant for the Rays since June, so the hire landed in the middle of Tampa Bay's World Series run.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mlb/story/_/id/50298454/phillies-name-rays-peter-fatse-new-hitting-coach"
+        },
+        {
+          "headline": "Astros interview Mike Rizzo for GM job",
+          "summary": "Former Nationals GM Mike Rizzo is interviewing for Houston's open general manager job. Brewers assistant GM Matt Kleine has already interviewed.",
+          "source": "Yahoo Sports (Houston Astros On SI)",
+          "url": "https://sports.yahoo.com/articles/astros-turn-familiar-world-series-210003013.html"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Brewers",
+          "awayScore": 3,
+          "home": "Rays",
+          "homeScore": 4,
+          "note": "WS Game 4 · 12 inn."
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Cooper Pratt",
+          "team": "Brewers",
+          "line": "4-5 · 1 HR · 2 RBI",
+          "note": "An RBI double in the fourth and a go-ahead homer in the 12th, his first of the playoffs, in a losing effort."
+        },
+        {
+          "name": "Chandler Simpson",
+          "team": "Rays",
+          "line": "3-5 · 0 HR · 1 RBI",
+          "note": "His double drove in the game's first run, and his 12th-inning single loaded the bases for the walk-off."
+        },
+        {
+          "name": "Ben Williamson",
+          "team": "Rays",
+          "line": "1-1 · 0 HR · 1 RBI",
+          "note": "Pinch-hit in the 12th and drove in the winning run."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Phillies named Peter Fatse hitting coach and Joe Cronin assistant hitting coach",
+          "url": "https://www.espn.com/mlb/story/_/id/50298454/phillies-name-rays-peter-fatse-new-hitting-coach"
+        },
+        {
+          "text": "Astros interviewing ex-Nationals GM Mike Rizzo for GM opening",
+          "url": "https://sports.yahoo.com/articles/astros-turn-familiar-world-series-210003013.html"
+        },
+        {
+          "text": "Mets promoting Mariano Duncan to a 'Major League coach' role (per a source)",
+          "url": "https://www.mlb.com/news/mariano-duncan-promoted-by-mets"
+        }
+      ]
+    }
+  ]
+}

@@ -5,7 +5,7 @@ All paths below are relative to `n/boston-sports/` in the `abratica/newsletters`
 The app (`index.html`, `js/`, `css/`) only displays what is in these JSON files. Do not change the app, other newsletters, or `newsletters.json` during a daily run.
 
 The issue has two tabs in the app:
-- **Games:** today's games (+ "Up next" for teams not playing), and last night's game cards.
+- **Games:** today's games (+ "Upcoming games": the next game for every team not playing today), and last night's game cards.
 - **Teams:** one card per Boston team with its place in the standings, next game, team news, and a Standings button (Division / Conference views).
 
 ## What to produce
@@ -59,9 +59,11 @@ Every Boston game scheduled today (ET), sorted by start time.
 - `tv`: where to watch, from an official or schedule source you read for this game (team/league schedule, NBC Sports Boston or NESN listings, the league's national TV schedule, or a broadcast-listing schedule like FanDuel Research's team schedule page). List the Boston-area option(s) joined with ` · `: e.g. `"NBC Sports Boston · Peacock"` (Celtics local; Peacock streams NBCSB), `"NESN"` (Bruins/Red Sox local), `"ESPN"`, `"TNT"`, `"Prime Video"`, `"CBS"`. If a national broadcast is exclusive, show only the national one. Omit the field if you can't confirm it. Never guess.
 - `venue`: home venue name for home games; for road games, the arena/stadium name only if a source confirms it, otherwise the city.
 
-## off (Up next)
+## off (Upcoming games)
 
-**In-season** Boston teams with **no result last night and no game today**, each with their next game: `{ "teamKey": "patriots", "team": "Patriots", "text": "Next: Sun, Nov 1 at Dolphins, 4:25 PM" }`. Shown as "Up next" inside the Today's games panel. Offseason teams are left out.
+**Every in-season** Boston team that does **not** play today, whether or not it played last night, each with its next game, sorted by date (soonest first):
+`{ "teamKey": "bruins", "team": "Bruins", "text": "Next: Thu, Oct 29 at Blues, 8:00 PM" }` (ET; "vs" at home, "at" on the road; opponent nickname).
+Shown as "Upcoming games" inside the Today's games panel. Teams playing today are already listed above it, so leave them out. Offseason teams are left out. Take the next game from the sports data tool's `scores` (it lists upcoming games) or the team's official schedule.
 
 ## results (Last night's game cards)
 

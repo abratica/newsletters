@@ -50,7 +50,7 @@
     return `<section class="board" aria-label="Today's games">
       <h2>Today's games</h2>
       ${rows || `<div class="board-empty">No Boston games today.</div>`}
-      ${next ? `<div class="board-upnext"><h3>Up next</h3>${next}</div>` : ""}
+      ${next ? `<div class="board-upnext"><h3>Upcoming games</h3>${next}</div>` : ""}
     </section>`;
   }
 

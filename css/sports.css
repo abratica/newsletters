@@ -502,10 +502,10 @@ body.view-sports .rp p { margin: 4px 0 0 !important; font-size: 14.5px; }
 body.view-sports .rp-src { margin: 12px 0 0 !important; font-size: 12.5px; color: var(--muted); }
 body.view-sports .rp-src a { color: var(--accent-text); font-weight: 700; text-decoration: none; }
 
-/* ── Layout: Up next, takeaway on closed card, spacing ── */
+/* ── Layout: Upcoming games, takeaway on closed card, spacing ── */
 body.view-sports .section-title { margin: 22px 4px 8px; }
 body.view-sports .board { margin-bottom: 18px; }
-/* 2. Up next inside the board */
+/* Upcoming games inside the board */
 body.view-sports .board-upnext { border-top: 1px solid rgba(247,244,238,.14); padding: 10px 0 8px; }
 body.view-sports .board-upnext h3 { margin: 0 0 6px; font-family: var(--display); font-weight: 600; font-size: 14px; letter-spacing: .06em; color: rgba(247,244,238,.55); text-transform: none; }
 body.view-sports .board-next { display: flex; align-items: center; gap: 8px; padding: 3px 0; font-family: var(--serif); font-size: 13.5px; color: rgba(247,244,238,.72); }

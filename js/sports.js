@@ -50,6 +50,52 @@
     </section>`;
   }
 
+  /* ── Highlight videos (official YouTube uploads) ──
+     Shows a thumbnail; the YouTube player only loads when tapped. */
+  const ytId = (id) => String(id || "").replace(/[^A-Za-z0-9_-]/g, "");
+  function player(v) {
+    const id = ytId(v.id);
+    return `<button class="yt" type="button" data-yt="${id}" aria-label="Play: ${esc(v.title)}">
+      <img src="https://i.ytimg.com/vi/${id}/hqdefault.jpg" alt="" loading="lazy">
+      <span class="yt-play" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M8 5v14l11-7z" fill="currentColor"/></svg></span>
+    </button>`;
+  }
+  function videos(list) {
+    const vids = (list || []).filter((v) => ytId(v.id));
+    if (!vids.length) return "";
+    const [main, ...more] = vids;
+    return `<div class="vids">
+      <div class="yt-slot">${player(main)}</div>
+      <p class="yt-cap"><span class="yt-title">${esc(main.title)}</span> <span class="yt-ch">${esc(main.channel || "")}</span></p>
+      ${more.length ? `<ul class="yt-more">${more.map((v) => `<li><button type="button" class="yt-swap" data-yt="${ytId(v.id)}" data-title="${esc(v.title)}" data-ch="${esc(v.channel || "")}">
+          <img src="https://i.ytimg.com/vi/${ytId(v.id)}/mqdefault.jpg" alt="" loading="lazy">
+          <span><span class="yt-title">${esc(v.title)}</span><span class="yt-ch">${esc(v.channel || "")}</span></span>
+        </button></li>`).join("")}</ul>` : ""}
+    </div>`;
+  }
+  function embed(id) {
+    return `<iframe src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1&playsinline=1&rel=0" title="Highlights" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>`;
+  }
+  document.addEventListener("click", (e) => {
+    const play = e.target.closest(".yt[data-yt]");
+    if (play) { play.outerHTML = embed(ytId(play.dataset.yt)); return; }
+    const swap = e.target.closest(".yt-swap");
+    if (swap) {
+      const box = swap.closest(".vids");
+      box.querySelector(".yt-slot").innerHTML = embed(ytId(swap.dataset.yt));
+      box.querySelector(".yt-cap").innerHTML = `<span class="yt-title">${esc(swap.dataset.title)}</span> <span class="yt-ch">${esc(swap.dataset.ch)}</span>`;
+    }
+  });
+  // Collapsing a game card stops its video.
+  document.addEventListener("toggle", (e) => {
+    const d = e.target;
+    if (!(d instanceof HTMLDetailsElement) || d.open || !d.classList.contains("game")) return;
+    d.querySelectorAll(".yt-slot iframe").forEach((f) => {
+      const id = (f.src.match(/embed\/([A-Za-z0-9_-]+)/) || [])[1];
+      if (id) f.outerHTML = player({ id, title: "Highlights" });
+    });
+  }, true);
+
   function game(g) {
     const perf = (g.performers || []).map((p) => `
       <li><span class="p-name">${esc(p.name)}</span>
@@ -71,6 +117,7 @@
         <span class="toggle">${chevron(16)}</span>
       </summary>
       <div class="game-body">
+        ${videos(g.videos)}
         ${recap}
         ${perf ? `<h4 class="sub">Who showed up</h4><ul class="performers">${perf}</ul>` : ""}
         ${g.opponentNote ? `<h4 class="sub">For ${esc(g.opp.name || g.opp.abbr)}</h4><p style="margin-top:0">${esc(g.opponentNote)}</p>` : ""}

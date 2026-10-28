@@ -117,8 +117,8 @@
         <span class="toggle">${chevron(16)}</span>
       </summary>
       <div class="game-body">
-        ${videos(g.videos)}
         ${recap}
+        ${videos(g.videos)}
         ${perf ? `<h4 class="sub">Who showed up</h4><ul class="performers">${perf}</ul>` : ""}
         ${g.opponentNote ? `<h4 class="sub">For ${esc(g.opp.name || g.opp.abbr)}</h4><p style="margin-top:0">${esc(g.opponentNote)}</p>` : ""}
         ${g.takeaway ? `<p class="takeaway"><strong>What it means.</strong> ${esc(g.takeaway)}</p>` : ""}

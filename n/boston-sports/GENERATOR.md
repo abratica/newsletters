@@ -67,6 +67,20 @@ Each result:
   - **Verify every video** before using it by fetching `https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=<id>&format=json`: the `author_name` must be one of the official channels above and the `title` must match this game and date. If oEmbed fails (deleted, private, or embedding disabled), don't use the video.
   - Write `title` in plain sentence case (not the channel's ALL-CAPS), e.g. `"Bulls at Celtics: full game highlights"`.
   - If no verified official video is up yet, omit `videos`. Never guess an id.
+- `report` ("In-depth game report", collapsed in the card): a line score plus a short write-up per quarter/period.
+  ```json
+  "report": {
+    "periods": ["1","2","3","4"],          // NHL: ["1","2","3"] (+ "OT", "SO"); NFL: ["1","2","3","4"] (+ "OT"); MLB: innings "1"–"9" (+ extras)
+    "boston": [33,33,39,29], "opp": [21,33,21,24],   // points/goals/runs per period, from the data tool's scoring_by_period or the official box score
+    "sections": [ { "label": "1st quarter", "score": "BOS 33, CHI 21", "text": "2–4 sentences" } ],
+    "sources": [ { "name": "AP", "url": "https://..." } ]
+  }
+  ```
+  - One section per quarter (NBA/NFL) or period (NHL, plus OT/shootout). MLB: group into 3–4 sections around the innings that mattered (e.g. "Innings 1–3", "6th inning").
+  - `score` is the score at the end of that period (`"Final: ..."` for the last one).
+  - Each section covers what actually swung it: runs with their numbers, who drove them, key plays, foul trouble/injuries, momentum shifts. Every score you mention must be an actual score at that moment.
+  - Facts must come from the line score plus recaps you read: AP, ESPN, NBA.com/NHL.com/NFL.com/MLB.com, Boston Globe, NBC Sports Boston. If two sources disagree, use the one whose numbers add up against the line score, or leave the detail out. Don't attach a play to a quarter unless a source places it there.
+  - A blowout's last quarter can be one short line.
 
 Stat lines by sport:
 - **NBA**: PTS, REB, AST, plus FG / 3PT makes-attempts, STL, BLK, TO when relevant; plus-minus in the note.

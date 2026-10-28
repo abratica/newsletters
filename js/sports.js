@@ -96,6 +96,31 @@
     });
   }, true);
 
+  /* ── In-depth game report (collapsible) ── */
+  function report(g) {
+    const r = g.report;
+    if (!r || !(r.sections || []).length) return "";
+    const per = r.periods || [];
+    const tot = (a) => (a || []).reduce((x, y) => x + (Number(y) || 0), 0);
+    const line = per.length ? `<table class="line">
+        <thead><tr><th></th>${per.map((p) => `<th>${esc(p)}</th>`).join("")}<th>T</th></tr></thead>
+        <tbody>
+          <tr class="bos"><td>${esc(g.boston.abbr)}</td>${(r.boston || []).map((v) => `<td>${esc(v)}</td>`).join("")}<td>${esc(g.boston.score ?? tot(r.boston))}</td></tr>
+          <tr><td>${esc(g.opp.abbr)}</td>${(r.opp || []).map((v) => `<td>${esc(v)}</td>`).join("")}<td>${esc(g.opp.score ?? tot(r.opp))}</td></tr>
+        </tbody></table>` : "";
+    return `<details class="report">
+      <summary>In-depth game report ${chevron(14)}</summary>
+      <div class="report-body">
+        ${line}
+        ${r.sections.map((s) => `<div class="rp">
+          <div class="rp-head"><span class="rp-label">${esc(s.label)}</span>${s.score ? `<span class="rp-score">${esc(s.score)}</span>` : ""}</div>
+          <p>${esc(s.text)}</p></div>`).join("")}
+        ${(r.sources || []).length ? `<p class="rp-src">Sources: ${r.sources.map((x) => x.url
+          ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>` : esc(x.name)).join(", ")}</p>` : ""}
+      </div>
+    </details>`;
+  }
+
   function game(g) {
     const perf = (g.performers || []).map((p) => `
       <li><span class="p-name">${esc(p.name)}</span>
@@ -122,6 +147,7 @@
         ${g.opponentNote ? `<h4 class="sub">For ${esc(g.opp.name || g.opp.abbr)}</h4><p style="margin-top:0">${esc(g.opponentNote)}</p>` : ""}
         ${g.takeaway ? `<p class="takeaway"><strong>What it means.</strong> ${esc(g.takeaway)}</p>` : ""}
         ${videos(g.videos)}
+        ${report(g)}
       </div>
     </details>`;
   }

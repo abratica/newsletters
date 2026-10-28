@@ -85,7 +85,59 @@
           "title": "Bulls at Celtics: full game highlights",
           "channel": "NBA"
         }
-      ]
+      ],
+      "report": {
+        "periods": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "boston": [
+          33,
+          33,
+          39,
+          29
+        ],
+        "opp": [
+          21,
+          33,
+          21,
+          24
+        ],
+        "sections": [
+          {
+            "label": "1st quarter",
+            "score": "BOS 33, CHI 21",
+            "text": "Chicago hung around early, and a Buddy Hield three cut it to 19–18 with 3:33 left. Boston closed on a 14–3 burst, with Pritchard and Hugo González scoring five each, and Tatum's driving layup at the buzzer made it 33–21. The Bulls, who came in with the league's worst three-point percentage, missed 15 of their first 19 threes."
+          },
+          {
+            "label": "2nd quarter",
+            "score": "BOS 66, CHI 54",
+            "text": "Boston pushed the lead to 16 early, but Chicago answered: Norman Powell's step-back cut it to 46–43 with 5:29 left. The Celtics closed the half on a 20–11 run, and Tatum's long three with 0.8 seconds left sent them in up 66–54. Tatum had 19 points at the break."
+          },
+          {
+            "label": "3rd quarter",
+            "score": "BOS 105, CHI 75",
+            "text": "Tatum picked up his fourth foul with 7:15 left and Boston up 10, and that's when Pritchard took over. He scored 19 in the quarter on 5-of-5 from three. Paul George, Pritchard and Sam Hauser hit threes in a 93-second span to make it 89–70, and Pritchard's back-to-back threes made it 101–73. Boston closed the quarter on a 34–14 run and shot 8-of-13 from deep."
+          },
+          {
+            "label": "4th quarter",
+            "score": "Final: BOS 134, CHI 99",
+            "text": "With the game decided, the fourth was a formality: Boston won it 29–24 to finish off a 35-point rout. Mike Conley (Celtics debut) went 2-for-2 from three in the second half, and rookie Chris Cenac Jr. added a three in his debut."
+          }
+        ],
+        "sources": [
+          {
+            "name": "AP",
+            "url": "https://www.boston.com/sports/boston-celtics/2026/10/26/pritchard-scores-28-points-and-has-red-hot-3rd-quarter-to-carry-celtics-to-134-99-rout-over-bulls/"
+          },
+          {
+            "name": "Boston Globe",
+            "url": "https://www.bostonglobe.com/2026/10/26/sports/celtics-bulls-game-score/"
+          }
+        ]
+      }
     }
   ],
   "off": [

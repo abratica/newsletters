@@ -28,7 +28,7 @@
   const SPORT_PATH = { nba: "basketball/nba", nhl: "hockey/nhl", nfl: "football/nfl", mlb: "baseball/mlb" };
   const ESPN_ABBR = { patriots: "NE", celtics: "BOS", bruins: "BOS", redsox: "BOS" };
 
-  function board(today, date) {
+  function board(today, date, off) {
     const ymd = String(date || "").replace(/-/g, "");
     const rows = (today || []).map((g) => {
       const league = SPORT_PATH[g.league] ? g.league : "";
@@ -44,9 +44,13 @@
         ${g.tv ? `<div class="board-tv"><svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="5" width="19" height="13" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 21h8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>${esc(g.tv)}</div>` : ""}
       </${tag}>`;
     }).join("");
+    const next = (off || []).map((o) => `<div class="board-next">
+        <span class="chip" style="${teamVar(o.teamKey)}"></span><b>${esc(o.team)}</b>
+        <span>${esc(String(o.text || "").replace(/^Next:\s*/, ""))}</span></div>`).join("");
     return `<section class="board" aria-label="Today's games">
       <h2>Today's games</h2>
       ${rows || `<div class="board-empty">No Boston games today.</div>`}
+      ${next ? `<div class="board-upnext"><h3>Up next</h3>${next}</div>` : ""}
     </section>`;
   }
 
@@ -96,38 +100,71 @@
     });
   }, true);
 
-  /* ── In-depth game report (collapsible) ── */
-  function report(g) {
+
+
+  /* ── Game story: line score + quarter by quarter (always shown) ── */
+  function story(g) {
     const r = g.report;
-    if (!r || !(r.sections || []).length) return "";
+    if (!r || !(r.sections || []).length) {
+      return (Array.isArray(g.recap) ? g.recap : [g.recap]).filter(Boolean).map((t) => `<p>${esc(t)}</p>`).join("");
+    }
     const per = r.periods || [];
-    const tot = (a) => (a || []).reduce((x, y) => x + (Number(y) || 0), 0);
     const line = per.length ? `<table class="line">
-        <thead><tr><th></th>${per.map((p) => `<th>${esc(p)}</th>`).join("")}<th>T</th></tr></thead>
+        <thead><tr><th></th>${per.map((x) => `<th>${esc(x)}</th>`).join("")}<th>T</th></tr></thead>
         <tbody>
-          <tr class="bos"><td>${esc(g.boston.abbr)}</td>${(r.boston || []).map((v) => `<td>${esc(v)}</td>`).join("")}<td>${esc(g.boston.score ?? tot(r.boston))}</td></tr>
-          <tr><td>${esc(g.opp.abbr)}</td>${(r.opp || []).map((v) => `<td>${esc(v)}</td>`).join("")}<td>${esc(g.opp.score ?? tot(r.opp))}</td></tr>
+          <tr class="bos"><td>${esc(g.boston.abbr)}</td>${(r.boston || []).map((v) => `<td>${esc(v)}</td>`).join("")}<td>${esc(g.boston.score)}</td></tr>
+          <tr><td>${esc(g.opp.abbr)}</td>${(r.opp || []).map((v) => `<td>${esc(v)}</td>`).join("")}<td>${esc(g.opp.score)}</td></tr>
         </tbody></table>` : "";
-    return `<details class="report">
-      <summary>In-depth game report ${chevron(14)}</summary>
+    return `<div class="story">${line}
+      ${r.sections.map((x) => `<div class="rp">
+        <div class="rp-head"><span class="rp-label">${esc(x.label)}</span>${x.score ? `<span class="rp-score">${esc(x.score)}</span>` : ""}</div>
+        <p>${esc(x.text)}</p></div>`).join("")}
+      ${(r.sources || []).length ? `<p class="rp-src">Sources: ${r.sources.map((x) => x.url
+        ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>` : esc(x.name)).join(", ")}</p>` : ""}
+    </div>`;
+  }
+
+  /* ── Full box score (collapsible, team tabs) ── */
+  function boxGroup(gr) {
+    const cols = gr.columns || [];
+    const n = gr.starters || 0;
+    const rows = (gr.rows || []).map((r, i) => `<tr class="${n && i === n - 1 ? "last-starter" : ""}">
+      <th scope="row">${esc(r.name)}</th>${cols.map((c, j) => `<td>${esc((r.values || [])[j] ?? "")}</td>`).join("")}</tr>`).join("");
+    const tot = gr.totals ? `<tr class="tot"><th scope="row">Team</th>${cols.map((c, j) => `<td>${esc(gr.totals[j] ?? "")}</td>`).join("")}</tr>` : "";
+    return `${gr.label ? `<h5 class="bx-group">${esc(gr.label)}</h5>` : ""}
+      <div class="bx-scroll"><table class="bx"><thead><tr><th scope="col">${esc(gr.label || "Player")}</th>${cols.map((c) => `<th scope="col">${esc(c)}</th>`).join("")}</tr></thead>
+      <tbody>${rows}${tot}</tbody></table></div>`;
+  }
+  function box(g) {
+    const b = g.box;
+    if (!b || !b.boston || !b.opp) return "";
+    return `<details class="report boxscore">
+      <summary>Full box score ${chevron(14)}</summary>
       <div class="report-body">
-        ${line}
-        ${r.sections.map((s) => `<div class="rp">
-          <div class="rp-head"><span class="rp-label">${esc(s.label)}</span>${s.score ? `<span class="rp-score">${esc(s.score)}</span>` : ""}</div>
-          <p>${esc(s.text)}</p></div>`).join("")}
-        ${(r.sources || []).length ? `<p class="rp-src">Sources: ${r.sources.map((x) => x.url
-          ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>` : esc(x.name)).join(", ")}</p>` : ""}
+        <div class="bx-tabs" role="tablist">
+          <button type="button" class="bx-tab on" data-bx="0">${esc(b.boston.name)}</button>
+          <button type="button" class="bx-tab" data-bx="1">${esc(b.opp.name)}</button>
+        </div>
+        <div class="bx-pane">${(b.boston.groups || []).map(boxGroup).join("")}</div>
+        <div class="bx-pane" hidden>${(b.opp.groups || []).map(boxGroup).join("")}</div>
+        ${b.source ? `<p class="rp-src">Box score: <a href="${esc(b.source.url)}" target="_blank" rel="noopener">${esc(b.source.name)}</a></p>` : ""}
       </div>
     </details>`;
   }
+  document.addEventListener("click", (e) => {
+    const t = e.target.closest(".bx-tab");
+    if (!t) return;
+    const wrap = t.closest(".report-body");
+    wrap.querySelectorAll(".bx-tab").forEach((x) => x.classList.toggle("on", x === t));
+    wrap.querySelectorAll(".bx-pane").forEach((x, i) => { x.hidden = String(i) !== t.dataset.bx; });
+  });
 
   function game(g) {
-    const perf = (g.performers || []).map((p) => `
+    const pli = (p) => `
       <li><span class="p-name">${esc(p.name)}</span>
         <span class="p-line">${esc(p.line)}</span>
-        ${p.note ? `<span class="p-note">${esc(p.note)}</span>` : ""}</li>`).join("");
-    const recap = (Array.isArray(g.recap) ? g.recap : [g.recap]).filter(Boolean)
-      .map((para) => `<p>${esc(para)}</p>`).join("");
+        ${p.note ? `<span class="p-note">${esc(p.note)}</span>` : ""}</li>`;
+    const P = (g.performers || []).slice(0, 3);
     const sep = g.home === false ? "at" : "vs";
     return `<details class="game" style="${teamVar(g.teamKey)}">
       <summary>
@@ -140,14 +177,15 @@
           <span class="record">${esc(g.record)}</span>
         </div>
         <span class="toggle">${chevron(16)}</span>
+        ${g.takeaway ? `<p class="sum-take">${esc(g.takeaway)}</p>` : ""}
       </summary>
       <div class="game-body">
-        ${recap}
-        ${perf ? `<h4 class="sub">Who showed up</h4><ul class="performers">${perf}</ul>` : ""}
-        ${g.opponentNote ? `<h4 class="sub">For ${esc(g.opp.name || g.opp.abbr)}</h4><p style="margin-top:0">${esc(g.opponentNote)}</p>` : ""}
-        ${g.takeaway ? `<p class="takeaway"><strong>What it means.</strong> ${esc(g.takeaway)}</p>` : ""}
         ${videos(g.videos)}
-        ${report(g)}
+        ${story(g)}
+        ${P.length ? `<h4 class="sub">Top player stats</h4><ul class="performers">${P.map(pli).join("")}</ul>` : ""}
+        ${g.oppLine ? `<p class="opp-line"><b>${esc(g.opp.name || g.opp.abbr)}:</b> ${esc(g.oppLine)}</p>` : ""}
+        ${box(g)}
+        ${g.takeaway ? `<p class="takeaway"><strong>What it means.</strong> ${esc(g.takeaway)}</p>` : ""}
       </div>
     </details>`;
   }
@@ -160,35 +198,157 @@
         r.cells.map((c) => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</tbody>
     </table>`;
   }
-
-  function standings(list) {
-    return (list || []).map((t) => `
-      <div class="standings" style="${teamVar(t.teamKey)}">
-        <h3>${esc(t.title)}${t.league ? ` <span>${esc(t.league)}</span>` : ""}</h3>
-        ${table(t, false)}
-        ${t.full ? `<details class="full">
-          <summary>Full ${esc(t.full.title)} ${chevron(14)}</summary>
-          ${table(t.full, true)}
-          ${t.full.cutNote ? `<p class="cut-note">${esc(t.full.cutNote)}</p>` : ""}
-        </details>` : ""}
-      </div>`).join("");
+  const ord = (n) => n + (["th","st","nd","rd"][((n % 100) - 20) % 10] || ["th","st","nd","rd"][n % 100] || "th");
+  function standLine(t) {
+    const i = t.rows.findIndex((r) => r.boston);
+    if (i < 0) return { team: t.title, meta: "" };
+    const r = t.rows[i].cells;
+    const div = t.title.replace(/ Division$/, "");
+    const last = t.columns[t.columns.length - 1];
+    const tail = last === "PTS" ? `${r[r.length - 1]} pts` : (r[r.length - 1] === "—" ? "leads" : `${r[r.length - 1]} GB`);
+    return { team: r[0], meta: `${r[1]} · ${ord(i + 1)} in ${div} · ${tail}` };
   }
+
+
+  /* ── Teams tab ── */
+  const TEAM_ORDER = ["celtics", "bruins", "patriots", "redsox"];
+  const TEAM_NAME = { celtics: "Celtics", bruins: "Bruins", patriots: "Patriots", redsox: "Red Sox" };
+  const TEAM_LEAGUE = { celtics: "nba", bruins: "nhl", patriots: "nfl", redsox: "mlb" };
+  let ALL = null;   // standings for the open issue, used by the standings sheet
+
+  let OLD = [];   // older issues: division tables only
+  function placeLine(k) {
+    const S = ALL && ALL[TEAM_LEAGUE[k]];
+    if (!S) {
+      const t = OLD.find((x) => x.teamKey === k);
+      return t ? standLine(t).meta : "Offseason";
+    }
+    const div = S.conferences[0].divisions[0];
+    const i = div.rows.findIndex((r) => r.boston);
+    const r = div.rows[i];
+    const tail = r.pts != null ? `${r.pts} pts` : (r.gb === "—" ? "leads" : `${r.gb} GB`);
+    return `${r.rec} · ${ord(i + 1)} in ${div.name} · ${tail}`;
+  }
+
+  function teamsPanel(data) {
+    ALL = data.standingsAll || null;
+    OLD = data.standings || [];
+    const news = data.teamNews || {};
+    return TEAM_ORDER.filter((k) => (ALL && ALL[TEAM_LEAGUE[k]]) || (news[k] || []).length
+        || OLD.some((x) => x.teamKey === k)).map((k) => {
+      const lg = TEAM_LEAGUE[k];
+      const has = ALL && ALL[lg];
+      const today = (data.today || []).find((g) => g.teamKey === k);
+      const off = (data.off || []).find((o) => o.teamKey === k);
+      const next = today ? `Today · ${today.time} ${today.matchup}` : off ? String(off.text || "").replace(/^Next:\s*/, "Next · ") : "";
+      const items = (news[k] || []).map((n) => `<details class="tn-item">
+          <summary><span class="tn-h">${esc(n.headline)}</span>${chevron(14)}</summary>
+          <div class="tn-body"><p>${esc(n.summary)}</p>
+            <p class="rp-src">${esc(n.dateLabel || "")}${n.url ? ` · <a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.source || "Source")}</a>` : ""}</p></div>
+        </details>`).join("");
+      return `<section class="team" style="${teamVar(k)}">
+        <header class="team-head">
+          <div class="team-id"><span class="chip"></span><h2>${esc(TEAM_NAME[k])}</h2></div>
+          ${has ? `<button type="button" class="st-btn" data-team="${k}">Standings</button>` : ""}
+          <span class="team-meta">${esc(placeLine(k))}</span>
+        </header>
+        ${next ? `<p class="team-next">${esc(next)}</p>` : ""}
+        ${items || `<p class="tn-empty">No new team news today.</p>`}
+      </section>`;
+    }).join("");
+  }
+
+  /* ── Standings sheet: Division | Conference ── */
+  function stTable(S, rows, ranked, cut) {
+    const cuts = new Set(cut || []);
+    return `<table class="st-table${ranked ? " ranked" : ""}"><thead><tr>${ranked ? "<th>#</th>" : ""}<th>Team</th>${S.cols.map((c) => `<th>${esc(c)}</th>`).join("")}</tr></thead>
+      <tbody>${rows.map((r, i) => `<tr class="${[r.boston ? "bos" : "", cuts.has(i + 1) ? "cut" : ""].join(" ").trim()}">
+        ${ranked ? `<td class="n">${r.rank}</td>` : ""}<td class="t">${esc(r.team)}</td><td>${esc(r.rec)}</td><td>${esc(r.pts != null ? r.pts : r.gb)}</td></tr>`).join("")}</tbody></table>`;
+  }
+  function sheetBody(S, mode) {
+    return S.conferences.map((c, ci) => {
+      const head = `<h3 class="st-conf">${esc(S.confLabel[c.name] || c.name)}</h3>`;
+      if (mode === "conference") {
+        return head + stTable(S, c.ranked, true, S.cut) + (S.cutNote && ci === 0 ? `<p class="cut-note">${esc(S.cutNote)}</p>` : "");
+      }
+      return head + c.divisions.map((d) => `<h4 class="st-div">${esc(d.name)}</h4>${stTable(S, d.rows, false)}`).join("");
+    }).join("");
+  }
+  function openSheet(k) {
+    const S = ALL && ALL[TEAM_LEAGUE[k]];
+    if (!S) return;
+    const el = document.createElement("div");
+    el.className = "st-sheet";
+    el.setAttribute("role", "dialog");
+    el.setAttribute("aria-label", `${TEAM_NAME[k]} standings`);
+    el.style.cssText = teamVar(k);
+    el.innerHTML = `<div class="st-panel">
+      <header class="st-head"><h2>Standings</h2><span class="st-lg">${esc(S.league.toUpperCase())}</span>
+        <button type="button" class="st-close" aria-label="Close">✕</button></header>
+      <div class="st-seg" role="tablist">
+        <button type="button" data-mode="division" aria-selected="true">Division</button>
+        <button type="button" data-mode="conference" aria-selected="false">Conference</button>
+      </div>
+      <div class="st-body">${sheetBody(S, "division")}</div>
+    </div>`;
+    document.body.appendChild(el);
+    document.body.style.overflow = "hidden";
+    // The phone's back gesture closes the sheet instead of leaving the page.
+    history.pushState({ stSheet: true }, "");
+    let closed = false;
+    const remove = () => {
+      if (closed) return;
+      closed = true;
+      el.remove();
+      document.body.style.overflow = "";
+      window.removeEventListener("popstate", onPop);
+    };
+    const onPop = () => remove();
+    window.addEventListener("popstate", onPop);
+    const close = () => { if (history.state && history.state.stSheet) history.back(); else remove(); };
+    el.addEventListener("keydown", (e) => { if (e.key === "Escape") close(); });
+    el.addEventListener("click", (e) => {
+      if (e.target === el || e.target.closest(".st-close")) return close();
+      const b = e.target.closest(".st-seg button");
+      if (!b) return;
+      el.querySelectorAll(".st-seg button").forEach((x) => x.setAttribute("aria-selected", String(x === b)));
+      el.querySelector(".st-body").innerHTML = sheetBody(S, b.dataset.mode);
+      el.querySelector(".st-body").scrollTop = 0;
+    });
+    el.querySelector(".st-close").focus();
+  }
+  document.addEventListener("click", (e) => {
+    const b = e.target.closest(".st-btn");
+    if (b) openSheet(b.dataset.team);
+  });
+  document.addEventListener("click", (e) => {
+    const t = e.target.closest(".tabs button");
+    if (!t) return;
+    document.querySelectorAll(".tabs button").forEach((x) => x.setAttribute("aria-selected", String(x === t)));
+    document.querySelectorAll(".tab-panel").forEach((x) => { x.hidden = x.dataset.tab !== t.dataset.tab; });
+    try { sessionStorage.setItem("bs-tab", t.dataset.tab); } catch { /* ignore */ }
+    window.scrollTo(0, 0);
+  });
 
   function issue(data, ctx) {
     const results = data.results || [];
-    const off = data.off || [];
-    const injuries = data.injuries || [];
+    let tab = "games";
+    try { tab = sessionStorage.getItem("bs-tab") || "games"; } catch { /* ignore */ }
     return `${masthead(ctx.name, longDate(data.date), ctx)}
+      <nav class="tabs" role="tablist">
+        <button type="button" role="tab" data-tab="games" aria-selected="${tab === "games"}">Games</button>
+        <button type="button" role="tab" data-tab="teams" aria-selected="${tab === "teams"}">Teams</button>
+      </nav>
       <main class="sports-main">
-        ${board(data.today, data.date)}
-        ${results.length ? `<h2 class="section-title">Last night</h2>${results.map(game).join("")}` : ""}
-        ${off.length ? `<h2 class="section-title">No game</h2><ul class="off">${off.map((o) => `
-          <li><span class="chip" style="${teamVar(o.teamKey)}"></span><span><b>${esc(o.team)}</b> ${esc(o.text)}</span></li>`).join("")}</ul>` : ""}
-        ${(data.standings || []).length ? `<h2 class="section-title">Standings</h2>${standings(data.standings)}` : ""}
-        ${injuries.length ? `<h2 class="section-title">Injury moves</h2><ul class="injuries">${injuries.map((i) => `
-          <li><b>${esc(i.team)}</b> ${esc(i.text)}</li>`).join("")}</ul>` : ""}
-        <a class="archive-link" href="${ctx.archiveHref}">Past issues ${ctx.unreadOthers
-          ? `<span class="badge">${ctx.unreadOthers} unread</span>` : `<span aria-hidden="true">›</span>`}</a>
+        <div class="tab-panel" data-tab="games"${tab === "games" ? "" : " hidden"}>
+          ${board(data.today, data.date, data.off)}
+          ${results.length ? `<h2 class="section-title">Last night</h2>${results.map(game).join("")}` : ""}
+          <a class="archive-link" href="${ctx.archiveHref}">Past issues ${ctx.unreadOthers
+            ? `<span class="badge">${ctx.unreadOthers} unread</span>` : `<span aria-hidden="true">›</span>`}</a>
+        </div>
+        <div class="tab-panel" data-tab="teams"${tab === "teams" ? "" : " hidden"}>
+          ${teamsPanel(data)}
+        </div>
       </main>`;
   }
 

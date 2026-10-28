@@ -4,114 +4,137 @@ These are the instructions for the scheduled run that writes each morning's Bost
 All paths below are relative to `n/boston-sports/` in the `abratica/newsletters` repo.
 The app (`index.html`, `js/`, `css/`) only displays what is in these JSON files. Do not change the app, other newsletters, or `newsletters.json` during a daily run.
 
+The issue has two tabs in the app:
+- **Games:** today's games (+ "Up next" for teams not playing), and last night's game cards.
+- **Teams:** one card per Boston team with its place in the standings, next game, team news, and a Standings button (Division / Conference views).
+
 ## What to produce
 
 1. `issues/YYYY-MM-DD.json`: today's issue, where the date is **today in America/New_York**.
 2. Update `index.json`: put `{ "date", "headline", "ticker" }` at the **top** of `issues` (newest first), copying `headline` and `ticker` from the issue. If today's date is already there, replace that entry instead of adding a second one.
 3. Validate both files (`python3 -m json.tool <file>`), then commit `Boston Sports YYYY-MM-DD` and push to `main`.
 
-## Ticker
+Publish an issue every day, even when no Boston team played or plays.
 
-`ticker` is 2–5 very short items that scroll across the top of the app's home screen, mixed with other newsletters' items. Plain text, no labels, under ~30 characters each:
-- Each final from last night: `"Celtics 134, Bulls 99"` (Boston's score first, winner wording not needed).
-- Each game today: `"Celtics vs Nets 7:30"`, `"Bruins at Hurricanes 8:00"` (ET, no "PM").
-- At most one big injury or roster note if there is one: `"<Player> out (ankle)"`.
-If there's nothing, use an empty array.
-
-Publish an issue every day, even when no Boston team played or plays. On those days the issue is just the Today's games strip (or "No Boston games today"), the No game lines, and standings.
+`issues/2026-10-27.json` is the reference example for every field below. Top-level keys: `date`, `headline`, `ticker`, `today`, `off`, `results`, `teamNews`, `standingsAll`.
 
 ## Teams
 
-| teamKey  | Team     | League | Home venue      | Standings table  |
-|----------|----------|--------|-----------------|------------------|
-| patriots | Patriots | NFL    | Gillette Stadium | AFC East         |
-| celtics  | Celtics  | NBA    | TD Garden       | Atlantic Division |
-| bruins   | Bruins   | NHL    | TD Garden       | Atlantic Division |
-| redsox   | Red Sox  | MLB    | Fenway Park     | AL East          |
+| teamKey  | Team     | League | Home venue       |
+|----------|----------|--------|------------------|
+| patriots | Patriots | NFL    | Gillette Stadium |
+| celtics  | Celtics  | NBA    | TD Garden        |
+| bruins   | Bruins   | NHL    | TD Garden        |
+| redsox   | Red Sox  | MLB    | Fenway Park      |
 
 ## Data: where facts come from
 
 - Use the sports data tool first (`fetch_sports_data`): `scores` with the team filter for each league, `game_stats` with the game id for every Boston game that finished yesterday, and `standings` for each in-season league.
-- If that tool isn't available or is missing something, use web search against official or major sources (NFL.com, NBA.com, NHL.com, MLB.com, ESPN, AP) and fetch the box score page.
+- The official box score comes from the league/ESPN box score page (e.g. `https://www.espn.com/nba/boxscore/_/gameId/<id>`; find the id via search or the ESPN game page). The data tool's player list can be incomplete, so don't build the box score from it alone.
+- If the tool isn't available or is missing something, use web search against official or major sources (NFL.com, NBA.com, NHL.com, MLB.com, ESPN, AP, Boston Globe, NBC Sports Boston, NESN).
 - **Only state facts that come from the data or a source you actually read.** No descriptors you haven't verified ("rookie", "career high", "first time since…") unless a source says so. If unsure, leave it out.
-- Whenever a recap mentions a lead or a turning point, give the actual score at that point. The data has scores at each period/quarter break, so anchor to those. If you don't have the exact score for a moment (like the peak of a lead), don't mention that moment.
+- Whenever you mention a lead or a turning point, give the actual score at that point. If you don't have the exact score for a moment (like the peak of a lead), don't mention that moment.
 
-## Sections
+## Ticker
 
-### today (Today's games)
+`ticker` is 2–5 very short items that scroll across the top of the app's home screen, mixed with other newsletters' items. Plain text, no labels, under ~30 characters each:
+- Each final from last night: `"Celtics 134, Bulls 99"` (Boston's score first).
+- Each game today: `"Celtics vs Nets 7:30"`, `"Bruins at Hurricanes 8:00"` (ET, no "PM").
+- At most one big injury or roster note if there is one: `"<Player> out (ankle)"`.
+If there's nothing, use an empty array.
+
+## headline
+
+The top game card's headline. On days with no results, a one-line summary of the biggest team news.
+
+## today (Today's games)
+
 Every Boston game scheduled today (ET), sorted by start time.
+- `teamKey`, `team`.
 - `league`: `"nfl"`, `"nba"`, `"nhl"`, or `"mlb"`. Required: the app uses it to show the live score during the game.
-- `record`: the Boston team's current record, same format as `oppRecord`. Shown next to the team name.
+- `record`: the Boston team's current record. Shown next to the team name.
 - `matchup`: `"vs Nets"` at home, `"at Hurricanes"` on the road (opponent nickname).
 - `oppRecord`: opponent's current record (NBA/NFL `W–L`, NHL `W–L–OT`, MLB `W–L`).
 - `time`: ET, like `"7:30 PM"`.
-- `tv`: where to watch, from an official or schedule source you read for this game (team/league schedule, NBC Sports Boston or NESN listings, the league's national TV schedule, or a broadcast-listing schedule like FanDuel Research's team schedule page). List the Boston-area option(s) a viewer in Boston would use, joined with ` · `: e.g. `"NBC Sports Boston · Peacock"` (Celtics local; Peacock streams NBCSB), `"NESN"` (Bruins/Red Sox local), `"ESPN"`, `"TNT"`, `"Prime Video"`, `"CBS"`. If a national broadcast is exclusive (local channel not listed), show only the national one. Omit the field if you can't confirm it. Never guess.
+- `tv`: where to watch, from an official or schedule source you read for this game (team/league schedule, NBC Sports Boston or NESN listings, the league's national TV schedule, or a broadcast-listing schedule like FanDuel Research's team schedule page). List the Boston-area option(s) joined with ` · `: e.g. `"NBC Sports Boston · Peacock"` (Celtics local; Peacock streams NBCSB), `"NESN"` (Bruins/Red Sox local), `"ESPN"`, `"TNT"`, `"Prime Video"`, `"CBS"`. If a national broadcast is exclusive, show only the national one. Omit the field if you can't confirm it. Never guess.
 - `venue`: home venue name for home games; for road games, the arena/stadium name only if a source confirms it, otherwise the city.
-- No extra notes (no back-to-backs, no TV unless asked later).
 
-### results (Last night)
-Every Boston game that **started yesterday (ET)** and is final, including late West Coast games. Order by **how newsworthy the result is**, biggest first (blowouts, comebacks, rivals, milestones, playoff stakes), not by sport.
+## off (Up next)
+
+**In-season** Boston teams with **no result last night and no game today**, each with their next game: `{ "teamKey": "patriots", "team": "Patriots", "text": "Next: Sun, Nov 1 at Dolphins, 4:25 PM" }`. Shown as "Up next" inside the Today's games panel. Offseason teams are left out.
+
+## results (Last night's game cards)
+
+Every Boston game that **started yesterday (ET)** and is final, including late West Coast games. Order by **how newsworthy the result is**, biggest first.
+
+The closed card shows `headline`, the score, `result`, `record` and `takeaway`. Opened, it reads: highlights video → game story (line score + period by period) → top player stats → opponent line → ▸ full box score → "What it means".
 
 Each result:
-- `headline`: short, punchy, factual. e.g. "Pritchard's seven threes bury Chicago".
-- `home`: true/false. `boston` / `opp`: `abbr` (3 letters), `score`; `opp.name` is the opponent's city or nickname used in "For ___".
-- `result`: `"W"`, `"L"`, `"OTL"` (NHL overtime/shootout loss), or `"T"`.
-- `record`: Boston's record after the game.
-- `recap`: one paragraph (array of strings, usually one). How the game turned, with scores at the breaks, and the one or two stats that explain it. Neutral beat-writer voice with a little edge. No fan cheerleading.
-- `performers` ("Who showed up"): 3 players on quiet nights, up to 5 on big ones. Each has `name`, `line` (stats joined with ` · `), and `note` (one sentence on why it mattered, can include a bad side, e.g. turnovers).
-- `opponentNote`: one or two sentences on the opponent's top threats.
-- `takeaway` ("What it means"): one sentence. Streak, standings move, concern, injury to watch.
-- `videos` (optional): official YouTube highlight videos for this game, shown after "What it means" in the expanded card. `[{ "id": "<YouTube video id>", "title": "short title", "channel": "NBA" }]`. Use **one video: the full-game highlights only**. No talk shows, analysis, reaction, podcast or postgame segments.
-  - **Official channels only:** the league (NBA, NHL, NFL, MLB), the team (Boston Celtics, NHL Bruins, New England Patriots, Red Sox), or the rights-holding broadcaster (NBC Sports Boston, NESN). Never fan, reaction, or independent-media channels (e.g. CLNS), even if they look official.
-  - Main video: the league's full-game highlights (e.g. NBA titles look like `"BULLS at CELTICS | FULL GAME HIGHLIGHTS | October 26, 2026"`; NHL uses `"Bruins at Hurricanes | Highlights | ..."`). Search for it, e.g. web search `"<AWAY> at <HOME>" "FULL GAME HIGHLIGHTS" "<Month D, YYYY>"`, or check a daily-links roundup page.
-  - **Verify every video** before using it by fetching `https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=<id>&format=json`: the `author_name` must be one of the official channels above and the `title` must match this game and date. If oEmbed fails (deleted, private, or embedding disabled), don't use the video.
-  - Write `title` in plain sentence case (not the channel's ALL-CAPS), e.g. `"Bulls at Celtics: full game highlights"`.
-  - If no verified official video is up yet, omit `videos`. Never guess an id.
-- `report` ("In-depth game report", collapsed in the card): a line score plus a short write-up per quarter/period.
+- `teamKey`, `headline` (short, punchy, factual, e.g. "Pritchard's seven threes bury Chicago").
+- `home`: true/false. `boston` / `opp`: `abbr` (3 letters), `score`; `opp.name` is the opponent's nickname.
+- `result`: `"W"`, `"L"`, `"OTL"` (NHL overtime/shootout loss), or `"T"`. `record`: Boston's record after the game.
+- `videos` (optional): **one** video, the official full-game highlights, shown first in the opened card. `[{ "id": "<YouTube video id>", "title": "Bulls at Celtics: full game highlights", "channel": "NBA" }]`.
+  - **Official channels only:** the league (NBA, NHL, NFL, MLB), the team (Boston Celtics, NHL Bruins, New England Patriots, Red Sox), or the rights-holding broadcaster (NBC Sports Boston, NESN). Never fan, reaction, podcast, talk-show, postgame, or independent-media channels (e.g. CLNS).
+  - Find it, e.g. web search `"<AWAY> at <HOME>" "FULL GAME HIGHLIGHTS" "<Month D, YYYY>"` (NBA's title format), or a daily-links roundup page.
+  - **Verify** by fetching `https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=<id>&format=json`: `author_name` must be an official channel and `title` must match this game and date. If oEmbed fails, don't use it.
+  - Write `title` in plain sentence case. If no verified official video is up yet, omit `videos`. Never guess an id.
+- `report` (the game story, always shown when the card is opened):
   ```json
   "report": {
     "periods": ["1","2","3","4"],          // NHL: ["1","2","3"] (+ "OT", "SO"); NFL: ["1","2","3","4"] (+ "OT"); MLB: innings "1"–"9" (+ extras)
-    "boston": [33,33,39,29], "opp": [21,33,21,24],   // points/goals/runs per period, from the data tool's scoring_by_period or the official box score
+    "boston": [33,33,39,29], "opp": [21,33,21,24],
     "sections": [ { "label": "1st quarter", "score": "BOS 33, CHI 21", "text": "2–4 sentences" } ],
     "sources": [ { "name": "AP", "url": "https://..." } ]
   }
   ```
-  - One section per quarter (NBA/NFL) or period (NHL, plus OT/shootout). MLB: group into 3–4 sections around the innings that mattered (e.g. "Innings 1–3", "6th inning").
+  - One section per quarter (NBA/NFL) or period (NHL, plus OT/shootout). MLB: 3–4 sections around the innings that mattered (e.g. "Innings 1–3", "6th inning").
   - `score` is the score at the end of that period (`"Final: ..."` for the last one).
-  - Each section covers what actually swung it: runs with their numbers, who drove them, key plays, foul trouble/injuries, momentum shifts. Every score you mention must be an actual score at that moment.
-  - Facts must come from the line score plus recaps you read: AP, ESPN, NBA.com/NHL.com/NFL.com/MLB.com, Boston Globe, NBC Sports Boston. If two sources disagree, use the one whose numbers add up against the line score, or leave the detail out. Don't attach a play to a quarter unless a source places it there.
-  - A blowout's last quarter can be one short line.
+  - Cover what actually swung it: runs with their numbers, who drove them, key plays, foul trouble/injuries, momentum. Every score you mention must be an actual score at that moment.
+  - Facts come from the line score plus recaps you read (AP, ESPN, league sites, Boston Globe, NBC Sports Boston). If sources disagree, use the one whose numbers add up against the line score, or leave it out. Don't attach a play to a period unless a source places it there.
+  - A blowout's last period can be one short line.
+- `performers` ("Top player stats"): **3** Boston players. Each has `name`, `line` (stats joined with ` · `), and `note` (one sentence on why it mattered; can include a bad side).
+- `oppLine`: one sentence on the opponent's top performers, e.g. `"Norman Powell had 20 points (4-of-7 from three) and 4 steals; Caleb Wilson added 17."`
+- `box` (▸ Full box score, collapsed):
+  ```json
+  "box": {
+    "source": { "name": "ESPN", "url": "https://www.espn.com/nba/boxscore/_/gameId/..." },
+    "boston": { "name": "Celtics", "groups": [ { "label": "", "columns": ["MIN","PTS",...], "starters": 5,
+                "rows": [ { "name": "Paul George", "values": [25,16,...] } ], "totals": ["",134,...] } ] },
+    "opp":    { "name": "Bulls",   "groups": [ ... ] }
+  }
+  ```
+  - Every player who played, both teams, from the official box score. `values` line up with `columns`; `totals` too (use `""` for columns without a team total). `starters` = number of starters listed first (draws a divider); omit when not meaningful.
+  - **NBA** (one group, label `""`): `["MIN","PTS","REB","AST","FG","3PT","FT","STL","BLK","TO","+/-"]`, starters first then bench by minutes.
+  - **NHL**: groups `"Skaters"` `["G","A","PTS","+/-","SOG","HIT","BLK","TOI"]` (sorted by TOI) and `"Goalies"` `["SA","SV","SV%","TOI"]`.
+  - **NFL**: groups `"Passing"` `["C/ATT","YDS","TD","INT"]`, `"Rushing"` `["CAR","YDS","TD","LONG"]`, `"Receiving"` `["REC","YDS","TD","TGT"]`, `"Defense"` `["TCKL","SACK","TFL","INT","FF"]` (top 6 tacklers).
+  - **MLB**: groups `"Batting"` `["AB","R","H","RBI","BB","K","HR"]` (lineup order) and `"Pitching"` `["IP","H","R","ER","BB","K","PC"]`.
+  - Check: each team's player points/goals/runs must add up to its final score. If the official box score isn't available, omit `box` rather than publish a partial one.
+- `takeaway` ("What it means"): one sentence. Streak, standings move, concern, injury to watch. Also shown on the closed card.
 
-Stat lines by sport:
-- **NBA**: PTS, REB, AST, plus FG / 3PT makes-attempts, STL, BLK, TO when relevant; plus-minus in the note.
-- **NFL**: QB line (CMP-ATT, YDS, TD, INT), top rusher (CAR-YDS-TD), top receiver (REC-YDS-TD), key defensive play (sacks, INT, forced fumble) in the note.
-- **NHL**: goals and assists (G, A), shots; the goalie's saves and save % (e.g. "31 SV · .939 SV%").
-- **MLB**: starting pitcher (IP, H, ER, BB, K), key hitters (H-AB, HR, RBI).
+## teamNews (Teams tab)
 
-### off (No game)
-**In-season** Boston teams with **no result last night and no game today**, each with their next game: `"Next: Sun, Nov 1 at Dolphins, 4:25 PM"`.
-Teams in their offseason are left out of the issue entirely (no line, no standings table).
+```json
+"teamNews": {
+  "celtics":  [ { "headline": "...", "summary": "2–3 factual sentences", "source": "NBC Sports Boston", "url": "https://...", "dateLabel": "Oct 27" } ],
+  "bruins":   [ ... ], "patriots": [ ... ], "redsox": [ ... ]
+}
+```
+- 2–4 items per team from the last ~36–48 hours: injuries and injury updates, transactions (trades, signings, waivers, call-ups), lineup/depth changes, front-office and coaching moves, notable quotes, upcoming-game storylines.
+- **Not** plain game results (the Games tab covers those), though a notable post-game injury or quote is fine.
+- No rumors or speculation pieces ("could target…", mock trades). Only actual reporting.
+- Offseason teams (e.g. the Red Sox in winter) still get news: front office, coaching staff, free agency, trades, injuries. If there's genuinely nothing new, use the most recent real item with its actual `dateLabel`.
+- Sources: team sites, NBC Sports Boston, Boston Globe, Boston Herald, MassLive, NESN, ESPN, AP, The Athletic. Every item links to the article you read.
+- `dateLabel` is the article date like `"Oct 27"`.
 
-### standings
-One table per **in-season** Boston team. Teams that played last night first, then the rest.
-- NBA: columns `["Team", "W–L", "GB"]`, the Atlantic Division.
-- NHL: columns `["Team", "W–L–OT", "PTS"]`, the Atlantic Division, sorted by points. If the data only has W and L, derive OT from the win percentage (games played = round(W / win_pct); OT = GP − W − L) and double-check Boston's own line against the box scores or a search.
-- NFL: columns `["Team", "W–L", "GB"]` (use `W–L–T` if any ties), the AFC East.
-- MLB: columns `["Team", "W–L", "GB"]`, the AL East.
-- Set `"boston": true` on the Boston row. Use en dashes in records (`9–2–1`). GB "—" for the leader.
-- Every table also gets a `full` object: the whole conference, shown when the reader taps "Full …". Columns get a leading `"#"` rank column. Rank by the source's conference rank/seeding (use it as the tiebreaker for equal records).
-  - NBA: `"Eastern Conference"`, `["#","Team","W–L","GB"]` (GB from the conference leader), `"cutAfter": [6, 10]`, `"cutNote": "Top 6 make the playoffs, 7–10 the play-in"`.
-  - NHL: `"Eastern Conference"`, `["#","Team","W–L–OT","PTS"]`, sorted by points (fewer games played breaks ties). No cut lines.
-  - NFL: `"AFC"`, `["#","Team","W–L"]` in seeding order, `"cutAfter": [7]`, `"cutNote": "Top 7 make the playoffs (division leaders seeded 1–4)"`.
-  - MLB: `"American League"`, `["#","Team","W–L","GB"]`, `"cutAfter": [6]`, `"cutNote": "Top 6 make the playoffs"`.
-- See `issues/2026-10-27.json` for the exact shape.
+## standingsAll (Standings button: Division / Conference)
 
-### injuries (Injury moves)
-Only **changes in the last ~24 hours**: who went down, who's back, who's questionable for today. One line each: `{ "team": "Celtics", "text": "<Player> (ankle) is questionable vs Nets" }`. Source must be a news report from the last day. If nothing changed, use an empty array; the section hides itself.
+Full standings for every **in-season** league with a Boston team. Build it with the script so the format and math are consistent:
 
-## Shape
+1. Call `fetch_sports_data` with `data_type: "standings"` for each in-season league and save each result as-is to a JSON file (`nba.json`, `nhl.json`, `nfl.json`, `mlb.json`).
+2. Run: `python3 -I tools/build_standings.py --nba nba.json --nhl nhl.json --nfl nfl.json > standings_all.json` (only the in-season leagues).
+3. Put the output object in the issue as `standingsAll`.
 
-`issues/2026-10-27.json` is the reference example. Keys: `date`, `headline` (the top story's headline; on quiet days a one-line summary), `ticker`, `today`, `results`, `off`, `standings`, `injuries`.
+The script orders divisions with Boston's first, computes GB, derives NHL overtime losses and points and NFL ties from the feed, and flags the Boston row. Sanity-check Boston's line against its `record` in today's issue; if they disagree, trust the official standings page and note it in the final message. Don't hand-edit the output.
 
 ## Final message of the run
 

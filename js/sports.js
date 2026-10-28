@@ -393,6 +393,18 @@
     venueEl.innerHTML = state === "in"
       ? `<span class="live-dot" aria-hidden="true"></span>${esc(detail)}`
       : `${us.winner ? "W" : them.winner ? "L" : ""} ${esc(detail)}`.trim();
+    // Once final, show both teams' updated records from the feed.
+    if (state === "post") {
+      const rec = (c) => {
+        const r = (c.records || []).find((x) => x.type === "total" || x.name === "overall") || (c.records || [])[0];
+        return r && r.summary ? String(r.summary).replace(/-/g, "–") : "";
+      };
+      const ours = rec(us), theirs = rec(them);
+      const recEl = row.querySelector(".board-rec");
+      if (ours && recEl) recEl.textContent = ours;
+      const det = row.querySelector(".board-detail");
+      if (theirs && det) det.textContent = det.textContent.replace(/\s*\([^)]*\)\s*$/, "") + ` (${theirs})`;
+    }
   }
 
   function mount(root, data) {

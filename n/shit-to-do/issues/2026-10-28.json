@@ -215,6 +215,47 @@
       "with": "Alok and Jackie Hollander",
       "onSale": "On sale now",
       "url": "https://www.tdgarden.com/events/detail/john-summit"
+    },
+    {
+      "artist": "CamelPhat",
+      "date": "2026-11-06",
+      "time": "Doors 10 PM",
+      "startTime": "22:00",
+      "venue": "Royale",
+      "onSale": "On sale now",
+      "url": "https://www.songkick.com/concerts/43310614-camelphat-at-royale-boston"
+    },
+    {
+      "artist": "Sara Landry",
+      "date": "2026-11-20",
+      "time": "Doors 8 PM",
+      "startTime": "20:00",
+      "venue": "Roadrunner",
+      "onSale": "On sale now",
+      "url": "https://www.songkick.com/concerts/43133759-sara-landry-at-roadrunner"
+    },
+    {
+      "artist": "Vintage Culture",
+      "date": "2026-11-25",
+      "time": "9 PM",
+      "startTime": "21:00",
+      "venue": "Royale",
+      "url": "https://royaleboston.com/event/vintage-culture-2/"
+    },
+    {
+      "artist": "Eric Prydz",
+      "date": "2026-12-04",
+      "time": "10 PM",
+      "startTime": "22:00",
+      "venue": "Big Night Live",
+      "with": "Cristoph",
+      "url": "https://www.ticketmaster.com/event/0100650696CEF09E"
+    },
+    {
+      "artist": "Chris Lake",
+      "date": "2026-12-27",
+      "venue": "Big Night Live",
+      "url": "https://www.ticketmaster.com/event/0100655BDC423B57"
     }
   ],
   "watchlist": [

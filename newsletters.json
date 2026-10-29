@@ -11,6 +11,12 @@
       "name": "League Wire",
       "cadence": "Daily",
       "layout": "wire"
+    },
+    {
+      "id": "shit-to-do",
+      "name": "Shit To Do",
+      "cadence": "Updated daily",
+      "layout": "todo"
     }
   ]
 }

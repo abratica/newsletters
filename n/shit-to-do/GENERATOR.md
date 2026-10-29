@@ -40,7 +40,7 @@ For **every** artist in `watchlist.json`, search for a Boston-area show (Boston,
 
 ## Comedy (its own tab)
 Touring stand-up comedians playing greater Boston: Wilbur Theatre, Laugh Boston, Chevalier Theatre (Medford), Boch Center (Wang, Shubert), MGM Music Hall, TD Garden, Agganis, Orpheum, The Comedy Studio (Cambridge), Nick's Comedy Stop, Improv Asylum, Giggles (Saugus), Regent Theatre (Arlington), Mosesian Center (Watertown), Somerville Theatre, Lynn Auditorium, plus Ticketmaster/Songkick comedy listings.
-- **Notable comedians only** (national following: specials, big podcasts, theater/arena tours, well-known TV comics). No open mics, generic showcases or improv jams. Aim for about 15–30 shows.
+- **Big names only** (Andrew's call: "go with big ones"). Comedians with a real national following: specials, big podcasts, theater/arena tours, well-known TV comics. Biggest names first when choosing what to include. No open mics, generic showcases or improv jams. Aim for about 15–30 shows.
 - Window: through about 3 months out. **No time limit** for comedians on the favorites list (`comedians` in `watchlist.json`): any announced greater-Boston date goes on.
 - Carry shows over day to day like events (keep `id` and `added`); drop past ones; add new ones with `added` = today. A newly added show by a favorite is flagged at the top of Coming up automatically.
 - Keep comedy shows out of `events` (no duplicates); a comedy festival or a one-off special comedy event can still go in `events`.

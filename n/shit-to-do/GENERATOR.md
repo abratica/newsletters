@@ -29,6 +29,8 @@ Sources (read the actual page; never list an event you haven't seen on a source)
 WebFetch works for these; the shell can't reach the web.
 
 ## DJs in town
+**No time limit here.** The 4-week coverage window is for events only. Any announced Boston-area date for a watchlist DJ goes on the list, even if it's 6+ months out (next summer's festival, a spring arena date). It stays until the show has happened.
+
 For **every** artist in `watchlist.json`, search for a Boston-area show (Boston, Cambridge, Somerville, and the big nearby venues: TD Garden, MGM Music Hall, Roadrunner, Big Night Live, Royale, House of Blues, Agganis, Leader Bank Pavilion, Boch Center, festivals like Boston Calling). Search `"<Artist>" Boston 2026` and `"<Artist>" Boston 2027`, and check the artist's official tour page or Songkick/Bandsintown when available. Do this in batches so it doesn't take forever, but cover the whole list every day.
 - Only shows confirmed on an official page (artist, venue, promoter, or Ticketmaster/AXS listing).
 - Shows stay until the date passes. Keep `added` from when it first appeared.

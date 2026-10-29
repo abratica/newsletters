@@ -1,0 +1,455 @@
+{
+  "date": "2026-10-29",
+  "headline": "Brewers win first World Series, beat Rays 4-1 in Game 5",
+  "ticker": [
+    "Brewers win first WS title",
+    "Jokic: 200 triple-doubles",
+    "McDavid sets assist record",
+    "Curry scores 44 in Minny",
+    "Downs requests Colts trade"
+  ],
+  "top": [
+    {
+      "league": "mlb",
+      "headline": "Brewers win first World Series, beat Rays 4-1 in Game 5",
+      "summary": "Milwaukee closed out Tampa Bay 4-1 at Tropicana Field on Wednesday and took the series 4-1, a day after the Rays' 12-inning walk-off in Game 4. It's the first title in Brewers history and Milwaukee's first since the 1957 Braves. That leaves four franchises without one: the Mariners, Padres, Rays and Rockies.",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/news/brewers-beat-rays-game-5-win-2026-world-series"
+    },
+    {
+      "league": "nba",
+      "headline": "Jokic reaches 200 triple-doubles",
+      "summary": "Nikola Jokic had 21 points, 13 rebounds and 10 assists in Denver's 104-91 win at New Orleans, and the Nuggets never trailed. Only Russell Westbrook has more, and Jokic needs 10 to pass him. He got to 200 in his 814th game; Westbrook needed 1,175.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50314211/nuggets-nikola-jokic-notches-200th-career-triple-double-win-vs-pelicans"
+    },
+    {
+      "league": "nhl",
+      "headline": "McDavid sets season-opening assist record as Oilers blank Flames",
+      "summary": "Connor McDavid had two assists in Edmonton's 4-0 win over Calgary, giving him at least one in each of his first 13 games. That breaks the 12-game mark shared by Wayne Gretzky, Ken Linseman and Sebastian Aho. He leads the NHL with 36 points.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/calgary-flames-edmonton-oilers-game-recap-october-28-2026"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Josh Downs asks out of Indy as Panthers visit Packers on TNF",
+      "stories": [
+        {
+          "headline": "Josh Downs requests trade as Colts sell",
+          "summary": "ESPN's Jeremy Fowler reported Wednesday that Downs has asked the 2-5 Colts to trade him, a day after they moved Quenton Nelson and DeForest Buckner. Downs, 25 and on an expiring rookie deal, leads the team with 307 receiving yards and said, \"I'm open to whatever.\" The deadline is Nov. 10, and contenders now have a cheap slot receiver to call about.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/colts-wr-josh-downs-requests-trade"
+        },
+        {
+          "headline": "Panthers at Packers opens Week 8 tonight",
+          "summary": "Carolina (3-3), which leads an NFC South with no team above .500, visits Green Bay (4-3) at 8:15 p.m. ET on Amazon. The Packers are the only team that hasn't rushed for 100 yards in a game this season and average a league-low 2.9 yards per carry. Rookie K Trey Smack is 6-of-11 since a 5-for-5 start, and Matt LaFleur is sticking with him for now.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/panthers-vs-packers-three-must-know-storylines-for-thursday-s-week-8-prime-time-game"
+        },
+        {
+          "headline": "Chiefs bring Justin Tucker to practice squad",
+          "summary": "Kansas City is signing Tucker, 36, to its practice squad after working out three kickers. He hasn't kicked since his 2025 suspension and release by Baltimore. Harrison Butker has missed five field goals and a PAT this season, and NFL.com says his job looks in jeopardy if that continues.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/justin-tucker-chiefs-signing-kicker-practice-squad"
+        },
+        {
+          "headline": "Chargers keep McDaniel calling plays at 0-6",
+          "summary": "Jim Harbaugh said after the bye that OC Mike McDaniel will keep calling plays and that the team is \"very confident\" in him. The Chargers are last in scoring at 15 points per game and last in interception rate. They visit the Rams on Sunday.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/chargers-jim-harbaugh-oc-mike-mcdaniel-to-retain-play-calling-duties-after-bye"
+        },
+        {
+          "headline": "Garrett Wilson says he doesn't want out of New York",
+          "summary": "The Jets receiver told ESPN he doesn't want to be traded but is frustrated with the losing and his targets. He was targeted three times in a 28-25 loss to Miami and still leads the 2-5 Jets with 37 catches and 444 yards. He is signed through 2030.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50308919/jets-wr-garrett-wilson-says-want-traded"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Commanders placed WR Terry McLaurin (torn patellar tendon) on IR; out for the season",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Commanders promoted WR Van Jefferson; designated DT Jer'Zhan Newton (pec) to return from IR",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Chiefs signed K Justin Tucker to the practice squad",
+          "url": "https://www.nfl.com/news/justin-tucker-chiefs-signing-kicker-practice-squad"
+        },
+        {
+          "text": "Lions designated S Kerby Joseph (knee) to return from PUP",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Cardinals placed WR Jalen Brooks on IR; signed WR Zay Jones to the practice squad",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Raiders reinstated WR Dont'e Thornton from IR",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Titans signed P Thomas Morstead to the practice squad",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-oct-28"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Jokic gets triple-double No. 200; Thunder take their first loss",
+      "stories": [
+        {
+          "headline": "Jokic reaches 200 triple-doubles",
+          "summary": "Nikola Jokic had 21 points, 13 rebounds and 10 assists in Denver's 104-91 win at New Orleans, and the Nuggets never trailed. Only Russell Westbrook has more, and Jokic needs 10 to pass him. He got to 200 in his 814th game; Westbrook needed 1,175.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/50314211/nuggets-nikola-jokic-notches-200th-career-triple-double-win-vs-pelicans"
+        },
+        {
+          "headline": "Short-handed Thunder take first loss",
+          "summary": "Dallas beat Oklahoma City 120-96 behind Cooper Flagg's 26 points and 8 assists, and the Thunder fell to 4-1. OKC played without Jalen Williams, Cason Wallace, Chet Holmgren and Alex Caruso and shot 5 of 32 from 3. Williams had ankle surgery Wednesday and won't be re-evaluated until late in the regular season.",
+          "source": "AP (via KRMG)",
+          "url": "https://krmg.com/2026/10/28/cooper-flagg-has-26-points-8-assists-as-mavericks-beat-depleted-thunder-120-96/"
+        },
+        {
+          "headline": "Curry scores 44 in Wolves' first game without Edwards",
+          "summary": "Stephen Curry had 44 points and 8 rebounds as Golden State won 119-114 in Minneapolis. It was Minnesota's first game since announcing Anthony Edwards needs a right-knee procedure; he's reportedly expected to miss about two months. Team president Tim Connelly called it an arthroscopic clean-up, not a meniscus issue.",
+          "source": "Reuters (via Lufkin Daily News)",
+          "url": "https://lufkindailynews.com/news_reuters/sports/stephen-curry-warriors-start-strong-in-win-over-timberwolves/article_9a8ed6d2-db50-5b3a-b213-766716dcea86.html"
+        },
+        {
+          "headline": "Jaren Jackson Jr. tore his MCL; Markkanen day-to-day",
+          "summary": "The MRIs are back: Jackson tore the MCL in his right knee and will miss at least six weeks, and Lauri Markkanen has a right wrist sprain. Utah then lost 117-111 in overtime to San Antonio despite a season-high 31 from Keyonte George. The Jazz frontcourt is thin for the next month and a half.",
+          "source": "NBA.com (AP)",
+          "url": "https://www.nba.com/news/jaren-jackson-jr-torn-mcl-october-2026"
+        },
+        {
+          "headline": "Dybantsa debuts, Cavs rally past Wizards",
+          "summary": "AJ Dybantsa led Washington with 19 points on 8-of-12 shooting in 27 minutes in his debut. The Wizards led by 13 early in the third, then lost 121-111 to Cleveland.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/recap-wizards-lose-cavs-121-014729831.html"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Heat",
+          "awayScore": 129,
+          "home": "Hawks",
+          "homeScore": 117,
+          "note": ""
+        },
+        {
+          "away": "Hornets",
+          "awayScore": 89,
+          "home": "Pistons",
+          "homeScore": 97,
+          "note": ""
+        },
+        {
+          "away": "76ers",
+          "awayScore": 114,
+          "home": "Pacers",
+          "homeScore": 109,
+          "note": "Close"
+        },
+        {
+          "away": "Wizards",
+          "awayScore": 111,
+          "home": "Cavaliers",
+          "homeScore": 121,
+          "note": ""
+        },
+        {
+          "away": "Magic",
+          "awayScore": 99,
+          "home": "Raptors",
+          "homeScore": 129,
+          "note": ""
+        },
+        {
+          "away": "Warriors",
+          "awayScore": 119,
+          "home": "Timberwolves",
+          "homeScore": 114,
+          "note": "Close"
+        },
+        {
+          "away": "Rockets",
+          "awayScore": 132,
+          "home": "Bucks",
+          "homeScore": 100,
+          "note": ""
+        },
+        {
+          "away": "Knicks",
+          "awayScore": 133,
+          "home": "Bulls",
+          "homeScore": 127,
+          "note": ""
+        },
+        {
+          "away": "Nuggets",
+          "awayScore": 104,
+          "home": "Pelicans",
+          "homeScore": 91,
+          "note": ""
+        },
+        {
+          "away": "Spurs",
+          "awayScore": 117,
+          "home": "Jazz",
+          "homeScore": 111,
+          "note": "OT"
+        },
+        {
+          "away": "Thunder",
+          "awayScore": 96,
+          "home": "Mavericks",
+          "homeScore": 120,
+          "note": ""
+        },
+        {
+          "away": "Lakers",
+          "awayScore": 103,
+          "home": "Clippers",
+          "homeScore": 87,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Nikola Jokic",
+          "team": "Nuggets",
+          "line": "21 PTS · 13 REB · 10 AST",
+          "note": "His 200th career triple-double; only Westbrook has more."
+        },
+        {
+          "name": "Stephen Curry",
+          "team": "Warriors",
+          "line": "44 PTS · 8 REB",
+          "note": "Carried Golden State to a second straight win after an 0-3 start."
+        },
+        {
+          "name": "Victor Wembanyama",
+          "team": "Spurs",
+          "line": "36 PTS · 14 REB",
+          "note": "San Antonio closed overtime on a 12-0 run for its third straight win."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Timberwolves: Anthony Edwards needs arthroscopic right-knee surgery; reportedly out about two months",
+          "url": "https://www.hoopsrumors.com/2026/10/anthony-edwards-needs-knee-surgery-could-miss-two-months.html"
+        },
+        {
+          "text": "Thunder: Jalen Williams had surgery on a fractured left fibula and dislocated ankle; re-evaluation before season's end",
+          "url": "https://www.hoopsrumors.com/2026/10/jalen-williams-undergoes-surgery-will-be-re-evaluated-after-the-season.html"
+        },
+        {
+          "text": "Jazz: Jaren Jackson Jr. (torn right MCL) out at least six weeks; Lauri Markkanen (wrist sprain) day-to-day",
+          "url": "https://www.nba.com/news/jaren-jackson-jr-torn-mcl-october-2026"
+        },
+        {
+          "text": "Pacers: Tyrese Haliburton (mild left hamstring strain) week-to-week",
+          "url": "https://www.hoopsrumors.com/2026/10/tyrese-haliburton-to-miss-time-with-hamstring-strain.html"
+        },
+        {
+          "text": "Hornets signed Brandon Miller to a five-year, $208.8M extension",
+          "url": "https://www.hoopsrumors.com/2026/10/brandon-miller-hornets-agree-to-five-year-extension.html"
+        },
+        {
+          "text": "Mavericks exercised Zaccharie Risacher's fourth-year option ($17.4M for 2027-28)",
+          "url": "https://www.hoopsrumors.com/2026/10/mavericks-exercise-team-option-on-zaccharie-risacher.html"
+        },
+        {
+          "text": "Lakers signed Lawson Lovering to a two-way deal; waived AK Okereke",
+          "url": "https://www.hoopsrumors.com/2026/10/lakers-add-lovering-on-two-way-deal-waive-okereke.html"
+        },
+        {
+          "text": "Wizards: Justin Champagnie had right foot surgery; hope is a return by the All-Star break",
+          "url": "https://www.hoopsrumors.com/2026/10/wizards-justin-champagnie-undergoes-foot-surgery.html"
+        },
+        {
+          "text": "Mavericks CEO Rick Welts to retire at year's end; president Ethan Casson succeeds him",
+          "url": "https://www.hoopsrumors.com/2026/10/mavs-ceo-rick-welts-to-retire-casson-chosen-to-succeed-him.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "McDavid sets a season-opening assist record as the Oilers blank Calgary",
+      "stories": [
+        {
+          "headline": "McDavid sets season-opening assist record as Oilers blank Flames",
+          "summary": "Connor McDavid had two assists in Edmonton's 4-0 win over Calgary, giving him at least one in each of his first 13 games. That breaks the 12-game mark shared by Wayne Gretzky, Ken Linseman and Sebastian Aho. He leads the NHL with 36 points.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/calgary-flames-edmonton-oilers-game-recap-october-28-2026"
+        },
+        {
+          "headline": "Avalanche score four in the third to end Devils' streak",
+          "summary": "Colorado was tied 1-1 after two periods, then scored four times in the third to win 5-2 and end New Jersey's four-game winning streak. Jake Allen started for the Devils, not Connor Hellebuyck, and made 39 saves. Gabriel Landeskog scored and became the Avalanche's all-time hits leader.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/avalanche/news/game-recap-10-28-26"
+        },
+        {
+          "headline": "Montour wins it late as Kraken edge Maple Leafs",
+          "summary": "Brandon Montour scored with 32.7 seconds left for a 5-4 Seattle win after the Kraken let a two-goal lead slip in the third. Gavin McKenna had his first NHL two-goal game, and Auston Matthews tied it with the goalie pulled. Seattle is 8-4-1; Toronto (7-6-2) has lost two straight.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/toronto-maple-leafs-seattle-kraken-game-recap-october-28-2026"
+        },
+        {
+          "headline": "Flames lose Cooley and Othmann in Edmonton",
+          "summary": "Calgary goalie Devin Cooley left with a lower-body injury after Colton Dach ran into him in the crease, and forward Brennan Othmann left in the first with an upper-body injury. The shutout ended the Flames' four-game winning streak. The team gave no update on either player.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/calgary-flames-edmonton-oilers-game-recap-october-28-2026"
+        },
+        {
+          "headline": "Tuch and Kyrou score two each as Capitals handle Flyers",
+          "summary": "Alex Tuch and Jordan Kyrou each scored twice and Dylan Strome had three assists in Washington's 5-2 win over Philadelphia. Tuch has four goals in two games. The Flyers fall to 3-8-4.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/philadelphia-flyers-washington-capitals-game-recap-october-28-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Flyers",
+          "awayScore": 2,
+          "home": "Capitals",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Flames",
+          "awayScore": 0,
+          "home": "Oilers",
+          "homeScore": 4,
+          "note": ""
+        },
+        {
+          "away": "Devils",
+          "awayScore": 2,
+          "home": "Avalanche",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Maple Leafs",
+          "awayScore": 4,
+          "home": "Kraken",
+          "homeScore": 5,
+          "note": "Close"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Connor McDavid",
+          "team": "Oilers",
+          "line": "0 G · 2 A",
+          "note": "Assists in all 13 games to open the season, an NHL record."
+        },
+        {
+          "name": "Gavin McKenna",
+          "team": "Maple Leafs",
+          "line": "2 G · 1 A",
+          "note": "Two power-play goals for his first NHL two-goal game, in a 5-4 loss."
+        },
+        {
+          "name": "Tristan Jarry",
+          "team": "Oilers",
+          "line": "24 SV · 1.000 SV%",
+          "note": "Stopped all 24 shots for his first shutout of the season."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Oilers placed Zach Hyman (upper body) on IR; activated Jason Dickinson",
+          "url": "https://www.nhl.com/oilers/news/release-hyman-placed-on-ir-dickinson-activated"
+        },
+        {
+          "text": "Blue Jackets D Carson Soucy and Senators D Cameron Crotty placed on waivers",
+          "url": "https://www.dailyfaceoff.com/news/two-players-placed-nhl-waivers-october-28-carson-soucy-columbus-blue-jackets-cameron-crotty-ottawa-senators"
+        },
+        {
+          "text": "Penguins placed Elmer Soderblom (upper body) on IR; Justin Brazeau activated and loaned to AHL for conditioning",
+          "url": "https://www.yardbarker.com/nhl/articles/penguins_place_elmer_soderblom_on_injured_reserve_activate_justin_brazeau/s1_16958_44486814"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "in-season",
+      "summary": "Brewers win the World Series 4-1 · Contreras named MVP",
+      "stories": [
+        {
+          "headline": "Brewers win first World Series, beat Rays 4-1 in Game 5",
+          "summary": "Milwaukee closed out Tampa Bay 4-1 at Tropicana Field on Wednesday and took the series 4-1, a day after the Rays' 12-inning walk-off in Game 4. It's the first title in Brewers history and Milwaukee's first since the 1957 Braves. That leaves four franchises without one: the Mariners, Padres, Rays and Rockies.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/brewers-beat-rays-game-5-win-2026-world-series"
+        },
+        {
+          "headline": "Contreras named World Series MVP",
+          "summary": "Catcher William Contreras went 8-for-21 (.381) with four RBI in the Series, including an RBI double in the sixth inning of Game 5. He hit .373 across 13 postseason games and is the second catcher since 2000 to win the award, after Salvador Perez in 2025.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/brewers-earn-first-world-series-033816257.html"
+        },
+        {
+          "headline": "Misiorowski cramps up but leaves with a shutout going",
+          "summary": "Jacob Misiorowski threw 5 2/3 scoreless innings on two hits before a right calf cramp forced him out in the sixth. JoJo Romero, Abner Uribe and Trevor Megill finished it. Tampa Bay's only run came on Chandler Simpson's two-out RBI double off Megill in the ninth.",
+          "source": "AP (via Arizona Sports)",
+          "url": "https://arizonasports.com/mlb/brewers-beat-rays-4-1-in-game-5-to-win-1st-world-series-title-in-franchise-history"
+        },
+        {
+          "headline": "Astros aim to name GM before Nov. 10 meetings",
+          "summary": "Former Nationals GM Mike Rizzo met owner Jim Crane on Tuesday, and Houston wants a GM in place before the GM Meetings start Nov. 10. The manager hire to replace Joe Espada comes after that. The Brewers' Matt Kleine and the White Sox's Josh Barfield have also been linked to the job.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/astros-general-manager-candidates"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Brewers",
+          "awayScore": 4,
+          "home": "Rays",
+          "homeScore": 1,
+          "note": "WS Game 5 · MIL wins 4-1"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Jacob Misiorowski",
+          "team": "Brewers",
+          "line": "5.2 IP · 2 H · 0 ER · 2 K",
+          "note": "86 pitches, no runs, then a calf cramp in the sixth."
+        },
+        {
+          "name": "Cooper Pratt",
+          "team": "Brewers",
+          "line": "2-3 · 0 HR · 2 RBI",
+          "note": "Drove in the first run and set a World Series rookie record with hits in six straight plate appearances."
+        },
+        {
+          "name": "Chandler Simpson",
+          "team": "Rays",
+          "line": "2-4 · 0 HR · 1 RBI",
+          "note": "His two-out double in the ninth broke up the shutout."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Astros interviewed ex-Nationals GM Mike Rizzo, who met owner Jim Crane Tuesday",
+          "url": "https://www.mlb.com/news/astros-general-manager-candidates"
+        }
+      ]
+    }
+  ]
+}

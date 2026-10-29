@@ -291,6 +291,196 @@
     "Coolidge horror marathon, Sat",
     "Free: BLAIR Project, Sat"
   ],
-  "comedyShows": [],
+  "comedyShows": [
+    {
+      "comedian": "Marc Maron",
+      "date": "2026-11-06",
+      "time": "7:30 PM",
+      "startTime": "19:30",
+      "venue": "Chevalier Theatre",
+      "area": "Medford",
+      "note": "Yammering into the Void Tour",
+      "url": "https://chevaliertheatre.com/event/marc-maron-yammering-into-the-void-tour/"
+    },
+    {
+      "comedian": "Comics Come Home 30",
+      "date": "2026-11-07",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "TD Garden",
+      "area": "Boston",
+      "onSale": "On sale now",
+      "note": "Denis Leary hosts John Mulaney, Jimmy Fallon, Jon Stewart, Ray Romano, Leslie Jones and more",
+      "url": "https://www.ticketmaster.com/event/010064D0A4D3D305"
+    },
+    {
+      "comedian": "Tim Dillon",
+      "date": "2026-11-07",
+      "time": "9:45 PM",
+      "startTime": "21:45",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "price": "$49–$69",
+      "note": "Only show of the run with tickets left",
+      "url": "https://thewilbur.com/event/tim-dillon/"
+    },
+    {
+      "comedian": "Ben Schwartz & Friends",
+      "date": "2026-11-08",
+      "time": "3:30 & 7 PM",
+      "startTime": "19:00",
+      "venue": "Chevalier Theatre",
+      "area": "Medford",
+      "note": "Improv with friends",
+      "url": "https://chevaliertheatre.com/event/ben-schwartz-friends/"
+    },
+    {
+      "comedian": "Marlon Wayans",
+      "date": "2026-11-13",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "Lynn Memorial Auditorium",
+      "area": "Lynn",
+      "note": "Wild Child Tour",
+      "url": "https://www.thebostoncalendar.com/events/marlon-wayans-lynn-ma-wild-child-tour"
+    },
+    {
+      "comedian": "Ilana Glazer",
+      "date": "2026-11-17",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "price": "$30–$60",
+      "url": "https://thewilbur.com/event/ilana-glazer/"
+    },
+    {
+      "comedian": "Hannibal Buress",
+      "date": "2026-11-20",
+      "time": "7:30 PM",
+      "startTime": "19:30",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "url": "https://thewilbur.com/event/hannibal-buress/"
+    },
+    {
+      "comedian": "Ali Siddiq",
+      "date": "2026-11-21",
+      "time": "5 & 8 PM",
+      "startTime": "20:00",
+      "venue": "Shubert Theatre",
+      "area": "Boston",
+      "price": "From $35",
+      "onSale": "On sale now",
+      "note": "The Custom Fit Tour",
+      "url": "https://www.bochcenter.org/events/detail/alisiddiq"
+    },
+    {
+      "comedian": "Nikki Glaser",
+      "date": "2026-12-02",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "MGM Music Hall at Fenway",
+      "area": "Boston",
+      "price": "From $67",
+      "note": "The Stunning Tour · also Dec 3 and 4",
+      "url": "https://www.ticketmaster.com/nikki-glaser-the-stunning-tour-boston-massachusetts-12-02-2026/event/01006392CFED18E0"
+    },
+    {
+      "comedian": "Michelle Wolf",
+      "date": "2026-12-03",
+      "time": "7:30 PM",
+      "startTime": "19:30",
+      "venue": "Chevalier Theatre",
+      "area": "Medford",
+      "note": "Best Job in the World",
+      "url": "https://www.ticketmaster.com/event/010064A7CDDBEB67"
+    },
+    {
+      "comedian": "Gianmarco Soresi",
+      "date": "2026-12-03",
+      "time": "7:30 PM",
+      "startTime": "19:30",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "note": "Only night of the run with tickets left",
+      "url": "https://thewilbur.com/event/gianmarco-soresi/"
+    },
+    {
+      "comedian": "Brett Goldstein",
+      "date": "2026-12-06",
+      "time": "4 & 7 PM",
+      "startTime": "19:00",
+      "venue": "Wang Theatre",
+      "area": "Boston",
+      "price": "From $50",
+      "onSale": "On sale now",
+      "note": "Sex, Death & Small Talk",
+      "url": "https://www.bochcenter.org/events/detail/brettgoldstein"
+    },
+    {
+      "comedian": "Rob Schneider",
+      "date": "2026-12-11",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "Lynn Memorial Auditorium",
+      "area": "Lynn",
+      "url": "https://www.thebostoncalendar.com/events/rob-schneider-lynn-ma-2026-comedy-tour"
+    },
+    {
+      "comedian": "Matt Rogers",
+      "date": "2026-12-13",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "price": "From $48",
+      "note": "Holiday show",
+      "url": "https://thewilbur.com/event/matt-rogers/"
+    },
+    {
+      "comedian": "Bob Marley",
+      "date": "2026-12-26",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "price": "From $47",
+      "note": "Also Dec 30 at the Chevalier in Medford",
+      "url": "https://thewilbur.com/event/bob-marley-comedian-wilbur/"
+    },
+    {
+      "comedian": "Anthony Jeselnik",
+      "date": "2027-01-15",
+      "time": "10 PM",
+      "startTime": "22:00",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "price": "$49–$79",
+      "note": "Wrath of Man · only show of the run with tickets left",
+      "url": "https://thewilbur.com/event/anthony-jeselnik-wrath-of-man/"
+    },
+    {
+      "comedian": "Big Jay Oakerson",
+      "date": "2027-01-23",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "note": "The Greatest Yapper Alive Tour",
+      "url": "https://thewilbur.com/event/big-jay-oakerson/"
+    },
+    {
+      "comedian": "Leslie Jones",
+      "date": "2027-01-29",
+      "time": "7:30 PM",
+      "startTime": "19:30",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "price": "$49–$69",
+      "note": "I'm Hot Tour",
+      "url": "https://thewilbur.com/event/leslie-jones-im-hot-tour/"
+    }
+  ],
   "comedianWatchlist": []
 }

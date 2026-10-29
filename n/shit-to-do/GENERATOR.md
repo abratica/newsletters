@@ -1,6 +1,6 @@
 # Shit To Do: daily update instructions
 
-One living page of things for Andrew and Rachel to do around Somerville, Cambridge and Boston. It's refreshed every morning (by about 5 AM ET). There are **no past issues**: each run writes today's file, points `index.json` at it, and deletes the previous file.
+One living page of things for Andrew and Rachel to do around Somerville and greater Boston (Cambridge, Boston, Medford, Malden, Arlington, Watertown, Waltham, Newton, Brookline, Quincy and the rest of the inner suburbs). It's refreshed every morning (by about 5 AM ET). There are **no past issues**: each run writes today's file, points `index.json` at it, and deletes the previous file.
 
 Read `TASTE.md` and `watchlist.json` first. Today = the run date in America/New_York.
 
@@ -23,6 +23,7 @@ Keep the whole page scannable: about 15–25 events total.
 Sources (read the actual page; never list an event you haven't seen on a source):
 - Roundups: Boston Magazine "Things to do this week", WBUR weekend picks, Boston Globe things to do, do617 (`https://do617.com/events/YYYY/MM/DD`, free events), The Boston Calendar, Boston Hassle, Arts Fuse, MeetBoston, boston.gov events.
 - Somerville: Somerville Arts Council, Somerville Theatre events, Arts at the Armory, The Rockwell, Aeronaut Brewing, Bow Market, Union Square Main Streets, Davis Square, Assembly Row, Somerville Public Library (adult events only), Patch Somerville.
+- Greater Boston towns: Medford (Chevalier Theatre, Medford Square), Malden, Arlington (Regent Theatre, Arlington Center), Watertown (Mosesian Center, Arsenal Yards), Waltham (Moody Street, Charles River Museum), Newton, Brookline, Quincy, Lexington, Belmont; check each town's events calendar and Patch page.
 - Cambridge: The Sinclair, The Foundry, Brattle Theatre, Central Square Theater, Harvard Square and Kendall events.
 - House/techno vibe: EDMTrain Boston listing (day parties, open-air and brunch-type events; not every club night), Bassline Boston (After Brunch events), Royale, Big Night Live, Roadrunner, Bijou, Venu, Descent, rooftop and patio day parties (Eventbrite, posh.vip, RA / Resident Advisor Boston).
 - Film: Coolidge Corner Theatre, Brattle, Somerville Theatre, Harvard Film Archive.
@@ -36,6 +37,13 @@ For **every** artist in `watchlist.json`, search for a Boston-area show (Boston,
 - Shows stay until the date passes. Keep `added` from when it first appeared.
 - `onSale`: "On sale now", "On sale Fri, Nov 6, 10 AM", "Presale Wed, Nov 4", or "Sold out".
 - A newly found show is automatically flagged at the top of the Coming up tab the day it's added (and again in the last 2 days before the show).
+
+## Comedy (its own tab)
+Touring stand-up comedians playing greater Boston: Wilbur Theatre, Laugh Boston, Chevalier Theatre (Medford), Boch Center (Wang, Shubert), MGM Music Hall, TD Garden, Agganis, Orpheum, The Comedy Studio (Cambridge), Nick's Comedy Stop, Improv Asylum, Giggles (Saugus), Regent Theatre (Arlington), Mosesian Center (Watertown), Somerville Theatre, Lynn Auditorium, plus Ticketmaster/Songkick comedy listings.
+- **Notable comedians only** (national following: specials, big podcasts, theater/arena tours, well-known TV comics). No open mics, generic showcases or improv jams. Aim for about 15–30 shows.
+- Window: through about 3 months out. **No time limit** for comedians on the favorites list (`comedians` in `watchlist.json`): any announced greater-Boston date goes on.
+- Carry shows over day to day like events (keep `id` and `added`); drop past ones; add new ones with `added` = today. A newly added show by a favorite is flagged at the top of Coming up automatically.
+- Keep comedy shows out of `events` (no duplicates); a comedy festival or a one-off special comedy event can still go in `events`.
 
 ## Schema (`issues/YYYY-MM-DD.json`)
 ```json
@@ -64,7 +72,12 @@ For **every** artist in `watchlist.json`, search for a Boston-area show (Boston,
     { "artist": "John Summit", "date": "2026-10-29", "time": "7 PM", "startTime": "19:00", "venue": "TD Garden",
       "with": "Alok and Jackie Hollander", "onSale": "On sale now", "url": "https://...", "added": "2026-10-29" }
   ],
-  "watchlist": ["...copied from watchlist.json..."],
+  "comedyShows": [
+    { "comedian": "Nate Bargatze", "date": "2026-11-14", "time": "7 PM", "startTime": "19:00", "venue": "TD Garden", "area": "Boston",
+      "price": "$45–$150", "onSale": "On sale now", "note": "2 shows", "url": "https://...", "added": "2026-10-29" }
+  ],
+  "watchlist": ["...copied from watchlist.json watchlist..."],
+  "comedianWatchlist": ["...copied from watchlist.json comedians (may be empty)..."],
   "ticker": ["..."]
 }
 ```

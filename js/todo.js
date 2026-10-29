@@ -65,8 +65,8 @@
     if (ev.free) t.push(`<span class="std-tag t-free">Free</span>`);
     if (ev.endDate && daysBetween(today, ev.endDate) <= 3) t.push(`<span class="std-tag t-last">Last chance</span>`);
     for (const k of ev.tags || []) {
-      const lbl = { somerville: "Somerville", house: "House", djs: "DJs", comedy: "Comedy", film: "Film", food: "Food", market: "Market", outdoors: "Outdoors", music: "Live music" }[k];
-      if (lbl) t.push(`<span class="std-tag t-${k === "somerville" ? "som" : k === "house" || k === "djs" ? "house" : "plain"}">${lbl}</span>`);
+      const lbl = { fav: "★ On your list", somerville: "Somerville", house: "House", djs: "DJs", comedy: "Comedy", film: "Film", food: "Food", market: "Market", outdoors: "Outdoors", music: "Live music" }[k];
+      if (lbl) t.push(`<span class="std-tag t-${k === "fav" ? "pick" : k === "somerville" ? "som" : k === "house" || k === "djs" ? "house" : "plain"}">${lbl}</span>`);
     }
     return t.length ? `<div class="std-tags">${t.join("")}</div>` : "";
   }
@@ -120,16 +120,17 @@
     return nice(iso);
   }
 
-  function mast(data, ctx, djCount) {
+  function mast(data, ctx, djCount, favCount) {
     return `<header class="std-mast">
       <a class="std-back" href="${ctx.backHref}" aria-label="${esc(ctx.backLabel)}">‹ Newsletters</a>
       ${window.themeButton ? window.themeButton() : ""}
       <div class="std-sticker">FOR A + R</div>
       <h1 class="std-word"><span class="s">Shit</span><br>To Do<span class="dot" aria-hidden="true"></span></h1>
-      <p class="std-sub">Somerville · Cambridge · Boston — updated ${esc(nice(data.date))}</p>
+      <p class="std-sub">Somerville &amp; greater Boston — updated ${esc(nice(data.date))}</p>
       <nav class="std-tabs" role="tablist">
         <button class="std-tab on" data-tab="up" role="tab" aria-selected="true">Coming up</button>
-        <button class="std-tab" data-tab="dj" role="tab" aria-selected="false">DJs in town${djCount ? `<span class="n">${djCount}</span>` : ""}</button>
+        <button class="std-tab" data-tab="com" role="tab" aria-selected="false">Comedy${favCount ? `<span class="n">${favCount}</span>` : ""}</button>
+        <button class="std-tab" data-tab="dj" role="tab" aria-selected="false">DJs${djCount ? `<span class="n">${djCount}</span>` : ""}</button>
       </nav>
     </header>`;
   }
@@ -139,13 +140,25 @@
     const evs = data.events || [];
     const S = sections(evs, today);
     const shows = (data.djShows || []).filter((s) => s.date >= today).sort((a, b) => a.date.localeCompare(b.date));
+    const favs = new Set((data.comedianWatchlist || []).map((n) => n.toLowerCase()));
+    const slug = (t) => String(t).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+    const comedy = (data.comedyShows || []).filter((c) => c.date >= today).sort((a, b) => (a.date + (a.startTime || "99")).localeCompare(b.date + (b.startTime || "99")))
+      .map((c) => ({ ...c, id: c.id || `com-${c.date}-${slug(c.comedian)}`, name: c.comedian, linkLabel: "Tickets",
+        note: [c.note, c.onSale].filter(Boolean).join(" · "), fav: favs.has(c.comedian.toLowerCase()),
+        tags: favs.has(c.comedian.toLowerCase()) ? ["fav"] : [] }));
     const going = load(GK, []);
-    const plans = evs.filter((e) => going.includes(e.id) && (e.endDate || e.date) >= today);
+    const plans = [...evs, ...comedy].filter((e) => going.includes(e.id) && (e.endDate || e.date) >= today)
+      .sort((a, b) => (a.date < today ? today : a.date).localeCompare(b.date < today ? today : b.date));
 
     const alerts = shows.filter((s) => s.added === data.date || daysBetween(today, s.date) <= 2).map((s) => `
       <button class="std-alert" data-tab="dj">
         <span class="ic" aria-hidden="true">🎧</span>
         <span><b>${esc(s.artist)} · ${esc(djWhen(s.date, today).toLowerCase())}</b><span>${esc([s.venue, s.with ? `with ${s.with}` : ""].filter(Boolean).join(", "))}</span></span>
+        <span class="go" aria-hidden="true">›</span>
+      </button>`).join("") + comedy.filter((c) => c.fav && (c.added === data.date || daysBetween(today, c.date) <= 2)).map((c) => `
+      <button class="std-alert" data-tab="com">
+        <span class="ic" aria-hidden="true">🎤</span>
+        <span><b>${esc(c.comedian)} · ${esc(djWhen(c.date, today).toLowerCase())}</b><span>${esc([c.venue, c.area].filter(Boolean).join(", "))}</span></span>
         <span class="go" aria-hidden="true">›</span>
       </button>`).join("");
 
@@ -164,6 +177,23 @@
       ${S.week.length ? `<h3 class="std-h3">Still this week</h3>${list(S.week)}` : ""}
       ${S.ahead.length ? `<h3 class="std-h3">Plan ahead</h3>${list(S.ahead)}` : ""}
       <p class="std-foot">Updated every morning · past events drop off on their own</p>`;
+
+    const months = [];
+    for (const c of [...comedy.filter((c) => c.fav), ...comedy.filter((c) => !c.fav)]) {
+      const label = c.fav ? "On your list" : parse(c.date).toLocaleDateString("en-US", { timeZone: "UTC", month: "long", year: parse(c.date).getUTCFullYear() === parse(today).getUTCFullYear() ? undefined : "numeric" });
+      let m = months.find((x) => x.label === label); if (!m) months.push(m = { label, items: [] });
+      m.items.push(c);
+    }
+    const com = `
+      <h2 class="std-h2">Comedy around town</h2>
+      <div class="std-range">Touring comedians in greater Boston. Shows stay here until they've happened.</div>
+      ${months.map((m) => `<h3 class="std-h3">${esc(m.label)}</h3>${list(m.items)}`).join("")}
+      ${!comedy.length ? `<p class="std-empty">No comedy shows listed right now.</p>` : ""}
+      <div class="std-watch">
+        <h3 class="std-h3" style="margin:0">${(data.comedianWatchlist || []).length ? `Watching ${(data.comedianWatchlist || []).length} comedians` : "Your comedians"}</h3>
+        ${(data.comedianWatchlist || []).length ? `<div class="chips">${data.comedianWatchlist.map((n) => `<span class="std-chip${comedy.some((c) => c.fav && c.comedian.toLowerCase() === n.toLowerCase()) ? " hit" : ""}">${esc(n)}</span>`).join("")}</div>` : ""}
+        <p class="std-note">Tell Claude which comedians you love. Their shows go to the top of this tab, with no date limit, and get flagged on Coming up when they're announced.</p>
+      </div>`;
 
     const hits = new Set(shows.map((s) => s.artist));
     const dj = `
@@ -186,9 +216,10 @@
         <p class="std-note">When one of them announces a Boston show, it shows up here and gets flagged at the top of Coming up that morning. To add or drop a DJ, just tell Claude.</p>
       </div>`;
 
-    return `${mast(data, ctx, shows.length)}
+    return `${mast(data, ctx, shows.length, comedy.filter((c) => c.fav).length)}
       <main class="std-main">
         <section class="std-panel on" id="std-up" role="tabpanel">${up}</section>
+        <section class="std-panel" id="std-com" role="tabpanel">${com}</section>
         <section class="std-panel" id="std-dj" role="tabpanel">${dj}</section>
       </main>`;
   }

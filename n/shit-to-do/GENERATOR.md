@@ -24,14 +24,14 @@ Sources (read the actual page; never list an event you haven't seen on a source)
 - Roundups: Boston Magazine "Things to do this week", WBUR weekend picks, Boston Globe things to do, do617 (`https://do617.com/events/YYYY/MM/DD`, free events), The Boston Calendar, Boston Hassle, Arts Fuse, MeetBoston, boston.gov events.
 - Somerville: Somerville Arts Council, Somerville Theatre events, Arts at the Armory, The Rockwell, Aeronaut Brewing, Bow Market, Union Square Main Streets, Davis Square, Assembly Row, Somerville Public Library (adult events only), Patch Somerville.
 - Cambridge: The Sinclair, The Foundry, Brattle Theatre, Central Square Theater, Harvard Square and Kendall events.
-- House/techno vibe: Bassline Boston (After Brunch events), Royale, Big Night Live, Roadrunner, Bijou, Venu, Descent, rooftop and patio day parties (Eventbrite, posh.vip, RA / Resident Advisor Boston).
+- House/techno vibe: EDMTrain Boston listing (day parties, open-air and brunch-type events; not every club night), Bassline Boston (After Brunch events), Royale, Big Night Live, Roadrunner, Bijou, Venu, Descent, rooftop and patio day parties (Eventbrite, posh.vip, RA / Resident Advisor Boston).
 - Film: Coolidge Corner Theatre, Brattle, Somerville Theatre, Harvard Film Archive.
 WebFetch works for these; the shell can't reach the web.
 
 ## DJs in town
 **No time limit here.** The 4-week coverage window is for events only. Any announced Boston-area date for a watchlist DJ goes on the list, even if it's 6+ months out (next summer's festival, a spring arena date). It stays until the show has happened.
 
-For **every** artist in `watchlist.json`, search for a Boston-area show (Boston, Cambridge, Somerville, and the big nearby venues: TD Garden, MGM Music Hall, Roadrunner, Big Night Live, Royale, House of Blues, Agganis, Leader Bank Pavilion, Boch Center, festivals like Boston Calling). Search `"<Artist>" Boston 2026` and `"<Artist>" Boston 2027`, and check the artist's official tour page or Songkick/Bandsintown when available. Do this in batches so it doesn't take forever, but cover the whole list every day.
+For **every** artist in `watchlist.json`, search for a Boston-area show (Boston, Cambridge, Somerville, and the big nearby venues: TD Garden, MGM Music Hall, Roadrunner, Big Night Live, Royale, House of Blues, Agganis, Leader Bank Pavilion, Boch Center, festivals like Boston Calling). Search `"<Artist>" Boston 2026` and `"<Artist>" Boston 2027`, and check the artist's official tour page or Songkick/Bandsintown when available. **Check EDMTrain's Boston listing every day** (edmtrain.com; find the Boston/Massachusetts page via search): it lists electronic shows by city months ahead, so scan it for every watchlist name. Do this in batches so it doesn't take forever, but cover the whole list every day.
 - Only shows confirmed on an official page (artist, venue, promoter, or Ticketmaster/AXS listing).
 - Shows stay until the date passes. Keep `added` from when it first appeared.
 - `onSale`: "On sale now", "On sale Fri, Nov 6, 10 AM", "Presale Wed, Nov 4", or "Sold out".

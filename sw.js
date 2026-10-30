@@ -1,4 +1,4 @@
-const SHELL = "nl-shell-v16";
+const SHELL = "nl-shell-v17";
 const SHELL_FILES = ["./", "index.html", "manifest.webmanifest",
   "css/base.css", "css/home.css", "css/sports.css", "css/wire.css", "css/todo.css", "js/app.js", "js/sports.js", "js/wire.js", "js/todo.js",
   "icons/icon-192.png", "icons/icon-512.png",

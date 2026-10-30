@@ -604,3 +604,6 @@ body.view-sports .st-btn { font-family: var(--serif); font-weight: 800; font-siz
 .st-body .cut-note { margin: 8px 2px 0; font-size: 13px; color: var(--muted); }
 body.view-sports .bx-group { margin: 12px 0 4px; font-family: var(--display); font-weight: 700; font-size: 15px; color: var(--muted); letter-spacing: .02em; }
 body.view-sports .bx-pane > .bx-group:first-child { margin-top: 2px; }
+
+body.view-sports .yt-ext { position: absolute; left: 10px; bottom: 10px; background: rgba(0,0,0,.72); color: #fff; font-family: var(--serif); font-weight: 700; font-size: 12px; padding: 4px 8px; border-radius: 6px; }
+body.view-sports .yt-open { white-space: nowrap; color: var(--muted); font-size: 12.5px; text-decoration: underline; text-underline-offset: 2px; }

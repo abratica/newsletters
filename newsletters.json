@@ -5,7 +5,7 @@
       "name": "Boston Sports",
       "cadence": "Daily",
       "layout": "sports",
-      "base": "../boston-sports/"
+      "base": "../ps-sports/"
     },
     {
       "id": "league-wire",

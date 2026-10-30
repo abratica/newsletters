@@ -1,25 +1,11 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "weekendNote": "Halloween weekend",
   "events": [
     {
-      "id": "2026-10-29-halloween-at-the-museum",
-      "name": "Halloween at the Museum",
-      "date": "2026-10-29",
-      "time": "5–9 PM",
-      "startTime": "17:00",
-      "endTime": "21:00",
-      "venue": "Harvard Museum of Natural History",
-      "area": "Cambridge",
-      "free": true,
-      "why": "After-hours early Halloween night with a photo booth and the museum's \"Collecting Wonders\" exhibit; drinks for sale.",
-      "url": "https://wbur.org/news/2026/10/28/weekend-boston-halloween-cambridge-dia-de-los-muertos-celebrations",
-      "linkLabel": "Info"
-    },
-    {
       "id": "2026-10-29-halloween-boozaar",
       "name": "The Halloween BOOzaar",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "endDate": "2026-10-30",
       "time": "5–10 PM",
       "startTime": "17:00",
@@ -39,66 +25,48 @@
       "added": "2026-10-29"
     },
     {
-      "id": "2026-10-29-cujo-pet-sematary",
-      "name": "Cujo (35mm) + Pet Sematary (4K)",
-      "date": "2026-10-29",
-      "time": "7 PM & 8:45 PM",
-      "startTime": "19:00",
+      "id": "2026-10-30-halloween-on-birch",
+      "name": "Halloween on Birch",
+      "date": "2026-10-30",
+      "time": "6–10 PM",
+      "startTime": "18:00",
+      "endTime": "22:00",
+      "venue": "Birch St Plaza, Roslindale",
+      "area": "Boston",
+      "price": "Free",
+      "free": true,
+      "tags": [
+        "djs",
+        "outdoors"
+      ],
+      "why": "Free outdoor Halloween party on the Roslindale plaza with DJ Daoism, drinks and a costume contest.",
+      "url": "https://www.thebostoncalendar.com/events/halloween-on-birch",
+      "linkLabel": "Info",
+      "added": "2026-10-30"
+    },
+    {
+      "id": "2026-10-30-vincent-price-double-feature",
+      "name": "Vincent Price double feature with Victoria Price",
+      "date": "2026-10-30",
+      "time": "7:15 PM",
+      "startTime": "19:15",
       "venue": "Somerville Theatre",
       "area": "Davis Sq",
-      "note": "Two separate tickets",
+      "note": "House on Haunted Hill (35mm) 7:15, Dragonwyck 9 PM",
       "tags": [
         "somerville",
         "film"
       ],
-      "why": "A Stephen King pairing in the Halloween Hullabaloo series: Cujo on 35mm at 7, Pet Sematary in 4K at 8:45.",
+      "why": "Vincent Price's daughter introduces House on Haunted Hill on 35mm and Dragonwyck, with a Q&A between them. A Halloween-weekend Friday in Davis Square.",
       "url": "https://www.somervilletheatre.com/halloween-hullabaloo/",
       "linkLabel": "Tickets",
-      "added": "2026-10-29"
-    },
-    {
-      "id": "2026-10-29-nosferatu-live-score",
-      "name": "Nosferatu with live score",
-      "date": "2026-10-29",
-      "time": "7:30–9:30 PM",
-      "startTime": "19:30",
-      "endTime": "21:30",
-      "venue": "Marran Theater, Lesley University",
-      "area": "Cambridge",
-      "price": "$30",
-      "tags": [
-        "film",
-        "music"
-      ],
-      "why": "Arpeggione plays the original 1922 score live on period instruments.",
-      "url": "https://www.zeffy.com/en-US/ticketing/nosferatu-cambridge",
-      "linkLabel": "Tickets",
-      "added": "2026-10-29"
-    },
-    {
-      "id": "2026-10-29-rocky-horror-armory",
-      "name": "Rocky Horror with the Teseracte Players",
-      "date": "2026-10-29",
-      "time": "8 PM",
-      "startTime": "20:00",
-      "endTime": "22:00",
-      "venue": "Arts at the Armory",
-      "area": "Somerville",
-      "price": "$29.37",
-      "note": "Doors 7 PM; Somerville Theatre's Sat show is sold out",
-      "tags": [
-        "somerville",
-        "film"
-      ],
-      "why": "Audience-participation screening with a live shadow cast and a bar.",
-      "url": "https://www.eventbrite.com/e/arts-at-the-armory-presents-the-rocky-horror-picture-show-tickets-2002087425384",
-      "linkLabel": "Tickets",
-      "added": "2026-10-29"
+      "added": "2026-10-29",
+      "pick": true
     },
     {
       "id": "2026-10-31-cirque-of-the-dead",
       "name": "Cirque of the Dead",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "endDate": "2026-10-31",
       "venue": "Arts at the Armory",
       "area": "Somerville",
@@ -113,7 +81,7 @@
     {
       "id": "2026-11-08-boston-lights",
       "name": "Boston Lights: A Lantern Experience",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "endDate": "2026-11-08",
       "venue": "Franklin Park Zoo",
       "area": "Roxbury",
@@ -121,25 +89,6 @@
       "why": "Lantern walk through the zoo after dark. A good date night before it closes Nov 8.",
       "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
       "linkLabel": "Info"
-    },
-    {
-      "id": "2026-10-30-vincent-price-double-feature",
-      "name": "Vincent Price double feature with Victoria Price",
-      "date": "2026-10-30",
-      "time": "7:15 PM",
-      "startTime": "19:15",
-      "venue": "Somerville Theatre",
-      "area": "Davis Sq",
-      "note": "House on Haunted Hill (35mm) 7:15, Dragonwyck 9 PM",
-      "pick": true,
-      "tags": [
-        "somerville",
-        "film"
-      ],
-      "why": "Vincent Price's daughter introduces House on Haunted Hill on 35mm and Dragonwyck, with a Q&A between them. A Halloween-weekend Friday in Davis Square.",
-      "url": "https://www.somervilletheatre.com/halloween-hullabaloo/",
-      "linkLabel": "Tickets",
-      "added": "2026-10-29"
     },
     {
       "id": "2026-10-31-blair-project",
@@ -179,6 +128,23 @@
       "url": "https://www.thebostoncalendar.com/events/halloween-bonanza-at-aeronaut--2",
       "linkLabel": "Info",
       "added": "2026-10-29"
+    },
+    {
+      "id": "2026-10-31-carnevil-envoy-rooftop",
+      "name": "CARNEVIL: Halloween at Envoy Rooftop",
+      "date": "2026-10-31",
+      "time": "6–10 PM",
+      "startTime": "18:00",
+      "endTime": "22:00",
+      "venue": "Envoy Hotel Rooftop",
+      "area": "Boston",
+      "tags": [
+        "djs"
+      ],
+      "why": "Early-evening Halloween DJ party on the Envoy's Seaport rooftop, part of its Boston Rooftop Series.",
+      "url": "https://www.eventbrite.com/e/boston-rooftop-series-at-the-envoy-rooftop-halloween-night-tickets-2000049107721",
+      "linkLabel": "Tickets",
+      "added": "2026-10-30"
     },
     {
       "id": "2026-10-31-after-brunch-amal-nemer",
@@ -271,7 +237,6 @@
       "area": "Somerville",
       "free": true,
       "note": "RSVP on Ticket Tailor; rain date Nov 2",
-      "pick": true,
       "tags": [
         "somerville",
         "market",
@@ -282,7 +247,8 @@
       "why": "Courtyard celebration with a community ofrenda, live cumbia, a DJ, mariachi, Mexican food and drink, and vendors. Free, and pairs with The Eleventh Year at Somerville Theatre that afternoon.",
       "url": "https://www.thebostoncalendar.com/events/dia-de-los-muertos-at-bow-market--4",
       "linkLabel": "Info",
-      "added": "2026-10-29"
+      "added": "2026-10-29",
+      "pick": true
     },
     {
       "id": "2026-11-01-16mm-horror-marathon",
@@ -317,6 +283,37 @@
       "url": "https://ma.to/venue/somerville_theatre",
       "linkLabel": "Info",
       "added": "2026-10-29"
+    },
+    {
+      "id": "2026-11-04-behemoth-iffboston-closing",
+      "name": "IFFBoston Fall Focus closing night: Behemoth!",
+      "date": "2026-11-04",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "tags": [
+        "film"
+      ],
+      "why": "Closing-night preview of Tony Gilroy's new film starring Pedro Pascal.",
+      "url": "https://brattlefilm.org/film-series/iffboston-fall-focus/",
+      "linkLabel": "Info",
+      "added": "2026-10-30"
+    },
+    {
+      "id": "2026-11-05-begotten-brattle",
+      "name": "Begotten (restoration)",
+      "date": "2026-11-05",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "note": "Run opens Nov 5",
+      "tags": [
+        "film"
+      ],
+      "why": "Restored run of E. Elias Merhige's 1991 experimental cult horror film.",
+      "url": "https://www.cambridgeday.com/2026/10/29/prestige-pictures-and-haunted-happenings/",
+      "linkLabel": "Info",
+      "added": "2026-10-30"
     },
     {
       "id": "2026-11-06-antiquarian-book-fair",
@@ -422,6 +419,25 @@
       "linkLabel": "Tickets"
     },
     {
+      "id": "2026-11-14-ciderfeast-boston",
+      "name": "CiderFeast Boston",
+      "date": "2026-11-14",
+      "time": "12–4 PM",
+      "startTime": "12:00",
+      "endTime": "16:00",
+      "venue": "Lithuanian Citizens Association, South Boston",
+      "area": "Boston",
+      "price": "$45 GA; $65 VIP",
+      "note": "21+",
+      "tags": [
+        "food"
+      ],
+      "why": "All-inclusive tasting of craft ciders and sours.",
+      "url": "https://happeningnext.com/event/ciderfeast-boston-2026-eid1ef0kvpuaewa",
+      "linkLabel": "Info",
+      "added": "2026-10-30"
+    },
+    {
       "id": "2026-11-14-comedy-festival-finals",
       "name": "Boston Comedy Festival Contest Finals",
       "date": "2026-11-14",
@@ -476,16 +492,6 @@
   ],
   "djShows": [
     {
-      "artist": "John Summit",
-      "date": "2026-10-29",
-      "time": "7 PM",
-      "startTime": "19:00",
-      "venue": "TD Garden",
-      "with": "Alok and Jackie Hollander",
-      "onSale": "On sale now",
-      "url": "https://www.tdgarden.com/events/detail/john-summit"
-    },
-    {
       "artist": "CamelPhat",
       "date": "2026-11-06",
       "time": "Doors 10 PM",
@@ -529,6 +535,17 @@
   ],
   "comedyShows": [
     {
+      "comedian": "Jeff Allen",
+      "date": "2026-10-31",
+      "time": "4 PM",
+      "startTime": "16:00",
+      "venue": "Laugh Boston",
+      "area": "Boston",
+      "onSale": "On sale now",
+      "url": "https://comedy.tickets/venue/laugh-boston/",
+      "added": "2026-10-30"
+    },
+    {
       "comedian": "Michael Rapaport",
       "date": "2026-11-04",
       "time": "7 PM",
@@ -537,6 +554,26 @@
       "area": "Boston",
       "url": "https://comedy.tickets/venue/laugh-boston/",
       "added": "2026-10-29"
+    },
+    {
+      "comedian": "Nicole Byer & Sasheer Zamata (Best Friends Podcast live)",
+      "date": "2026-11-04",
+      "time": "7:30 PM",
+      "startTime": "19:30",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "onSale": "On sale now",
+      "url": "https://thewilbur.com/event/best-friends-podcast/",
+      "added": "2026-10-30"
+    },
+    {
+      "comedian": "Joanne McNally",
+      "date": "2026-11-05",
+      "venue": "Arts at the Armory",
+      "area": "Somerville",
+      "onSale": "On sale now",
+      "url": "https://www.songkick.com/concerts/43096195-joanne-mcnally-at-center-for-arts-at-the-armory",
+      "added": "2026-10-30"
     },
     {
       "comedian": "Marc Maron",
@@ -726,6 +763,18 @@
       "url": "https://thewilbur.com/event/gianmarco-soresi/"
     },
     {
+      "comedian": "Rosebud Baker",
+      "date": "2026-12-05",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "Crystal Ballroom, Somerville Theatre",
+      "area": "Somerville",
+      "onSale": "On sale now",
+      "note": "Paper Bag Princess Tour",
+      "url": "https://www.eventticketscenter.com/rosebud-baker-somerville-tickets/1416178/e",
+      "added": "2026-10-30"
+    },
+    {
       "comedian": "Brett Goldstein",
       "date": "2026-12-06",
       "time": "4 & 7 PM",
@@ -801,6 +850,17 @@
       "added": "2026-10-29"
     },
     {
+      "comedian": "Bob Marley",
+      "date": "2026-12-30",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "Chevalier Theatre",
+      "area": "Medford",
+      "onSale": "On sale now",
+      "url": "https://comedy.tickets/venue/chevalier-theatre/",
+      "added": "2026-10-30"
+    },
+    {
       "comedian": "Kyle Kinane",
       "date": "2027-01-07",
       "time": "7 PM",
@@ -823,6 +883,18 @@
       "url": "https://thewilbur.com/event/anthony-jeselnik-wrath-of-man/"
     },
     {
+      "comedian": "Aaron Chen",
+      "date": "2027-01-22",
+      "time": "7:30 PM",
+      "startTime": "19:30",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "price": "From $39",
+      "onSale": "On sale now",
+      "url": "https://thewilbur.com/event/aaron-chen-technology/",
+      "added": "2026-10-30"
+    },
+    {
       "comedian": "Big Jay Oakerson",
       "date": "2027-01-23",
       "time": "7 PM",
@@ -842,6 +914,30 @@
       "price": "$49–$69",
       "note": "I'm Hot Tour",
       "url": "https://thewilbur.com/event/leslie-jones-im-hot-tour/"
+    },
+    {
+      "comedian": "Giggly Squad (Hannah Berner & Paige DeSorbo)",
+      "date": "2027-01-30",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "Chevalier Theatre",
+      "area": "Medford",
+      "onSale": "On sale now",
+      "note": "Also Jan 31",
+      "url": "https://chevaliertheatre.com/event/giggly-squad-the-gehls-gehl-tour/",
+      "added": "2026-10-30"
+    },
+    {
+      "comedian": "Des Bishop",
+      "date": "2027-01-30",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "price": "$35–$45",
+      "onSale": "Sold out",
+      "url": "https://thewilbur.com/event/des-bishop-grey-area-tour/",
+      "added": "2026-10-30"
     }
   ],
   "watchlist": [

@@ -1,0 +1,432 @@
+{
+  "date": "2026-10-30",
+  "headline": "Titans trade Jeffery Simmons to Bears for two firsts",
+  "ticker": [
+    "Simmons dealt to Bears",
+    "DET suspends Larkin",
+    "Packers 27, Panthers 19",
+    "Grizzlies 124, Blazers 103",
+    "Kochetkov 9-0 to start"
+  ],
+  "top": [
+    {
+      "league": "nfl",
+      "headline": "Titans trade Jeffery Simmons to Bears for two firsts",
+      "summary": "Tennessee sent its four-time Pro Bowl defensive tackle and a 2028 fifth-round pick to Chicago for 2027 and 2028 first-round picks plus a 2027 fourth. The deal is pending a physical. Simmons had said that as far as he knew, he was staying. The Titans are now openly selling, with the Nov. 10 deadline 12 days out.",
+      "source": "Tennessee Titans",
+      "url": "https://www.tennesseetitans.com/news/titans-trade-dt-jeffery-simmons-to-the-chicago-bears-in-exchange-for-two-first-round-picks"
+    },
+    {
+      "league": "nhl",
+      "headline": "Red Wings suspend Larkin, will hold him out until he's traded",
+      "summary": "Detroit suspended Dylan Larkin without pay Thursday, hours before playing Chicago, after he told the team he would no longer play for the Red Wings. He asked for a trade in the offseason, was stripped of the captaincy Sept. 11 and has five years left on his contract. Interim GM Shawn Horcoff says he'll 'wait as long as necessary' for a deal that brings immediate help, and Larkin's list of acceptable teams makes that hard.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/dylan-larkin-will-no-longer-play-for-detroit-red-wings"
+    },
+    {
+      "league": "nfl",
+      "headline": "Packers hold off late Panthers push, 27-19",
+      "summary": "Jordan Love threw three touchdowns and Josh Jacobs scored twice, once rushing and once receiving, as Green Bay built a 27-10 lead and held on at Lambeau. Carolina got within eight on Jalen Coker's 26-yard touchdown with 5:37 left, then turned it over on downs, and a Dani Dennis-Sutton sack ended the last drive. Green Bay sacked Bryce Young six times and moves to 5-3; Carolina falls to 3-4 but is still tied for first in the NFC South.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/recap?gameId=401873023"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Titans send Jeffery Simmons to Chicago; Packers beat Panthers 27-19 on TNF",
+      "stories": [
+        {
+          "headline": "Titans trade Jeffery Simmons to Bears for two firsts",
+          "summary": "Tennessee sent its four-time Pro Bowl defensive tackle and a 2028 fifth-round pick to Chicago for 2027 and 2028 first-round picks plus a 2027 fourth. The deal is pending a physical. Simmons had said that as far as he knew, he was staying. The Titans are now openly selling, with the Nov. 10 deadline 12 days out.",
+          "source": "Tennessee Titans",
+          "url": "https://www.tennesseetitans.com/news/titans-trade-dt-jeffery-simmons-to-the-chicago-bears-in-exchange-for-two-first-round-picks"
+        },
+        {
+          "headline": "Packers hold off late Panthers push, 27-19",
+          "summary": "Jordan Love threw three touchdowns and Josh Jacobs scored twice, once rushing and once receiving, as Green Bay built a 27-10 lead and held on at Lambeau. Carolina got within eight on Jalen Coker's 26-yard touchdown with 5:37 left, then turned it over on downs, and a Dani Dennis-Sutton sack ended the last drive. Green Bay sacked Bryce Young six times and moves to 5-3; Carolina falls to 3-4 but is still tied for first in the NFC South.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/recap?gameId=401873023"
+        },
+        {
+          "headline": "Christian Watson breaks a rib, returns anyway",
+          "summary": "Watson broke a rib and hurt his chest on a 53-yard catch Thursday. He went to the hospital and came back to the game after a CT scan showed no internal bleeding. He had 100 receiving yards before he left and finished with 113, so Green Bay's top deep threat now has a rib to manage.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/recap?gameId=401873023"
+        },
+        {
+          "headline": "Lamar Jackson practices fully again",
+          "summary": "Jackson was a full participant Thursday for the second straight day after missing three games with a high ankle sprain. Baltimore hosts Buffalo on Sunday, and its quarterback looks on track to be there.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-29"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Panthers",
+          "awayScore": 19,
+          "home": "Packers",
+          "homeScore": 27,
+          "note": "Close"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Jordan Love",
+          "team": "Packers",
+          "line": "30-41 · 288 YDS · 3 TD · 1 INT",
+          "note": "Went 14 of 16 for 126 yards and two touchdowns against Carolina's blitzes."
+        },
+        {
+          "name": "Christian Watson",
+          "team": "Packers",
+          "line": "8 REC · 113 YDS · 0 TD",
+          "note": "Had 100 yards by the second quarter, then broke a rib and came back from a hospital trip."
+        },
+        {
+          "name": "Chuba Hubbard",
+          "team": "Panthers",
+          "line": "22 CAR · 81 YDS · 1 TD",
+          "note": "Added a career-high seven catches for 38 yards."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Bears acquired DT Jeffery Simmons and a 2028 fifth from Titans for 2027 and 2028 firsts and a 2027 fourth (pending physical)",
+          "url": "https://www.nfl.com/news/nfl-trade-deadline-track-every-move-since-start-of-2026-regular-season"
+        },
+        {
+          "text": "Panthers placed CB Akayleb Evans (triceps) on IR",
+          "url": "https://www.rotowire.com/football/headlines/akayleb-evans-injury-placed-on-ir-645010"
+        },
+        {
+          "text": "Texans claimed RB Emari Demercado off waivers from Dallas; placed WR Jaylin Noel on IR",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Eagles placed RB Dameon Pierce on IR; promoted RB Jaydon Blue",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "49ers released CB Jack Jones",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Dolphins claimed G Christian Haynes off waivers from Seattle; waived G D.J. Campbell",
+          "url": "https://www.espn.com/nfl/transactions"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Boozer's triple-double keeps Memphis 5-0; Ja Morant hurts a hamstring against his old team",
+      "stories": [
+        {
+          "headline": "Boozer triple-double keeps Grizzlies perfect",
+          "summary": "Memphis won 124-103 in Portland as a 7.5-point underdog to go 5-0. Cameron Boozer had 18 points, 12 rebounds and 12 assists for his first career triple-double; at 19 he is the second-youngest player to record one. The Grizzlies pulled away by outscoring the Blazers 33-20 in the fourth.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/cameron-boozer-dominates-blazers-historic-060924570.html"
+        },
+        {
+          "headline": "Ja Morant leaves first game against Memphis with hamstring injury",
+          "summary": "Morant left in the fourth quarter with a left hamstring injury in his first game against the team he played his first seven seasons for. Coach Micah Nori said he felt a twinge and that more would be known Friday. Portland took its first loss, and its new lead guard is now a question mark.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/50325662/trail-blazers-ja-morant-exit-grizzlies-hamstring-injury"
+        },
+        {
+          "headline": "Pelicans get their first win; Kings fall to 0-5",
+          "summary": "New Orleans beat Sacramento 132-120 for its first win under Jamahl Mosley. Jeremiah Fears had 22 points, 8 rebounds and a career-high 13 assists, and Zion Williamson scored 22 on 10-of-12 shooting. The Kings committed 25 turnovers and were outscored 41-8 off the bench, wasting a season-high 34 from rookie Darius Acuff Jr.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909894"
+        },
+        {
+          "headline": "Hawks erase 15-point hole to beat Cavs",
+          "summary": "Atlanta trailed by 15 after the first quarter, its fourth straight game down at least 15, and won 114-111 to end a three-game skid. Onyeka Okongwu had a season-high 29 points and 12 rebounds. Donovan Mitchell missed two chances to tie on the final possession.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909893"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Cavaliers",
+          "awayScore": 111,
+          "home": "Hawks",
+          "homeScore": 114,
+          "note": "Close"
+        },
+        {
+          "away": "Kings",
+          "awayScore": 120,
+          "home": "Pelicans",
+          "homeScore": 132,
+          "note": ""
+        },
+        {
+          "away": "Grizzlies",
+          "awayScore": 124,
+          "home": "Trail Blazers",
+          "homeScore": 103,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Cameron Boozer",
+          "team": "Grizzlies",
+          "line": "18 PTS · 12 REB · 12 AST · 6-10 FG",
+          "note": "First career triple-double, in 28 minutes; second-youngest ever to record one."
+        },
+        {
+          "name": "Darius Acuff Jr.",
+          "team": "Kings",
+          "line": "34 PTS · 6 REB · 14 AST · 13-26 FG",
+          "note": "A season high for the rookie, and Sacramento is still winless."
+        },
+        {
+          "name": "Onyeka Okongwu",
+          "team": "Hawks",
+          "line": "29 PTS · 12 REB · 2 AST",
+          "note": "Season-high scoring as Atlanta snapped a three-game skid."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Knicks declined Pacome Dadiet's $5.37M fourth-year option for 2027-28",
+          "url": "https://www.hoopsrumors.com/2026/10/knicks-declining-fourth-year-option-on-pacome-dadiet.html"
+        },
+        {
+          "text": "Trail Blazers exercised 2027-28 options on Donovan Clingan ($9.55M) and Yang Hansen ($4.86M)",
+          "url": "https://www.hoopsrumors.com/2026/10/blazers-pick-up-options-on-donovan-clingan-yang-hansen.html"
+        },
+        {
+          "text": "Nets exercised third-year options on Egor Demin, Nolan Traore, Drake Powell, Ben Saraf and Danny Wolf",
+          "url": "https://www.hoopsrumors.com/2026/10/nets-exercise-2027-28-options-on-five-players.html"
+        },
+        {
+          "text": "76ers granted a $1.7M disabled player exception for Ariel Hukporti (torn Achilles, out for season)",
+          "url": "https://www.hoopsrumors.com/2026/10/sixers-apply-for-disabled-player-exception-for-hukporti.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Detroit suspends Larkin until he's traded; Kochetkov opens 9-0",
+      "stories": [
+        {
+          "headline": "Red Wings suspend Larkin, will hold him out until he's traded",
+          "summary": "Detroit suspended Dylan Larkin without pay Thursday, hours before playing Chicago, after he told the team he would no longer play for the Red Wings. He asked for a trade in the offseason, was stripped of the captaincy Sept. 11 and has five years left on his contract. Interim GM Shawn Horcoff says he'll 'wait as long as necessary' for a deal that brings immediate help, and Larkin's list of acceptable teams makes that hard.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/dylan-larkin-will-no-longer-play-for-detroit-red-wings"
+        },
+        {
+          "headline": "Kochetkov sets Hurricanes record with nine straight wins to open the season",
+          "summary": "Pyotr Kochetkov made 24 saves in a 3-2 win over Columbus and is 9-0. That passes Frederik Andersen's franchise mark of eight wins to start a season, set in 2021-22. Carolina is 11-2-2 and has won 11 of 13.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/columbus-blue-jackets-carolina-hurricanes-game-recap-october-29-2026"
+        },
+        {
+          "headline": "Jets lose seventh straight",
+          "summary": "Winnipeg lost 6-4 in Tampa as Pontus Holmberg had a career-high four points and Stuart Skinner was pulled after five goals on 21 shots. The Jets are 0-5-2 in their last seven and 4-6-3 overall. Scott Arniel pointed to three goals allowed in a three-minute stretch late in the second.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/winnipeg-jets-tampa-bay-lightning-game-recap-october-29-2026"
+        },
+        {
+          "headline": "Cooley ties it with one second left, Mammoth win in OT",
+          "summary": "Pittsburgh native Logan Cooley completed a hat trick with one second left in regulation to tie it 3-3, and Mikhail Sergachev won it at 3:27 of overtime. NHL.com says it was only the 10th game where teams traded go-ahead and tying goals in the final 30 seconds of regulation, the first since April 2015. Utah is 9-5-0.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/utah-mammoth-pittsburgh-penguins-game-recap-october-29-2026"
+        },
+        {
+          "headline": "Schaefer wins it in OT; Islanders lose Pulock early",
+          "summary": "Matthew Schaefer scored twice, including the winner 33 seconds into overtime, in a 4-3 win at Minnesota. He's the first teenage defenseman with three career OT goals. Ryan Pulock left after two shifts with an upper-body injury, and Peter DeBoer had no update.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/new-york-islanders-minnesota-wild-game-recap-october-29-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Mammoth",
+          "awayScore": 4,
+          "home": "Penguins",
+          "homeScore": 3,
+          "note": "OT"
+        },
+        {
+          "away": "Islanders",
+          "awayScore": 4,
+          "home": "Wild",
+          "homeScore": 3,
+          "note": "OT"
+        },
+        {
+          "away": "Sabres",
+          "awayScore": 7,
+          "home": "Ducks",
+          "homeScore": 6,
+          "note": "Close"
+        },
+        {
+          "away": "Canucks",
+          "awayScore": 2,
+          "home": "Sharks",
+          "homeScore": 3,
+          "note": "Close"
+        },
+        {
+          "away": "Blue Jackets",
+          "awayScore": 2,
+          "home": "Hurricanes",
+          "homeScore": 3,
+          "note": "Close"
+        },
+        {
+          "away": "Capitals",
+          "awayScore": 4,
+          "home": "Predators",
+          "homeScore": 3,
+          "note": "Close"
+        },
+        {
+          "away": "Jets",
+          "awayScore": 4,
+          "home": "Lightning",
+          "homeScore": 6,
+          "note": ""
+        },
+        {
+          "away": "Blackhawks",
+          "awayScore": 1,
+          "home": "Red Wings",
+          "homeScore": 4,
+          "note": ""
+        },
+        {
+          "away": "Canadiens",
+          "awayScore": 5,
+          "home": "Stars",
+          "homeScore": 2,
+          "note": ""
+        },
+        {
+          "away": "Bruins",
+          "awayScore": 1,
+          "home": "Blues",
+          "homeScore": 4,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Tage Thompson",
+          "team": "Sabres",
+          "line": "3 G · 2 A",
+          "note": "A natural hat trick, his 10th career hat trick, in a 7-6 win at Anaheim."
+        },
+        {
+          "name": "Viktor Arvidsson",
+          "team": "Red Wings",
+          "line": "3 G · 1 A",
+          "note": "Sixth career hat trick on the night Detroit suspended Larkin."
+        },
+        {
+          "name": "Pyotr Kochetkov",
+          "team": "Hurricanes",
+          "line": "24 SV · .923 SV%",
+          "note": "Now 9-0, a Hurricanes record to open a season."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Red Wings suspended Dylan Larkin without pay; he'll stay out until traded",
+          "url": "https://www.nhl.com/news/dylan-larkin-will-no-longer-play-for-detroit-red-wings"
+        },
+        {
+          "text": "Wild placed D Jared Spurgeon on IR (week-to-week)",
+          "url": "https://www.rotowire.com/hockey/headlines/jared-spurgeon-injury-heads-to-ir-597745"
+        },
+        {
+          "text": "Stars waived F Cameron Hughes; recalled D Trey Taylor",
+          "url": "https://prohockeyrumors.com/2026/10/stars-activate-waive-cameron-hughes.html"
+        },
+        {
+          "text": "Penguins activated Ben Kindel and Sam Girard from IR",
+          "url": "https://www.prohockeyrumors.com/2026/10/penguins-announce-multiple-roster-moves-3.html"
+        },
+        {
+          "text": "Panthers: Barkov about four weeks from return, Marchand about three, per Paul Maurice",
+          "url": "https://www.tsn.ca/nhl/article/ice-chips-panthers-barkov-marchand-progressing-in-recovery/"
+        },
+        {
+          "text": "Sharks recalled Filip Bystedt (NHL debut Thursday) and Libor Hajek",
+          "url": "https://www.cbssports.com/nhl/transactions/"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Brewers parade today, option decisions roll in",
+      "stories": [
+        {
+          "headline": "Milwaukee throws its first title parade",
+          "summary": "The Brewers' parade starts at 10 a.m. CT today downtown and ends with a rally at Henry Maier Festival Park. It's the franchise's first championship celebration; the last Brewers parade, in 1982, followed a Game 7 loss.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/brewers-2026-world-series-championship-parade"
+        },
+        {
+          "headline": "Michael King walks away from $53MM",
+          "summary": "King declined his $28MM 2027 player option with the Padres and took a $5MM buyout, also giving up a $30MM option for 2028. He's coming off a 3.21 ERA over 32 starts. MLB Trade Rumors projects a multi-year deal around $100MM.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/10/michael-king-declines-player-option.html"
+        },
+        {
+          "headline": "Offseason opens with a lockout looming",
+          "summary": "Free agency opened Thursday; players can sign with new teams starting Nov. 2, also the deadline for options and qualifying offers ($23.15MM). The CBA expires Dec. 1, and MLBTR says 'virtually everyone in the industry' expects a lockout.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/10/the-2026-27-offseason-begins.html"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Braves exercised 2027 options on Ronald Acuña Jr. ($17MM) and Ozzie Albies ($7MM)",
+          "url": "https://www.mlbtraderumors.com/2026/10/braves-exercise-options-on-ronald-acuna-ozzie-albies.html"
+        },
+        {
+          "text": "Padres RHP Michael King declined $28MM player option",
+          "url": "https://www.mlbtraderumors.com/2026/10/michael-king-declines-player-option.html"
+        },
+        {
+          "text": "Cubs RHP Clay Holmes declined $12MM player option",
+          "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-10-29/holmes-declines-player-option-becomes-free-agent"
+        },
+        {
+          "text": "Mariners exercised Andrés Muñoz's $9MM option; declined Bryce Miller and Victor Robles",
+          "url": "https://www.mlbtraderumors.com/2026/10/mariners-exercise-option-andres-munoz-decline-bryce-miller-victor-robles.html"
+        },
+        {
+          "text": "Royals exercised Tony Gonsolin's option; declined Carlos Estévez's $13MM option",
+          "url": "https://www.mlbtraderumors.com/2026/10/royals-exercise-club-option-on-tony-gonsolin-decline-carlos-estevez.html"
+        },
+        {
+          "text": "Orioles RHP Ryan Helsley to exercise $14MM player option (report)",
+          "url": "https://www.mlbtraderumors.com/2026/10/ryan-helsley-exercises-player-option-orioles.html"
+        },
+        {
+          "text": "Orioles expected to decline Luis Robert Jr.'s $20MM option (report)",
+          "url": "https://www.mlbtraderumors.com/2026/10/orioles-expected-to-decline-club-option-on-luis-robert-jr.html"
+        },
+        {
+          "text": "Athletics outrighted six players, including RHP Joey Estes",
+          "url": "https://mlbtraderumors.com/2026/10/athletics-outright-six-players.html"
+        }
+      ]
+    }
+  ]
+}

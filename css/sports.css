@@ -534,6 +534,7 @@ body.view-sports .tabs { position: sticky; top: 0; z-index: 5; display: grid; gr
 body.view-sports .tabs button { background: none; border: 0; border-bottom: 3px solid transparent; color: rgba(247,244,238,.6); font-family: var(--display); font-weight: 700; font-size: 18px; letter-spacing: .03em; padding: 10px 0 9px; cursor: pointer; }
 body.view-sports .tabs button[aria-selected="true"] { color: var(--chalk); border-bottom-color: var(--accent); }
 body.view-sports .masthead { padding-bottom: 12px; }
+body.view-sports .masthead.no-back { padding-left: 18px; }
 body.view-sports .story { margin-top: 6px; }
 body.view-sports .story .line { margin-top: 12px; }
 body.view-sports .opp-line { font-size: 14px; color: var(--muted); margin-top: 10px !important; }

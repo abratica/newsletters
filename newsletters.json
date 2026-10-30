@@ -4,7 +4,8 @@
       "id": "boston-sports",
       "name": "Boston Sports",
       "cadence": "Daily",
-      "layout": "sports"
+      "layout": "sports",
+      "base": "../boston-sports/"
     },
     {
       "id": "league-wire",

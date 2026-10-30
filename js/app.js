@@ -71,9 +71,11 @@
     if (!registry) registry = (await getJSON("newsletters.json")).newsletters || [];
     return registry;
   }
+  // Where a newsletter's files live: its own folder here, or another app on this site ("base" in newsletters.json).
+  const baseOf = (id) => { const n = (registry || []).find((x) => x.id === id); return (n && n.base) || `n/${id}/`; };
   async function loadIndex(id, fresh) {
     if (!indexes[id] || fresh) {
-      try { indexes[id] = (await getJSON(`n/${id}/index.json`)).issues || []; }
+      try { indexes[id] = (await getJSON(`${baseOf(id)}index.json`)).issues || []; }
       catch { indexes[id] = []; }
     }
     return indexes[id];
@@ -173,7 +175,7 @@
     }
 
     const date = part || issues[0].date;
-    const data = await getJSON(`n/${id}/issues/${date}.json`);
+    const data = await getJSON(`${baseOf(id)}issues/${date}.json`);
     if (date !== issues[0].date) { ctx.backHref = `#/n/${id}/archive`; ctx.backLabel = "Back to past issues"; }
     ctx.unreadOthers = issues.filter((i) => i.date !== date && !read.has(i.date)).length;
     setView(nl.layout, layout.themeColor);

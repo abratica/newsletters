@@ -16,8 +16,8 @@
   const chevron = (size) => `<svg width="${size}" height="${size}" viewBox="0 0 16 16" aria-hidden="true"><path d="M3 6l5 5 5-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
 
   function masthead(name, sub, ctx) {
-    return `<header class="masthead">
-      <a class="back" href="${ctx.backHref}" aria-label="${esc(ctx.backLabel)}">‹</a>
+    return `<header class="masthead${ctx.backHref ? "" : " no-back"}">
+      ${ctx.backHref ? `<a class="back" href="${ctx.backHref}" aria-label="${esc(ctx.backLabel)}">‹</a>` : ""}
       <h1 class="wordmark">${esc(name).replace(/ (\S+)$/, " <span>$1</span>")}</h1>
       <p class="dateline">${esc(sub)}</p>
       ${window.themeButton ? window.themeButton() : ""}

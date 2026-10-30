@@ -1,4 +1,4 @@
-const SHELL = "nl-shell-v15";
+const SHELL = "nl-shell-v16";
 const SHELL_FILES = ["./", "index.html", "manifest.webmanifest",
   "css/base.css", "css/home.css", "css/sports.css", "css/wire.css", "css/todo.css", "js/app.js", "js/sports.js", "js/wire.js", "js/todo.js",
   "icons/icon-192.png", "icons/icon-512.png",
@@ -15,10 +15,11 @@ self.addEventListener("install", (e) => {
 
 self.addEventListener("activate", (e) => {
   e.waitUntil(caches.keys()
-    .then((keys) => Promise.all(keys.filter((k) => k !== SHELL && k !== "nl-data").map((k) => caches.delete(k))))
+    .then((keys) => Promise.all(keys.filter((k) => k.startsWith("nl-") && k !== SHELL && k !== "nl-data").map((k) => caches.delete(k))))
     .then(() => self.clients.claim()));
 });
 
+// Only "nl-" caches are cleaned up, so other apps on this site (Boston Sports, Mario Habit) keep theirs.
 // Network first for everything (new issues and app updates show up right away),
 // falling back to the cache when offline.
 self.addEventListener("fetch", (e) => {

@@ -1,0 +1,399 @@
+{
+  "date": "2026-10-31",
+  "headline": "Kucherov reportedly wants out; Lightning say they won't trade him",
+  "ticker": [
+    "Kucherov wants out (report)",
+    "Holmgren out 8-10 weeks",
+    "Panthers fire DC Evero",
+    "Mavs hand Rockets 1st loss",
+    "Warriors 112, Lakers 95"
+  ],
+  "top": [
+    {
+      "league": "nhl",
+      "headline": "Kucherov reportedly wants out; Lightning say they won't trade him",
+      "summary": "Sportsnet's Elliotte Friedman reported that Nikita Kucherov told teammates and the organization he won't re-sign and wants a trade. Within hours GM Julien BriseBois answered: \"We unequivocally have no intention of trading Nikita.\" Kucherov, 33, is in the final year of his deal, so Tampa Bay either signs him or risks losing its all-time leading scorer for nothing next summer.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/tampa-bay-lightning-have-no-intention-of-trading-nikita-kucherov"
+    },
+    {
+      "league": "nba",
+      "headline": "Chet Holmgren out 8-10 weeks with patellar tendon tear",
+      "summary": "Oklahoma City said Friday that follow-up testing on Holmgren's right knee showed a small patellar tendon tear, and he'll return in 8 to 10 weeks. It comes days after Jalen Williams (fractured fibula, dislocated ankle) and Cason Wallace (torn labrum) both needed surgery. The Thunder are signing Ochai Agbaji just to fill out the roster.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50332283/thunder-say-chet-holmgren-8-10-weeks-due-knee"
+    },
+    {
+      "league": "nfl",
+      "headline": "Panthers fire defensive coordinator Ejiro Evero",
+      "summary": "Carolina fired Evero and defensive passing game coordinator Jonathan Cooley on Friday, the morning after a 27-19 loss in Green Bay dropped them to 3-4. The defense ranked 27th in points allowed and last against the run going into Thursday. Defensive line coach Todd Wash, Jacksonville's DC from 2016 to 2020, takes over and will call plays.",
+      "source": "NFL.com",
+      "url": "https://nfl.com/news/panthers-fire-defensive-coordinator-ejiro-evero"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Panthers fire DC Ejiro Evero; Lamar Jackson cleared to return vs. Buffalo",
+      "stories": [
+        {
+          "headline": "Panthers fire defensive coordinator Ejiro Evero",
+          "summary": "Carolina fired Evero and defensive passing game coordinator Jonathan Cooley on Friday, the morning after a 27-19 loss in Green Bay dropped them to 3-4. The defense ranked 27th in points allowed and last against the run going into Thursday. Defensive line coach Todd Wash, Jacksonville's DC from 2016 to 2020, takes over and will call plays.",
+          "source": "NFL.com",
+          "url": "https://nfl.com/news/panthers-fire-defensive-coordinator-ejiro-evero"
+        },
+        {
+          "headline": "Lamar Jackson will play Sunday",
+          "summary": "Coach Jesse Minter said Friday that Jackson (ankle) will play against Buffalo after missing the past three games. Baltimore is 4-3 and gets its quarterback back for a game against one of the AFC's best.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-oct-30"
+        },
+        {
+          "headline": "Deadline sellers line up, with the Eagles on the fence",
+          "summary": "With the Nov. 10 deadline 11 days out, the AP lists the 0-6 Chargers as expected sellers, with Khalil Mack among the possible pieces; Justin Herbert has a full no-trade clause. The Dolphins, Cardinals, Jets and Commanders are also candidates. The 2-5 Eagles, five straight losses without Jalen Hurts, could sell, Saquon Barkley included, if they drop their next two.",
+          "source": "AP",
+          "url": "https://www.ksat.com/sports/2026/10/30/as-nfl-trade-deadline-nears-several-teams-are-clear-sellers-and-others-have-2-weeks-to-decide/"
+        },
+        {
+          "headline": "Caleb Williams fined again over his cleats",
+          "summary": "The NFL fined the Bears quarterback $23,882 for wearing Caddix cleats with the logo uncovered in Week 7, his second footwear fine after an $11,941 one in Week 6. Williams has appealed the first and plans to keep wearing them. Caddix says it will pay the fines if they stand.",
+          "source": "Field Level Media",
+          "url": "https://www.yardbarker.com/nfl/articles/report_bears_qb_caleb_williams_fined_over_cleats_again/s1_17049_44493862"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Panthers fired DC Ejiro Evero and defensive passing game coordinator Jonathan Cooley; DL coach Todd Wash is interim DC",
+          "url": "https://nfl.com/news/panthers-fire-defensive-coordinator-ejiro-evero"
+        },
+        {
+          "text": "Dolphins claimed DE Jamree Kromah off waivers from the Bears; waived DE Robert Beal Jr.",
+          "url": "https://www.profootballrumors.com/2026/10/minor-nfl-transactions-10-30-26"
+        },
+        {
+          "text": "Colts signed DT Kevin Givens off the 49ers' practice squad",
+          "url": "https://www.profootballrumors.com/2026/10/minor-nfl-transactions-10-30-26"
+        },
+        {
+          "text": "Titans promoted DT Timmy Horne from the practice squad",
+          "url": "https://www.profootballrumors.com/2026/10/minor-nfl-transactions-10-30-26"
+        },
+        {
+          "text": "Colts signed T Charlie Heck from the practice squad",
+          "url": "https://www.profootballrumors.com/2026/10/minor-nfl-transactions-10-29-26"
+        },
+        {
+          "text": "Saints released CB David Long from IR with an injury settlement",
+          "url": "https://www.profootballrumors.com/2026/10/minor-nfl-transactions-10-29-26"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Holmgren out 8-10 weeks as Thunder injuries pile up; Mavs hand Rockets their first loss",
+      "stories": [
+        {
+          "headline": "Chet Holmgren out 8-10 weeks with patellar tendon tear",
+          "summary": "Oklahoma City said Friday that follow-up testing on Holmgren's right knee showed a small patellar tendon tear, and he'll return in 8 to 10 weeks. It comes days after Jalen Williams (fractured fibula, dislocated ankle) and Cason Wallace (torn labrum) both needed surgery. The Thunder are signing Ochai Agbaji just to fill out the roster.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/50332283/thunder-say-chet-holmgren-8-10-weeks-due-knee"
+        },
+        {
+          "headline": "Ja Morant out at least four weeks with hamstring strain",
+          "summary": "Imaging showed a grade two left hamstring strain, and Portland will re-evaluate Morant in four weeks. He got hurt Thursday against Memphis after scoring 14 in 23 minutes. He was averaging 15.8 points and 5.5 assists, and the Blazers now need a lead guard for a month.",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/news/ja-morant-hamstring-injury-october-2026"
+        },
+        {
+          "headline": "Mavericks hand Rockets their first loss",
+          "summary": "Kyrie Irving scored 35, 26 after halftime, and Cooper Flagg added 33 on 13-of-19 as Dallas won 116-111 as a 6.5-point underdog. Kevin Durant had 28 for Houston. Memphis (5-0) is now the league's only unbeaten team.",
+          "source": "NBC DFW",
+          "url": "https://www.nbcdfw.com/news/sports/irving-scores-35-and-flagg-adds-33-as-mavericks-hand-rockets-1st-loss-of-season/4098939/"
+        },
+        {
+          "headline": "Warriors erase 25-point hole, rout Lakers",
+          "summary": "The Lakers opened on a 14-0 run and led by 25. Golden State was tied 53-53 at halftime and won 112-95 behind Stephen Curry's 31 points and eight 3-pointers, which made Luka Doncic's 37 a footnote. The Warriors have won three straight to get to 3-3.",
+          "source": "Bleacher Report",
+          "url": "https://bleacherreport.com/articles/25527575-steph-sparks-warriors-comeback-vs-lakers-box-score-stats-highlights-luka-reaves-top-players"
+        },
+        {
+          "headline": "Sixers beat Knicks again; champs fall to 2-4",
+          "summary": "Philadelphia won 98-93 to open NBA Cup play, with LeBron James adding 20 points, nine rebounds and eight assists. Jalen Brunson scored 24 for New York. The defending champion Knicks are 2-4, and the 76ers have already beaten them twice.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/31/lebron-james-tyrese-maxey-philadelphia-76ers-win-new-york-knicks-nba-cup"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Hornets",
+          "awayScore": 79,
+          "home": "Wizards",
+          "homeScore": 95,
+          "note": ""
+        },
+        {
+          "away": "Knicks",
+          "awayScore": 93,
+          "home": "76ers",
+          "homeScore": 98,
+          "note": "Close"
+        },
+        {
+          "away": "Bulls",
+          "awayScore": 111,
+          "home": "Celtics",
+          "homeScore": 125,
+          "note": ""
+        },
+        {
+          "away": "Pistons",
+          "awayScore": 110,
+          "home": "Nets",
+          "homeScore": 94,
+          "note": ""
+        },
+        {
+          "away": "Magic",
+          "awayScore": 121,
+          "home": "Raptors",
+          "homeScore": 114,
+          "note": "Upset"
+        },
+        {
+          "away": "Pacers",
+          "awayScore": 125,
+          "home": "Heat",
+          "homeScore": 145,
+          "note": ""
+        },
+        {
+          "away": "Rockets",
+          "awayScore": 111,
+          "home": "Mavericks",
+          "homeScore": 116,
+          "note": "Upset"
+        },
+        {
+          "away": "Clippers",
+          "awayScore": 101,
+          "home": "Timberwolves",
+          "homeScore": 127,
+          "note": ""
+        },
+        {
+          "away": "Lakers",
+          "awayScore": 95,
+          "home": "Warriors",
+          "homeScore": 112,
+          "note": "Upset"
+        },
+        {
+          "away": "Nuggets",
+          "awayScore": 127,
+          "home": "Suns",
+          "homeScore": 120,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Giannis Antetokounmpo",
+          "team": "Heat",
+          "line": "31 PTS · 17 REB · 10 AST",
+          "note": "His second triple-double of the season, in 31 minutes, as Miami put up 145 on a short-handed Indiana."
+        },
+        {
+          "name": "Scottie Barnes",
+          "team": "Raptors",
+          "line": "41 PTS · 5 REB · 5 AST · 19-34 FG",
+          "note": "A career high and his first 40-point game, in a loss to Orlando."
+        },
+        {
+          "name": "Jamal Murray",
+          "team": "Nuggets",
+          "line": "39 PTS · 8 REB · 5 AST",
+          "note": "Hit seven 3s as Denver won in Phoenix and moved above .500 for the first time this season."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Thunder: Chet Holmgren (small right patellar tendon tear) out 8-10 weeks",
+          "url": "https://www.espn.com/nba/story/_/id/50332283/thunder-say-chet-holmgren-8-10-weeks-due-knee"
+        },
+        {
+          "text": "Thunder signing G Ochai Agbaji to fill an open roster spot (sources)",
+          "url": "https://www.espn.com/nba/story/_/id/50329298/sources-thunder-signing-ochai-agbaji-fill-open-roster-spot"
+        },
+        {
+          "text": "Trail Blazers: Ja Morant (grade two left hamstring strain) to be re-evaluated in four weeks",
+          "url": "https://www.nba.com/news/ja-morant-hamstring-injury-october-2026"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Kucherov reportedly wants out of Tampa; Jets lose eighth straight",
+      "stories": [
+        {
+          "headline": "Kucherov reportedly wants out; Lightning say they won't trade him",
+          "summary": "Sportsnet's Elliotte Friedman reported that Nikita Kucherov told teammates and the organization he won't re-sign and wants a trade. Within hours GM Julien BriseBois answered: \"We unequivocally have no intention of trading Nikita.\" Kucherov, 33, is in the final year of his deal, so Tampa Bay either signs him or risks losing its all-time leading scorer for nothing next summer.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/tampa-bay-lightning-have-no-intention-of-trading-nikita-kucherov"
+        },
+        {
+          "headline": "Jets lose eighth straight as Lundell's hat trick lifts Florida",
+          "summary": "Anton Lundell scored three, the last into an empty net, and Florida beat Winnipeg 5-2 for its third straight win, two of them against the Jets this week. Nico Daws made 33 saves in his first start for Winnipeg. The Jets are 0-6-2 in their last eight and 4-7-3 overall.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/winnipeg-jets-florida-panthers-game-recap-october-30-2026"
+        },
+        {
+          "headline": "Flames rout Kraken, extend four-goal streak to 61 games",
+          "summary": "Matt Coronato had his first four-point game as Calgary beat Seattle 6-2 for its fifth straight home win. NHL.com says it was the Flames' 61st straight game with at least four goals, tying Boston for the second-longest such streak, four games short of the record. Seattle's Lane Lambert called the last two periods \"probably the worst 40 minutes I've been a part of since I got here.\"",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/seattle-kraken-calgary-flames-game-recap-october-30-2026"
+        },
+        {
+          "headline": "Hellebuyck 2-0 with Devils after win in Vegas",
+          "summary": "Connor Hellebuyck made 19 saves in a 5-2 win at Vegas, his second win in two starts since the Oct. 23 trade from Winnipeg. Arseny Gritsyuk and Jack Hughes each scored twice. New Jersey is 9-5-0; Vegas is 1-3-1 in its last five.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/new-jersey-devils-vegas-golden-knights-game-recap-october-30-2026"
+        },
+        {
+          "headline": "Kings blow four-goal lead, win in OT; Hodgson suspended",
+          "summary": "Los Angeles led Ottawa 5-1 after two periods Thursday, gave up four in the third, then won 6-5 on Quinton Byfield's overtime goal for its first home win. Brandt Clarke left after a hit to the head from Hayden Hodgson, and the NHL suspended the Senators forward two games for boarding.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/ottawa-senators-los-angeles-kings-game-recap-october-29-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Devils",
+          "awayScore": 5,
+          "home": "Golden Knights",
+          "homeScore": 2,
+          "note": ""
+        },
+        {
+          "away": "Jets",
+          "awayScore": 2,
+          "home": "Panthers",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Kraken",
+          "awayScore": 2,
+          "home": "Flames",
+          "homeScore": 6,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Matt Coronato",
+          "team": "Flames",
+          "line": "1 G · 3 A",
+          "note": "His first four-point game, in a 6-2 win over Seattle."
+        },
+        {
+          "name": "Anton Lundell",
+          "team": "Panthers",
+          "line": "3 G",
+          "note": "Hat trick, capped by an empty-netter, sending Winnipeg to its eighth straight loss."
+        },
+        {
+          "name": "Seth Jones",
+          "team": "Panthers",
+          "line": "1 G · 2 A",
+          "note": "Finished October with 18 points, his fifth multipoint game of the month."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Senators F Hayden Hodgson suspended two games for boarding Kings D Brandt Clarke",
+          "url": "https://www.nhl.com/news/hayden-hodgson-suspended-two-games-for-actions-in-senators-game"
+        },
+        {
+          "text": "Flames placed G Devin Cooley (lower body) on IR; recalled G Arsenii Sergeev and F William Stromgren",
+          "url": "https://www.prohockeyrumors.com/2026/10/flames-notes-cooley-zary-sergeev-stromgren.html"
+        },
+        {
+          "text": "Canucks placed C Filip Chytil (upper body) on IR; recalled Jacob Quillan",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-october-30-2026"
+        },
+        {
+          "text": "Senators placed F Warren Foegele (knee) on IR; recalled Philip Tomasino and Xavier Bourgault",
+          "url": "https://www.prohockeyrumors.com/2026/10/senators-recall-two-move-warren-foegele-to-ir.html"
+        },
+        {
+          "text": "Red Wings recalled D Jacob Bernard-Docker; assigned Axel Sandin-Pellikka to AHL Grand Rapids",
+          "url": "https://www.rotowire.com/hockey/headlines/jacob-bernard-docker-news-recalled-by-detroit-597900"
+        },
+        {
+          "text": "Avalanche D Josh Manson (ankle) out about eight weeks, per Jared Bednar",
+          "url": "https://www.nhl.com/news/colorado-avalanche-josh-manson-injury-status-update-october-30-2026"
+        },
+        {
+          "text": "Ducks sent 2026 No. 15 pick Nikita Klepov to OHL Saginaw for the season",
+          "url": "https://www.prohockeyrumors.com/2026/10/ducks-assign-nikita-klepov-to-ohl.html"
+        },
+        {
+          "text": "Stars' Cameron Hughes cleared waivers, assigned to AHL Texas",
+          "url": "https://prohockeyrumors.com/2026/10/stars-activate-waive-cameron-hughes.html"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Marlins keep Alcantara; Bichette stays a Met",
+      "stories": [
+        {
+          "headline": "Marlins pick up Sandy Alcantara's $21MM option",
+          "summary": "Miami exercised the option Friday instead of paying a $2MM buyout. Alcantara threw an MLB-high 214 innings with a 3.87 ERA in his second season back from Tommy John surgery. Miami reportedly has no interest in trading him, though 2027 is his last year under contract.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/10/marlins-exercise-club-option-on-sandy-alcantara.html"
+        },
+        {
+          "headline": "Bo Bichette passes on opt-out, takes $42MM from Mets",
+          "summary": "Bichette exercised his $42MM player option for 2027 and has another $42MM option for 2028. He hit .260/.312/.390 with 18 homers. MLBTR says a trade looks unlikely because New York would probably have to eat much of the salary.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/10/bo-bichette-to-exercise-player-option-for-2027.html"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Marlins exercised Sandy Alcantara's $21MM club option for 2027",
+          "url": "https://www.mlbtraderumors.com/2026/10/marlins-exercise-club-option-on-sandy-alcantara.html"
+        },
+        {
+          "text": "Mets SS Bo Bichette exercised his $42MM player option for 2027",
+          "url": "https://www.mlbtraderumors.com/2026/10/bo-bichette-to-exercise-player-option-for-2027.html"
+        },
+        {
+          "text": "Cubs: Matthew Boyd ($15MM) and Carson Kelly ($7.5MM) mutual options declined; both are free agents",
+          "url": "https://www.mlbtraderumors.com/2026/10/matthew-boyd-carson-kelly-become-free-agents.html"
+        },
+        {
+          "text": "Joc Pederson declined his $18.5MM mutual option with the Rangers",
+          "url": "https://www.mlbtraderumors.com/2026/10/joc-pederson-declines-mutual-option-with-rangers.html"
+        },
+        {
+          "text": "Rays declined Cedric Mullins' $10MM mutual option ($500K buyout)",
+          "url": "https://www.yardbarker.com/mlb/articles/rays_decline_mutual_option_on_cedric_mullins/s1_13237_44494899"
+        },
+        {
+          "text": "Astros' top GM target is Brewers assistant GM Matt Kleine (report)",
+          "url": "https://www.mlbtraderumors.com/2026/10/brewers-matt-kleine-is-astros-top-target-in-gm-search.html"
+        }
+      ]
+    }
+  ]
+}

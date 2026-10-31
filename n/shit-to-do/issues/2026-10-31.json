@@ -1,73 +1,11 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "weekendNote": "Halloween weekend",
   "events": [
     {
-      "id": "2026-10-29-halloween-boozaar",
-      "name": "The Halloween BOOzaar",
-      "date": "2026-10-30",
-      "endDate": "2026-10-30",
-      "time": "5–10 PM",
-      "startTime": "17:00",
-      "endTime": "22:00",
-      "venue": "Charles River Speedway",
-      "area": "Brighton",
-      "free": true,
-      "note": "Thu and Fri nights",
-      "tags": [
-        "market",
-        "food",
-        "djs"
-      ],
-      "why": "Night market with 100+ oddities and gothic-goods vendors, food trucks, a vinyl DJ and a tintype studio.",
-      "url": "https://www.thebostoncalendar.com/events/the-halloween-boozaar-a-how-bazaar-expo",
-      "linkLabel": "Info",
-      "added": "2026-10-29"
-    },
-    {
-      "id": "2026-10-30-halloween-on-birch",
-      "name": "Halloween on Birch",
-      "date": "2026-10-30",
-      "time": "6–10 PM",
-      "startTime": "18:00",
-      "endTime": "22:00",
-      "venue": "Birch St Plaza, Roslindale",
-      "area": "Boston",
-      "price": "Free",
-      "free": true,
-      "tags": [
-        "djs",
-        "outdoors"
-      ],
-      "why": "Free outdoor Halloween party on the Roslindale plaza with DJ Daoism, drinks and a costume contest.",
-      "url": "https://www.thebostoncalendar.com/events/halloween-on-birch",
-      "linkLabel": "Info",
-      "added": "2026-10-30"
-    },
-    {
-      "id": "2026-10-30-vincent-price-double-feature",
-      "name": "Vincent Price double feature with Victoria Price",
-      "date": "2026-10-30",
-      "time": "7:15 PM",
-      "startTime": "19:15",
-      "venue": "Somerville Theatre",
-      "area": "Davis Sq",
-      "note": "House on Haunted Hill (35mm) 7:15, Dragonwyck 9 PM",
-      "tags": [
-        "somerville",
-        "film"
-      ],
-      "why": "Vincent Price's daughter introduces House on Haunted Hill on 35mm and Dragonwyck, with a Q&A between them. A Halloween-weekend Friday in Davis Square.",
-      "url": "https://www.somervilletheatre.com/halloween-hullabaloo/",
-      "linkLabel": "Tickets",
-      "added": "2026-10-29",
-      "pick": true
-    },
-    {
       "id": "2026-10-31-cirque-of-the-dead",
       "name": "Cirque of the Dead",
-      "date": "2026-10-30",
-      "endDate": "2026-10-31",
+      "date": "2026-10-31",
       "venue": "Arts at the Armory",
       "area": "Somerville",
       "price": "$40–$60",
@@ -76,19 +14,33 @@
       ],
       "why": "Halloween circus show at the Armory on Highland Ave. Last chance is Saturday.",
       "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
-      "linkLabel": "Info"
+      "linkLabel": "Info",
+      "time": "4:30–7 PM & 8–10:30 PM",
+      "startTime": "16:30",
+      "endTime": "22:30",
+      "note": "Two shows"
     },
     {
-      "id": "2026-11-08-boston-lights",
-      "name": "Boston Lights: A Lantern Experience",
-      "date": "2026-10-30",
-      "endDate": "2026-11-08",
-      "venue": "Franklin Park Zoo",
-      "area": "Roxbury",
-      "price": "$21.95",
-      "why": "Lantern walk through the zoo after dark. A good date night before it closes Nov 8.",
-      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
-      "linkLabel": "Info"
+      "name": "Night of the Living Dead with a new live score",
+      "date": "2026-10-31",
+      "time": "5–7 PM & 8–10 PM",
+      "startTime": "17:00",
+      "endTime": "22:00",
+      "venue": "The Underground, 402a Highland St",
+      "area": "Somerville",
+      "price": "$20",
+      "note": "Two shows",
+      "tags": [
+        "somerville",
+        "film",
+        "music"
+      ],
+      "why": "The 1968 zombie classic screened while the duo Emma and Micah Huang play a new score live, a short walk from home on Halloween night.",
+      "url": "https://www.eventbrite.com/e/night-of-the-living-dead-w-live-score-tickets-2003241964642",
+      "linkLabel": "Tickets",
+      "pick": true,
+      "id": "2026-10-31-night-of-the-living-dead-with-a-new-live",
+      "added": "2026-10-31"
     },
     {
       "id": "2026-10-31-blair-project",
@@ -147,6 +99,24 @@
       "added": "2026-10-30"
     },
     {
+      "name": "Blade Runner – Live in Concert",
+      "date": "2026-10-31",
+      "time": "7–9 PM",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "venue": "Emerson Colonial Theatre",
+      "area": "Boston",
+      "tags": [
+        "film",
+        "music"
+      ],
+      "why": "The Final Cut on a big screen with The Avex Ensemble playing Vangelis' score live.",
+      "url": "https://www.thebostoncalendar.com/events/blade-runner-live-in-concert",
+      "linkLabel": "Info",
+      "id": "2026-10-31-blade-runner-live-in-concert",
+      "added": "2026-10-31"
+    },
+    {
       "id": "2026-10-31-after-brunch-amal-nemer",
       "name": "After Brunch Halloween: Amal Nemer",
       "date": "2026-10-31",
@@ -163,6 +133,25 @@
       "linkLabel": "Tickets"
     },
     {
+      "name": "The Cabinet of Dr. Caligari with live organ",
+      "date": "2026-10-31",
+      "time": "9–11 PM",
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "venue": "Symphony Hall",
+      "area": "Boston",
+      "price": "$61",
+      "tags": [
+        "film",
+        "music"
+      ],
+      "why": "The silent expressionist horror film with Brett Miller playing Symphony Hall's organ live.",
+      "url": "https://secure.bso.org/syos/performance/28655",
+      "linkLabel": "Tickets",
+      "id": "2026-10-31-the-cabinet-of-dr-caligari-with-live-org",
+      "added": "2026-10-31"
+    },
+    {
       "id": "2026-10-31-coolidge-horror-marathon",
       "name": "Halloween Horror Marathon",
       "date": "2026-10-31",
@@ -177,6 +166,38 @@
       "why": "The Coolidge's all-night horror marathon. The Creature Double Feature ticket ($35) is the shorter option if you don't want to go till sunrise.",
       "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
       "linkLabel": "Info"
+    },
+    {
+      "id": "2026-11-08-boston-lights",
+      "name": "Boston Lights: A Lantern Experience",
+      "date": "2026-10-31",
+      "endDate": "2026-11-08",
+      "venue": "Franklin Park Zoo",
+      "area": "Roxbury",
+      "price": "$21.95",
+      "why": "Lantern walk through the zoo after dark. A good date night before it closes Nov 8.",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "linkLabel": "Info",
+      "note": "One guide says it may end Nov 2; check before going"
+    },
+    {
+      "name": "Best Vinyl Record Show",
+      "date": "2026-11-01",
+      "time": "9:30 AM–3 PM",
+      "startTime": "09:30",
+      "endTime": "15:00",
+      "venue": "VFW Post #2017, 84 Eastern Ave",
+      "area": "Dedham",
+      "price": "$5",
+      "tags": [
+        "music",
+        "market"
+      ],
+      "why": "Record fair with New England vendors selling vinyl, CDs, cassettes and memorabilia, with a DJ playing.",
+      "url": "https://www.thebostoncalendar.com/events/best-vinyl-record-show-dedham-ma",
+      "linkLabel": "Info",
+      "id": "2026-11-01-best-vinyl-record-show",
+      "added": "2026-10-31"
     },
     {
       "id": "2026-11-01-sowa-open-market",
@@ -301,6 +322,23 @@
       "added": "2026-10-30"
     },
     {
+      "name": "Yo-Yo Ma & Stephen Colbert: Arts for Life's Sake",
+      "date": "2026-11-05",
+      "time": "7–8:30 PM",
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "venue": "Sanders Theatre",
+      "area": "Cambridge",
+      "price": "Free, tickets required",
+      "free": true,
+      "tags": [],
+      "why": "A free on-stage conversation between Yo-Yo Ma and Stephen Colbert at Harvard.",
+      "url": "https://www.boxoffice.harvard.edu/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=learning-from-performers&BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Acontext_id=",
+      "linkLabel": "Tickets",
+      "id": "2026-11-05-yo-yo-ma-stephen-colbert-arts-for-life-s",
+      "added": "2026-10-31"
+    },
+    {
       "id": "2026-11-05-begotten-brattle",
       "name": "Begotten (restoration)",
       "date": "2026-11-05",
@@ -372,6 +410,44 @@
       "added": "2026-10-29"
     },
     {
+      "name": "Location Location Location: 80s NYC",
+      "date": "2026-11-06",
+      "endDate": "2026-11-10",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "note": "After Hours Nov 6–7; Brother from Another Planet (35mm) Nov 8–9; Permanent Vacation + Variety Tue Nov 10",
+      "tags": [
+        "film"
+      ],
+      "why": "Short repertory run of 1980s New York films led by Scorsese's dark comedy After Hours.",
+      "url": "https://brattlefilm.org/film-series/location-location-location-80s-nyc/",
+      "linkLabel": "Info",
+      "id": "2026-11-06-location-location-location-80s-nyc",
+      "added": "2026-10-31"
+    },
+    {
+      "name": "Bow Market Renaissance Faire, THE SECOND",
+      "date": "2026-11-07",
+      "time": "10 AM–11 PM",
+      "startTime": "10:00",
+      "endTime": "23:00",
+      "venue": "Bow Market",
+      "area": "Somerville",
+      "price": "Free (paid add-on workshops)",
+      "free": true,
+      "note": "RSVP requested; turkey legs can be pre-ordered",
+      "tags": [
+        "somerville",
+        "market",
+        "food"
+      ],
+      "why": "All-day faire with about 50 vendors, tarot, performances and turkey legs, ending with a dance party at Remnant Brewing.",
+      "url": "https://www.eventbrite.com/e/bow-market-renaissance-faire-the-second-tickets-1998378190964",
+      "linkLabel": "Tickets",
+      "id": "2026-11-07-bow-market-renaissance-faire-the-second",
+      "added": "2026-10-31"
+    },
+    {
       "id": "2026-11-10-protomartyr",
       "name": "Protomartyr",
       "date": "2026-11-10",
@@ -438,6 +514,28 @@
       "added": "2026-10-30"
     },
     {
+      "name": "Lagers & Leaves: A Fall Festival",
+      "date": "2026-11-14",
+      "time": "12–5 PM",
+      "startTime": "12:00",
+      "endTime": "17:00",
+      "venue": "Aeronaut Brewing",
+      "area": "Somerville",
+      "price": "Free admission",
+      "free": true,
+      "note": "RSVP on Eventbrite",
+      "tags": [
+        "somerville",
+        "food",
+        "music"
+      ],
+      "why": "Fall lager flights, a waffle bar from Mimi's Chūka Diner, and folk and fiddle sets in the beer garden.",
+      "url": "https://www.thebostoncalendar.com/events/lagers-leaves-a-fall-festival--2",
+      "linkLabel": "Info",
+      "id": "2026-11-14-lagers-leaves-a-fall-festival",
+      "added": "2026-10-31"
+    },
+    {
       "id": "2026-11-14-comedy-festival-finals",
       "name": "Boston Comedy Festival Contest Finals",
       "date": "2026-11-14",
@@ -452,6 +550,24 @@
       "url": "https://www.somervilletheatre.com/events/",
       "linkLabel": "Tickets",
       "price": "$30"
+    },
+    {
+      "name": "Aliens in 70mm",
+      "date": "2026-11-18",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "Somerville Theatre",
+      "area": "Somerville",
+      "note": "The Big Lebowski in 35mm the night before, Nov 17 at 7:30 PM",
+      "tags": [
+        "somerville",
+        "film"
+      ],
+      "why": "Cameron's sci-fi horror sequel in 70mm on the big screen in Davis Square.",
+      "url": "https://www.somervilletheatre.com/production/aliens-70mm/",
+      "linkLabel": "Info",
+      "id": "2026-11-18-aliens-in-70mm",
+      "added": "2026-10-31"
     },
     {
       "id": "2026-11-20-sowa-christmas-market",
@@ -472,6 +588,60 @@
       "url": "https://www.thebostoncalendar.com/events/11th-annual-sowa-christmas-market-november-20-december-27",
       "linkLabel": "Info",
       "added": "2026-10-29"
+    },
+    {
+      "name": "Holiday Plant Market",
+      "date": "2026-11-22",
+      "time": "10 AM–4 PM",
+      "startTime": "10:00",
+      "endTime": "16:00",
+      "venue": "Arts at the Armory",
+      "area": "Somerville",
+      "tags": [
+        "somerville",
+        "market"
+      ],
+      "why": "Daytime plant market at the Armory the Sunday before Thanksgiving.",
+      "url": "https://artsatthearmory.org/events/holiday-plant-market/",
+      "linkLabel": "Info",
+      "id": "2026-11-22-holiday-plant-market",
+      "added": "2026-10-31"
+    },
+    {
+      "name": "Survivor Season 51 screenings",
+      "date": "2026-11-25",
+      "time": "8–9:30 PM",
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "venue": "Aeronaut Brewing",
+      "area": "Somerville",
+      "price": "Free",
+      "free": true,
+      "note": "Listed as weekly on Wednesdays",
+      "tags": [
+        "somerville"
+      ],
+      "why": "Aeronaut shows each Survivor 51 episode on its big projector screens, free.",
+      "url": "https://www.thebostoncalendar.com/events/survivor-screenings-at-aeronaut--10",
+      "linkLabel": "Info",
+      "id": "2026-11-25-survivor-season-51-screenings",
+      "added": "2026-10-31"
+    },
+    {
+      "name": "Noirvember: Hardboiled Wonderland",
+      "date": "2026-11-26",
+      "endDate": "2026-11-29",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "note": "Maltese Falcon double Fri; Murder, My Sweet double Sat; The Long Goodbye + Chinatown Sun",
+      "tags": [
+        "film"
+      ],
+      "why": "Thanksgiving-weekend noir series with several 35mm prints.",
+      "url": "https://brattlefilm.org/film-series/noirvember/",
+      "linkLabel": "Info",
+      "id": "2026-11-26-noirvember-hardboiled-wonderland",
+      "added": "2026-10-31"
     },
     {
       "id": "2026-11-27-dancegiving",
@@ -763,6 +933,16 @@
       "url": "https://thewilbur.com/event/gianmarco-soresi/"
     },
     {
+      "comedian": "Kyle Gordon",
+      "date": "2026-12-03",
+      "time": "Doors 7 PM",
+      "venue": "The Sinclair",
+      "area": "Cambridge",
+      "onSale": "On sale now",
+      "url": "https://www.songkick.com/concerts/43249271-kyle-gordon-at-sinclair",
+      "added": "2026-10-31"
+    },
+    {
       "comedian": "Rosebud Baker",
       "date": "2026-12-05",
       "time": "7 PM",
@@ -970,8 +1150,8 @@
   ],
   "comedianWatchlist": [],
   "ticker": [
-    "Vincent Price double, Fri",
     "Free: BLAIR Project, Sat",
+    "Living Dead live score, Sat",
     "Free: Día de Muertos, Sun"
   ]
 }

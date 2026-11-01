@@ -1,0 +1,427 @@
+{
+  "date": "2026-11-01",
+  "headline": "Crosby passes Bourque for most assists with one team; Canadiens still win",
+  "ticker": [
+    "Crosby passes Bourque",
+    "Wemby drops 43 on Wolves",
+    "Payne out for season",
+    "Rockets 119, Thunder 98",
+    "Grizzlies move to 6-0"
+  ],
+  "top": [
+    {
+      "league": "nhl",
+      "headline": "Crosby passes Bourque for most assists with one team; Canadiens still win",
+      "summary": "Sidney Crosby's 1,112th assist as a Penguin passed Ray Bourque for the most assists by a player with one team in NHL history, and his goal tied Marcel Dionne for sixth all-time in points (1,771). Montreal won 5-4 anyway behind two goals and an assist from Josh Anderson. It's the Canadiens' fifth straight win, and rookie goalie Jacob Fowler has won seven in a row.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/pittsburgh-penguins-montreal-canadiens-game-recap-october-31-2026"
+    },
+    {
+      "league": "nba",
+      "headline": "Wembanyama scores 43 as Spurs handle Edwards-less Wolves",
+      "summary": "Victor Wembanyama had a season-high 43 points on 17-of-34, plus 7 rebounds and 6 blocks, in a 121-111 win over Minnesota. Dylan Harper added 25, and San Antonio has won four straight. The Wolves played without Anthony Edwards, who had a knee scope Oct. 29 and could miss up to two months, plus Rudy Gobert and Donte DiVincenzo.",
+      "source": "Field Level Media",
+      "url": "https://fieldlevelmedia.com/nba/nba-roundup-spurs-top-timberwolves-behind-victor-wembanyamas-43/"
+    },
+    {
+      "league": "nfl",
+      "headline": "Commanders' Daron Payne done for the season",
+      "summary": "Payne suffered a season-ending Jones fracture in his foot at Friday's practice, per ESPN's Adam Schefter, and is out for Sunday night against Philadelphia. Washington loses a starting defensive tackle with the Nov. 10 trade deadline nine days away.",
+      "source": "NFL.com",
+      "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-oct-31"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Week 8 Sunday ahead; Commanders lose Daron Payne for the season",
+      "stories": [
+        {
+          "headline": "Commanders' Daron Payne done for the season",
+          "summary": "Payne suffered a season-ending Jones fracture in his foot at Friday's practice, per ESPN's Adam Schefter, and is out for Sunday night against Philadelphia. Washington loses a starting defensive tackle with the Nov. 10 trade deadline nine days away.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-oct-31"
+        },
+        {
+          "headline": "Chargers put Derwin James on IR",
+          "summary": "James went on injured reserve with a hamstring injury and will miss at least four games. He hasn't played since Sept. 27, and Jim Harbaugh said this week he had a setback in rehab. The 0-6 Chargers play the Rams on Sunday.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50340504/chargers-safety-james-hamstring-placed-injured-reserve"
+        },
+        {
+          "headline": "Chiefs send L'Jarius Sneed back to IR",
+          "summary": "Kansas City placed Sneed on injured reserve and promoted practice-squad CB Melvin Smith. Sneed started four games after returning to the Chiefs, but his snaps had dropped the last two weeks.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/10/chiefs-cb-ljarius-sneed-headed-back-to-ir"
+        },
+        {
+          "headline": "Packers' Xavier McKinney fined $25K for criticizing officials",
+          "summary": "The league fined the Packers safety $25,000 for his comments on the officiating after Green Bay's loss to Detroit, per Schefter. Speaking your mind about the refs still costs real money.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-oct-31"
+        },
+        {
+          "headline": "Seahawks' Zach Charbonnet cleared for season debut",
+          "summary": "Charbonnet, who tore his ACL in January, is cleared to make his 2026 debut against the Bears on Monday night. Seattle has ruled out LT Charles Cross (ankle) and WR Rashid Shaheed (knee).",
+          "source": "The Sports Encounter",
+          "url": "https://thesportsencounter.com/2026/11/01/nfl-week-8-injuries-payne-brown-henderson-charbonnet-derwin-james-2026/"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Commanders DT Daron Payne (Jones fracture, foot) out for the season, per Schefter",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-oct-31"
+        },
+        {
+          "text": "Chargers placed S Derwin James (hamstring) on IR",
+          "url": "https://www.espn.com/nfl/story/_/id/50340504/chargers-safety-james-hamstring-placed-injured-reserve"
+        },
+        {
+          "text": "Chiefs placed CB L'Jarius Sneed on IR; promoted CB Melvin Smith from the practice squad",
+          "url": "https://www.profootballrumors.com/2026/10/chiefs-cb-ljarius-sneed-headed-back-to-ir"
+        },
+        {
+          "text": "Broncos placed RB R.J. Harvey on IR, signed DB Taylor Rapp off the practice squad",
+          "url": "https://nfltraderumors.co/nfl-transactions-saturday-10-31-2"
+        },
+        {
+          "text": "Jets placed DT T'Vondre Sweat on IR and signed DT Payton Page off the practice squad",
+          "url": "https://nfltraderumors.co/nfl-transactions-saturday-10-31-2"
+        },
+        {
+          "text": "Raiders activated WR Jack Bech from IR and placed LB Patrick Johnson on IR",
+          "url": "https://nfltraderumors.co/nfl-transactions-saturday-10-31-2"
+        },
+        {
+          "text": "Ravens activated DB T.J. Tampa from IR; Cowboys activated DB P.J. Locke from IR",
+          "url": "https://nfltraderumors.co/nfl-transactions-saturday-10-31-2"
+        },
+        {
+          "text": "Bills signed DB Te'Cory Couch and Steelers signed WR Brandon Smith off their practice squads",
+          "url": "https://nfltraderumors.co/nfl-transactions-saturday-10-31-2"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Wembanyama scores 43; Rockets rout short-handed Thunder; Grizzlies move to 6-0",
+      "stories": [
+        {
+          "headline": "Wembanyama scores 43 as Spurs handle Edwards-less Wolves",
+          "summary": "Victor Wembanyama had a season-high 43 points on 17-of-34, plus 7 rebounds and 6 blocks, in a 121-111 win over Minnesota. Dylan Harper added 25, and San Antonio has won four straight. The Wolves played without Anthony Edwards, who had a knee scope Oct. 29 and could miss up to two months, plus Rudy Gobert and Donte DiVincenzo.",
+          "source": "Field Level Media",
+          "url": "https://fieldlevelmedia.com/nba/nba-roundup-spurs-top-timberwolves-behind-victor-wembanyamas-43/"
+        },
+        {
+          "headline": "Rockets rout banged-up Thunder",
+          "summary": "Houston beat Oklahoma City 119-98 a night after its first loss. Jabari Smith Jr. scored 30 and Marcus Smart hit 7 of 10 threes for 24. The Thunder, without Chet Holmgren, Jalen Williams and Cason Wallace, have lost two straight after a 4-0 start.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909902"
+        },
+        {
+          "headline": "Grizzlies stay perfect, Kings stay winless",
+          "summary": "Memphis beat Sacramento 136-105 to move to 6-0, the league's only unbeaten team, with 81 bench points and a career-high 27 from Cameron Boozer. Rookie Darius Acuff Jr. scored a career-high 38 with nine threes for the 0-6 Kings.",
+          "source": "Field Level Media",
+          "url": "https://fieldlevelmedia.com/nba/nba-roundup-spurs-top-timberwolves-behind-victor-wembanyamas-43/"
+        },
+        {
+          "headline": "Maxey's 38 carries 76ers with LeBron and Embiid resting",
+          "summary": "Tyrese Maxey scored a season-high 38 as Philadelphia came back to win 109-104 at Charlotte on the second night of a back-to-back. LeBron James (back) and Joel Embiid (foot) both sat for management and are expected back Wednesday against Indiana.",
+          "source": "The Big Lead",
+          "url": "https://www.thebiglead.com/lebron-james-injury-update-76ers-miss-2nd-game-vs-hornets/"
+        },
+        {
+          "headline": "Cavaliers blow out slumping Bucks",
+          "summary": "Evan Mobley scored a season-high 27 and Jarrett Allen had 25 and 11 rebounds in Cleveland's 136-111 win in Milwaukee, the Cavs' first road win in three tries. The Bucks have lost five of six.",
+          "source": "Field Level Media",
+          "url": "https://fieldlevelmedia.com/nba/nba-roundup-spurs-top-timberwolves-behind-victor-wembanyamas-43/"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Trail Blazers",
+          "awayScore": 112,
+          "home": "Jazz",
+          "homeScore": 90,
+          "note": ""
+        },
+        {
+          "away": "76ers",
+          "awayScore": 109,
+          "home": "Hornets",
+          "homeScore": 104,
+          "note": "Close"
+        },
+        {
+          "away": "Hawks",
+          "awayScore": 99,
+          "home": "Pelicans",
+          "homeScore": 121,
+          "note": ""
+        },
+        {
+          "away": "Kings",
+          "awayScore": 105,
+          "home": "Grizzlies",
+          "homeScore": 136,
+          "note": ""
+        },
+        {
+          "away": "Timberwolves",
+          "awayScore": 111,
+          "home": "Spurs",
+          "homeScore": 121,
+          "note": ""
+        },
+        {
+          "away": "Cavaliers",
+          "awayScore": 136,
+          "home": "Bucks",
+          "homeScore": 111,
+          "note": ""
+        },
+        {
+          "away": "Thunder",
+          "awayScore": 98,
+          "home": "Rockets",
+          "homeScore": 119,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Victor Wembanyama",
+          "team": "Spurs",
+          "line": "43 PTS · 7 REB · 4 AST · 6 BLK · 17-34 FG",
+          "note": "A season high, and he passed George Gervin for fourth in franchise blocks along the way."
+        },
+        {
+          "name": "Tyrese Maxey",
+          "team": "76ers",
+          "line": "38 PTS · 13-23 FG · 8-9 FT",
+          "note": "A season high, with LeBron James and Joel Embiid both sitting."
+        },
+        {
+          "name": "Jabari Smith Jr.",
+          "team": "Rockets",
+          "line": "30 PTS · 9 REB · 5 AST · 6-12 3PT",
+          "note": "Led Houston's rout of Oklahoma City."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Timberwolves: Anthony Edwards had a right knee scope Oct. 29; could miss up to two months (sources)",
+          "url": "https://www.espn.com/nba/story/_/id/50320717/timberwolves-anthony-edwards-undergoes-successful-knee-scope"
+        },
+        {
+          "text": "Hawks F Jalen Johnson sprained his ankle vs. the Pelicans; no timeline",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-31/jalen-johnson-ankle-sits-out-fourth-quarter"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Crosby passes Bourque; Kucherov gets three assists a day after trade request news",
+      "stories": [
+        {
+          "headline": "Crosby passes Bourque for most assists with one team; Canadiens still win",
+          "summary": "Sidney Crosby's 1,112th assist as a Penguin passed Ray Bourque for the most assists by a player with one team in NHL history, and his goal tied Marcel Dionne for sixth all-time in points (1,771). Montreal won 5-4 anyway behind two goals and an assist from Josh Anderson. It's the Canadiens' fifth straight win, and rookie goalie Jacob Fowler has won seven in a row.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/pittsburgh-penguins-montreal-canadiens-game-recap-october-31-2026"
+        },
+        {
+          "headline": "Kucherov has three assists after trade-request report; Stamkos wins it in a shootout",
+          "summary": "A day after Sportsnet reported Nikita Kucherov wants out, he had three assists in Tampa's 5-4 shootout loss at Nashville. Steven Stamkos scored the tying power-play goal in the third, his first ever against his old team, then the only goal of the shootout. The Lightning still say they won't trade Kucherov.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/tampa-bay-lightning-nashville-predators-game-recap-october-31-2026"
+        },
+        {
+          "headline": "McDavid runs point streak to 14 as Oilers blank Islanders",
+          "summary": "Connor McDavid had an assist in a 4-0 win, extending his season-opening point streak to 14 games (35 points). Ryan Nugent-Hopkins scored twice and Tristan Jarry posted his second straight shutout. Edmonton is 10-2-2, but Isaac Howard left after one shift on a knee-on-knee hit from Emil Heineman, who got a major and a game misconduct.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/edmonton-oilers-new-york-islanders-game-recap-october-31-2026"
+        },
+        {
+          "headline": "Makar's four assists drive Avalanche past Flames",
+          "summary": "Cale Makar had four assists and Artturi Lehkonen scored twice in Colorado's 5-2 win. Lehkonen's point streak is at nine games, and Colorado is 12-0-1 in its last 13 against Calgary.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/calgary-flames-colorado-avalanche-game-recap-october-31-2026"
+        },
+        {
+          "headline": "Larkin-less Red Wings blow a 4-2 lead to the Blues",
+          "summary": "St. Louis scored three in the third, two of them 18 seconds apart, to win 5-4 in Detroit; Aleksanteri Kaskimaki's first NHL goal was the winner. Detroit played again without the suspended Dylan Larkin, who says he won't play for the team until he's traded.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/st-louis-blues-detroit-red-wings-game-recap-october-31-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Blackhawks",
+          "awayScore": 4,
+          "home": "Bruins",
+          "homeScore": 5,
+          "note": "OT"
+        },
+        {
+          "away": "Blues",
+          "awayScore": 5,
+          "home": "Red Wings",
+          "homeScore": 4,
+          "note": "Close"
+        },
+        {
+          "away": "Lightning",
+          "awayScore": 4,
+          "home": "Predators",
+          "homeScore": 5,
+          "note": "SO"
+        },
+        {
+          "away": "Oilers",
+          "awayScore": 4,
+          "home": "Islanders",
+          "homeScore": 0,
+          "note": ""
+        },
+        {
+          "away": "Sabres",
+          "awayScore": 3,
+          "home": "Kings",
+          "homeScore": 2,
+          "note": "Close"
+        },
+        {
+          "away": "Senators",
+          "awayScore": 5,
+          "home": "Sharks",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Penguins",
+          "awayScore": 4,
+          "home": "Canadiens",
+          "homeScore": 5,
+          "note": "Close"
+        },
+        {
+          "away": "Maple Leafs",
+          "awayScore": 4,
+          "home": "Canucks",
+          "homeScore": 2,
+          "note": ""
+        },
+        {
+          "away": "Blue Jackets",
+          "awayScore": 1,
+          "home": "Stars",
+          "homeScore": 3,
+          "note": ""
+        },
+        {
+          "away": "Flames",
+          "awayScore": 2,
+          "home": "Avalanche",
+          "homeScore": 5,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Cale Makar",
+          "team": "Avalanche",
+          "line": "0 G · 4 A",
+          "note": "NHL.com says he's the second player in 30 years with four assists on Halloween."
+        },
+        {
+          "name": "Nikita Kucherov",
+          "team": "Lightning",
+          "line": "0 G · 3 A",
+          "note": "Three assists in his first game since the trade-request report, in a shootout loss."
+        },
+        {
+          "name": "Tristan Jarry",
+          "team": "Oilers",
+          "line": "18 SV · 1.000 SV%",
+          "note": "His second straight shutout."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Ducks placed D Nick Jensen on waivers",
+          "url": "https://www.prohockeyrumors.com/2026/10/ducks-place-nick-jensen-on-waivers.html"
+        },
+        {
+          "text": "Maple Leafs activated Chris Tanev off IR; Blue Jackets activated Ivan Provorov; Stars activated Esa Lindell, placed Kyle Capobianco on IR",
+          "url": "https://www.prohockeyrumors.com/"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Astros hire Randy Flores as GM; Rays keep Rasmussen",
+      "stories": [
+        {
+          "headline": "Astros hire Randy Flores as GM",
+          "summary": "Houston hired the Cardinals assistant GM and scouting director Friday night, after Brewers AGM Matt Kleine had been reported as the top target. Flores has run St. Louis's drafts for about a decade, and his first job is finding a manager to replace Joe Espada.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/10/astros-hire-randy-flores-as-general-manager.html"
+        },
+        {
+          "headline": "Rays pick up Drew Rasmussen's $20MM option",
+          "summary": "Tampa Bay exercised Rasmussen's 2027 club option, which escalators pushed to $20MM, after a 2.67 ERA over a career-high 172 innings. MLBTR ranks him No. 2 on its offseason trade-candidate list, so keeping him may just mean keeping options open.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/10/rays-exercise-club-option-on-drew-rasmussen.html"
+        },
+        {
+          "headline": "Reds let Eugenio Suárez and Pierce Johnson go; Pagán opts out",
+          "summary": "Cincinnati declined Suárez's $16MM mutual option and bought out Johnson's $8MM option. Closer Emilio Pagán declined his $10MM player option. The Reds' bullpen and corner infield both got thinner overnight.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/10/reds-decline-mutual-options-for-eugenio-suarez-pierce-johnson.html"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Astros hired Cardinals AGM Randy Flores as general manager",
+          "url": "https://www.mlbtraderumors.com/2026/10/astros-hire-randy-flores-as-general-manager.html"
+        },
+        {
+          "text": "Rays exercised Drew Rasmussen's $20MM club option for 2027",
+          "url": "https://www.mlbtraderumors.com/2026/10/rays-exercise-club-option-on-drew-rasmussen.html"
+        },
+        {
+          "text": "Orioles declining Luis Robert Jr.'s $20MM club option ($2MM buyout), per ESPN",
+          "url": "https://www.mlbtraderumors.com/2026/10/orioles-expected-to-decline-club-option-on-luis-robert-jr.html"
+        },
+        {
+          "text": "Reds declined Eugenio Suárez's and Pierce Johnson's options; Emilio Pagán declined his player option",
+          "url": "https://www.mlbtraderumors.com/2026/10/reds-decline-mutual-options-for-eugenio-suarez-pierce-johnson.html"
+        },
+        {
+          "text": "KBO's Hanwha Eagles to post 3B Si Hwan Roh",
+          "url": "https://www.mlbtraderumors.com/2026/10/kbos-hanwha-eagles-to-post-si-hwan-roh-for-mlb-teams.html"
+        },
+        {
+          "text": "Rangers bought out mutual options for Kyle Higashioka and Jakob Junis",
+          "url": "https://www.mlbtraderumors.com/2026/10/kyle-higashioka-jakob-junis-to-become-free-agents.html"
+        },
+        {
+          "text": "D-backs hiring Padres bullpen coach Ben Fritz as pitching coach",
+          "url": "https://www.mlbtraderumors.com/2026/10/diamondbacks-to-hire-ben-fritz-as-pitching-coach.html"
+        },
+        {
+          "text": "Clint Hurdle and the Rockies are parting ways",
+          "url": "https://www.mlbtraderumors.com/2026/10/clint-hurdle-rockies-parting-ways.html"
+        }
+      ]
+    }
+  ]
+}

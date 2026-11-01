@@ -1,185 +1,7 @@
 {
-  "date": "2026-10-31",
-  "weekendNote": "Halloween weekend",
+  "date": "2026-11-01",
+  "weekendNote": "Día de Muertos Sunday",
   "events": [
-    {
-      "id": "2026-10-31-cirque-of-the-dead",
-      "name": "Cirque of the Dead",
-      "date": "2026-10-31",
-      "venue": "Arts at the Armory",
-      "area": "Somerville",
-      "price": "$40–$60",
-      "tags": [
-        "somerville"
-      ],
-      "why": "Halloween circus show at the Armory on Highland Ave. Last chance is Saturday.",
-      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
-      "linkLabel": "Info",
-      "time": "4:30–7 PM & 8–10:30 PM",
-      "startTime": "16:30",
-      "endTime": "22:30",
-      "note": "Two shows"
-    },
-    {
-      "name": "Night of the Living Dead with a new live score",
-      "date": "2026-10-31",
-      "time": "5–7 PM & 8–10 PM",
-      "startTime": "17:00",
-      "endTime": "22:00",
-      "venue": "The Underground, 402a Highland St",
-      "area": "Somerville",
-      "price": "$20",
-      "note": "Two shows",
-      "tags": [
-        "somerville",
-        "film",
-        "music"
-      ],
-      "why": "The 1968 zombie classic screened while the duo Emma and Micah Huang play a new score live, a short walk from home on Halloween night.",
-      "url": "https://www.eventbrite.com/e/night-of-the-living-dead-w-live-score-tickets-2003241964642",
-      "linkLabel": "Tickets",
-      "pick": true,
-      "id": "2026-10-31-night-of-the-living-dead-with-a-new-live",
-      "added": "2026-10-31"
-    },
-    {
-      "id": "2026-10-31-blair-project",
-      "name": "The BLAIR Project",
-      "date": "2026-10-31",
-      "time": "6–11:30 PM",
-      "startTime": "18:00",
-      "endTime": "23:30",
-      "venue": "City Hall Plaza",
-      "area": "Boston",
-      "free": true,
-      "tags": [
-        "djs"
-      ],
-      "why": "Halloween concert and marketplace with an all-female lineup of performers and DJs, food trucks and a heated tent. Free and easy to drop in on.",
-      "url": "https://www.boston.gov/calendar/blair-project",
-      "linkLabel": "Info",
-      "pick": true
-    },
-    {
-      "id": "2026-10-31-aeronaut-halloween-bonanza",
-      "name": "Halloween Bonanza at Aeronaut",
-      "date": "2026-10-31",
-      "time": "6–11 PM",
-      "startTime": "18:00",
-      "endTime": "23:00",
-      "venue": "Aeronaut Brewing",
-      "area": "Somerville",
-      "free": true,
-      "note": "21+; RSVP requested",
-      "tags": [
-        "somerville",
-        "music",
-        "food"
-      ],
-      "why": "Annual taproom party with a costume contest, The Femmes playing Halloween music 7–9 PM, and horror movies on in the background.",
-      "url": "https://www.thebostoncalendar.com/events/halloween-bonanza-at-aeronaut--2",
-      "linkLabel": "Info",
-      "added": "2026-10-29"
-    },
-    {
-      "id": "2026-10-31-carnevil-envoy-rooftop",
-      "name": "CARNEVIL: Halloween at Envoy Rooftop",
-      "date": "2026-10-31",
-      "time": "6–10 PM",
-      "startTime": "18:00",
-      "endTime": "22:00",
-      "venue": "Envoy Hotel Rooftop",
-      "area": "Boston",
-      "tags": [
-        "djs"
-      ],
-      "why": "Early-evening Halloween DJ party on the Envoy's Seaport rooftop, part of its Boston Rooftop Series.",
-      "url": "https://www.eventbrite.com/e/boston-rooftop-series-at-the-envoy-rooftop-halloween-night-tickets-2000049107721",
-      "linkLabel": "Tickets",
-      "added": "2026-10-30"
-    },
-    {
-      "name": "Blade Runner – Live in Concert",
-      "date": "2026-10-31",
-      "time": "7–9 PM",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "venue": "Emerson Colonial Theatre",
-      "area": "Boston",
-      "tags": [
-        "film",
-        "music"
-      ],
-      "why": "The Final Cut on a big screen with The Avex Ensemble playing Vangelis' score live.",
-      "url": "https://www.thebostoncalendar.com/events/blade-runner-live-in-concert",
-      "linkLabel": "Info",
-      "id": "2026-10-31-blade-runner-live-in-concert",
-      "added": "2026-10-31"
-    },
-    {
-      "id": "2026-10-31-after-brunch-amal-nemer",
-      "name": "After Brunch Halloween: Amal Nemer",
-      "date": "2026-10-31",
-      "time": "9 PM–2 AM",
-      "startTime": "21:00",
-      "endTime": "02:00",
-      "venue": "PKL",
-      "area": "South Boston",
-      "tags": [
-        "house"
-      ],
-      "why": "After Brunch's Halloween night with Amal Nemer.",
-      "url": "https://www.basslineboston.com/after-brunch",
-      "linkLabel": "Tickets"
-    },
-    {
-      "name": "The Cabinet of Dr. Caligari with live organ",
-      "date": "2026-10-31",
-      "time": "9–11 PM",
-      "startTime": "21:00",
-      "endTime": "23:00",
-      "venue": "Symphony Hall",
-      "area": "Boston",
-      "price": "$61",
-      "tags": [
-        "film",
-        "music"
-      ],
-      "why": "The silent expressionist horror film with Brett Miller playing Symphony Hall's organ live.",
-      "url": "https://secure.bso.org/syos/performance/28655",
-      "linkLabel": "Tickets",
-      "id": "2026-10-31-the-cabinet-of-dr-caligari-with-live-org",
-      "added": "2026-10-31"
-    },
-    {
-      "id": "2026-10-31-coolidge-horror-marathon",
-      "name": "Halloween Horror Marathon",
-      "date": "2026-10-31",
-      "time": "11:30 PM",
-      "startTime": "23:30",
-      "venue": "Coolidge Corner Theatre",
-      "area": "Brookline",
-      "price": "$35–$49",
-      "tags": [
-        "film"
-      ],
-      "why": "The Coolidge's all-night horror marathon. The Creature Double Feature ticket ($35) is the shorter option if you don't want to go till sunrise.",
-      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
-      "linkLabel": "Info"
-    },
-    {
-      "id": "2026-11-08-boston-lights",
-      "name": "Boston Lights: A Lantern Experience",
-      "date": "2026-10-31",
-      "endDate": "2026-11-08",
-      "venue": "Franklin Park Zoo",
-      "area": "Roxbury",
-      "price": "$21.95",
-      "why": "Lantern walk through the zoo after dark. A good date night before it closes Nov 8.",
-      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
-      "linkLabel": "Info",
-      "note": "One guide says it may end Nov 2; check before going"
-    },
     {
       "name": "Best Vinyl Record Show",
       "date": "2026-11-01",
@@ -193,11 +15,12 @@
         "music",
         "market"
       ],
-      "why": "Record fair with New England vendors selling vinyl, CDs, cassettes and memorabilia, with a DJ playing.",
+      "why": "Record fair in Dedham with New England vendors selling vinyl, CDs and cassettes while a DJ plays. A low-key Sunday-morning dig.",
       "url": "https://www.thebostoncalendar.com/events/best-vinyl-record-show-dedham-ma",
       "linkLabel": "Info",
       "id": "2026-11-01-best-vinyl-record-show",
-      "added": "2026-10-31"
+      "added": "2026-10-31",
+      "pick": true
     },
     {
       "id": "2026-11-01-sowa-open-market",
@@ -245,7 +68,8 @@
       ],
       "why": "World premiere of a new score played live by the Psychedelic Cinema Orchestra. An easy Sunday afternoon in Davis Square.",
       "url": "https://www.somervilletheatre.com/events/",
-      "linkLabel": "Tickets"
+      "linkLabel": "Tickets",
+      "pick": true
     },
     {
       "id": "2026-11-01-bow-market-dia-de-los-muertos",
@@ -291,6 +115,19 @@
       "added": "2026-10-29"
     },
     {
+      "id": "2026-11-08-boston-lights",
+      "name": "Boston Lights: A Lantern Experience",
+      "date": "2026-11-01",
+      "endDate": "2026-11-08",
+      "venue": "Franklin Park Zoo",
+      "area": "Roxbury",
+      "price": "$21.95",
+      "why": "Lantern walk through the zoo after dark. A good date night before it closes Nov 8.",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "linkLabel": "Info",
+      "note": "One guide says it may end Nov 2; check before going"
+    },
+    {
       "id": "2026-11-03-eraserhead",
       "name": "Eraserhead",
       "date": "2026-11-03",
@@ -304,6 +141,26 @@
       "url": "https://ma.to/venue/somerville_theatre",
       "linkLabel": "Info",
       "added": "2026-10-29"
+    },
+    {
+      "name": "Free tasting: Emme Wines",
+      "date": "2026-11-04",
+      "time": "5–7 PM",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "venue": "Wild Child, 30 Bow St",
+      "area": "Somerville",
+      "price": "Free",
+      "free": true,
+      "tags": [
+        "somerville",
+        "food"
+      ],
+      "why": "Drop-in tasting of three new releases from Emme winemaker Rosalind Reynolds, with 10% off bottles.",
+      "url": "https://happeningnext.com/event/free-tasting-emme-wines-eid1ef0l8vexqlr",
+      "linkLabel": "Info",
+      "id": "2026-11-04-emme-wines-tasting",
+      "added": "2026-11-01"
     },
     {
       "id": "2026-11-04-behemoth-iffboston-closing",
@@ -354,6 +211,21 @@
       "added": "2026-10-30"
     },
     {
+      "name": "Finding Bright Film Festival",
+      "date": "2026-11-05",
+      "endDate": "2026-11-08",
+      "venue": "Capitol Theatre",
+      "area": "Arlington",
+      "tags": [
+        "film"
+      ],
+      "why": "The renamed Arlington International Film Festival, with Fantastique and Matapanki in the lineup plus a 'witch hunt' and monster sketching during live readings.",
+      "url": "https://www.capitoltheatreusa.com/finding-bright-film-festival/",
+      "linkLabel": "Info",
+      "id": "2026-11-05-finding-bright-film-festival",
+      "added": "2026-11-01"
+    },
+    {
       "id": "2026-11-06-antiquarian-book-fair",
       "name": "Boston International Antiquarian Book Fair",
       "date": "2026-11-06",
@@ -392,6 +264,23 @@
       "added": "2026-10-29"
     },
     {
+      "name": "ADULT. + A Place to Bury Strangers",
+      "date": "2026-11-06",
+      "time": "8:30 PM",
+      "startTime": "20:30",
+      "venue": "The Sinclair",
+      "area": "Cambridge",
+      "note": "Doors 7:30 PM",
+      "tags": [
+        "music"
+      ],
+      "why": "Detroit electro duo ADULT. on a bill with noise-rock band A Place to Bury Strangers.",
+      "url": "https://www.axs.com/events/1450875/adult-a-place-to-bury-strangers-tickets",
+      "linkLabel": "Tickets",
+      "id": "2026-11-06-adult-a-place-to-bury-strangers",
+      "added": "2026-11-01"
+    },
+    {
       "id": "2026-11-06-snowport",
       "name": "Snowport Holiday Market",
       "date": "2026-11-06",
@@ -426,6 +315,26 @@
       "added": "2026-10-31"
     },
     {
+      "name": "Somerville Winter Farmers Market opening day",
+      "date": "2026-11-07",
+      "time": "9:30 AM–1:30 PM",
+      "startTime": "09:30",
+      "endTime": "13:30",
+      "venue": "Arts at the Armory",
+      "area": "Somerville",
+      "note": "Saturdays through Apr 17; closed Nov 28 and Dec 26",
+      "tags": [
+        "somerville",
+        "food",
+        "market"
+      ],
+      "why": "Weekly indoor winter market with 65+ local food vendors; Nov 7 is the first date of the season.",
+      "url": "https://artsatthearmory.org/events/somerville-winter-farmers-market-2026-11-07/",
+      "linkLabel": "Info",
+      "id": "2026-11-07-somerville-winter-farmers-market",
+      "added": "2026-11-01"
+    },
+    {
       "name": "Bow Market Renaissance Faire, THE SECOND",
       "date": "2026-11-07",
       "time": "10 AM–11 PM",
@@ -446,6 +355,64 @@
       "linkLabel": "Tickets",
       "id": "2026-11-07-bow-market-renaissance-faire-the-second",
       "added": "2026-10-31"
+    },
+    {
+      "name": "The Brighton Bazaar: Fall Season Finale",
+      "date": "2026-11-07",
+      "endDate": "2026-11-08",
+      "time": "11 AM–5 PM",
+      "startTime": "11:00",
+      "endTime": "17:00",
+      "venue": "Brighton Elks Lodge, 326 Washington St",
+      "area": "Brighton",
+      "price": "Free",
+      "free": true,
+      "note": "Rain or shine",
+      "tags": [
+        "market"
+      ],
+      "why": "120+ vendors selling art, vinyl, vintage and handmade goods, with a vinyl DJ.",
+      "url": "https://www.thebostoncalendar.com/events/the-brighton-bazaar-fall-season-finale",
+      "linkLabel": "Info",
+      "id": "2026-11-07-brighton-bazaar-fall-finale",
+      "added": "2026-11-01"
+    },
+    {
+      "name": "Somerville Art Fair Auction",
+      "date": "2026-11-08",
+      "time": "4–6 PM",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "venue": "Upstairs at Bow, Bow Market",
+      "area": "Somerville",
+      "note": "Ticketed; silent bidding from 5:30 PM",
+      "tags": [
+        "somerville",
+        "market"
+      ],
+      "why": "Silent auction of original works by 2026 Somerville Art Fair artists; proceeds go to the artists.",
+      "url": "https://www.eventbrite.com/e/1986925499656/",
+      "linkLabel": "Tickets",
+      "id": "2026-11-08-somerville-art-fair-auction",
+      "added": "2026-11-01"
+    },
+    {
+      "name": "Double Indemnity craft-along screening",
+      "date": "2026-11-09",
+      "time": "6 PM",
+      "startTime": "18:00",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "price": "$13.50",
+      "note": "4K DCP",
+      "tags": [
+        "film"
+      ],
+      "why": "The 1944 noir with the lights halfway up so people can work on small craft projects during the film.",
+      "url": "https://brattlefilm.org/showtimes/double-indemnity-11-9-26-600-pm/",
+      "linkLabel": "Tickets",
+      "id": "2026-11-09-double-indemnity-craft-along",
+      "added": "2026-11-01"
     },
     {
       "id": "2026-11-10-protomartyr",
@@ -570,6 +537,47 @@
       "added": "2026-10-31"
     },
     {
+      "name": "La Fête du Beaujolais",
+      "date": "2026-11-19",
+      "time": "4–11:30 PM",
+      "startTime": "16:00",
+      "endTime": "23:30",
+      "venue": "Rebel Rebel, Bow Market",
+      "area": "Somerville",
+      "price": "$12.51–$17.85 (includes aligot)",
+      "note": "Tickets not required for entry",
+      "tags": [
+        "somerville",
+        "food"
+      ],
+      "why": "Beaujolais Nouveau Day party with more than a dozen Beaujolais by the glass and pommes aligot.",
+      "url": "https://happeningnext.com/event/la-f%C3%AAte-du-beaujolais-eid1ef0l92336ea",
+      "linkLabel": "Info",
+      "id": "2026-11-19-fete-du-beaujolais",
+      "added": "2026-11-01"
+    },
+    {
+      "name": "Free barrel-aged bottle tasting",
+      "date": "2026-11-19",
+      "time": "7–9 PM",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "venue": "Aeronaut Brewing",
+      "area": "Somerville",
+      "price": "Free",
+      "free": true,
+      "note": "RSVP required, limited to 20; 21+",
+      "tags": [
+        "somerville",
+        "food"
+      ],
+      "why": "Free tasting of four barrel-aged bottled beers with light snacks.",
+      "url": "https://www.thebostoncalendar.com/events/free-bottle-tasting-at-aeronaut-rsvp-required",
+      "linkLabel": "Info",
+      "id": "2026-11-19-aeronaut-free-bottle-tasting",
+      "added": "2026-11-01"
+    },
+    {
       "id": "2026-11-20-sowa-christmas-market",
       "name": "SoWa Christmas Market",
       "date": "2026-11-20",
@@ -590,6 +598,24 @@
       "added": "2026-10-29"
     },
     {
+      "name": "Fall Thrift Festival (Select Markets)",
+      "date": "2026-11-21",
+      "time": "11 AM–6 PM",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "venue": "Reggie Lewis Center, 1350 Tremont St",
+      "area": "Roxbury",
+      "price": "$0–$14",
+      "tags": [
+        "market"
+      ],
+      "why": "Vintage market with 100+ vendors, $10 piles, food trucks and live music.",
+      "url": "https://happeningnext.com/event/fall-thrift-festival-select-markets-eid1ef0l912vbar",
+      "linkLabel": "Tickets",
+      "id": "2026-11-21-fall-thrift-festival",
+      "added": "2026-11-01"
+    },
+    {
       "name": "Holiday Plant Market",
       "date": "2026-11-22",
       "time": "10 AM–4 PM",
@@ -606,6 +632,26 @@
       "linkLabel": "Info",
       "id": "2026-11-22-holiday-plant-market",
       "added": "2026-10-31"
+    },
+    {
+      "name": "Boston Women's Holiday Market",
+      "date": "2026-11-22",
+      "time": "11 AM–4 PM",
+      "startTime": "11:00",
+      "endTime": "16:00",
+      "venue": "Warehouse XI, 11 Sanborn Ct",
+      "area": "Somerville",
+      "price": "Free",
+      "free": true,
+      "tags": [
+        "somerville",
+        "market"
+      ],
+      "why": "Holiday pop-up with 30+ New England women makers.",
+      "url": "https://www.bostonwomensmarket.com/events-calendar/boston-womens-holiday-market-at-warehouse-xi-2026",
+      "linkLabel": "Info",
+      "id": "2026-11-22-boston-womens-holiday-market-warehouse-xi",
+      "added": "2026-11-01"
     },
     {
       "name": "Survivor Season 51 screenings",
@@ -705,17 +751,6 @@
   ],
   "comedyShows": [
     {
-      "comedian": "Jeff Allen",
-      "date": "2026-10-31",
-      "time": "4 PM",
-      "startTime": "16:00",
-      "venue": "Laugh Boston",
-      "area": "Boston",
-      "onSale": "On sale now",
-      "url": "https://comedy.tickets/venue/laugh-boston/",
-      "added": "2026-10-30"
-    },
-    {
       "comedian": "Michael Rapaport",
       "date": "2026-11-04",
       "time": "7 PM",
@@ -742,8 +777,9 @@
       "venue": "Arts at the Armory",
       "area": "Somerville",
       "onSale": "On sale now",
-      "url": "https://www.songkick.com/concerts/43096195-joanne-mcnally-at-center-for-arts-at-the-armory",
-      "added": "2026-10-30"
+      "url": "https://artsatthearmory.org/events/bill-blumenreich-presents-joanne-mcnally-pinotphile/",
+      "added": "2026-10-30",
+      "note": "Early show sold out; late show still listed"
     },
     {
       "comedian": "Marc Maron",
@@ -900,6 +936,18 @@
       "area": "Boston",
       "url": "https://comedy.tickets/venue/laugh-boston/",
       "added": "2026-10-29"
+    },
+    {
+      "comedian": "The Jinkx & DeLa Holiday Show (Jinkx Monsoon & BenDeLaCreme)",
+      "date": "2026-11-28",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "Wang Theatre",
+      "area": "Boston",
+      "onSale": "On sale now",
+      "note": "Drag and comedy holiday show",
+      "url": "https://www.thebostoncalendar.com/events/the-jinkx-dela-holiday-show-2026",
+      "added": "2026-11-01"
     },
     {
       "comedian": "Nikki Glaser",
@@ -1150,8 +1198,8 @@
   ],
   "comedianWatchlist": [],
   "ticker": [
-    "Free: BLAIR Project, Sat",
-    "Living Dead live score, Sat",
-    "Free: Día de Muertos, Sun"
+    "Free: Día de Muertos, today",
+    "Eleventh Year live score, 3 PM",
+    "CamelPhat, Royale, Fri"
   ]
 }

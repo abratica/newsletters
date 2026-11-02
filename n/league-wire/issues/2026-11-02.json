@@ -1,0 +1,421 @@
+{
+  "date": "2026-11-02",
+  "headline": "Lamar Jackson needs thumb surgery, headed to IR",
+  "ticker": [
+    "Lamar Jackson to IR",
+    "Broncos 28, Chiefs 24",
+    "Doncic drops 45 on Raptors",
+    "Kochetkov starts 10-0",
+    "Wright traded to Nashville"
+  ],
+  "top": [
+    {
+      "league": "nfl",
+      "headline": "Lamar Jackson needs thumb surgery, headed to IR",
+      "summary": "Jackson hurt his right thumb on Baltimore's first offensive play at Buffalo, when his hand hit Greg Rousseau's as he threw. It was his first game back from an ankle injury. Coach Jesse Minter said he will have surgery and go on injured reserve, and said it could 'potentially' end his season. Backup Tyler Huntley then hurt his toe, undrafted rookie Joe Fagnano finished the game, and the Ravens lost 36-10 to fall to 4-4.",
+      "source": "BaltimoreRavens.com",
+      "url": "https://www.baltimoreravens.com/news/lamar-jackson-thumb-injured-ravens-bills-2026"
+    },
+    {
+      "league": "nhl",
+      "headline": "Kochetkov goes 10-0 as Hurricanes bury the Jets",
+      "summary": "Carolina beat Winnipeg 7-0. Pyotr Kochetkov made 26 saves for his second shutout and became the third goalie in NHL history to start a season 10-0. Sean Walker scored twice. The Jets have now lost nine straight (0-7-2) and allowed 23 goals in their past four games. Winnipeg already traded Connor Hellebuyck in October, and the bottom keeps getting lower.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nhl/recap?gameId=401892624"
+    },
+    {
+      "league": "nba",
+      "headline": "Doncic drops 45 and 15 as Lakers hold off Raptors",
+      "summary": "Luka Doncic had 45 points, a season-high 15 rebounds, 6 assists, 5 steals and eight 3s in a 131-125 win over Toronto. The Lakers led by 16 with 1:43 left, then had to send the starters back in as Toronto's bench cut it to six. It's his fourth straight game with 37 or more, and it came two days after the Lakers blew a 25-point lead at Golden State.",
+      "source": "AP via Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/luka-doncic-45-points-15-044155334.html"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Lamar Jackson needs thumb surgery; Broncos rally past Chiefs for AFC West lead",
+      "stories": [
+        {
+          "headline": "Lamar Jackson needs thumb surgery, headed to IR",
+          "summary": "Jackson hurt his right thumb on Baltimore's first offensive play at Buffalo, when his hand hit Greg Rousseau's as he threw. It was his first game back from an ankle injury. Coach Jesse Minter said he will have surgery and go on injured reserve, and said it could 'potentially' end his season. Backup Tyler Huntley then hurt his toe, undrafted rookie Joe Fagnano finished the game, and the Ravens lost 36-10 to fall to 4-4.",
+          "source": "BaltimoreRavens.com",
+          "url": "https://www.baltimoreravens.com/news/lamar-jackson-thumb-injured-ravens-bills-2026"
+        },
+        {
+          "headline": "Broncos rally past Chiefs, take AFC West lead",
+          "summary": "Denver came back from 11 points down in the fourth quarter to beat Kansas City 28-24. Harrison Butker missed a 53-yarder with the Chiefs up three, and the defense ended it with a goal-line stand that finished with a sack of Patrick Mahomes. The Broncos are 6-2, have won four straight and now hold the head-to-head tiebreaker.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/chiefs-broncos-five-things-we-learned-bo-nix/"
+        },
+        {
+          "headline": "Eagles lose sixth straight as Commanders pull away",
+          "summary": "Philadelphia led Washington 10-0, then gave up 27 unanswered points in a 27-10 loss on Sunday night. With Jalen Hurts hurt, Tanner McKee went 23-of-34 for 212 yards with an interception and was sacked five times. It is the Eagles' longest losing streak since 2012, and Nick Sirianni did not rule out changes at offensive coordinator.",
+          "source": "Philadelphia Inquirer",
+          "url": "https://www.inquirer.com/eagles/week-8-loss-commanders-tanner-mckee-jayden-daniels-nick-sirianni-20261101.html"
+        },
+        {
+          "headline": "Burrow throws for 462 as Bengals outlast Titans in OT",
+          "summary": "Joe Burrow went 38-of-48 for 462 yards, five touchdowns and three interceptions. He then scrambled in from 9 yards out in overtime to beat Tennessee 43-36. Cincinnati is 5-2 and won a game that was supposed to be easy. It was a 12.5-point favorite.",
+          "source": "Bengals.com",
+          "url": "https://www.bengals.com/news/bengals-titans-recap-postgame-notes-quotes-stats-week-8-2026"
+        },
+        {
+          "headline": "Bucs shut out Falcons without completing a pass",
+          "summary": "Baker Mayfield went 0-for-3, and Tampa Bay still won 16-0 by running 55 times for 322 yards. Bucky Irving ran for 170 yards and Kenneth Gainwell added 140. Michael Penix Jr. threw four interceptions, and both teams are now 3-5.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-8-what-we-learned-from-sunday-s-games"
+        }
+      ],
+      "scoresLabel": "Week 8",
+      "scores": [
+        {
+          "away": "Panthers",
+          "awayScore": 19,
+          "home": "Packers",
+          "homeScore": 27,
+          "note": "Close"
+        },
+        {
+          "away": "Ravens",
+          "awayScore": 10,
+          "home": "Bills",
+          "homeScore": 36,
+          "note": ""
+        },
+        {
+          "away": "Titans",
+          "awayScore": 36,
+          "home": "Bengals",
+          "homeScore": 43,
+          "note": "OT"
+        },
+        {
+          "away": "Cardinals",
+          "awayScore": 33,
+          "home": "Cowboys",
+          "homeScore": 30,
+          "note": "OT"
+        },
+        {
+          "away": "Vikings",
+          "awayScore": 15,
+          "home": "Lions",
+          "homeScore": 19,
+          "note": "Close"
+        },
+        {
+          "away": "Colts",
+          "awayScore": 7,
+          "home": "Jaguars",
+          "homeScore": 42,
+          "note": ""
+        },
+        {
+          "away": "Raiders",
+          "awayScore": 38,
+          "home": "Jets",
+          "homeScore": 33,
+          "note": "Upset"
+        },
+        {
+          "away": "Browns",
+          "awayScore": 6,
+          "home": "Steelers",
+          "homeScore": 27,
+          "note": ""
+        },
+        {
+          "away": "Falcons",
+          "awayScore": 0,
+          "home": "Buccaneers",
+          "homeScore": 16,
+          "note": ""
+        },
+        {
+          "away": "Chargers",
+          "awayScore": 9,
+          "home": "Rams",
+          "homeScore": 24,
+          "note": ""
+        },
+        {
+          "away": "Chiefs",
+          "awayScore": 24,
+          "home": "Broncos",
+          "homeScore": 28,
+          "note": "Close"
+        },
+        {
+          "away": "Patriots",
+          "awayScore": 24,
+          "home": "Dolphins",
+          "homeScore": 19,
+          "note": "Close"
+        },
+        {
+          "away": "Eagles",
+          "awayScore": 10,
+          "home": "Commanders",
+          "homeScore": 27,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Joe Burrow",
+          "team": "Bengals",
+          "line": "38-48 · 462 YDS · 5 TD · 3 INT",
+          "note": "He also ran in the overtime winner from 9 yards out, and his five TD passes tie his single-game career high."
+        },
+        {
+          "name": "Bucky Irving",
+          "team": "Buccaneers",
+          "line": "27-170-1",
+          "note": "He carried an offense that didn't complete a single pass in a 16-0 shutout."
+        },
+        {
+          "name": "Tee Higgins",
+          "team": "Bengals",
+          "line": "10-155-2",
+          "note": "Burrow's top target in the 43-36 overtime shootout."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Ravens: QB Lamar Jackson will have right thumb surgery and go on IR (coach Jesse Minter); he could miss the rest of the season.",
+          "url": "https://www.baltimoreravens.com/news/lamar-jackson-thumb-injured-ravens-bills-2026"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Doncic posts 45 and 15; rookie Lendeborg scores 37; Nets get first win",
+      "stories": [
+        {
+          "headline": "Doncic drops 45 and 15 as Lakers hold off Raptors",
+          "summary": "Luka Doncic had 45 points, a season-high 15 rebounds, 6 assists, 5 steals and eight 3s in a 131-125 win over Toronto. The Lakers led by 16 with 1:43 left, then had to send the starters back in as Toronto's bench cut it to six. It's his fourth straight game with 37 or more, and it came two days after the Lakers blew a 25-point lead at Golden State.",
+          "source": "AP via Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/luka-doncic-45-points-15-044155334.html"
+        },
+        {
+          "headline": "Rookie Lendeborg scores 37 as Warriors win without Curry and Green",
+          "summary": "Yaxel Lendeborg scored a career-high 37 on 13-of-19 shooting as Golden State beat the Clippers 124-112 with Stephen Curry and Draymond Green resting on the front end of a back-to-back. It's the most by a Warriors rookie since Curry's 42 in April 2010. Golden State has won four straight after an 0-3 start. The Clippers have lost five in a row.",
+          "source": "AP via ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/rookie-lendeborg-scores-career-high-37-points-warriors-137761325"
+        },
+        {
+          "headline": "Nets finally win, beating short-handed Pacers",
+          "summary": "Brooklyn won for the first time this season, 98-90 at Indiana, behind Michael Porter Jr.'s 23 points and Julius Randle's 20. The Pacers were without Tyrese Haliburton, Obi Toppin, Ivica Zubac and T.J. McConnell. The Nets are now 1-5, and they won as 3.5-point underdogs. Next up for them is the Knicks on Monday.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/nets-first-win-season-strong-005628327.html"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Celtics",
+          "awayScore": 108,
+          "home": "Magic",
+          "homeScore": 97,
+          "note": ""
+        },
+        {
+          "away": "Nets",
+          "awayScore": 98,
+          "home": "Pacers",
+          "homeScore": 90,
+          "note": "Upset"
+        },
+        {
+          "away": "Clippers",
+          "awayScore": 112,
+          "home": "Warriors",
+          "homeScore": 124,
+          "note": ""
+        },
+        {
+          "away": "Raptors",
+          "awayScore": 125,
+          "home": "Lakers",
+          "homeScore": 131,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Luka Doncic",
+          "team": "Lakers",
+          "line": "45 PTS · 15 REB · 6 AST · 5 STL · 8 3PM",
+          "note": "His fourth straight game with 37 or more. It's his second 40-10-5-steal game as a Laker; no other Laker had done that since 1982-83."
+        },
+        {
+          "name": "Yaxel Lendeborg",
+          "team": "Warriors",
+          "line": "37 PTS · 4 REB · 6 AST · 13-19 FG · 6-11 3PT",
+          "note": "A career high, and the most by a Warriors rookie since Stephen Curry's 42 in April 2010."
+        },
+        {
+          "name": "Jayson Tatum",
+          "team": "Celtics",
+          "line": "32 PTS · 15-17 FT",
+          "note": "Left in the first quarter after a head collision, came back, and led Boston to its fifth straight win."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Raptors: Kawhi Leonard (knee) missed his fourth straight game and is expected to miss Monday at the Clippers.",
+          "url": "https://sports.yahoo.com/articles/luka-doncic-45-points-15-044155334.html"
+        },
+        {
+          "text": "Hornets exercised 2027-28 team options on Kon Knueppel and Liam McNeeley.",
+          "url": "https://www.hoopsrumors.com/2026/11/hornets-pick-up-2027-28-options-on-kon-knueppel-liam-mcneeley.html"
+        },
+        {
+          "text": "Wizards exercised 2027-28 options on Alex Sarr, Tre Johnson, Bub Carrington, Kyshawn George and Will Riley.",
+          "url": "https://www.hoopsrumors.com/2026/11/wizards-exercise-rookie-scale-team-options-on-five-players.html"
+        },
+        {
+          "text": "Hawks exercised Asa Newell's third-year option.",
+          "url": "https://www.hoopsrumors.com/2026/11/hawks-exercise-2027-28-option-on-asa-newell.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Kochetkov starts 10-0 as Jets lose ninth straight; Kraken trade Shane Wright",
+      "stories": [
+        {
+          "headline": "Kochetkov goes 10-0 as Hurricanes bury the Jets",
+          "summary": "Carolina beat Winnipeg 7-0. Pyotr Kochetkov made 26 saves for his second shutout and became the third goalie in NHL history to start a season 10-0. Sean Walker scored twice. The Jets have now lost nine straight (0-7-2) and allowed 23 goals in their past four games. Winnipeg already traded Connor Hellebuyck in October, and the bottom keeps getting lower.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nhl/recap?gameId=401892624"
+        },
+        {
+          "headline": "Kraken send Shane Wright to Nashville for Matthew Wood",
+          "summary": "Seattle traded Shane Wright, the fourth overall pick in 2022, to the Predators for Matthew Wood in a one-for-one deal on Sunday. Wright had 3 goals and 1 assist in 14 games this season. Wood had 1 goal and 2 assists in 13. Both are in the final year of their entry-level deals, and both will be restricted free agents next summer. Each team is betting on a change of scenery.",
+          "source": "TSN",
+          "url": "https://www.tsn.ca/nhl/article/predators-acquire-f-wright-from-kraken-for-f-wood/"
+        },
+        {
+          "headline": "Ducks erase 3-0 hole with six straight goals on Senators",
+          "summary": "Ottawa led 3-0 after one period in Anaheim. Then the Ducks scored six unanswered goals and won 6-3. Cutter Gauthier had a hat trick, and four of Anaheim's goals came on the power play. The Senators closed as -125 favorites, and Jonas Johansson allowed six goals on 33 shots.",
+          "source": "theScore",
+          "url": "https://www.thescore.com/nhl/event/35211"
+        },
+        {
+          "headline": "Oilers win at MSG behind Tomkins in his debut",
+          "summary": "Edmonton beat the Rangers 4-1 at Madison Square Garden. Connor McDavid scored 50 seconds in, Evan Bouchard had a goal and two assists, and Conor Dach scored twice, once short-handed. Matt Tomkins made 27 saves on 28 shots in his Oilers debut. Edmonton came in at 11-2-2, and it won as a road underdog (NYR -125).",
+          "source": "theScore",
+          "url": "https://www.thescore.com/nhl/event/35210"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Jets",
+          "awayScore": 0,
+          "home": "Hurricanes",
+          "homeScore": 7,
+          "note": ""
+        },
+        {
+          "away": "Wild",
+          "awayScore": 5,
+          "home": "Capitals",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Mammoth",
+          "awayScore": 3,
+          "home": "Flyers",
+          "homeScore": 6,
+          "note": "Upset"
+        },
+        {
+          "away": "Oilers",
+          "awayScore": 4,
+          "home": "Rangers",
+          "homeScore": 1,
+          "note": "Upset"
+        },
+        {
+          "away": "Senators",
+          "awayScore": 3,
+          "home": "Ducks",
+          "homeScore": 6,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Pyotr Kochetkov",
+          "team": "Hurricanes",
+          "line": "26 SV · 1.000 SV%",
+          "note": "His shutout of the Jets made him the third goalie in NHL history to start a season 10-0."
+        },
+        {
+          "name": "Cutter Gauthier",
+          "team": "Ducks",
+          "line": "3 G · 0 A",
+          "note": "His hat trick, with two power-play goals, drove Anaheim's six-goal comeback against Ottawa."
+        },
+        {
+          "name": "Evan Bouchard",
+          "team": "Oilers",
+          "line": "1 G · 2 A",
+          "note": "He assisted on Edmonton's first two goals and scored the power-play goal that made it 3-0 at MSG."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Kraken trade F Shane Wright to Predators for F Matthew Wood (Nov. 1).",
+          "url": "https://www.tsn.ca/nhl/article/predators-acquire-f-wright-from-kraken-for-f-wood/"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Padres decline Pivetta's option; Hanwha to post Si-Hwan Roh",
+      "stories": [
+        {
+          "headline": "Padres decline Nick Pivetta's $14 million option",
+          "summary": "San Diego declined its $14 million club option on Pivetta, two days after Michael King opted out to become a free agent. Pivetta missed about five months with a flexor strain and made six starts across September and the postseason. The Padres' rotation now has two holes to fill, though they could still bring him back cheaper.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/mlb/news/mlb-rumors-padres-decline-option-korean-star-nov-1/"
+        },
+        {
+          "headline": "Hanwha to post slugger Si-Hwan Roh",
+          "summary": "The KBO's Hanwha Eagles will post the 26-year-old third baseman for MLB teams, per Yonhap. Roh hit .283/.360/.505 with 29 homers in 2026. He'll get a 30-day window once posted, and the free-agent class is thin at third base.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/mlb/news/mlb-rumors-padres-decline-option-korean-star-nov-1/"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Padres declined RHP Nick Pivetta's $14MM club option",
+          "url": "https://www.cbssports.com/mlb/news/mlb-rumors-padres-decline-option-korean-star-nov-1/"
+        },
+        {
+          "text": "Padres exercised Kyle Hart's $2.5MM option; Yuki Matsui and Wandy Peralta exercised their player options",
+          "url": "https://www.yardbarker.com/mlb/articles/2026_transactions_nick_pivetta_luis_robert_jr_going_to_free_agency/s1_17653_44502834"
+        },
+        {
+          "text": "Astros acquired RHP Evan Reifert from the Rays for cash",
+          "url": "https://www.cbssports.com/mlb/news/mlb-rumors-padres-decline-option-korean-star-nov-1/"
+        },
+        {
+          "text": "Orioles outrighted Codi Heuer and Colin Selby to Triple-A",
+          "url": "https://www.yardbarker.com/mlb/articles/2026_transactions_nick_pivetta_luis_robert_jr_going_to_free_agency/s1_17653_44502834"
+        }
+      ]
+    }
+  ]
+}

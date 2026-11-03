@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-02",
-  "weekendNote": "Friedkin at midnight, Thai night market",
+  "date": "2026-11-03",
+  "weekendNote": "Friedkin at midnight, MFA Late Nites",
   "events": [
     {
       "id": "2026-11-08-boston-lights",
       "name": "Boston Lights: A Lantern Experience",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "endDate": "2026-11-08",
       "venue": "Franklin Park Zoo",
       "area": "Roxbury",
@@ -14,23 +14,6 @@
       "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
       "linkLabel": "Info",
       "note": "Runs through Nov 8"
-    },
-    {
-      "name": "Inglourious Basterds in 35mm",
-      "date": "2026-11-02",
-      "time": "7 PM",
-      "startTime": "19:00",
-      "venue": "Somerville Theatre",
-      "area": "Somerville",
-      "tags": [
-        "somerville",
-        "film"
-      ],
-      "why": "35mm print of Tarantino's film in the theatre's 'F**K The Nazis' repertory series.",
-      "url": "https://www.somervilletheatre.com/production/inglourious-basterds/",
-      "linkLabel": "Tickets",
-      "id": "2026-11-02-inglourious-basterds-in-35mm",
-      "added": "2026-11-02"
     },
     {
       "id": "2026-11-03-eraserhead",
@@ -46,20 +29,6 @@
       "url": "https://ma.to/venue/somerville_theatre",
       "linkLabel": "Info",
       "added": "2026-10-29"
-    },
-    {
-      "name": "Fleurs de Villes WONDER",
-      "date": "2026-11-04",
-      "endDate": "2026-11-08",
-      "venue": "Prudential Center, 800 Boylston St",
-      "area": "Back Bay",
-      "free": true,
-      "tags": [],
-      "why": "Free exhibit of fresh-flower mannequins by local floral artists, themed around natural wonders.",
-      "url": "https://www.boston.com/things-to-do/events/free-floral-art-exhibit-returning-to-prudential-center-this-november/",
-      "linkLabel": "Info",
-      "id": "2026-11-04-fleurs-de-villes-wonder",
-      "added": "2026-11-02"
     },
     {
       "name": "Free tasting: Emme Wines",
@@ -82,22 +51,6 @@
       "added": "2026-11-01"
     },
     {
-      "id": "2026-11-04-behemoth-iffboston-closing",
-      "name": "IFFBoston Fall Focus closing night: Behemoth!",
-      "date": "2026-11-04",
-      "time": "8 PM",
-      "startTime": "20:00",
-      "venue": "Brattle Theatre",
-      "area": "Cambridge",
-      "tags": [
-        "film"
-      ],
-      "why": "Closing-night preview of Tony Gilroy's new film starring Pedro Pascal.",
-      "url": "https://brattlefilm.org/film-series/iffboston-fall-focus/",
-      "linkLabel": "Info",
-      "added": "2026-10-30"
-    },
-    {
       "name": "Rocky in Concert",
       "date": "2026-11-04",
       "time": "7 PM",
@@ -113,6 +66,22 @@
       "linkLabel": "Tickets",
       "id": "2026-11-04-rocky-in-concert",
       "added": "2026-11-02"
+    },
+    {
+      "id": "2026-11-04-behemoth-iffboston-closing",
+      "name": "IFFBoston Fall Focus closing night: Behemoth!",
+      "date": "2026-11-04",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "tags": [
+        "film"
+      ],
+      "why": "Closing-night preview of Tony Gilroy's new film starring Pedro Pascal.",
+      "url": "https://brattlefilm.org/film-series/iffboston-fall-focus/",
+      "linkLabel": "Info",
+      "added": "2026-10-30"
     },
     {
       "name": "Survivor Season 51 screenings",
@@ -132,6 +101,37 @@
       "url": "https://www.thebostoncalendar.com/events/survivor-screenings-at-aeronaut--10",
       "linkLabel": "Info",
       "id": "2026-11-25-survivor-season-51-screenings",
+      "added": "2026-10-31"
+    },
+    {
+      "name": "Fleurs de Villes WONDER",
+      "date": "2026-11-04",
+      "endDate": "2026-11-08",
+      "venue": "Prudential Center, 800 Boylston St",
+      "area": "Back Bay",
+      "free": true,
+      "tags": [],
+      "why": "Free exhibit of fresh-flower mannequins by local floral artists, themed around natural wonders.",
+      "url": "https://www.boston.com/things-to-do/events/free-floral-art-exhibit-returning-to-prudential-center-this-november/",
+      "linkLabel": "Info",
+      "id": "2026-11-04-fleurs-de-villes-wonder",
+      "added": "2026-11-02"
+    },
+    {
+      "name": "Yo-Yo Ma & Stephen Colbert: Arts for Life's Sake",
+      "date": "2026-11-05",
+      "time": "7–8:30 PM",
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "venue": "Sanders Theatre",
+      "area": "Cambridge",
+      "price": "Free, tickets required",
+      "free": true,
+      "tags": [],
+      "why": "A free on-stage conversation between Yo-Yo Ma and Stephen Colbert at Harvard.",
+      "url": "https://www.boxoffice.harvard.edu/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=learning-from-performers&BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Acontext_id=",
+      "linkLabel": "Tickets",
+      "id": "2026-11-05-yo-yo-ma-stephen-colbert-arts-for-life-s",
       "added": "2026-10-31"
     },
     {
@@ -180,21 +180,98 @@
       "added": "2026-11-01"
     },
     {
-      "name": "Yo-Yo Ma & Stephen Colbert: Arts for Life's Sake",
-      "date": "2026-11-05",
-      "time": "7–8:30 PM",
-      "startTime": "19:00",
-      "endTime": "20:30",
-      "venue": "Sanders Theatre",
-      "area": "Cambridge",
-      "price": "Free, tickets required",
+      "id": "2026-11-06-antiquarian-book-fair",
+      "name": "Boston International Antiquarian Book Fair",
+      "date": "2026-11-06",
+      "endDate": "2026-11-08",
+      "time": "4–8 PM",
+      "startTime": "16:00",
+      "endTime": "20:00",
+      "venue": "Hynes Convention Center",
+      "area": "Back Bay",
+      "price": "$10–$25",
+      "note": "Sat 12–7 PM, Sun 11 AM–4 PM",
+      "tags": [
+        "market"
+      ],
+      "why": "Rare books, maps and ephemera; a good browse even without buying.",
+      "url": "https://www.finebooksmagazine.com/news/boston-international-antiquarian-book-fair-2026-details",
+      "linkLabel": "Info",
+      "added": "2026-10-29"
+    },
+    {
+      "name": "SoWa First Friday",
+      "date": "2026-11-06",
+      "time": "5–9 PM",
+      "startTime": "17:00",
+      "endTime": "21:00",
+      "venue": "SoWa Artists Guild, 450 Harrison Ave",
+      "area": "South End",
       "free": true,
-      "tags": [],
-      "why": "A free on-stage conversation between Yo-Yo Ma and Stephen Colbert at Harvard.",
-      "url": "https://www.boxoffice.harvard.edu/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=learning-from-performers&BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Acontext_id=",
+      "tags": [
+        "market"
+      ],
+      "why": "Monthly open-studio night when the artists at 450 Harrison Ave open their studios and galleries. Free admission.",
+      "url": "https://www.sowaartists.com/events",
+      "linkLabel": "Info",
+      "id": "2026-11-06-sowa-first-friday",
+      "added": "2026-11-03"
+    },
+    {
+      "name": "J-Dag: A Festive Beer Tasting",
+      "date": "2026-11-06",
+      "time": "6–8 PM",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "venue": "Scandinavian Cultural Center, 206 Waltham St",
+      "area": "West Newton",
+      "price": "$25 (21+)",
+      "tags": [
+        "food"
+      ],
+      "why": "Tasting for Denmark's Christmas-beer release day: a mini flight of winter beers from Somerville's Aeronaut, plus Danish snacks.",
+      "url": "https://www.eventbrite.com/e/j-dag-tickets-2003088906842",
       "linkLabel": "Tickets",
-      "id": "2026-11-05-yo-yo-ma-stephen-colbert-arts-for-life-s",
-      "added": "2026-10-31"
+      "id": "2026-11-06-j-dag-a-festive-beer-tasting",
+      "added": "2026-11-03"
+    },
+    {
+      "id": "2026-11-06-hfa-san-francisco-thrillers",
+      "name": "HFA: A Weekend in San Francisco",
+      "date": "2026-11-06",
+      "endDate": "2026-11-09",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "Harvard Film Archive",
+      "area": "Cambridge",
+      "note": "Bullitt, The Conversation, Invasion of the Body Snatchers (Sat 11:30 PM), Vertigo (Mon)",
+      "tags": [
+        "film"
+      ],
+      "why": "Four days of San Francisco thrillers and noirs.",
+      "url": "https://harvardfilmarchive.org/",
+      "linkLabel": "Info",
+      "added": "2026-10-29"
+    },
+    {
+      "name": "MFA Late Nites (November)",
+      "date": "2026-11-06",
+      "time": "8 PM–1 AM",
+      "startTime": "20:00",
+      "endTime": "01:00",
+      "venue": "Museum of Fine Arts",
+      "area": "Fenway",
+      "price": "$45 ($40 members)",
+      "tags": [
+        "djs",
+        "music"
+      ],
+      "pick": true,
+      "why": "After-hours night at the MFA hosted with the collective stay silent, billed as a house party with DJs and dancing, plus art-making, performances and gallery tours.",
+      "url": "https://www.mfa.org/event/special-event/late-nites-november-2026",
+      "linkLabel": "Tickets",
+      "id": "2026-11-06-mfa-late-nites-november",
+      "added": "2026-11-03"
     },
     {
       "name": "ADULT. + A Place to Bury Strangers",
@@ -224,49 +301,11 @@
         "film"
       ],
       "note": "The Guardian (1990) Fri; To Live and Die in L.A. (35mm) Sat 11:59 PM",
-      "pick": true,
       "why": "Midnight William Friedkin shows: his 1990 horror film The Guardian on Friday and the 1985 thriller To Live and Die in L.A. on 35mm Saturday.",
       "url": "https://coolidge.org/programs/after-midnite",
       "linkLabel": "Info",
-      "added": "2026-11-02"
-    },
-    {
-      "id": "2026-11-06-antiquarian-book-fair",
-      "name": "Boston International Antiquarian Book Fair",
-      "date": "2026-11-06",
-      "endDate": "2026-11-08",
-      "time": "4–8 PM",
-      "startTime": "16:00",
-      "endTime": "20:00",
-      "venue": "Hynes Convention Center",
-      "area": "Back Bay",
-      "price": "$10–$25",
-      "note": "Sat 12–7 PM, Sun 11 AM–4 PM",
-      "tags": [
-        "market"
-      ],
-      "why": "Rare books, maps and ephemera; a good browse even without buying.",
-      "url": "https://www.finebooksmagazine.com/news/boston-international-antiquarian-book-fair-2026-details",
-      "linkLabel": "Info",
-      "added": "2026-10-29"
-    },
-    {
-      "id": "2026-11-06-hfa-san-francisco-thrillers",
-      "name": "HFA: A Weekend in San Francisco",
-      "date": "2026-11-06",
-      "endDate": "2026-11-09",
-      "time": "7 PM",
-      "startTime": "19:00",
-      "venue": "Harvard Film Archive",
-      "area": "Cambridge",
-      "note": "Bullitt, The Conversation, Invasion of the Body Snatchers (Sat 11:30 PM), Vertigo (Mon)",
-      "tags": [
-        "film"
-      ],
-      "why": "Four days of San Francisco thrillers and noirs.",
-      "url": "https://harvardfilmarchive.org/",
-      "linkLabel": "Info",
-      "added": "2026-10-29"
+      "added": "2026-11-02",
+      "pick": true
     },
     {
       "name": "Location Location Location: 80s NYC",
@@ -303,6 +342,26 @@
       "added": "2026-10-29"
     },
     {
+      "name": "Somerville Winter Farmers Market opening day",
+      "date": "2026-11-07",
+      "time": "9:30 AM–1:30 PM",
+      "startTime": "09:30",
+      "endTime": "13:30",
+      "venue": "Arts at the Armory",
+      "area": "Somerville",
+      "note": "Saturdays through Apr 17; closed Nov 28 and Dec 26",
+      "tags": [
+        "somerville",
+        "food",
+        "market"
+      ],
+      "why": "Weekly indoor winter market with 65+ local food vendors; Nov 7 is the first date of the season.",
+      "url": "https://artsatthearmory.org/events/somerville-winter-farmers-market-2026-11-07/",
+      "linkLabel": "Info",
+      "id": "2026-11-07-somerville-winter-farmers-market",
+      "added": "2026-11-01"
+    },
+    {
       "name": "Bow Market Renaissance Faire, THE SECOND",
       "date": "2026-11-07",
       "time": "10 AM–11 PM",
@@ -322,8 +381,7 @@
       "url": "https://www.eventbrite.com/e/bow-market-renaissance-faire-the-second-tickets-1998378190964",
       "linkLabel": "Tickets",
       "id": "2026-11-07-bow-market-renaissance-faire-the-second",
-      "added": "2026-10-31",
-      "pick": true
+      "added": "2026-10-31"
     },
     {
       "name": "Harboring Creativity: East Boston Artists Group show & sale",
@@ -345,45 +403,6 @@
       "added": "2026-11-02"
     },
     {
-      "name": "Loy Krathong Thai Night Market",
-      "date": "2026-11-07",
-      "time": "4 PM",
-      "startTime": "16:00",
-      "venue": "4 Brattle St, Harvard Square",
-      "area": "Cambridge",
-      "tags": [
-        "food",
-        "market",
-        "outdoors"
-      ],
-      "pick": true,
-      "why": "Pop-up Thai night market for Loy Krathong, with Thai street food and lanterns in Harvard Square.",
-      "url": "https://www.eventbrite.com/e/loy-ka-thong-thai-night-market-harvard-square-tickets-1999168828783",
-      "linkLabel": "Info",
-      "id": "2026-11-07-loy-krathong-thai-night-market",
-      "added": "2026-11-02"
-    },
-    {
-      "name": "Somerville Winter Farmers Market opening day",
-      "date": "2026-11-07",
-      "time": "9:30 AM–1:30 PM",
-      "startTime": "09:30",
-      "endTime": "13:30",
-      "venue": "Arts at the Armory",
-      "area": "Somerville",
-      "note": "Saturdays through Apr 17; closed Nov 28 and Dec 26",
-      "tags": [
-        "somerville",
-        "food",
-        "market"
-      ],
-      "why": "Weekly indoor winter market with 65+ local food vendors; Nov 7 is the first date of the season.",
-      "url": "https://artsatthearmory.org/events/somerville-winter-farmers-market-2026-11-07/",
-      "linkLabel": "Info",
-      "id": "2026-11-07-somerville-winter-farmers-market",
-      "added": "2026-11-01"
-    },
-    {
       "name": "The Brighton Bazaar: Fall Season Finale",
       "date": "2026-11-07",
       "endDate": "2026-11-08",
@@ -403,6 +422,44 @@
       "linkLabel": "Info",
       "id": "2026-11-07-brighton-bazaar-fall-finale",
       "added": "2026-11-01"
+    },
+    {
+      "name": "Pop Up Market at The Anchor",
+      "date": "2026-11-07",
+      "time": "11 AM–4 PM",
+      "startTime": "11:00",
+      "endTime": "16:00",
+      "venue": "The Anchor, 1 Shipyard Park",
+      "area": "Charlestown",
+      "free": true,
+      "tags": [
+        "market",
+        "food"
+      ],
+      "why": "Waterfront pop-up of local artists and makers, with the bar and kitchen open. Free admission.",
+      "url": "https://www.thebostoncalendar.com/events/pop-up-market-at-the-anchor",
+      "linkLabel": "Info",
+      "id": "2026-11-07-pop-up-market-at-the-anchor",
+      "added": "2026-11-03"
+    },
+    {
+      "name": "Loy Krathong Thai Night Market",
+      "date": "2026-11-07",
+      "time": "4 PM",
+      "startTime": "16:00",
+      "venue": "4 Brattle St, Harvard Square",
+      "area": "Cambridge",
+      "tags": [
+        "food",
+        "market",
+        "outdoors"
+      ],
+      "why": "Pop-up Thai night market for Loy Krathong, with Thai street food and lanterns in Harvard Square.",
+      "url": "https://www.eventbrite.com/e/loy-ka-thong-thai-night-market-harvard-square-tickets-1999168828783",
+      "linkLabel": "Info",
+      "id": "2026-11-07-loy-krathong-thai-night-market",
+      "added": "2026-11-02",
+      "pick": true
     },
     {
       "name": "Silents, Please! Grass (live score)",
@@ -440,6 +497,25 @@
       "linkLabel": "Tickets",
       "id": "2026-11-08-somerville-art-fair-auction",
       "added": "2026-11-01"
+    },
+    {
+      "name": "Pie & Wine Pairings at Marzae",
+      "date": "2026-11-08",
+      "time": "5–9 PM",
+      "startTime": "17:00",
+      "endTime": "21:00",
+      "venue": "Marzae, Boston Public Market",
+      "area": "Downtown",
+      "price": "$45",
+      "note": "Drop in any time; after 6 PM enter at Congress & Sudbury",
+      "tags": [
+        "food"
+      ],
+      "why": "Pick 4 mini slices of sweet or savory pie and get a matching flight of Marzae's natural wines.",
+      "url": "https://www.eventbrite.com/e/2003570559478",
+      "linkLabel": "Tickets",
+      "id": "2026-11-08-pie-wine-pairings-at-marzae",
+      "added": "2026-11-03"
     },
     {
       "name": "Double Indemnity craft-along screening",
@@ -510,21 +586,6 @@
       "linkLabel": "Tickets"
     },
     {
-      "id": "2026-11-13-after-brunch-rafa-barrios",
-      "name": "After Brunch: Rafa Barrios",
-      "date": "2026-11-13",
-      "time": "10 PM–2 AM",
-      "startTime": "22:00",
-      "endTime": "02:00",
-      "venue": "Descent",
-      "area": "Cambridge",
-      "tags": [
-        "house"
-      ],
-      "url": "https://www.basslineboston.com/after-brunch",
-      "linkLabel": "Tickets"
-    },
-    {
       "name": "The Big Beaujolais Tasting",
       "date": "2026-11-13",
       "time": "6–8 PM",
@@ -543,20 +604,81 @@
       "added": "2026-11-02"
     },
     {
-      "id": "2026-11-14-comedy-festival-finals",
-      "name": "Boston Comedy Festival Contest Finals",
-      "date": "2026-11-14",
-      "time": "8 PM",
-      "startTime": "20:00",
-      "venue": "Somerville Theatre",
-      "area": "Davis Sq",
+      "id": "2026-11-13-after-brunch-rafa-barrios",
+      "name": "After Brunch: Rafa Barrios",
+      "date": "2026-11-13",
+      "time": "10 PM–2 AM",
+      "startTime": "22:00",
+      "endTime": "02:00",
+      "venue": "Descent",
+      "area": "Cambridge",
       "tags": [
-        "somerville",
-        "comedy"
+        "house"
       ],
-      "url": "https://www.somervilletheatre.com/events/",
-      "linkLabel": "Tickets",
-      "price": "$30"
+      "url": "https://www.basslineboston.com/after-brunch",
+      "linkLabel": "Tickets"
+    },
+    {
+      "name": "Indo Warehouse: Spice Trade Tour",
+      "date": "2026-11-13",
+      "time": "10 PM",
+      "startTime": "22:00",
+      "venue": "Royale",
+      "area": "Boston",
+      "tags": [
+        "house",
+        "djs"
+      ],
+      "why": "Kahani and Kunal Merchant's touring house and techno party built on South Asian rhythms.",
+      "url": "https://www.technoairlines.com/event/indo-warehouse-spice-trade-tour-royale-2026-11-13",
+      "linkLabel": "Info",
+      "id": "2026-11-13-indo-warehouse-spice-trade-tour",
+      "added": "2026-11-03"
+    },
+    {
+      "name": "After Midnite: The Hunted (2003) on 35mm",
+      "date": "2026-11-13",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "Friedkin's manhunt thriller on 35mm in the late-night After Midnite slot.",
+      "url": "https://coolidge.org/films/hunted-2003",
+      "linkLabel": "Info",
+      "id": "2026-11-13-after-midnite-the-hunted-2003-on-35mm",
+      "added": "2026-11-03"
+    },
+    {
+      "name": "Rocky Horror on Friday the 13th",
+      "date": "2026-11-13",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "Digital restoration of the cult horror musical in the After Midnite slot.",
+      "url": "https://coolidge.org/films/rocky-horror-picture-show",
+      "linkLabel": "Info",
+      "id": "2026-11-13-rocky-horror-on-friday-the-13th",
+      "added": "2026-11-03"
+    },
+    {
+      "name": "National Pickle Day",
+      "date": "2026-11-14",
+      "time": "11 AM–11:30 PM",
+      "startTime": "11:00",
+      "endTime": "23:30",
+      "venue": "Castle Island Brewing",
+      "area": "South Boston",
+      "tags": [
+        "food"
+      ],
+      "why": "All-pickle day: picklebacks, pickle Jello shots and a pickle pizza.",
+      "url": "https://www.eventbrite.com/e/national-pickle-day-castle-island-brewing-tickets-2003981710241",
+      "linkLabel": "Info",
+      "id": "2026-11-14-national-pickle-day",
+      "added": "2026-11-02"
     },
     {
       "id": "2026-11-14-ciderfeast-boston",
@@ -600,23 +722,6 @@
       "added": "2026-10-31"
     },
     {
-      "name": "National Pickle Day",
-      "date": "2026-11-14",
-      "time": "11 AM–11:30 PM",
-      "startTime": "11:00",
-      "endTime": "23:30",
-      "venue": "Castle Island Brewing",
-      "area": "South Boston",
-      "tags": [
-        "food"
-      ],
-      "why": "All-pickle day: picklebacks, pickle Jello shots and a pickle pizza.",
-      "url": "https://www.eventbrite.com/e/national-pickle-day-castle-island-brewing-tickets-2003981710241",
-      "linkLabel": "Info",
-      "id": "2026-11-14-national-pickle-day",
-      "added": "2026-11-02"
-    },
-    {
       "name": "Somerville Cat Tour x Tandem Vet",
       "date": "2026-11-14",
       "time": "1–3 PM",
@@ -637,6 +742,36 @@
       "added": "2026-11-02"
     },
     {
+      "id": "2026-11-14-comedy-festival-finals",
+      "name": "Boston Comedy Festival Contest Finals",
+      "date": "2026-11-14",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "Somerville Theatre",
+      "area": "Davis Sq",
+      "tags": [
+        "somerville",
+        "comedy"
+      ],
+      "url": "https://www.somervilletheatre.com/events/",
+      "linkLabel": "Tickets",
+      "price": "$30"
+    },
+    {
+      "name": "After Midnite: Cruising",
+      "date": "2026-11-14",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "Friedkin's 1980 Al Pacino serial-killer thriller in the late-night slot.",
+      "url": "https://coolidge.org/films/cruising",
+      "linkLabel": "Info",
+      "id": "2026-11-14-after-midnite-cruising",
+      "added": "2026-11-03"
+    },
+    {
       "name": "The Big Lebowski in 35mm",
       "date": "2026-11-17",
       "time": "7:30 PM",
@@ -652,6 +787,22 @@
       "linkLabel": "Tickets",
       "id": "2026-11-17-the-big-lebowski-in-35mm",
       "added": "2026-11-02"
+    },
+    {
+      "name": "The Black Pirate with live piano score",
+      "date": "2026-11-17",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "note": "Sounds of Silents series",
+      "tags": [
+        "film",
+        "music"
+      ],
+      "why": "Douglas Fairbanks' 1926 silent swashbuckler with a live piano score by Jeff Rapsis.",
+      "url": "https://coolidge.org/films/black-pirate",
+      "linkLabel": "Info",
+      "id": "2026-11-17-the-black-pirate-with-live-piano-score",
+      "added": "2026-11-03"
     },
     {
       "name": "Aliens in 70mm",
@@ -670,6 +821,26 @@
       "linkLabel": "Info",
       "id": "2026-11-18-aliens-in-70mm",
       "added": "2026-10-31"
+    },
+    {
+      "name": "La Fête du Beaujolais",
+      "date": "2026-11-19",
+      "time": "4–11:30 PM",
+      "startTime": "16:00",
+      "endTime": "23:30",
+      "venue": "Rebel Rebel, Bow Market",
+      "area": "Somerville",
+      "price": "$12.51–$17.85 (includes aligot)",
+      "note": "Tickets not required for entry",
+      "tags": [
+        "somerville",
+        "food"
+      ],
+      "why": "Beaujolais Nouveau Day party with more than a dozen Beaujolais by the glass and pommes aligot.",
+      "url": "https://happeningnext.com/event/la-f%C3%AAte-du-beaujolais-eid1ef0l92336ea",
+      "linkLabel": "Info",
+      "id": "2026-11-19-fete-du-beaujolais",
+      "added": "2026-11-01"
     },
     {
       "name": "Free barrel-aged bottle tasting",
@@ -693,26 +864,6 @@
       "added": "2026-11-01"
     },
     {
-      "name": "La Fête du Beaujolais",
-      "date": "2026-11-19",
-      "time": "4–11:30 PM",
-      "startTime": "16:00",
-      "endTime": "23:30",
-      "venue": "Rebel Rebel, Bow Market",
-      "area": "Somerville",
-      "price": "$12.51–$17.85 (includes aligot)",
-      "note": "Tickets not required for entry",
-      "tags": [
-        "somerville",
-        "food"
-      ],
-      "why": "Beaujolais Nouveau Day party with more than a dozen Beaujolais by the glass and pommes aligot.",
-      "url": "https://happeningnext.com/event/la-f%C3%AAte-du-beaujolais-eid1ef0l92336ea",
-      "linkLabel": "Info",
-      "id": "2026-11-19-fete-du-beaujolais",
-      "added": "2026-11-01"
-    },
-    {
       "id": "2026-11-20-sowa-christmas-market",
       "name": "SoWa Christmas Market",
       "date": "2026-11-20",
@@ -733,18 +884,18 @@
       "added": "2026-10-29"
     },
     {
-      "name": "After Midnite: Killer Joe",
-      "date": "2026-11-21",
+      "name": "After Midnite: Rampage (1989) on 35mm",
+      "date": "2026-11-20",
       "venue": "Coolidge Corner Theatre",
       "area": "Brookline",
       "tags": [
         "film"
       ],
-      "why": "Friedkin's dark comedy-thriller as a Saturday midnight show.",
-      "url": "https://coolidge.org/programs/after-midnite",
+      "why": "Friedkin's rarely screened serial-killer courtroom thriller on 35mm.",
+      "url": "https://coolidge.org/films/rampage-1989",
       "linkLabel": "Info",
-      "id": "2026-11-21-after-midnite-killer-joe",
-      "added": "2026-11-02"
+      "id": "2026-11-20-after-midnite-rampage-1989-on-35mm",
+      "added": "2026-11-03"
     },
     {
       "name": "Fall Thrift Festival (Select Markets)",
@@ -763,6 +914,38 @@
       "linkLabel": "Tickets",
       "id": "2026-11-21-fall-thrift-festival",
       "added": "2026-11-01"
+    },
+    {
+      "name": "After Midnite: Killer Joe",
+      "date": "2026-11-21",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "Friedkin's dark comedy-thriller as a Saturday midnight show.",
+      "url": "https://coolidge.org/programs/after-midnite",
+      "linkLabel": "Info",
+      "id": "2026-11-21-after-midnite-killer-joe",
+      "added": "2026-11-02"
+    },
+    {
+      "name": "Holiday Plant Market",
+      "date": "2026-11-22",
+      "time": "10 AM–4 PM",
+      "startTime": "10:00",
+      "endTime": "16:00",
+      "venue": "Arts at the Armory",
+      "area": "Somerville",
+      "tags": [
+        "somerville",
+        "market"
+      ],
+      "why": "Daytime plant market at the Armory the Sunday before Thanksgiving.",
+      "url": "https://artsatthearmory.org/events/holiday-plant-market/",
+      "linkLabel": "Info",
+      "id": "2026-11-22-holiday-plant-market",
+      "added": "2026-10-31"
     },
     {
       "name": "Boston Women's Holiday Market",
@@ -785,22 +968,22 @@
       "added": "2026-11-01"
     },
     {
-      "name": "Holiday Plant Market",
-      "date": "2026-11-22",
-      "time": "10 AM–4 PM",
-      "startTime": "10:00",
-      "endTime": "16:00",
-      "venue": "Arts at the Armory",
-      "area": "Somerville",
+      "name": "Ghostwoman with Croaker",
+      "date": "2026-11-25",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "The Rockwell, 255 Elm St",
+      "area": "Davis Sq",
+      "price": "$17–$22",
       "tags": [
         "somerville",
-        "market"
+        "music"
       ],
-      "why": "Daytime plant market at the Armory the Sunday before Thanksgiving.",
-      "url": "https://artsatthearmory.org/events/holiday-plant-market/",
-      "linkLabel": "Info",
-      "id": "2026-11-22-holiday-plant-market",
-      "added": "2026-10-31"
+      "why": "Dark psych-rock duo Ghostwoman at the Rockwell on Thanksgiving Eve.",
+      "url": "https://www.jambase.com/show/ghostwoman-the-rockwell-20261125",
+      "linkLabel": "Tickets",
+      "id": "2026-11-25-ghostwoman-with-croaker",
+      "added": "2026-11-03"
     },
     {
       "name": "Noirvember: Hardboiled Wonderland",
@@ -905,6 +1088,17 @@
       "added": "2026-10-30"
     },
     {
+      "comedian": "Tim Dillon",
+      "date": "2026-11-05",
+      "time": "7:30 PM",
+      "startTime": "19:30",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "price": "$49–$69",
+      "note": "11/5 and 11/6 7:30 sold out; added 11/6 10 PM (sold out) and 11/7 9:45 PM",
+      "url": "https://thewilbur.com/event/tim-dillon/"
+    },
+    {
       "comedian": "Joanne McNally",
       "date": "2026-11-05",
       "venue": "Arts at the Armory",
@@ -913,17 +1107,6 @@
       "url": "https://artsatthearmory.org/events/bill-blumenreich-presents-joanne-mcnally-pinotphile/",
       "added": "2026-10-30",
       "note": "Early show sold out; late show still listed"
-    },
-    {
-      "comedian": "Tim Dillon",
-      "date": "2026-11-05",
-      "time": "7:30 PM",
-      "startTime": "19:30",
-      "venue": "The Wilbur",
-      "area": "Boston",
-      "price": "$49–$69",
-      "note": "5 shows, Nov 5–7",
-      "url": "https://thewilbur.com/event/tim-dillon/"
     },
     {
       "comedian": "Marc Maron",
@@ -936,6 +1119,16 @@
       "url": "https://chevaliertheatre.com/event/marc-maron-yammering-into-the-void-tour/"
     },
     {
+      "comedian": "Drew Dunn",
+      "date": "2026-11-07",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "url": "https://comedy.tickets/venue/wilbur-theatre-ma/",
+      "added": "2026-10-29"
+    },
+    {
       "comedian": "Comics Come Home 30",
       "date": "2026-11-07",
       "time": "8 PM",
@@ -945,16 +1138,6 @@
       "onSale": "On sale now",
       "note": "Denis Leary hosts John Mulaney, Jimmy Fallon, Jon Stewart, Ray Romano, Leslie Jones and more",
       "url": "https://www.ticketmaster.com/event/010064D0A4D3D305"
-    },
-    {
-      "comedian": "Drew Dunn",
-      "date": "2026-11-07",
-      "time": "7 PM",
-      "startTime": "19:00",
-      "venue": "The Wilbur",
-      "area": "Boston",
-      "url": "https://comedy.tickets/venue/wilbur-theatre-ma/",
-      "added": "2026-10-29"
     },
     {
       "comedian": "Ben Schwartz & Friends",
@@ -977,6 +1160,17 @@
       "added": "2026-10-29"
     },
     {
+      "comedian": "Phoebe Robinson",
+      "date": "2026-11-13",
+      "time": "7:30 PM",
+      "startTime": "19:30",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "note": "Feral & Fired Up Tour",
+      "url": "https://thewilbur.com/event/phoebe-robinson-feral-fired-up",
+      "added": "2026-10-29"
+    },
+    {
       "comedian": "Marlon Wayans",
       "date": "2026-11-13",
       "time": "8 PM",
@@ -987,15 +1181,13 @@
       "url": "https://www.thebostoncalendar.com/events/marlon-wayans-lynn-ma-wild-child-tour"
     },
     {
-      "comedian": "Phoebe Robinson",
+      "comedian": "Lucy Darling: The More the Merrier",
       "date": "2026-11-13",
-      "time": "7:30 PM",
-      "startTime": "19:30",
-      "venue": "The Wilbur",
+      "venue": "Wang Theatre",
       "area": "Boston",
-      "note": "Feral & Fired Up Tour",
-      "url": "https://thewilbur.com/event/phoebe-robinson-feral-fired-up",
-      "added": "2026-10-29"
+      "onSale": "On sale now",
+      "url": "https://www.bochcenter.org/events/detail/lucydarling",
+      "added": "2026-11-03"
     },
     {
       "comedian": "Small Town Murder Podcast",
@@ -1039,6 +1231,16 @@
       "url": "https://thewilbur.com/event/hannibal-buress/"
     },
     {
+      "comedian": "Ryan Hamilton",
+      "date": "2026-11-21",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "url": "https://comedy.tickets/venue/wilbur-theatre-ma/",
+      "added": "2026-10-29"
+    },
+    {
       "comedian": "Ali Siddiq",
       "date": "2026-11-21",
       "time": "5 & 8 PM",
@@ -1051,14 +1253,15 @@
       "url": "https://www.bochcenter.org/events/detail/alisiddiq"
     },
     {
-      "comedian": "Ryan Hamilton",
-      "date": "2026-11-21",
-      "time": "7 PM",
-      "startTime": "19:00",
+      "comedian": "Doughboys (live podcast)",
+      "date": "2026-11-25",
+      "time": "7:30 PM",
+      "startTime": "19:30",
       "venue": "The Wilbur",
       "area": "Boston",
-      "url": "https://comedy.tickets/venue/wilbur-theatre-ma/",
-      "added": "2026-10-29"
+      "price": "$39–$49",
+      "url": "https://thewilbur.com/event/doughboys/",
+      "added": "2026-11-03"
     },
     {
       "comedian": "Ian Lara",
@@ -1090,7 +1293,7 @@
       "venue": "MGM Music Hall at Fenway",
       "area": "Boston",
       "price": "From $67",
-      "note": "3 shows, Dec 2–4",
+      "note": "Also Dec 3 (8 PM) and Dec 4 (7 PM)",
       "url": "https://www.ticketmaster.com/nikki-glaser-the-stunning-tour-boston-massachusetts-12-02-2026/event/01006392CFED18E0"
     },
     {
@@ -1100,18 +1303,8 @@
       "startTime": "19:30",
       "venue": "The Wilbur",
       "area": "Boston",
-      "note": "5 shows, Dec 3–5",
+      "note": "Added 12/4 and 12/5 shows (sold out); 12/3 still available",
       "url": "https://thewilbur.com/event/gianmarco-soresi/"
-    },
-    {
-      "comedian": "Kyle Gordon",
-      "date": "2026-12-03",
-      "time": "Doors 7 PM",
-      "venue": "The Sinclair",
-      "area": "Cambridge",
-      "onSale": "On sale now",
-      "url": "https://www.songkick.com/concerts/43249271-kyle-gordon-at-sinclair",
-      "added": "2026-10-31"
     },
     {
       "comedian": "Michelle Wolf",
@@ -1122,6 +1315,16 @@
       "area": "Medford",
       "note": "Best Job in the World",
       "url": "https://www.ticketmaster.com/event/010064A7CDDBEB67"
+    },
+    {
+      "comedian": "Kyle Gordon",
+      "date": "2026-12-03",
+      "time": "Doors 7 PM",
+      "venue": "The Sinclair",
+      "area": "Cambridge",
+      "onSale": "On sale now",
+      "url": "https://www.songkick.com/concerts/43249271-kyle-gordon-at-sinclair",
+      "added": "2026-10-31"
     },
     {
       "comedian": "Rosebud Baker",
@@ -1196,7 +1399,7 @@
       "venue": "The Wilbur",
       "area": "Boston",
       "price": "From $47",
-      "note": "Also Dec 30 at the Chevalier in Medford",
+      "note": "2 shows, 5:30 and 8 PM",
       "url": "https://thewilbur.com/event/bob-marley-comedian-wilbur/"
     },
     {
@@ -1233,6 +1436,17 @@
       "added": "2026-10-29"
     },
     {
+      "comedian": "Grits & Eggs Podcast",
+      "date": "2027-01-08",
+      "time": "7:30 PM",
+      "startTime": "19:30",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "price": "$31–$41",
+      "url": "https://www.ticketmaster.com/event/0100651BAF073048",
+      "added": "2026-11-03"
+    },
+    {
       "comedian": "Anthony Jeselnik",
       "date": "2027-01-15",
       "time": "10 PM",
@@ -1240,8 +1454,20 @@
       "venue": "The Wilbur",
       "area": "Boston",
       "price": "$49–$79",
-      "note": "4 shows, Jan 15–16",
+      "note": "1/15 7:30 and both 1/16 shows sold out; 1/15 10 PM available",
       "url": "https://thewilbur.com/event/anthony-jeselnik-wrath-of-man/"
+    },
+    {
+      "comedian": "Two Dykes and a Mic",
+      "date": "2027-01-20",
+      "time": "7:30 PM",
+      "startTime": "19:30",
+      "venue": "The Wilbur",
+      "area": "Boston",
+      "price": "$39–$89",
+      "note": "Rescheduled from Oct 2; original tickets honored",
+      "url": "https://www.ticketmaster.com/event/010064C9D4E70A1B",
+      "added": "2026-11-03"
     },
     {
       "comedian": "Aaron Chen",
@@ -1286,7 +1512,8 @@
       "price": "$35–$45",
       "onSale": "Sold out",
       "url": "https://thewilbur.com/event/des-bishop-grey-area-tour/",
-      "added": "2026-10-30"
+      "added": "2026-10-30",
+      "note": "1/30 sold out; run continues into March"
     },
     {
       "comedian": "Giggly Squad (Hannah Berner & Paige DeSorbo)",
@@ -1295,8 +1522,8 @@
       "startTime": "19:00",
       "venue": "Chevalier Theatre",
       "area": "Medford",
-      "onSale": "On sale now",
-      "note": "Also Jan 31",
+      "onSale": "Sold out",
+      "note": "Jan 30 and 31",
       "url": "https://chevaliertheatre.com/event/giggly-squad-the-gehls-gehl-tour/",
       "added": "2026-10-30"
     }
@@ -1332,7 +1559,7 @@
   "comedianWatchlist": [],
   "ticker": [
     "CamelPhat, Royale, Fri",
-    "Thai night market, Sat",
-    "Free: Ren Faire, Bow Mkt, Sat"
+    "MFA Late Nites, Fri",
+    "Free: Thai night market, Sat"
   ]
 }

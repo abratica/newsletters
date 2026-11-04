@@ -1,0 +1,379 @@
+{
+  "date": "2026-11-04",
+  "headline": "Jets erase 4-0 deficit in final 2:39, beat Canadiens in OT",
+  "ticker": [
+    "Jets erase 4-0, win in OT",
+    "Ravens start rookie Fagnano",
+    "Predators 4, Hurricanes 1",
+    "Union rejects MLB cap offer",
+    "Mariners hire Kanzler"
+  ],
+  "top": [
+    {
+      "league": "nhl",
+      "headline": "Jets erase 4-0 deficit in final 2:39, beat Canadiens in OT",
+      "summary": "Winnipeg trailed 4-0 until Tyrel Bauer scored with 2:39 left in regulation. Kyle Connor scored twice, the tying goal with 33 seconds left, and Dylan Samberg won it 3:30 into overtime. NHL.com calls it the latest four-goal comeback in NHL history, and it ended the Jets' nine-game losing streak (0-7-2).",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/winnipeg-jets-montreal-canadiens-game-recap-november-3-2026"
+    },
+    {
+      "league": "nfl",
+      "headline": "Ravens turn to undrafted rookie Joe Fagnano for Thursday night",
+      "summary": "Coach Jesse Minter said undrafted rookie Joe Fagnano will start Thursday against the Jaguars despite an ankle injury. Lamar Jackson is headed to IR after thumb surgery and Tyler Huntley is out with a toe injury, so Baltimore signed Kedon Slovis off Green Bay's practice squad as the backup. Fagnano would be only the second undrafted rookie QB to start for the Ravens.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50371730/rookie-joe-fagnano-start-thursday-night-vs-jaguars"
+    },
+    {
+      "league": "mlb",
+      "headline": "MLB offers to delay salary cap to 2028; union rejects it",
+      "summary": "Owners' revised labor proposal pushes a salary cap and floor to 2028, at $258.2 million and $180.2 million. The players' union rejected it right away and said it will not accept any cap. The CBA expires Dec. 1, and owners are expected to approve a lockout then.",
+      "source": "Philadelphia Inquirer",
+      "url": "https://www.inquirer.com/phillies/mlb-salary-cap-proposal-mlbpa-lock-out-2027-20261103.html"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Ravens will start undrafted rookie Joe Fagnano Thursday; Colts and Giants extend, Bills cut Gardner-Johnson",
+      "stories": [
+        {
+          "headline": "Ravens turn to undrafted rookie Joe Fagnano for Thursday night",
+          "summary": "Coach Jesse Minter said undrafted rookie Joe Fagnano will start Thursday against the Jaguars despite an ankle injury. Lamar Jackson is headed to IR after thumb surgery and Tyler Huntley is out with a toe injury, so Baltimore signed Kedon Slovis off Green Bay's practice squad as the backup. Fagnano would be only the second undrafted rookie QB to start for the Ravens.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50371730/rookie-joe-fagnano-start-thursday-night-vs-jaguars"
+        },
+        {
+          "headline": "Colts extend DT Adetomiwa Adebawore instead of trading him",
+          "summary": "Indianapolis gave Adebawore a two-year, $35 million extension through 2028 with a $13 million signing bonus. The 25-year-old leads the team with four sacks and would have been a free agent in the spring. It shows the rebuilding Colts are keeping some young players after trading Quenton Nelson and DeForest Buckner.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50371976/source-colts-adetomiwa-adebawore-reach-2-year-35m-deal"
+        },
+        {
+          "headline": "Giants give CB Greg Newsome II a three-year, $46 million extension",
+          "summary": "Newsome joined New York this offseason on a one-year deal. The 26-year-old has an interception and six passes defended for a 4-2-1 Giants team that ranks third in pass defense.",
+          "source": "Yahoo Sports (Athlon)",
+          "url": "https://sports.yahoo.com/articles/giants-reward-greg-newsome-ii-221803564.html"
+        },
+        {
+          "headline": "Bills release safety C.J. Gardner-Johnson",
+          "summary": "Buffalo cut the eighth-year safety Tuesday after six games. He missed tackles at an 18.8% rate and served a one-game suspension for spitting at Raiders TE Brock Bowers. The Bills may look for safety help before the Nov. 10 trade deadline.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/bills-release-s-c-j-gardner-johnson"
+        },
+        {
+          "headline": "Cardinals lose rookie RB Jeremiyah Love to IR",
+          "summary": "Arizona is placing Love on injured reserve with a high ankle sprain, per NFL Network's Ian Rapoport, and he is expected to miss at least a month. Coach Mike LaFleur said it is a new injury. It comes as the Cardinals switch to Gardner Minshew at quarterback.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-nov-3"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Ravens sign QB Kedon Slovis off the Packers' practice squad, place K Tyler Loop on IR (Nov. 3)",
+          "url": "https://www.profootballrumors.com/2026/11/minor-nfl-transactions-11-3-26"
+        },
+        {
+          "text": "Colts and DT Adetomiwa Adebawore agree to two-year, $35M extension (Nov. 3)",
+          "url": "https://www.espn.com/nfl/story/_/id/50371976/source-colts-adetomiwa-adebawore-reach-2-year-35m-deal"
+        },
+        {
+          "text": "Giants and CB Greg Newsome II agree to three-year, $46M extension (Nov. 3)",
+          "url": "https://sports.yahoo.com/articles/giants-reward-greg-newsome-ii-221803564.html"
+        },
+        {
+          "text": "Bills release S C.J. Gardner-Johnson (Nov. 3)",
+          "url": "https://www.profootballrumors.com/2026/11/bills-release-s-c-j-gardner-johnson"
+        },
+        {
+          "text": "Saints release K Daniel Carlson, claim RB Audric Estime off waivers from the Browns (Nov. 3)",
+          "url": "https://www.profootballrumors.com/2026/11/saints-release-k-daniel-carlson-claim-rb-audric-estime"
+        },
+        {
+          "text": "Cardinals place WR Kendrick Bourne (tibia fracture, season-ending) on IR; RB Jeremiyah Love (high ankle sprain) headed to IR (Nov. 3)",
+          "url": "https://www.profootballrumors.com/2026/11/minor-nfl-transactions-11-3-26"
+        },
+        {
+          "text": "Bengals place DE Cashius Howell on IR (Nov. 3)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-nov-3"
+        },
+        {
+          "text": "Lions place LB Jimmy Rolder on IR; Rams place RB Dean Connors on IR; Jets place T Max Mitchell on IR and sign T Blake Freeland (Nov. 3)",
+          "url": "https://www.profootballrumors.com/2026/11/minor-nfl-transactions-11-3-26"
+        },
+        {
+          "text": "Seahawks activate RB Jadarian Price from IR (Nov. 2)",
+          "url": "https://www.espn.com/nfl/transactions"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "No games on Election Day; Dumonts take majority control of the Mavericks; 14 games tonight",
+      "stories": [
+        {
+          "headline": "NBA takes Election Day off; 14 games Wednesday",
+          "summary": "The league played no games Tuesday as part of its 'Get In The Game. VOTE.' campaign with the players' union, started in 2022. Play resumes Wednesday with 14 games, including 76ers-Pistons and Mavericks-Spurs on ESPN.",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/news/nba-pauses-for-election-day-2026"
+        },
+        {
+          "headline": "Dumonts take majority control of the Mavericks",
+          "summary": "Patrick and Sivan Dumont bought Miriam Adelson's shares and now control 69% of the team, ESPN's Tim MacMahon reported. Mark Cuban still owns 27%. It is unclear whether the sale still needs Board of Governors approval, and the deal is tied to plans for a new arena in north Dallas.",
+          "source": "Hoops Rumors (citing ESPN)",
+          "url": "https://www.hoopsrumors.com/2026/11/dumonts-buy-adelsons-stake-in-mavs-assume-majority-control.html"
+        },
+        {
+          "headline": "Kawhi Leonard starts return-to-play process",
+          "summary": "Leonard has finished treatment for swelling in his left knee and is starting a return-to-play process in Toronto, per The Athletic, with an update due in a week. He has played two games this season, the last on Oct. 23. The Raptors have kept winning without him.",
+          "source": "Hoops Rumors (citing The Athletic)",
+          "url": "https://www.hoopsrumors.com/2026/11/injury-notes-leonard-pacers-caruso-embiid-aldama.html"
+        },
+        {
+          "headline": "Embiid playing through plantar fasciitis",
+          "summary": "Joel Embiid is on a minutes restriction because of plantar fasciitis in his right foot and played 25 minutes against Chicago. He is not on the injury report for Wednesday at Detroit.",
+          "source": "Hoops Rumors (citing Philadelphia Inquirer)",
+          "url": "https://www.hoopsrumors.com/2026/11/injury-notes-leonard-pacers-caruso-embiid-aldama.html"
+        },
+        {
+          "headline": "Warriors win fifth straight after Draymond Green ejection",
+          "summary": "Golden State came back from 10 down after Green was ejected and beat Phoenix 116-113 on Monday. Green and Dillon Brooks got double technicals after grabbing each other's jerseys. It was the 31st ejection of Green's career.",
+          "source": "Hoops Rumors",
+          "url": "https://www.hoopsrumors.com/2026/11/pacific-notes-d-green-bassey-j-green-cardwell-acuff.html"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Fourth-year options declined for Tidjane Salaun (Hornets), Cody Williams (Timberwolves), DaRon Holmes (Nuggets), AJ Johnson (Pelicans) and Pacome Dadiet (Knicks)",
+          "url": "https://www.hoopsrumors.com/2026/11/recap-of-2027-28-rookie-scale-option-decisions.html"
+        },
+        {
+          "text": "Timberwolves plan to sign Norchad Omier to a two-way deal; injured Enrique Freeman expected to be waived",
+          "url": "https://www.hoopsrumors.com/"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Jets stage the latest four-goal comeback in NHL history; Predators hand Kochetkov his first loss",
+      "stories": [
+        {
+          "headline": "Jets erase 4-0 deficit in final 2:39, beat Canadiens in OT",
+          "summary": "Winnipeg trailed 4-0 until Tyrel Bauer scored with 2:39 left in regulation. Kyle Connor scored twice, the tying goal with 33 seconds left, and Dylan Samberg won it 3:30 into overtime. NHL.com calls it the latest four-goal comeback in NHL history, and it ended the Jets' nine-game losing streak (0-7-2).",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/winnipeg-jets-montreal-canadiens-game-recap-november-3-2026"
+        },
+        {
+          "headline": "Predators end Kochetkov's perfect start",
+          "summary": "Nashville beat league-leading Carolina 4-1 behind a goal and an assist each from Roman Josi and Ross Colton and 29 saves from Juuse Saros. Pyotr Kochetkov lost for the first time after 10 straight wins as a starter. Shane Wright made his Predators debut after Sunday's trade from Seattle.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/carolina-hurricanes-nashville-predators-game-recap-november-3-2026"
+        },
+        {
+          "headline": "Gauthier scores back-to-back hat tricks as Ducks edge Canucks",
+          "summary": "Cutter Gauthier scored three goals, two on the power play, in Anaheim's 5-4 win at Vancouver, and Beckett Sennecke had four assists. Gauthier is the first Duck with hat tricks in consecutive games and has eight goals in his last three.",
+          "source": "ESPN (AP)",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892643"
+        },
+        {
+          "headline": "Devils beat Oilers in shootout; McDavid's assist streak hits 16",
+          "summary": "Jack Hughes had two goals and an assist, and Arseny Gritsyuk scored the shootout winner in New Jersey's 4-3 win. Connor McDavid extended his NHL-record season-opening assist streak to 16 games. Ryan Nugent-Hopkins passed Kevin Lowe for the most regular-season games in Oilers history.",
+          "source": "ESPN (AP)",
+          "url": "https://www.espn.com/nhl/recap?gameId=401892636"
+        },
+        {
+          "headline": "Kucherov sets up two in first home game since trade request",
+          "summary": "Nikita Kucherov had two assists and Brayden Point scored twice as Tampa Bay beat Detroit 4-2, its seventh straight home win. Kucherov said his trade request is about communication and respect, not money. GM Julien BriseBois has said the team has no intention of trading him.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/nikita-kucherov-says-trade-request-to-tampa-bay-about-poor-communication-respect"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Jets",
+          "awayScore": 5,
+          "home": "Canadiens",
+          "homeScore": 4,
+          "note": "OT"
+        },
+        {
+          "away": "Oilers",
+          "awayScore": 3,
+          "home": "Devils",
+          "homeScore": 4,
+          "note": "SO"
+        },
+        {
+          "away": "Golden Knights",
+          "awayScore": 3,
+          "home": "Penguins",
+          "homeScore": 2,
+          "note": "Close"
+        },
+        {
+          "away": "Stars",
+          "awayScore": 6,
+          "home": "Capitals",
+          "homeScore": 5,
+          "note": "Close"
+        },
+        {
+          "away": "Mammoth",
+          "awayScore": 3,
+          "home": "Maple Leafs",
+          "homeScore": 2,
+          "note": "Close"
+        },
+        {
+          "away": "Ducks",
+          "awayScore": 5,
+          "home": "Canucks",
+          "homeScore": 4,
+          "note": "Close"
+        },
+        {
+          "away": "Red Wings",
+          "awayScore": 2,
+          "home": "Lightning",
+          "homeScore": 4,
+          "note": ""
+        },
+        {
+          "away": "Blues",
+          "awayScore": 1,
+          "home": "Rangers",
+          "homeScore": 3,
+          "note": ""
+        },
+        {
+          "away": "Wild",
+          "awayScore": 4,
+          "home": "Flyers",
+          "homeScore": 2,
+          "note": ""
+        },
+        {
+          "away": "Avalanche",
+          "awayScore": 2,
+          "home": "Blue Jackets",
+          "homeScore": 7,
+          "note": ""
+        },
+        {
+          "away": "Hurricanes",
+          "awayScore": 1,
+          "home": "Predators",
+          "homeScore": 4,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Cutter Gauthier",
+          "team": "Ducks",
+          "line": "3 G",
+          "note": "Hat tricks in two straight games, a Ducks first, and eight goals in his last three."
+        },
+        {
+          "name": "Jason Robertson",
+          "team": "Stars",
+          "line": "3 G · 1 A",
+          "note": "Natural hat trick in the first 5:43 of the second period of a 6-5 win at Washington."
+        },
+        {
+          "name": "Charlie Coyle",
+          "team": "Blue Jackets",
+          "line": "2 G · 2 A",
+          "note": "His first two goals for Columbus came in a 7-2 rout that ended Colorado's three-game win streak."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Jets place F Brad Lambert on waivers (Nov. 3)",
+          "url": "https://prohockeyrumors.com/2026/11/jets-place-brad-lambert-on-waivers.html"
+        },
+        {
+          "text": "Blackhawks recall Dillon Boucher, move D Bowen Byram (upper body) to IR (Nov. 3)",
+          "url": "https://www.prohockeyrumors.com/2026/11/blackhawks-recall-dillon-boucher-place-bowen-byram-on-ir.html"
+        },
+        {
+          "text": "Sharks recall D Eric Pohlkamp from the AHL (Nov. 3)",
+          "url": "https://www.rotowire.com/hockey/headlines/eric-pohlkamp-news-summoned-from-ahl-598360"
+        },
+        {
+          "text": "Penguins recall Jake Livanavage; Evgeni Malkin (lower body) day to day (Nov. 3)",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-3-2026"
+        },
+        {
+          "text": "Red Wings G John Gibson leaves game at Tampa Bay with lower-body injury (Nov. 3)",
+          "url": "https://www.thesportsleader.com/2026/11/03/nhl-roundup-jets-stun-habs-with-latest-4-goal-rally-in-league-history/"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Union rejects delayed-cap proposal; Mariners hire Jason Kanzler",
+      "stories": [
+        {
+          "headline": "MLB offers to delay salary cap to 2028; union rejects it",
+          "summary": "Owners' revised labor proposal pushes a salary cap and floor to 2028, at $258.2 million and $180.2 million. The players' union rejected it right away and said it will not accept any cap. The CBA expires Dec. 1, and owners are expected to approve a lockout then.",
+          "source": "Philadelphia Inquirer",
+          "url": "https://www.inquirer.com/phillies/mlb-salary-cap-proposal-mlbpa-lock-out-2027-20261103.html"
+        },
+        {
+          "headline": "Mariners hire Cubs farm director Jason Kanzler as manager",
+          "summary": "Seattle named Kanzler, 36, to replace Dan Wilson. He has run the Cubs' player development since 2024 and has never managed at any level. The Mariners went 76-86 a year after reaching the ALCS and are the first team to fill a manager opening this offseason.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mlb/story/_/id/50369972/mariners-hire-kanzler-manager-replace-fired-wilson"
+        },
+        {
+          "headline": "BBWAA award finalists announced",
+          "summary": "AL MVP finalists are Yordan Alvarez, Junior Caminero and Bobby Witt Jr.; NL MVP finalists are Pete Crow-Armstrong, Shohei Ohtani and Brice Turang. Cy Young finalists are Dylan Cease, Parker Messick and Cam Schlittler (AL) and Jacob Misiorowski, Chris Sale and Cristopher Sánchez (NL). Winners are named Nov. 9-12, including a new Relief Pitcher of the Year award.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/2026-bbwaa-awards-finalists"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Mariners hire Jason Kanzler as manager",
+          "url": "https://www.espn.com/mlb/story/_/id/50369972/mariners-hire-kanzler-manager-replace-fired-wilson"
+        },
+        {
+          "text": "Cubs decline Javier Assad's $3.3M option; re-sign RHP Jacob Webb for one year, $2M",
+          "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-11-03/report-cubs-decline-javier-assads-option"
+        },
+        {
+          "text": "Cardinals acquire LHP Eduardo Rivera from the Red Sox for RHP Juan García",
+          "url": "https://bvmsports.com/2026/11/03/mlb-off-season-transaction-tracker-the-top-free-agent-signings-and-trades/"
+        },
+        {
+          "text": "Astros acquire RHP Evan Reifert from the Rays for cash",
+          "url": "https://bvmsports.com/2026/11/03/mlb-off-season-transaction-tracker-the-top-free-agent-signings-and-trades/"
+        },
+        {
+          "text": "Rockies hire Ethan Katz as pitching coach",
+          "url": "https://www.mlbtraderumors.com/2026/11/rockies-hire-ethan-katz-as-pitching-coach.html"
+        },
+        {
+          "text": "Orioles claim four players off waivers; OF Leody Taveras elects free agency",
+          "url": "https://www.mlbtraderumors.com/2026/11/orioles-leody-taveras-free-agent-four-waiver-claims.html"
+        },
+        {
+          "text": "Mariners outright Patrick Wisdom and four others",
+          "url": "https://www.mlbtraderumors.com/2026/11/mariners-outright-five-players.html"
+        },
+        {
+          "text": "Astros interview Luis Urueta and Brad Ausmus for manager opening",
+          "url": "https://www.mlbtraderumors.com/2026/11/luis-urueta-to-interview-for-astros-managerial-job.html"
+        }
+      ]
+    }
+  ]
+}

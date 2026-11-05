@@ -1,124 +1,21 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "weekendNote": "Friedkin at midnight, MFA Late Nites",
   "events": [
     {
-      "name": "Free tasting: Emme Wines",
-      "date": "2026-11-04",
-      "time": "5–7 PM",
+      "name": "Free Thursdays at the Gardner",
+      "date": "2026-11-05",
+      "time": "From 5 PM",
       "startTime": "17:00",
-      "endTime": "19:00",
-      "venue": "Wild Child, 30 Bow St",
-      "area": "Somerville",
-      "price": "Free",
-      "free": true,
-      "tags": [
-        "somerville",
-        "food"
-      ],
-      "why": "Drop-in tasting of three new releases from Emme winemaker Rosalind Reynolds, with 10% off bottles.",
-      "url": "https://happeningnext.com/event/free-tasting-emme-wines-eid1ef0l8vexqlr",
-      "linkLabel": "Info",
-      "id": "2026-11-04-emme-wines-tasting",
-      "added": "2026-11-01"
-    },
-    {
-      "name": "Joanne Chang: The Joy of Cookies",
-      "date": "2026-11-04",
-      "time": "6–7:30 PM",
-      "startTime": "18:00",
-      "endTime": "19:30",
-      "venue": "Brattle Theatre",
-      "area": "Cambridge",
-      "price": "$16.74",
-      "tags": [
-        "food"
-      ],
-      "why": "The Flour Bakery founder talks about her new cookie cookbook, presented by Harvard Book Store.",
-      "url": "https://www.harvardsquare.com/event/brattle-theatre-presents-trailer-treats",
-      "linkLabel": "Info",
-      "id": "2026-11-04-joanne-chang-the-joy-of-cookies",
-      "added": "2026-11-04"
-    },
-    {
-      "name": "Rocky in Concert",
-      "date": "2026-11-04",
-      "time": "7 PM",
-      "startTime": "19:00",
-      "venue": "Emerson Colonial Theatre",
+      "venue": "Isabella Stewart Gardner Museum",
       "area": "Boston",
-      "tags": [
-        "film",
-        "music"
-      ],
-      "why": "Rocky on the big screen with a live orchestra playing Bill Conti's score in sync.",
-      "url": "https://us.atgtickets.com/events/rocky/emerson-colonial-theatre/",
-      "linkLabel": "Tickets",
-      "id": "2026-11-04-rocky-in-concert",
-      "added": "2026-11-02"
-    },
-    {
-      "id": "2026-11-04-behemoth-iffboston-closing",
-      "name": "IFFBoston Fall Focus closing night: Behemoth!",
-      "date": "2026-11-04",
-      "time": "8 PM",
-      "startTime": "20:00",
-      "venue": "Brattle Theatre",
-      "area": "Cambridge",
-      "tags": [
-        "film"
-      ],
-      "why": "Closing-night preview of Tony Gilroy's new film starring Pedro Pascal.",
-      "url": "https://brattlefilm.org/film-series/iffboston-fall-focus/",
-      "linkLabel": "Info",
-      "added": "2026-10-30"
-    },
-    {
-      "name": "Survivor Season 51 screenings",
-      "date": "2026-11-04",
-      "time": "8–9:30 PM",
-      "startTime": "20:00",
-      "endTime": "21:30",
-      "venue": "Aeronaut Brewing",
-      "area": "Somerville",
       "price": "Free",
       "free": true,
-      "note": "Listed as weekly on Wednesdays",
-      "tags": [
-        "somerville"
-      ],
-      "why": "Aeronaut shows each Survivor 51 episode on its big projector screens, free.",
-      "url": "https://www.thebostoncalendar.com/events/survivor-screenings-at-aeronaut--10",
+      "why": "Free evening admission to the Gardner.",
+      "url": "https://www.thebostoncalendar.com/events/free-thursdays-at-the-isabella-stewart-gardner-museum--132",
       "linkLabel": "Info",
-      "id": "2026-11-25-survivor-season-51-screenings",
-      "added": "2026-10-31"
-    },
-    {
-      "id": "2026-11-08-boston-lights",
-      "name": "Boston Lights: A Lantern Experience",
-      "date": "2026-11-04",
-      "endDate": "2026-11-08",
-      "venue": "Franklin Park Zoo",
-      "area": "Roxbury",
-      "price": "$21.95",
-      "why": "Lantern walk through the zoo after dark. A good date night before it closes Nov 8.",
-      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
-      "linkLabel": "Info",
-      "note": "Runs through Nov 8"
-    },
-    {
-      "name": "Fleurs de Villes WONDER",
-      "date": "2026-11-04",
-      "endDate": "2026-11-08",
-      "venue": "Prudential Center, 800 Boylston St",
-      "area": "Back Bay",
-      "free": true,
-      "tags": [],
-      "why": "Free exhibit of fresh-flower mannequins by local floral artists, themed around natural wonders.",
-      "url": "https://www.boston.com/things-to-do/events/free-floral-art-exhibit-returning-to-prudential-center-this-november/",
-      "linkLabel": "Info",
-      "id": "2026-11-04-fleurs-de-villes-wonder",
-      "added": "2026-11-02"
+      "id": "2026-11-05-free-thursdays-at-the-gardner",
+      "added": "2026-11-05"
     },
     {
       "name": "Yo-Yo Ma & Stephen Colbert: Arts for Life's Sake",
@@ -136,6 +33,48 @@
       "linkLabel": "Tickets",
       "id": "2026-11-05-yo-yo-ma-stephen-colbert-arts-for-life-s",
       "added": "2026-10-31"
+    },
+    {
+      "name": "Art Battle Boston (final one of the year)",
+      "date": "2026-11-05",
+      "time": "7–10 PM",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "venue": "Mighty Squirrel Fenway, 1 David Ortiz Dr",
+      "area": "Boston",
+      "price": "$15–$30",
+      "why": "Twelve local artists paint live over three timed rounds, with beer, crowd voting and an auction of the finished work. Listed as the last Art Battle Boston of the year.",
+      "url": "https://www.thebostoncalendar.com/events/art-battle-boston--15",
+      "linkLabel": "Info",
+      "id": "2026-11-05-art-battle-boston-final-one-of-the-year",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "2026-11-08-boston-lights",
+      "name": "Boston Lights: A Lantern Experience",
+      "date": "2026-11-05",
+      "endDate": "2026-11-08",
+      "venue": "Franklin Park Zoo",
+      "area": "Roxbury",
+      "price": "$21.95",
+      "why": "Lantern walk through the zoo after dark. A good date night before it closes Nov 8.",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "linkLabel": "Info",
+      "note": "Runs through Nov 8"
+    },
+    {
+      "name": "Fleurs de Villes WONDER",
+      "date": "2026-11-05",
+      "endDate": "2026-11-08",
+      "venue": "Prudential Center, 800 Boylston St",
+      "area": "Back Bay",
+      "free": true,
+      "tags": [],
+      "why": "Free exhibit of fresh-flower mannequins by local floral artists, themed around natural wonders.",
+      "url": "https://www.boston.com/things-to-do/events/free-floral-art-exhibit-returning-to-prudential-center-this-november/",
+      "linkLabel": "Info",
+      "id": "2026-11-04-fleurs-de-villes-wonder",
+      "added": "2026-11-02"
     },
     {
       "id": "2026-11-05-begotten-brattle",
@@ -181,6 +120,32 @@
       "linkLabel": "Info",
       "id": "2026-11-05-finding-bright-film-festival",
       "added": "2026-11-01"
+    },
+    {
+      "name": "Swimming with Sharks (closing)",
+      "date": "2026-11-05",
+      "endDate": "2026-11-08",
+      "venue": "Harvard Museum of Natural History",
+      "area": "Cambridge",
+      "note": "Closes Nov 8",
+      "why": "Exhibition on shark biology and behavior, closing Sunday.",
+      "url": "https://www.musa.guide/en/discover/boston/exhibitions/harvard-museum-of-natural-history/swimming-with-sharks",
+      "linkLabel": "Info",
+      "id": "2026-11-05-swimming-with-sharks-closing",
+      "added": "2026-11-05"
+    },
+    {
+      "name": "Freezing Time: Edgerton (closing)",
+      "date": "2026-11-05",
+      "endDate": "2026-11-29",
+      "venue": "MIT Museum",
+      "area": "Cambridge",
+      "note": "Closes Nov 29",
+      "why": "Harold 'Doc' Edgerton's high-speed photography; closes Nov 29.",
+      "url": "https://www.musa.guide/en/discover/boston/exhibitions/mit-museum/freezing-time-edgerton",
+      "linkLabel": "Info",
+      "id": "2026-11-05-freezing-time-edgerton-closing",
+      "added": "2026-11-05"
     },
     {
       "id": "2026-11-06-antiquarian-book-fair",
@@ -292,7 +257,25 @@
       "linkLabel": "Tickets",
       "id": "2026-11-06-mfa-late-nites-november",
       "added": "2026-11-03",
+      "note": "Online sales end Thu Nov 5; no door tickets",
       "pick": true
+    },
+    {
+      "name": "Deerhoof",
+      "date": "2026-11-06",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "Crystal Ballroom, Somerville Theatre",
+      "area": "Somerville",
+      "tags": [
+        "somerville",
+        "music"
+      ],
+      "why": "Long-running art-rock band Deerhoof in Davis Square.",
+      "url": "https://happeningnext.com/event/deerhoof-at-crystal-ballroom-at-somerville-theatre-eid15hwgsh0vrn",
+      "linkLabel": "Info",
+      "id": "2026-11-06-deerhoof",
+      "added": "2026-11-05"
     },
     {
       "name": "ADULT. + A Place to Bury Strangers",
@@ -375,6 +358,20 @@
       "linkLabel": "Info",
       "id": "2026-11-06-william-basinski-the-garden-of-brokennes",
       "added": "2026-11-04"
+    },
+    {
+      "name": "After Midnite: Eraserhead",
+      "date": "2026-11-06",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "David Lynch's Eraserhead in the Coolidge's late-night slot.",
+      "url": "https://www.coolidge.org/",
+      "linkLabel": "Info",
+      "id": "2026-11-06-after-midnite-eraserhead",
+      "added": "2026-11-05"
     },
     {
       "name": "Somerville Winter Farmers Market opening day",
@@ -478,6 +475,25 @@
       "added": "2026-11-03"
     },
     {
+      "name": "Arlington Open Studios",
+      "date": "2026-11-07",
+      "time": "11 AM–5 PM",
+      "startTime": "11:00",
+      "endTime": "17:00",
+      "venue": "Arlington Town Hall + Arlington Center for the Arts",
+      "area": "Arlington",
+      "price": "Free",
+      "free": true,
+      "tags": [
+        "market"
+      ],
+      "why": "The 28th annual open studios with 80+ artists across two sites, plus live music and food. A WBUR weekend pick.",
+      "url": "https://www.thebostoncalendar.com/events/arlington-open-studios-2026",
+      "linkLabel": "Info",
+      "id": "2026-11-07-arlington-open-studios",
+      "added": "2026-11-05"
+    },
+    {
       "name": "Boston Halal Food Fest",
       "date": "2026-11-07",
       "time": "12–4 PM",
@@ -497,6 +513,25 @@
       "linkLabel": "Info",
       "id": "2026-11-07-boston-halal-food-fest",
       "added": "2026-11-04"
+    },
+    {
+      "name": "Bully Day 2026",
+      "date": "2026-11-07",
+      "time": "1–4 PM or 5–8 PM sessions",
+      "startTime": "13:00",
+      "endTime": "20:00",
+      "venue": "Bully Boy Distillers, 44 Cedric St",
+      "area": "Boston",
+      "price": "$30 (includes first cocktail)",
+      "note": "21+",
+      "tags": [
+        "food"
+      ],
+      "why": "The distillery's biggest party of the year: food vendors, sampling stations, a bottled cherry old fashioned release and games like Guess the Proof.",
+      "url": "https://www.eventbrite.com/e/2002455556474/",
+      "linkLabel": "Tickets",
+      "id": "2026-11-07-bully-day-2026",
+      "added": "2026-11-05"
     },
     {
       "name": "Loy Krathong Thai Night Market",
@@ -610,6 +645,23 @@
       "added": "2026-11-01"
     },
     {
+      "name": "The Blues Brothers in 35mm",
+      "date": "2026-11-09",
+      "time": "7:30 PM",
+      "startTime": "19:30",
+      "venue": "Somerville Theatre",
+      "area": "Somerville",
+      "tags": [
+        "somerville",
+        "film"
+      ],
+      "why": "35mm print closing the theatre's fall 'F**k the Nazis (Again!)' series.",
+      "url": "https://internet-ticketing.com/websales/sales/CSBSOM/book?perfcode=931",
+      "linkLabel": "Tickets",
+      "id": "2026-11-09-the-blues-brothers-in-35mm",
+      "added": "2026-11-05"
+    },
+    {
       "name": "El Topo in 35mm",
       "date": "2026-11-10",
       "time": "7:30 PM",
@@ -643,6 +695,26 @@
       "url": "https://www.jambase.com/show/protomartyr-crystal-ballroom-at-somerville-theatre-20261110",
       "linkLabel": "Info",
       "added": "2026-10-29"
+    },
+    {
+      "name": "Survivor Season 51 screenings",
+      "date": "2026-11-11",
+      "time": "8–9:30 PM",
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "venue": "Aeronaut Brewing",
+      "area": "Somerville",
+      "price": "Free",
+      "free": true,
+      "note": "Listed as weekly on Wednesdays",
+      "tags": [
+        "somerville"
+      ],
+      "why": "Aeronaut shows each Survivor 51 episode on its big projector screens, free.",
+      "url": "https://www.thebostoncalendar.com/events/survivor-screenings-at-aeronaut--10",
+      "linkLabel": "Info",
+      "id": "2026-11-25-survivor-season-51-screenings",
+      "added": "2026-10-31"
     },
     {
       "id": "2026-11-11-hamilton-leithauser-rostam",
@@ -752,6 +824,26 @@
       "linkLabel": "Info",
       "id": "2026-11-13-rocky-horror-on-friday-the-13th",
       "added": "2026-11-03"
+    },
+    {
+      "name": "Merry Makers Holiday Market",
+      "date": "2026-11-14",
+      "time": "10:30 AM–3 PM",
+      "startTime": "10:30",
+      "endTime": "15:00",
+      "venue": "Idle Hands Craft Ales, 89 Commercial St",
+      "area": "Malden",
+      "price": "Free admission",
+      "free": true,
+      "tags": [
+        "market",
+        "food"
+      ],
+      "why": "Holiday pop-up of local artists and makers in the brewery, with coffee and food trucks.",
+      "url": "https://www.eventbrite.com/e/merry-makers-at-idle-hands-holiday-market-2026-tickets-2002599061702",
+      "linkLabel": "Info",
+      "id": "2026-11-14-merry-makers-holiday-market",
+      "added": "2026-11-05"
     },
     {
       "name": "National Pickle Day",
@@ -897,6 +989,23 @@
       "added": "2026-11-02"
     },
     {
+      "name": "Ezra Furman",
+      "date": "2026-11-17",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "The Rockwell",
+      "area": "Somerville",
+      "tags": [
+        "somerville",
+        "music"
+      ],
+      "why": "Ezra Furman at the small Davis Square venue.",
+      "url": "https://happeningnext.com/event/ezra-furman-in-somerville-eid1kbvqelk2m0",
+      "linkLabel": "Info",
+      "id": "2026-11-17-ezra-furman",
+      "added": "2026-11-05"
+    },
+    {
       "name": "The Black Pirate with live piano score",
       "date": "2026-11-17",
       "venue": "Coolidge Corner Theatre",
@@ -1023,6 +1132,20 @@
       "added": "2026-11-04"
     },
     {
+      "name": "Clue (Coolidge Rewind)",
+      "date": "2026-11-19",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "The cult murder-mystery comedy on the big screen.",
+      "url": "https://www.coolidge.org/",
+      "linkLabel": "Info",
+      "id": "2026-11-19-clue-coolidge-rewind",
+      "added": "2026-11-05"
+    },
+    {
       "id": "2026-11-20-sowa-christmas-market",
       "name": "SoWa Christmas Market",
       "date": "2026-11-20",
@@ -1041,6 +1164,26 @@
       "url": "https://www.thebostoncalendar.com/events/11th-annual-sowa-christmas-market-november-20-december-27",
       "linkLabel": "Info",
       "added": "2026-10-29"
+    },
+    {
+      "name": "ZooLights at Stone Zoo",
+      "date": "2026-11-20",
+      "endDate": "2027-01-03",
+      "time": "4–9:30 PM",
+      "startTime": "16:00",
+      "endTime": "21:30",
+      "venue": "Stone Zoo",
+      "area": "Stoneham",
+      "price": "Varies by date",
+      "note": "Nightly; closed Thanksgiving and Christmas",
+      "tags": [
+        "outdoors"
+      ],
+      "why": "The zoo's holiday light walk opens Nov 20.",
+      "url": "https://thrillzing.com/seasonal-events/zoolights-2026-stone-zoo/",
+      "linkLabel": "Info",
+      "id": "2026-11-20-zoolights-at-stone-zoo",
+      "added": "2026-11-05"
     },
     {
       "name": "After Midnite: Rampage (1989) on 35mm",
@@ -1073,6 +1216,20 @@
       "added": "2026-11-04"
     },
     {
+      "name": "After Midnite: The Room",
+      "date": "2026-11-20",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "Tommy Wiseau's The Room, late night.",
+      "url": "https://www.coolidge.org/",
+      "linkLabel": "Info",
+      "id": "2026-11-20-after-midnite-the-room",
+      "added": "2026-11-05"
+    },
+    {
       "name": "Fall Thrift Festival (Select Markets)",
       "date": "2026-11-21",
       "time": "11 AM–6 PM",
@@ -1089,6 +1246,26 @@
       "linkLabel": "Tickets",
       "id": "2026-11-21-fall-thrift-festival",
       "added": "2026-11-01"
+    },
+    {
+      "name": "SMALL MART Market: Art, Makers & Vintage",
+      "date": "2026-11-21",
+      "time": "11 AM–4 PM",
+      "startTime": "11:00",
+      "endTime": "16:00",
+      "venue": "Crystal Ballroom, 55 Davis Sq",
+      "area": "Somerville",
+      "price": "Free",
+      "free": true,
+      "tags": [
+        "somerville",
+        "market"
+      ],
+      "why": "Indie market of artists, vintage dealers and makers with a full bar, near Davis T.",
+      "url": "https://happeningnext.com/event/small-mart-market-art-makers-andamp-vintage-at-crystal-ballroom-eid1ef0l95hgn4a",
+      "linkLabel": "Info",
+      "id": "2026-11-21-small-mart-market-art-makers-vintage",
+      "added": "2026-11-05"
     },
     {
       "name": "After Midnite: Killer Joe",
@@ -1141,6 +1318,60 @@
       "linkLabel": "Info",
       "id": "2026-11-22-boston-womens-holiday-market-warehouse-xi",
       "added": "2026-11-01"
+    },
+    {
+      "name": "Choco Fête at Aeronaut",
+      "date": "2026-11-22",
+      "time": "12–6 PM",
+      "startTime": "12:00",
+      "endTime": "18:00",
+      "venue": "Aeronaut Brewing, 14 Tyler St",
+      "area": "Somerville",
+      "price": "Free admission",
+      "free": true,
+      "tags": [
+        "somerville",
+        "food",
+        "market"
+      ],
+      "why": "Somerville Chocolate's festival with guest makers, chocolate-and-beer pairings and an all-day Willy Wonka screening.",
+      "url": "https://happeningnext.com/event/somerville-chocolate-presents-choco-f%C3%AAte-at-aeronaut-eid1ef0l97b55ra",
+      "linkLabel": "Info",
+      "id": "2026-11-22-choco-f-te-at-aeronaut",
+      "added": "2026-11-05"
+    },
+    {
+      "name": "Columbus Park Trellis Lighting",
+      "date": "2026-11-23",
+      "time": "5–6 PM",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "venue": "Christopher Columbus Park",
+      "area": "Boston",
+      "price": "Free",
+      "free": true,
+      "tags": [
+        "outdoors"
+      ],
+      "why": "Annual lighting of the 260-foot waterfront trellis, with music, free eggnog, hot chocolate and clam chowder.",
+      "url": "https://www.boston.gov/calendar/2026-trellis-lighting-christopher-columbus-park",
+      "linkLabel": "Info",
+      "id": "2026-11-23-columbus-park-trellis-lighting",
+      "added": "2026-11-05"
+    },
+    {
+      "name": "Blast of Silence in 35mm (Noirvember)",
+      "date": "2026-11-24",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "The 1961 hitman noir on 35mm.",
+      "url": "https://www.coolidge.org/",
+      "linkLabel": "Info",
+      "id": "2026-11-24-blast-of-silence-in-35mm-noirvember",
+      "added": "2026-11-05"
     },
     {
       "name": "Ghostwoman with Croaker",
@@ -1211,6 +1442,35 @@
       "added": "2026-11-04"
     },
     {
+      "name": "Science on Screen: Sneakers",
+      "date": "2026-11-30",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "The 1992 hacker caper, introduced by mathematicians Lauren K. Williams and Ken Ono.",
+      "url": "https://www.coolidge.org/",
+      "linkLabel": "Info",
+      "id": "2026-11-30-science-on-screen-sneakers",
+      "added": "2026-11-05"
+    },
+    {
+      "name": "L.A. Confidential in 35mm (Noirvember)",
+      "date": "2026-12-02",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "note": "Discussion at select screenings",
+      "tags": [
+        "film"
+      ],
+      "why": "Closes the Coolidge's Noirvember run.",
+      "url": "https://www.coolidge.org/",
+      "linkLabel": "Info",
+      "id": "2026-12-02-l-a-confidential-in-35mm-noirvember",
+      "added": "2026-11-05"
+    },
+    {
       "name": "The Slutcracker",
       "date": "2026-12-04",
       "endDate": "2026-12-05",
@@ -1277,27 +1537,6 @@
     }
   ],
   "comedyShows": [
-    {
-      "comedian": "Michael Rapaport",
-      "date": "2026-11-04",
-      "time": "7 PM",
-      "startTime": "19:00",
-      "venue": "Laugh Boston",
-      "area": "Boston",
-      "url": "https://comedy.tickets/venue/laugh-boston/",
-      "added": "2026-10-29"
-    },
-    {
-      "comedian": "Nicole Byer & Sasheer Zamata (Best Friends Podcast live)",
-      "date": "2026-11-04",
-      "time": "7:30 PM",
-      "startTime": "19:30",
-      "venue": "The Wilbur",
-      "area": "Boston",
-      "onSale": "On sale now",
-      "url": "https://thewilbur.com/event/best-friends-podcast/",
-      "added": "2026-10-30"
-    },
     {
       "comedian": "Tim Dillon",
       "date": "2026-11-05",

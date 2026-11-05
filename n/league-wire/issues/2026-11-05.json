@@ -1,0 +1,382 @@
+{
+  "date": "2026-11-05",
+  "headline": "Wembanyama scores career-high 52 with 24 rebounds as Spurs edge Mavericks",
+  "ticker": [
+    "Spurs 112, Mavericks 111",
+    "Wemby: 52 pts, 24 reb",
+    "Ravens trade for Brissett",
+    "Kings 7, Sharks 2",
+    "Astros to interview Pujols"
+  ],
+  "top": [
+    {
+      "league": "nba",
+      "headline": "Wembanyama scores career-high 52 with 24 rebounds as Spurs edge Mavericks",
+      "summary": "Victor Wembanyama had 52 points, 24 rebounds and 8 blocks, went 15-for-15 at the line and made the go-ahead free throw with 24.2 seconds left in a 112-111 win over Dallas. Kyrie Irving missed a contested jumper with 2.5 seconds left. The Spurs have won six straight.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/11/5/wembanyama-pours-in-career-high-52-points-as-spurs-edge-mavericks-112-111"
+    },
+    {
+      "league": "nfl",
+      "headline": "Ravens trade for Jacoby Brissett; Fagnano still starts Thursday",
+      "summary": "Baltimore is acquiring QB Jacoby Brissett from Arizona, per ESPN's Adam Schefter and NFL Network's Ian Rapoport, after injuries to Lamar Jackson and Tyler Huntley. Undrafted rookie Joe Fagnano still starts Thursday night against the 5-2 Jaguars, and Brissett is expected to debut in Week 10 against the Chargers. Brissett started all eight games for the Cardinals before being benched for Gardner Minshew.",
+      "source": "Yahoo Sports (Fox News)",
+      "url": "https://sports.yahoo.com/articles/ravens-acquire-jacoby-brissett-cardinals-213834062.html"
+    },
+    {
+      "league": "mlb",
+      "headline": "Astros to interview Albert Pujols and Morgan Ensberg for manager",
+      "summary": "Houston will interview Albert Pujols this week, MLB.com reports, along with former Astros infielder Morgan Ensberg, who has managed Triple-A Durham for three seasons. They join Luis Urueta and Brad Ausmus in new GM Randy Flores' search to replace Joe Espada.",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/news/albert-pujols-astros-manager-opening-interview"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Ravens trade for Brissett ahead of Fagnano's Thursday start vs. Jaguars; Huntley and Kinlaw done for the season",
+      "stories": [
+        {
+          "headline": "Ravens trade for Jacoby Brissett; Fagnano still starts Thursday",
+          "summary": "Baltimore is acquiring QB Jacoby Brissett from Arizona, per ESPN's Adam Schefter and NFL Network's Ian Rapoport, after injuries to Lamar Jackson and Tyler Huntley. Undrafted rookie Joe Fagnano still starts Thursday night against the 5-2 Jaguars, and Brissett is expected to debut in Week 10 against the Chargers. Brissett started all eight games for the Cardinals before being benched for Gardner Minshew.",
+          "source": "Yahoo Sports (Fox News)",
+          "url": "https://sports.yahoo.com/articles/ravens-acquire-jacoby-brissett-cardinals-213834062.html"
+        },
+        {
+          "headline": "Ravens backup Tyler Huntley out for the season",
+          "summary": "Huntley suffered a season-ending turf toe injury in Baltimore's Week 8 loss to Buffalo, per ESPN's Adam Schefter. With Lamar Jackson also out, it explains the Brissett trade and leaves Fagnano as the starter tonight.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-nov-4"
+        },
+        {
+          "headline": "Commanders DL Javon Kinlaw has season-ending knee surgery",
+          "summary": "Kinlaw had MCL surgery Tuesday, Schefter reported. He had one sack and three QB hits in six games.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-nov-4"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Ravens finalizing trade for QB Jacoby Brissett from the Cardinals (Nov. 4)",
+          "url": "https://www.profootballrumors.com/2026/11/ravens-finalizing-trade-for-cardinals-qb-jacoby-brissett"
+        },
+        {
+          "text": "Ravens QB Tyler Huntley out for the season (turf toe)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-nov-4"
+        },
+        {
+          "text": "Commanders DL Javon Kinlaw has season-ending MCL surgery (Nov. 3)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-nov-4"
+        },
+        {
+          "text": "QB Deshaun Watson placed in concussion protocol (Nov. 4)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-nov-4"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Wembanyama goes for 52 and 24 as the Spurs win a sixth straight; Doncic hits 40 again; Heat and Pelicans win in OT",
+      "stories": [
+        {
+          "headline": "Wembanyama scores career-high 52 with 24 rebounds as Spurs edge Mavericks",
+          "summary": "Victor Wembanyama had 52 points, 24 rebounds and 8 blocks, went 15-for-15 at the line and made the go-ahead free throw with 24.2 seconds left in a 112-111 win over Dallas. Kyrie Irving missed a contested jumper with 2.5 seconds left. The Spurs have won six straight.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/5/wembanyama-pours-in-career-high-52-points-as-spurs-edge-mavericks-112-111"
+        },
+        {
+          "headline": "Doncic scores 40 again; Blazers improve to 6-1",
+          "summary": "Luka Doncic had 40 points, 9 rebounds and 7 assists in the Lakers' 116-103 win at Sacramento, his third straight 40-point game. Portland won 132-119 at Phoenix for its best start since 1999-2000, and the Suns have lost four straight. Shai Gilgeous-Alexander scored 42 as the Thunder beat Cleveland 124-116.",
+          "source": "The Sports Leader (Field Level Media)",
+          "url": "https://www.thesportsleader.com/2026/11/05/nba-roundup-spurs-edge-mavs-behind-victor-wembanyamas-52-and-24/"
+        },
+        {
+          "headline": "Heat edge Clippers 117-116 in overtime",
+          "summary": "Miami won in overtime at Intuit Dome to improve to 3-5. The Clippers fell to 1-7, tied with Sacramento for the worst record in the West.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909935"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Hawks",
+          "awayScore": 120,
+          "home": "Wizards",
+          "homeScore": 105,
+          "note": ""
+        },
+        {
+          "away": "Hornets",
+          "awayScore": 104,
+          "home": "Nets",
+          "homeScore": 114,
+          "note": ""
+        },
+        {
+          "away": "Bulls",
+          "awayScore": 105,
+          "home": "Knicks",
+          "homeScore": 135,
+          "note": ""
+        },
+        {
+          "away": "Cavaliers",
+          "awayScore": 116,
+          "home": "Thunder",
+          "homeScore": 124,
+          "note": ""
+        },
+        {
+          "away": "Mavericks",
+          "awayScore": 111,
+          "home": "Spurs",
+          "homeScore": 112,
+          "note": "Close"
+        },
+        {
+          "away": "Pacers",
+          "awayScore": 107,
+          "home": "Grizzlies",
+          "homeScore": 103,
+          "note": "Close"
+        },
+        {
+          "away": "Lakers",
+          "awayScore": 116,
+          "home": "Kings",
+          "homeScore": 103,
+          "note": ""
+        },
+        {
+          "away": "Heat",
+          "awayScore": 117,
+          "home": "Clippers",
+          "homeScore": 116,
+          "note": "OT"
+        },
+        {
+          "away": "Bucks",
+          "awayScore": 102,
+          "home": "Celtics",
+          "homeScore": 109,
+          "note": ""
+        },
+        {
+          "away": "Timberwolves",
+          "awayScore": 117,
+          "home": "Rockets",
+          "homeScore": 107,
+          "note": ""
+        },
+        {
+          "away": "76ers",
+          "awayScore": 112,
+          "home": "Pistons",
+          "homeScore": 106,
+          "note": ""
+        },
+        {
+          "away": "Trail Blazers",
+          "awayScore": 132,
+          "home": "Suns",
+          "homeScore": 119,
+          "note": ""
+        },
+        {
+          "away": "Raptors",
+          "awayScore": 109,
+          "home": "Nuggets",
+          "homeScore": 128,
+          "note": ""
+        },
+        {
+          "away": "Jazz",
+          "awayScore": 113,
+          "home": "Pelicans",
+          "homeScore": 120,
+          "note": "OT"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Victor Wembanyama",
+          "team": "Spurs",
+          "line": "52 PTS · 24 REB · 2 AST",
+          "note": "Career highs in points and rebounds, plus 8 blocks and the go-ahead free throw."
+        },
+        {
+          "name": "Luka Doncic",
+          "team": "Lakers",
+          "line": "40 PTS · 9 REB · 7 AST",
+          "note": "His third straight 40-point game, in a win at Sacramento."
+        },
+        {
+          "name": "Nikola Jokic",
+          "team": "Nuggets",
+          "line": "32 PTS · 10 REB · 11 AST",
+          "note": "A triple-double before sitting the fourth quarter of a 128-109 rout of Toronto."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Thunder sign Dalen Terry out of the G League (Nov. 3)",
+          "url": "https://www.nbcsports.com/nba/news/thunder-sign-dalen-terry-out-of-g-league-to-provide-depth-at-forward"
+        },
+        {
+          "text": "Timberwolves waive F Enrique Freeman (Nov. 3)",
+          "url": "https://www.espn.com/nba/transactions"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Kempe's hat trick in his return leads a Kings rout; Senators rally late to end Buffalo's streak",
+      "stories": [
+        {
+          "headline": "Kempe scores hat trick in return as Kings rout Sharks 7-2",
+          "summary": "Adrian Kempe had three goals and an assist in his first game back from an undisclosed injury. Artemi Panarin added four assists and Quinton Byfield scored twice on the power play. It was Kempe's fifth NHL hat trick.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/san-jose-sharks-los-angeles-kings-game-recap-november-4-2026"
+        },
+        {
+          "headline": "Senators score twice late to beat Sabres",
+          "summary": "Shane Pinto tied it at 11:33 of the third and Michael Amadio scored the winner at 16:51 in Ottawa's 2-1 win in Buffalo. It ended the Sabres' three-game winning streak; Ottawa is 10-6-1.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/ottawa-senators-buffalo-sabres-game-recap-november-4-2026"
+        },
+        {
+          "headline": "Beniers wins it in OT in Matthew Wood's Kraken debut",
+          "summary": "Matty Beniers scored on a breakaway 55 seconds into overtime for a 2-1 win over Calgary. Berkly Catton tied it and has points in seven straight games. Wood, acquired from Nashville for Shane Wright, had no points in his debut.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nhl/recap?gameId=401892647"
+        },
+        {
+          "headline": "Vilmanis has four points as Panthers send Blackhawks to fourth straight loss",
+          "summary": "Sandis Vilmanis had two goals and two assists, his first career multipoint game, in Florida's 5-3 win. Sam Reinhart's empty-netter was his 198th goal with Florida, tying Jonathan Huberdeau for second in team history. Chicago is 4-11-1.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/chicago-blackhawks-florida-panthers-game-recap-november-4-2026"
+        },
+        {
+          "headline": "Heiskanen day to day; Tavares could return for Maple Leafs",
+          "summary": "Stars defenseman Miro Heiskanen is likely to miss Thursday at Columbus after Justin Sourdif hit him into the boards Tuesday. John Tavares was upgraded to day to day and could return Saturday against Montreal.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-4-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Blackhawks",
+          "awayScore": 3,
+          "home": "Panthers",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Senators",
+          "awayScore": 2,
+          "home": "Sabres",
+          "homeScore": 1,
+          "note": "Upset"
+        },
+        {
+          "away": "Flames",
+          "awayScore": 1,
+          "home": "Kraken",
+          "homeScore": 2,
+          "note": "OT"
+        },
+        {
+          "away": "Sharks",
+          "awayScore": 2,
+          "home": "Kings",
+          "homeScore": 7,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Adrian Kempe",
+          "team": "Kings",
+          "line": "3 G · 1 A",
+          "note": "A hat trick in his first game back from injury, the fifth of his career."
+        },
+        {
+          "name": "Sandis Vilmanis",
+          "team": "Panthers",
+          "line": "2 G · 2 A",
+          "note": "The first multipoint game of his NHL career."
+        },
+        {
+          "name": "Artemi Panarin",
+          "team": "Kings",
+          "line": "0 G · 4 A",
+          "note": "Four assists in the 7-2 win over San Jose."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Blue Jackets place F Danton Heinen and D Emil Andrae on waivers (Nov. 4)",
+          "url": "https://www.dailyfaceoff.com/news/two-players-placed-nhl-waivers-november-4-columbus-blue-jackets-emil-andrae-danton-heinen-news"
+        },
+        {
+          "text": "Rangers send G Joonas Korpisalo to AHL Hartford on a conditioning assignment (Nov. 4)",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-4-2026"
+        },
+        {
+          "text": "Oilers F Isaac Howard out \"a couple weeks\", per Mike Babcock (Nov. 4)",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-4-2026"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Astros add Pujols to manager interviews; A's hire Cam Castro as GM; Rays pick up Rasmussen's option",
+      "stories": [
+        {
+          "headline": "Astros to interview Albert Pujols and Morgan Ensberg for manager",
+          "summary": "Houston will interview Albert Pujols this week, MLB.com reports, along with former Astros infielder Morgan Ensberg, who has managed Triple-A Durham for three seasons. They join Luis Urueta and Brad Ausmus in new GM Randy Flores' search to replace Joe Espada.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/albert-pujols-astros-manager-opening-interview"
+        },
+        {
+          "headline": "Athletics hire Brewers' Cam Castro as general manager",
+          "summary": "The A's named Cam Castro, Milwaukee's senior vice president of player development and performance, their new GM. He will work under new president of baseball operations Taylor Smith.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/athletics-hire-brewers-cam-castro-general-managers.html"
+        },
+        {
+          "headline": "Orioles open to dealing anyone but Alonso; Rays exercise Rasmussen's $20M option",
+          "summary": "Baltimore will listen on every player except Pete Alonso as it hunts for starting pitching and outfield help, per The Baltimore Banner. Tampa Bay picked up Drew Rasmussen's $20 million option, and Erik Neander said the team will build its 2027 rotation around him.",
+          "source": "CBS Sports",
+          "url": "https://cbssports.com/mlb/news/mlb-rumors-orioles-pete-alonso-rays-drew-rasmussen"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Athletics hire Cam Castro as GM (Nov. 4)",
+          "url": "https://www.mlbtraderumors.com/2026/11/athletics-hire-brewers-cam-castro-general-managers.html"
+        },
+        {
+          "text": "Rays exercise $20M club option on RHP Drew Rasmussen",
+          "url": "https://cbssports.com/mlb/news/mlb-rumors-orioles-pete-alonso-rays-drew-rasmussen"
+        },
+        {
+          "text": "Mets add A.J. Ellis to Andy Green's staff as major league strategy coordinator",
+          "url": "https://mlbtraderumors.com/2026/11/mets-to-add-a-j-ellis-to-coaching-staff.html"
+        },
+        {
+          "text": "Tigers to hire Kyle Hudson as first base coach",
+          "url": "https://www.mlbtraderumors.com/2026/11/tigers-to-hire-kyle-hudson-as-first-base-coach.html"
+        }
+      ]
+    }
+  ]
+}

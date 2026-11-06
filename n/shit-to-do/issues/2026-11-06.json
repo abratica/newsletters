@@ -1,152 +1,7 @@
 {
-  "date": "2026-11-05",
-  "weekendNote": "Friedkin at midnight, MFA Late Nites",
+  "date": "2026-11-06",
+  "weekendNote": "Friedkin at midnight, MFA Late Nites, Thai night market",
   "events": [
-    {
-      "name": "Free Thursdays at the Gardner",
-      "date": "2026-11-05",
-      "time": "From 5 PM",
-      "startTime": "17:00",
-      "venue": "Isabella Stewart Gardner Museum",
-      "area": "Boston",
-      "price": "Free",
-      "free": true,
-      "why": "Free evening admission to the Gardner.",
-      "url": "https://www.thebostoncalendar.com/events/free-thursdays-at-the-isabella-stewart-gardner-museum--132",
-      "linkLabel": "Info",
-      "id": "2026-11-05-free-thursdays-at-the-gardner",
-      "added": "2026-11-05"
-    },
-    {
-      "name": "Yo-Yo Ma & Stephen Colbert: Arts for Life's Sake",
-      "date": "2026-11-05",
-      "time": "7–8:30 PM",
-      "startTime": "19:00",
-      "endTime": "20:30",
-      "venue": "Sanders Theatre",
-      "area": "Cambridge",
-      "price": "Free, tickets required",
-      "free": true,
-      "tags": [],
-      "why": "A free on-stage conversation between Yo-Yo Ma and Stephen Colbert at Harvard.",
-      "url": "https://www.boxoffice.harvard.edu/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=learning-from-performers&BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Acontext_id=",
-      "linkLabel": "Tickets",
-      "id": "2026-11-05-yo-yo-ma-stephen-colbert-arts-for-life-s",
-      "added": "2026-10-31"
-    },
-    {
-      "name": "Art Battle Boston (final one of the year)",
-      "date": "2026-11-05",
-      "time": "7–10 PM",
-      "startTime": "19:00",
-      "endTime": "22:00",
-      "venue": "Mighty Squirrel Fenway, 1 David Ortiz Dr",
-      "area": "Boston",
-      "price": "$15–$30",
-      "why": "Twelve local artists paint live over three timed rounds, with beer, crowd voting and an auction of the finished work. Listed as the last Art Battle Boston of the year.",
-      "url": "https://www.thebostoncalendar.com/events/art-battle-boston--15",
-      "linkLabel": "Info",
-      "id": "2026-11-05-art-battle-boston-final-one-of-the-year",
-      "added": "2026-11-05"
-    },
-    {
-      "id": "2026-11-08-boston-lights",
-      "name": "Boston Lights: A Lantern Experience",
-      "date": "2026-11-05",
-      "endDate": "2026-11-08",
-      "venue": "Franklin Park Zoo",
-      "area": "Roxbury",
-      "price": "$21.95",
-      "why": "Lantern walk through the zoo after dark. A good date night before it closes Nov 8.",
-      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
-      "linkLabel": "Info",
-      "note": "Runs through Nov 8"
-    },
-    {
-      "name": "Fleurs de Villes WONDER",
-      "date": "2026-11-05",
-      "endDate": "2026-11-08",
-      "venue": "Prudential Center, 800 Boylston St",
-      "area": "Back Bay",
-      "free": true,
-      "tags": [],
-      "why": "Free exhibit of fresh-flower mannequins by local floral artists, themed around natural wonders.",
-      "url": "https://www.boston.com/things-to-do/events/free-floral-art-exhibit-returning-to-prudential-center-this-november/",
-      "linkLabel": "Info",
-      "id": "2026-11-04-fleurs-de-villes-wonder",
-      "added": "2026-11-02"
-    },
-    {
-      "id": "2026-11-05-begotten-brattle",
-      "name": "Begotten (restoration)",
-      "date": "2026-11-05",
-      "venue": "Brattle Theatre",
-      "area": "Cambridge",
-      "note": "Run opens Nov 5",
-      "tags": [
-        "film"
-      ],
-      "why": "Restored run of E. Elias Merhige's 1991 experimental cult horror film.",
-      "url": "https://www.cambridgeday.com/2026/10/29/prestige-pictures-and-haunted-happenings/",
-      "linkLabel": "Info",
-      "added": "2026-10-30"
-    },
-    {
-      "name": "Cult Classics: Fargo",
-      "date": "2026-11-05",
-      "venue": "Coolidge Corner Theatre",
-      "area": "Brookline",
-      "tags": [
-        "film"
-      ],
-      "note": "In Bruges follows Nov 12",
-      "why": "The Coens' murder story back on the big screen in the Coolidge's Cult Classics series.",
-      "url": "https://coolidge.org/films/fargo",
-      "linkLabel": "Tickets",
-      "id": "2026-11-05-cult-classics-fargo",
-      "added": "2026-11-02"
-    },
-    {
-      "name": "Finding Bright Film Festival",
-      "date": "2026-11-05",
-      "endDate": "2026-11-08",
-      "venue": "Capitol Theatre",
-      "area": "Arlington",
-      "tags": [
-        "film"
-      ],
-      "why": "The renamed Arlington International Film Festival, with Fantastique and Matapanki in the lineup plus a 'witch hunt' and monster sketching during live readings.",
-      "url": "https://www.capitoltheatreusa.com/finding-bright-film-festival/",
-      "linkLabel": "Info",
-      "id": "2026-11-05-finding-bright-film-festival",
-      "added": "2026-11-01"
-    },
-    {
-      "name": "Swimming with Sharks (closing)",
-      "date": "2026-11-05",
-      "endDate": "2026-11-08",
-      "venue": "Harvard Museum of Natural History",
-      "area": "Cambridge",
-      "note": "Closes Nov 8",
-      "why": "Exhibition on shark biology and behavior, closing Sunday.",
-      "url": "https://www.musa.guide/en/discover/boston/exhibitions/harvard-museum-of-natural-history/swimming-with-sharks",
-      "linkLabel": "Info",
-      "id": "2026-11-05-swimming-with-sharks-closing",
-      "added": "2026-11-05"
-    },
-    {
-      "name": "Freezing Time: Edgerton (closing)",
-      "date": "2026-11-05",
-      "endDate": "2026-11-29",
-      "venue": "MIT Museum",
-      "area": "Cambridge",
-      "note": "Closes Nov 29",
-      "why": "Harold 'Doc' Edgerton's high-speed photography; closes Nov 29.",
-      "url": "https://www.musa.guide/en/discover/boston/exhibitions/mit-museum/freezing-time-edgerton",
-      "linkLabel": "Info",
-      "id": "2026-11-05-freezing-time-edgerton-closing",
-      "added": "2026-11-05"
-    },
     {
       "id": "2026-11-06-antiquarian-book-fair",
       "name": "Boston International Antiquarian Book Fair",
@@ -240,6 +95,22 @@
       "added": "2026-11-04"
     },
     {
+      "name": "Great British Bake Off Watch Party",
+      "date": "2026-11-06",
+      "time": "7:30 PM",
+      "startTime": "19:30",
+      "venue": "Lamplighter Brewing, Broadway",
+      "area": "Cambridge",
+      "tags": [
+        "food"
+      ],
+      "why": "Themed TV watch party at a brewery.",
+      "url": "https://www.thebostoncalendar.com/events/great-british-bake-off-watch-party--6",
+      "linkLabel": "Info",
+      "id": "2026-11-06-great-british-bake-off-watch-party",
+      "added": "2026-11-06"
+    },
+    {
       "name": "MFA Late Nites (November)",
       "date": "2026-11-06",
       "time": "8 PM–1 AM",
@@ -293,6 +164,74 @@
       "linkLabel": "Tickets",
       "id": "2026-11-06-adult-a-place-to-bury-strangers",
       "added": "2026-11-01"
+    },
+    {
+      "id": "2026-11-08-boston-lights",
+      "name": "Boston Lights: A Lantern Experience",
+      "date": "2026-11-06",
+      "endDate": "2026-11-08",
+      "venue": "Franklin Park Zoo",
+      "area": "Roxbury",
+      "price": "$21.95",
+      "why": "Lantern walk through the zoo after dark. A good date night before it closes Nov 8.",
+      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
+      "linkLabel": "Info",
+      "note": "Runs through Nov 8"
+    },
+    {
+      "name": "Fleurs de Villes WONDER",
+      "date": "2026-11-06",
+      "endDate": "2026-11-08",
+      "venue": "Prudential Center, 800 Boylston St",
+      "area": "Back Bay",
+      "free": true,
+      "tags": [],
+      "why": "Free exhibit of fresh-flower mannequins by local floral artists, themed around natural wonders.",
+      "url": "https://www.boston.com/things-to-do/events/free-floral-art-exhibit-returning-to-prudential-center-this-november/",
+      "linkLabel": "Info",
+      "id": "2026-11-04-fleurs-de-villes-wonder",
+      "added": "2026-11-02"
+    },
+    {
+      "name": "Finding Bright Film Festival",
+      "date": "2026-11-06",
+      "endDate": "2026-11-08",
+      "venue": "Capitol Theatre",
+      "area": "Arlington",
+      "tags": [
+        "film"
+      ],
+      "why": "The renamed Arlington International Film Festival, with Fantastique and Matapanki in the lineup plus a 'witch hunt' and monster sketching during live readings.",
+      "url": "https://www.capitoltheatreusa.com/finding-bright-film-festival/",
+      "linkLabel": "Info",
+      "id": "2026-11-05-finding-bright-film-festival",
+      "added": "2026-11-01"
+    },
+    {
+      "name": "Swimming with Sharks (closing)",
+      "date": "2026-11-06",
+      "endDate": "2026-11-08",
+      "venue": "Harvard Museum of Natural History",
+      "area": "Cambridge",
+      "note": "Closes Nov 8",
+      "why": "Exhibition on shark biology and behavior, closing Sunday.",
+      "url": "https://www.musa.guide/en/discover/boston/exhibitions/harvard-museum-of-natural-history/swimming-with-sharks",
+      "linkLabel": "Info",
+      "id": "2026-11-05-swimming-with-sharks-closing",
+      "added": "2026-11-05"
+    },
+    {
+      "name": "Freezing Time: Edgerton (closing)",
+      "date": "2026-11-06",
+      "endDate": "2026-11-29",
+      "venue": "MIT Museum",
+      "area": "Cambridge",
+      "note": "Closes Nov 29",
+      "why": "Harold 'Doc' Edgerton's high-speed photography; closes Nov 29.",
+      "url": "https://www.musa.guide/en/discover/boston/exhibitions/mit-museum/freezing-time-edgerton",
+      "linkLabel": "Info",
+      "id": "2026-11-05-freezing-time-edgerton-closing",
+      "added": "2026-11-05"
     },
     {
       "id": "2026-11-06-coolidge-after-midnite-friedkin",
@@ -372,6 +311,22 @@
       "linkLabel": "Info",
       "id": "2026-11-06-after-midnite-eraserhead",
       "added": "2026-11-05"
+    },
+    {
+      "name": "Boston Harvest Marketplace & Creator Fest",
+      "date": "2026-11-06",
+      "endDate": "2026-11-08",
+      "venue": "Franklin Park",
+      "area": "Boston",
+      "tags": [
+        "market",
+        "outdoors"
+      ],
+      "why": "Three-day local makers' market this weekend.",
+      "url": "https://www.eventbrite.com/e/boston-harvest-marketplace-creator-fest-tickets-1999385396543",
+      "linkLabel": "Info",
+      "id": "2026-11-06-boston-harvest-marketplace-creator-fest",
+      "added": "2026-11-06"
     },
     {
       "name": "Somerville Winter Farmers Market opening day",
@@ -494,6 +449,25 @@
       "added": "2026-11-05"
     },
     {
+      "name": "Steal My Style Market",
+      "date": "2026-11-07",
+      "time": "11 AM–2 PM",
+      "startTime": "11:00",
+      "endTime": "14:00",
+      "venue": "Castle Island Brewing, 10 Old Colony Ave",
+      "area": "South Boston",
+      "price": "Free to shop",
+      "free": true,
+      "tags": [
+        "market"
+      ],
+      "why": "Secondhand clothing pop-up with 20+ local sellers inside a brewery taproom.",
+      "url": "https://www.thebostoncalendar.com/events/steal-my-style-market-castle-island-brewing",
+      "linkLabel": "Info",
+      "id": "2026-11-07-steal-my-style-market",
+      "added": "2026-11-06"
+    },
+    {
       "name": "Boston Halal Food Fest",
       "date": "2026-11-07",
       "time": "12–4 PM",
@@ -513,6 +487,24 @@
       "linkLabel": "Info",
       "id": "2026-11-07-boston-halal-food-fest",
       "added": "2026-11-04"
+    },
+    {
+      "name": "The Platform Opening Day",
+      "date": "2026-11-07",
+      "time": "From 12 PM",
+      "startTime": "12:00",
+      "venue": "The Platform, 315 Kendall St",
+      "area": "Cambridge",
+      "price": "Free",
+      "free": true,
+      "tags": [
+        "music"
+      ],
+      "why": "Free opening day for a new performing-arts venue in Kendall Square.",
+      "url": "https://www.theplatformkendall.org/productions/the-platform-opening-day/",
+      "linkLabel": "Info",
+      "id": "2026-11-07-the-platform-opening-day",
+      "added": "2026-11-06"
     },
     {
       "name": "Bully Day 2026",
@@ -551,6 +543,40 @@
       "id": "2026-11-07-loy-krathong-thai-night-market",
       "added": "2026-11-02",
       "pick": true
+    },
+    {
+      "name": "Lamplighter's 10th Anniversary Party",
+      "date": "2026-11-07",
+      "time": "5 PM–12 AM",
+      "startTime": "17:00",
+      "endTime": "00:00",
+      "venue": "Lamplighter Brewing, 284 Broadway",
+      "area": "Cambridge",
+      "price": "Free (RSVP)",
+      "free": true,
+      "note": "Boston Globe lists a 6 PM start",
+      "tags": [
+        "food",
+        "music"
+      ],
+      "why": "Free brewery birthday party with games, music, cupcakes and two fan-picked beers.",
+      "url": "https://www.eventbrite.com/e/lamplighters-10th-birthday-party-tickets-2001249779964",
+      "linkLabel": "Tickets",
+      "id": "2026-11-07-lamplighter-s-10th-anniversary-party",
+      "added": "2026-11-06"
+    },
+    {
+      "name": "Time & Times Again: An Interactive Installation",
+      "date": "2026-11-07",
+      "endDate": "2026-11-08",
+      "venue": "The Dance Complex, 536 Mass. Ave",
+      "area": "Cambridge",
+      "price": "$7.18–$23.18",
+      "why": "Two-day interactive installation in Central Square, from Boston Magazine's weekend picks.",
+      "url": "https://www.eventbrite.com/e/time-times-again-an-interactive-installation-tickets-2002836772702",
+      "linkLabel": "Tickets",
+      "id": "2026-11-07-time-times-again-an-interactive-installa",
+      "added": "2026-11-06"
     },
     {
       "name": "Silents, Please! Grass (live score)",
@@ -662,6 +688,22 @@
       "added": "2026-11-05"
     },
     {
+      "name": "Hiss Golden Messenger",
+      "date": "2026-11-09",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "The Sinclair",
+      "area": "Cambridge",
+      "price": "$33.50–$139.47",
+      "tags": [
+        "music"
+      ],
+      "url": "https://www.bowerypresents.com/events/detail/?event_id=1329972",
+      "linkLabel": "Tickets",
+      "id": "2026-11-09-hiss-golden-messenger",
+      "added": "2026-11-06"
+    },
+    {
       "name": "El Topo in 35mm",
       "date": "2026-11-10",
       "time": "7:30 PM",
@@ -732,6 +774,20 @@
       "linkLabel": "Tickets"
     },
     {
+      "name": "Beware, My Lovely + discussion (Noirvember)",
+      "date": "2026-11-11",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "1952 Ida Lupino/Robert Ryan psychological thriller with a post-film discussion.",
+      "url": "https://coolidge.org/films/beware-my-lovely",
+      "linkLabel": "Tickets",
+      "id": "2026-11-11-beware-my-lovely-discussion-noirvember",
+      "added": "2026-11-06"
+    },
+    {
       "name": "Big Ducking Bananagrams Tournament",
       "date": "2026-11-12",
       "venue": "Aeronaut Brewing, 14 Tyler St",
@@ -746,6 +802,20 @@
       "linkLabel": "Info",
       "id": "2026-11-12-big-ducking-bananagrams-tournament",
       "added": "2026-11-04"
+    },
+    {
+      "name": "In Bruges (Cult Classics)",
+      "date": "2026-11-12",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "Martin McDonagh's dark-comedy hitman film, one night only.",
+      "url": "https://coolidge.org/films/bruges",
+      "linkLabel": "Tickets",
+      "id": "2026-11-12-in-bruges-cult-classics",
+      "added": "2026-11-06"
     },
     {
       "name": "The Big Beaujolais Tasting",
@@ -970,6 +1040,20 @@
       "linkLabel": "Info",
       "id": "2026-11-14-after-midnite-cruising",
       "added": "2026-11-03"
+    },
+    {
+      "name": "Michael Clayton on 35mm + seminar",
+      "date": "2026-11-16",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "note": "Big Screen Classics; seminar by Mikal J. Gaines",
+      "tags": [
+        "film"
+      ],
+      "url": "https://coolidge.org/films/michael-clayton",
+      "linkLabel": "Tickets",
+      "id": "2026-11-16-michael-clayton-on-35mm-seminar",
+      "added": "2026-11-06"
     },
     {
       "name": "The Big Lebowski in 35mm",
@@ -1392,6 +1476,19 @@
       "added": "2026-11-03"
     },
     {
+      "name": "Spellbound (1945) + discussion (Noirvember)",
+      "date": "2026-11-25",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "url": "https://coolidge.org/films/spellbound-1945",
+      "linkLabel": "Tickets",
+      "id": "2026-11-25-spellbound-1945-discussion-noirvember",
+      "added": "2026-11-06"
+    },
+    {
       "name": "Noirvember: Hardboiled Wonderland",
       "date": "2026-11-26",
       "endDate": "2026-11-29",
@@ -1471,6 +1568,20 @@
       "added": "2026-11-05"
     },
     {
+      "name": "Clifford (Cult Classics)",
+      "date": "2026-12-03",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "The 1994 Martin Short black comedy as a one-night cult screening.",
+      "url": "https://coolidge.org/films/clifford",
+      "linkLabel": "Tickets",
+      "id": "2026-12-03-clifford-cult-classics",
+      "added": "2026-11-06"
+    },
+    {
       "name": "The Slutcracker",
       "date": "2026-12-04",
       "endDate": "2026-12-05",
@@ -1539,24 +1650,14 @@
   "comedyShows": [
     {
       "comedian": "Tim Dillon",
-      "date": "2026-11-05",
-      "time": "7:30 PM",
+      "date": "2026-11-06",
+      "time": "7:30 PM & 10 PM",
       "startTime": "19:30",
       "venue": "The Wilbur",
       "area": "Boston",
       "price": "$49–$69",
-      "note": "4 shows, Nov 5–7",
+      "note": "Fri 7:30 & 10 PM; Sat 9:45 PM",
       "url": "https://thewilbur.com/event/tim-dillon/"
-    },
-    {
-      "comedian": "Joanne McNally",
-      "date": "2026-11-05",
-      "venue": "Arts at the Armory",
-      "area": "Somerville",
-      "onSale": "On sale now",
-      "url": "https://artsatthearmory.org/events/bill-blumenreich-presents-joanne-mcnally-pinotphile/",
-      "added": "2026-10-30",
-      "note": "Early show sold out; late show still listed"
     },
     {
       "comedian": "Marc Maron",
@@ -1620,7 +1721,7 @@
       "startTime": "19:00",
       "venue": "Chevalier Theatre",
       "area": "Medford",
-      "note": "Improv with friends",
+      "note": "2 shows: 3:30 & 7 PM",
       "url": "https://chevaliertheatre.com/event/ben-schwartz-friends/"
     },
     {
@@ -1780,7 +1881,7 @@
       "venue": "MGM Music Hall at Fenway",
       "area": "Boston",
       "price": "From $67",
-      "note": "3 nights, Dec 2–4",
+      "note": "Also Thu Dec 3, 8 PM and Fri Dec 4, 7 PM",
       "url": "https://www.ticketmaster.com/nikki-glaser-the-stunning-tour-boston-massachusetts-12-02-2026/event/01006392CFED18E0"
     },
     {
@@ -2045,7 +2146,7 @@
       "venue": "Chevalier Theatre",
       "area": "Medford",
       "onSale": "Sold out",
-      "note": "Jan 30 and 31",
+      "note": "Also Jan 31",
       "url": "https://chevaliertheatre.com/event/giggly-squad-the-gehls-gehl-tour/",
       "added": "2026-10-30"
     },
@@ -2090,8 +2191,8 @@
   ],
   "comedianWatchlist": [],
   "ticker": [
-    "CamelPhat, Royale, Fri",
-    "MFA Late Nites, Fri",
-    "Free: Thai night market, Sat"
+    "CamelPhat, Royale, tonight",
+    "Free: Lamplighter turns 10, Sat",
+    "Thai night market, Sat"
   ]
 }

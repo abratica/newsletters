@@ -1,0 +1,394 @@
+{
+  "date": "2026-11-06",
+  "headline": "Jaguars flatten depleted Ravens 33-10 on Thursday night",
+  "ticker": [
+    "Jaguars 33, Ravens 10",
+    "Porzingis' pay withheld",
+    "McDavid streak hits 17",
+    "Ducks 5, Oilers 4",
+    "Warriors 120, Heat 100"
+  ],
+  "top": [
+    {
+      "league": "nfl",
+      "headline": "Jaguars flatten depleted Ravens 33-10 on Thursday night",
+      "summary": "Undrafted rookie Joe Fagnano went 10 of 18 for 60 yards with two interceptions in his first start, and Jacksonville moved to 6-2. Baltimore has lost four straight, falls to 4-5 and, per AP, has lost three straight games by 20 or more for the first time in franchise history.",
+      "source": "AP (via FOX Sports)",
+      "url": "https://www.foxsports.com/articles/nfl/jaguars-thrash-the-depleted-ravens-3310-for-their-5th-win-in-6-games"
+    },
+    {
+      "league": "nba",
+      "headline": "Warriors withhold Porzingis' salary as he weighs retirement",
+      "summary": "Golden State says Kristaps Porzingis isn't providing the services his contract requires; he reportedly hasn't been at the facility since early October. ESPN's Bobby Marks puts the cost at $218,341 per game, and Porzingis isn't disputing it. The Warriors still want to move the deal, which is only $3 million guaranteed next season.",
+      "source": "Hoops Rumors (via ESPN)",
+      "url": "https://www.hoopsrumors.com/2026/11/warriors-withholding-payments-to-kristaps-porzingis.html"
+    },
+    {
+      "league": "nhl",
+      "headline": "McDavid's point streak hits 17, but Ducks win in Edmonton",
+      "summary": "Connor McDavid had a goal and three assists to extend his season-opening point streak to 17 games, but Anaheim held on 5-4. Beckett Sennecke and Pavel Mintyukov each had two goals and an assist. The Ducks have scored five goals in six straight games for the first time in franchise history.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/oilers/news/anaheim-ducks-edmonton-oilers-game-recap-november-5-2026-x0153"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Jaguars rout the third-string-QB Ravens 33-10; Baltimore's slide hits four as Brissett trade nears",
+      "stories": [
+        {
+          "headline": "Jaguars flatten depleted Ravens 33-10 on Thursday night",
+          "summary": "Undrafted rookie Joe Fagnano went 10 of 18 for 60 yards with two interceptions in his first start, and Jacksonville moved to 6-2. Baltimore has lost four straight, falls to 4-5 and, per AP, has lost three straight games by 20 or more for the first time in franchise history.",
+          "source": "AP (via FOX Sports)",
+          "url": "https://www.foxsports.com/articles/nfl/jaguars-thrash-the-depleted-ravens-3310-for-their-5th-win-in-6-games"
+        },
+        {
+          "headline": "Jaguars look like a real contender",
+          "summary": "After a first-drive field goal, Jacksonville held Baltimore scoreless for nine straight possessions and forced three takeaways. NFL.com calls the Jaguars \"a very legitimate championship contender,\" and AP says they lead the AFC South by 3½ games.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/jaguars-ravens-on-thursday-night-football-what-we-learned-from-jacksonville-s-33-10-win"
+        },
+        {
+          "headline": "Vikings go to Carson Wentz; 49ers likely without Evans and Samuel",
+          "summary": "Kevin O'Connell said Kyler Murray (hamstring) won't play Monday against the Bills, so Wentz starts for 6-1 Minnesota. In San Francisco, GM John Lynch said WRs Mike Evans (Achilles) and Deebo Samuel (hamstring) are unlikely to play Sunday against the Raiders.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-nov-5"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Jaguars",
+          "awayScore": 33,
+          "home": "Ravens",
+          "homeScore": 10,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Trevor Lawrence",
+          "team": "Jaguars",
+          "line": "16-26 · 242 YDS · 1 TD · 0 INT",
+          "note": "His 50-yard touchdown to Parker Washington late in the first half made it 17-3."
+        },
+        {
+          "name": "Justice Hill",
+          "team": "Ravens",
+          "line": "9-85-1",
+          "note": "His 65-yard fourth-quarter run was Baltimore's first touchdown after halftime since Week 5."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Ravens place QBs Lamar Jackson and Tyler Huntley on IR, sign QB Austin Reed to the active roster (Nov. 5)",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Bears place RB Zavier Scott on IR (wrist) (Nov. 5)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-nov-5"
+        },
+        {
+          "text": "Rams sign K Joshua Karty from the practice squad (Nov. 5)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-nov-5"
+        },
+        {
+          "text": "Giants waive QB Jake Haener (Nov. 5)",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Chargers designate TE David Njoku and LB Denzel Perryman to return from IR (Nov. 5)",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Bears place DT Kentavius Street on IR (Nov. 4)",
+          "url": "https://www.espn.com/nfl/transactions"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Warriors stop paying Porzingis, then win a sixth straight behind Curry; Blazers lose Krejci to a leg fracture",
+      "stories": [
+        {
+          "headline": "Warriors withhold Porzingis' salary as he weighs retirement",
+          "summary": "Golden State says Kristaps Porzingis isn't providing the services his contract requires; he reportedly hasn't been at the facility since early October. ESPN's Bobby Marks puts the cost at $218,341 per game, and Porzingis isn't disputing it. The Warriors still want to move the deal, which is only $3 million guaranteed next season.",
+          "source": "Hoops Rumors (via ESPN)",
+          "url": "https://www.hoopsrumors.com/2026/11/warriors-withholding-payments-to-kristaps-porzingis.html"
+        },
+        {
+          "headline": "Curry heats up late, Warriors win sixth straight",
+          "summary": "Stephen Curry was 2-of-10 at halftime and finished with 29 points and six threes in a 120-100 win over Miami. Golden State is 6-3 after an 0-3 start, and Curry passed Oscar Robertson for 17th on the career scoring list. Klay Thompson scored 11 on 3-of-10 shooting in his return to Chase Center.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909937"
+        },
+        {
+          "headline": "Blazers lose Vit Krejci to a leg fracture",
+          "summary": "Coach Micah Nori said Krejci fractured his left lower leg in Wednesday's win at Phoenix; surgery hasn't been ruled in or out. He's the third Portland guard with a major injury this season, after Shaedon Sharpe and Ja Morant. The 6-1 Blazers are getting thin.",
+          "source": "Hoops Rumors (via The Oregonian)",
+          "url": "https://www.hoopsrumors.com/2026/11/blazers-vit-krejci-expected-to-miss-significant-time.html"
+        },
+        {
+          "headline": "Sabonis trade talk grows louder",
+          "summary": "ESPN's Tim MacMahon said \"Sabonis wants out\" of Sacramento, and the Kings would move him if they can. Rival executives view his $45.5 million salary as a negative contract. Charlotte and Toronto have been linked.",
+          "source": "Hoops Rumors",
+          "url": "https://www.hoopsrumors.com/2026/11/community-shootaround-domantas-sabonis-future.html"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Heat",
+          "awayScore": 100,
+          "home": "Warriors",
+          "homeScore": 120,
+          "note": ""
+        },
+        {
+          "away": "Magic",
+          "awayScore": 104,
+          "home": "Suns",
+          "homeScore": 117,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Wendell Carter Jr.",
+          "team": "Magic",
+          "line": "27 PTS · 13 REB · 2 AST",
+          "note": "He shot 10-of-12, but Orlando lost its third straight."
+        },
+        {
+          "name": "Franz Wagner",
+          "team": "Magic",
+          "line": "15 PTS · 8 REB · 15 AST",
+          "note": "Four steals too, but the Magic turned it over 25 times in the loss at Phoenix."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Warriors withhold Kristaps Porzingis' salary for failure to render services (Nov. 4)",
+          "url": "https://www.hoopsrumors.com/2026/11/warriors-withholding-payments-to-kristaps-porzingis.html"
+        },
+        {
+          "text": "Raptors sign Kevin McCullar Jr. to a two-way contract (Nov. 5)",
+          "url": "https://www.hoopsrumors.com/2026/11/raptors-sign-kevin-mccullar-jr-to-two-way-contract.html"
+        },
+        {
+          "text": "Cavaliers sign Norchad Omier to a two-way deal, waive Riley Minix (Nov. 5)",
+          "url": "https://www.hoopsrumors.com/2026/11/cavaliers-to-waive-riley-minix.html"
+        },
+        {
+          "text": "Thunder sign Dalen Terry to a two-year deal (Nov. 4)",
+          "url": "https://www.hoopsrumors.com/2026/11/dalen-terry-thunder-agree-to-two-year-deal.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "McDavid's streak reaches 17 in a loss to the Ducks; four of 11 games go past regulation",
+      "stories": [
+        {
+          "headline": "McDavid's point streak hits 17, but Ducks win in Edmonton",
+          "summary": "Connor McDavid had a goal and three assists to extend his season-opening point streak to 17 games, but Anaheim held on 5-4. Beckett Sennecke and Pavel Mintyukov each had two goals and an assist. The Ducks have scored five goals in six straight games for the first time in franchise history.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/oilers/news/anaheim-ducks-edmonton-oilers-game-recap-november-5-2026-x0153"
+        },
+        {
+          "headline": "Cooley's hat trick isn't enough as Canadiens win in OT",
+          "summary": "Logan Cooley scored three times for Utah, becoming the fastest active player to five career hat tricks. Cole Caufield won it 5-4 for Montreal 30 seconds into overtime, two days after the Canadiens blew a 4-0 lead to Winnipeg.",
+          "source": "Yahoo Sports (AP)",
+          "url": "https://ca.sports.yahoo.com/news/cole-caufield-scores-ot-winner-030615832.html"
+        },
+        {
+          "headline": "Devils blow 4-1 lead, Bratt wins it in OT",
+          "summary": "St. Louis scored three times in 3:08 of the third to tie it before Jesper Bratt scored on an overtime breakaway for a 5-4 Devils win. Connor Hellebuyck made 28 saves and is 4-0-0 since New Jersey acquired him. The Devils have won six straight at home.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nhl/recap?gameId=401892651"
+        },
+        {
+          "headline": "Jets win again as Canucks keep sinking",
+          "summary": "Winnipeg beat Vancouver 6-2 for its second straight win after a nine-game skid. No. 8 pick Viggo Bjorck got his first NHL point. Vancouver is 3-14-1 and 1-13-1 in its last 15.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/vancouver-canucks-winnipeg-jets-game-recap-november-5-2026"
+        },
+        {
+          "headline": "Rangers waive Reimer as Korpisalo nears return",
+          "summary": "New York put goalie James Reimer on waivers Thursday while Joonas Korpisalo works through an AHL conditioning stint. With Igor Shesterkin out for the season, Dylan Garand made 23 saves in a 3-2 comeback win over Philadelphia.",
+          "source": "Bolavip",
+          "url": "https://bolavip.com/en/nhl/ny-rangers-signal-joonas-korpisalos-return-with-james-reimer-on-waivers"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Mammoth",
+          "awayScore": 4,
+          "home": "Canadiens",
+          "homeScore": 5,
+          "note": "OT"
+        },
+        {
+          "away": "Blues",
+          "awayScore": 4,
+          "home": "Devils",
+          "homeScore": 5,
+          "note": "OT"
+        },
+        {
+          "away": "Stars",
+          "awayScore": 1,
+          "home": "Blue Jackets",
+          "homeScore": 2,
+          "note": "SO"
+        },
+        {
+          "away": "Predators",
+          "awayScore": 3,
+          "home": "Avalanche",
+          "homeScore": 2,
+          "note": "OT"
+        },
+        {
+          "away": "Ducks",
+          "awayScore": 5,
+          "home": "Oilers",
+          "homeScore": 4,
+          "note": "Upset"
+        },
+        {
+          "away": "Flyers",
+          "awayScore": 2,
+          "home": "Rangers",
+          "homeScore": 3,
+          "note": "Close"
+        },
+        {
+          "away": "Golden Knights",
+          "awayScore": 2,
+          "home": "Red Wings",
+          "homeScore": 1,
+          "note": "Close"
+        },
+        {
+          "away": "Blackhawks",
+          "awayScore": 1,
+          "home": "Lightning",
+          "homeScore": 4,
+          "note": ""
+        },
+        {
+          "away": "Hurricanes",
+          "awayScore": 5,
+          "home": "Islanders",
+          "homeScore": 3,
+          "note": ""
+        },
+        {
+          "away": "Bruins",
+          "awayScore": 6,
+          "home": "Penguins",
+          "homeScore": 2,
+          "note": ""
+        },
+        {
+          "away": "Canucks",
+          "awayScore": 2,
+          "home": "Jets",
+          "homeScore": 6,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Connor McDavid",
+          "team": "Oilers",
+          "line": "1 G · 3 A",
+          "note": "His season-opening point streak is now 17 games, though Edmonton lost."
+        },
+        {
+          "name": "Beckett Sennecke",
+          "team": "Ducks",
+          "line": "2 G · 1 A",
+          "note": "The youngest Duck with back-to-back three-point games, passing Paul Kariya."
+        },
+        {
+          "name": "Carter Hart",
+          "team": "Golden Knights",
+          "line": "25 SV · .962 SV%",
+          "note": "Allowed one goal in a 2-1 win at Detroit."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Rangers place G James Reimer on waivers (Nov. 5)",
+          "url": "https://bolavip.com/en/nhl/ny-rangers-signal-joonas-korpisalos-return-with-james-reimer-on-waivers"
+        },
+        {
+          "text": "Islanders sign D Ben Hutton to a one-year contract (Nov. 5)",
+          "url": "https://abcnews.com/Sports/wireStory/carriers-goal-snaps-3rd-period-tie-hurricanes-beat-137899615"
+        },
+        {
+          "text": "Jets F Brad Lambert clears waivers (Nov. 4)",
+          "url": "https://www.prohockeyrumors.com/2026/11/jets-place-brad-lambert-on-waivers.html"
+        },
+        {
+          "text": "Red Wings recall G Michal Postava on an emergency basis, place Albert Johansson on IR (Nov. 4)",
+          "url": "https://www.prohockeyrumors.com/2026/11/red-wings-recall-michal-postava-place-albert-johansson-on-ir.html"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Owners push salary-cap ask to 2028 · Awards finalists set · Mariners hire Kanzler",
+      "stories": [
+        {
+          "headline": "MLB pushes its salary cap back to 2028 and raises the numbers",
+          "summary": "Owners proposed a $258.2 million hard cap and a $180.2 million floor starting in 2028, up from May's $245.3 million and $171.2 million. 2027 would keep current luxury-tax rules. The union still won't accept a cap, and the CBA expires Dec. 1.",
+          "source": "AP (via AJC)",
+          "url": "https://www.ajc.com/news/2026/11/major-league-baseball-proposes-delaying-salary-cap-implementation-to-2028-in-talks-with-players/"
+        },
+        {
+          "headline": "BBWAA award finalists set; winners start Monday",
+          "summary": "AL MVP finalists are Yordan Alvarez, Junior Caminero and Bobby Witt Jr.; NL are Pete Crow-Armstrong, Shohei Ohtani and Brice Turang. Cy Young: Dylan Cease, Parker Messick and Cam Schlittler in the AL; Jacob Misiorowski, Chris Sale and Cristopher Sánchez in the NL. Rookie of the Year comes Nov. 9, MVP Nov. 12.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/cubs/news/2026-bbwaa-awards-finalists"
+        },
+        {
+          "headline": "Mariners hand the dugout to a first-time manager",
+          "summary": "Seattle hired Jason Kanzler, the Cubs' director of player development, to replace Dan Wilson. He has never managed at any level and beat out former Astros manager Joe Espada.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/manager-rumors-and-candidates"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Rays sign RHP Levi Stoudt to a minor league deal (Nov. 5)",
+          "url": "https://www.mlbtraderumors.com/2026/11/rays-levi-stoudt-agree-to-minor-league-deal.html"
+        },
+        {
+          "text": "White Sox sign Alec Marsh to a minor league deal (Nov. 5)",
+          "url": "https://www.mlbtraderumors.com/2026/11/white-sox-sign-alec-marsh-to-minor-league-deal.html"
+        },
+        {
+          "text": "Blue Jays re-sign OF Rudy Martin Jr. to a minor league deal (Nov. 5)",
+          "url": "https://www.mlbtraderumors.com/2026/11/blue-jays-re-sign-rudy-martin-jr-outfielder.html"
+        },
+        {
+          "text": "Tristan Beck signs with the KBO's LG Twins (Nov. 4)",
+          "url": "https://www.mlbtraderumors.com/2026/11/tristan-beck-signs-with-kbos-lg-twins.html"
+        },
+        {
+          "text": "Nationals release Zak Kent (Nov. 4)",
+          "url": "https://www.mlbtraderumors.com/2026/11/nationals-release-zak-kent.html"
+        }
+      ]
+    }
+  ]
+}

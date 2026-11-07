@@ -1,0 +1,382 @@
+{
+  "date": "2026-11-07",
+  "headline": "Doncic scores 53 as Lakers rally past Blazers",
+  "ticker": [
+    "Lakers 124, Blazers 118",
+    "Luka drops 53",
+    "Porzingis steps away",
+    "Brissett trade official",
+    "Ducks 5, Flames 3"
+  ],
+  "top": [
+    {
+      "league": "nba",
+      "headline": "Doncic scores 53 as Lakers rally past Blazers",
+      "summary": "Luka Doncic scored a season-high 53 and the Lakers came back from a 60-53 halftime deficit to beat Portland 124-118. It's his fourth straight 40-point game, putting him with Kobe Bryant, Elgin Baylor and George Mikan as the only Lakers to do it. His 361 points through nine games trail only Wilt Chamberlain for that span.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50406079/luka-doncic-stays-hot-scores-53-lead-lakers-blazers"
+    },
+    {
+      "league": "nba",
+      "headline": "Porzingis steps away from basketball",
+      "summary": "A day after Golden State started withholding his salary, Kristaps Porzingis said he is \"stepping away\" because his body can't perform at the level he expects. It isn't a formal retirement. Per ESPN, the Warriors can still use his salary in a trade before February's deadline, and Porzingis is open to a trade and possibly a buyout after.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50402041/warriors-kristaps-porzingis-step-away-prioritize-health"
+    },
+    {
+      "league": "nfl",
+      "headline": "Ravens-Cardinals Jacoby Brissett trade is official",
+      "summary": "The teams announced it Friday: Baltimore gets Brissett and a 2027 fifth for a 2027 fourth and a 2028 seventh, and Arizona pays more than half his remaining salary. With Lamar Jackson and Tyler Huntley on IR and four straight losses, Brissett is the Ravens' fourth starting QB in four weeks. He gets extra time before Monday night against the Chargers.",
+      "source": "NBC Sports / ProFootballTalk",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-cardinals-announce-jacoby-brissett-trade"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Brissett deal goes through; Garrett back for the Rams, Shedeur starts for Cleveland, Jets lose Garrett Wilson",
+      "stories": [
+        {
+          "headline": "Ravens-Cardinals Jacoby Brissett trade is official",
+          "summary": "The teams announced it Friday: Baltimore gets Brissett and a 2027 fifth for a 2027 fourth and a 2028 seventh, and Arizona pays more than half his remaining salary. With Lamar Jackson and Tyler Huntley on IR and four straight losses, Brissett is the Ravens' fourth starting QB in four weeks. He gets extra time before Monday night against the Chargers.",
+          "source": "NBC Sports / ProFootballTalk",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-cardinals-announce-jacoby-brissett-trade"
+        },
+        {
+          "headline": "Myles Garrett set to return for Rams",
+          "summary": "Sean McVay confirmed Garrett will play Sunday against Washington after seven games on injured reserve following knee surgery. His snaps will be managed day by day.",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/nfl/rams/onsi/rams-myles-garrett-return-commanders-what-to-expect"
+        },
+        {
+          "headline": "Shedeur Sanders starts for Browns; Watson in concussion protocol",
+          "summary": "Todd Monken said Shedeur Sanders will start against New Orleans. Deshaun Watson is questionable and in the concussion protocol, and DT Maliek Collins (elbow) is out.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-nov-6"
+        },
+        {
+          "headline": "Jets rule out Garrett Wilson; Falcons lose Robinson for Madrid",
+          "summary": "WR Garrett Wilson (concussion) is out Sunday against Kansas City, though Breece Hall (quad) practiced fully. Atlanta ruled out RB Brian Robinson and WR Zachariah Branch (both hamstring) for the Cincinnati game in Madrid.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-nov-6"
+        },
+        {
+          "headline": "Shanahan 'couldn't care less' about Aiyuk meeting",
+          "summary": "Brandon Aiyuk and agent Drew Rosenhaus were set to meet 49ers officials Friday. Kyle Shanahan said the relationship has been \"over for our football team for a long time.\" With the deadline Nov. 10, San Francisco has to keep, cut or trade him soon.",
+          "source": "NBC Sports / ProFootballTalk",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-on-brandon-aiyuks-meeting-with-49ers-i-couldnt-care-less"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Ravens acquire QB Jacoby Brissett and a 2027 fifth from the Cardinals for a 2027 fourth and a 2028 seventh (Nov. 6)",
+          "url": "https://www.nfl.com/news/ravens-complete-trade-for-cardinals-jacoby-brissett-deal-terms-revealed"
+        },
+        {
+          "text": "Chiefs sign WR Bub Means (Nov. 5)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-nov-5"
+        },
+        {
+          "text": "Raiders sign WR Cody White, waive TE Carter Runyon (Nov. 5)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-nov-5"
+        },
+        {
+          "text": "Browns waive TE Carsen Ryan (Nov. 5)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-nov-5"
+        },
+        {
+          "text": "Vikings sign G C.J. Hanson (Nov. 5)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-nov-5"
+        },
+        {
+          "text": "Bills sign CB Kader Kohou to the practice squad (Nov. 5)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-nov-5"
+        },
+        {
+          "text": "Ravens place QBs Lamar Jackson and Tyler Huntley on IR (Nov. 5)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-nov-5"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Doncic hits 53 for a fourth straight 40-point game; Porzingis steps away; Spurs win seven straight",
+      "stories": [
+        {
+          "headline": "Doncic scores 53 as Lakers rally past Blazers",
+          "summary": "Luka Doncic scored a season-high 53 and the Lakers came back from a 60-53 halftime deficit to beat Portland 124-118. It's his fourth straight 40-point game, putting him with Kobe Bryant, Elgin Baylor and George Mikan as the only Lakers to do it. His 361 points through nine games trail only Wilt Chamberlain for that span.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/50406079/luka-doncic-stays-hot-scores-53-lead-lakers-blazers"
+        },
+        {
+          "headline": "Porzingis steps away from basketball",
+          "summary": "A day after Golden State started withholding his salary, Kristaps Porzingis said he is \"stepping away\" because his body can't perform at the level he expects. It isn't a formal retirement. Per ESPN, the Warriors can still use his salary in a trade before February's deadline, and Porzingis is open to a trade and possibly a buyout after.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/50402041/warriors-kristaps-porzingis-step-away-prioritize-health"
+        },
+        {
+          "headline": "Ajay Mitchell's career night as Thunder rout Memphis",
+          "summary": "Mitchell scored a career-high 35 and Shai Gilgeous-Alexander added 28 in a 128-97 NBA Cup win. Oklahoma City turned 18 Grizzlies turnovers into 30 points while playing through injuries.",
+          "source": "AP (via La Nacion)",
+          "url": "https://www.lanacion.com.ar/usa/ajay-mitchell-scores-a-career-high-35-points-as-thunder-rout-grizzlies-128-97-nid07112026/"
+        },
+        {
+          "headline": "Cavs end Sixers' streak in LeBron's return; Spurs win seventh straight",
+          "summary": "Cleveland beat Philadelphia 119-95, snapping a five-game 76ers win streak in LeBron James' first trip back. San Antonio won 124-109 in Sacramento, and NBA.com says Victor Wembanyama's 250-point, 100-rebound, 35-block start through nine games is a record.",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/news/emirates-nba-cup-2026-live-updates-nov-6"
+        },
+        {
+          "headline": "Short-handed Raptors come back on the Bucks",
+          "summary": "Without Barnes, Quickley, Bittle and Leonard, Toronto erased a nine-point halftime deficit and won 121-107. Alijah Martin and RJ Barrett scored 27 each. Milwaukee falls to 1-8.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/raptors-secure-first-nba-cup-042130670.html"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Wizards",
+          "awayScore": 132,
+          "home": "Hawks",
+          "homeScore": 139,
+          "note": ""
+        },
+        {
+          "away": "Celtics",
+          "awayScore": 119,
+          "home": "Hornets",
+          "homeScore": 80,
+          "note": ""
+        },
+        {
+          "away": "76ers",
+          "awayScore": 95,
+          "home": "Cavaliers",
+          "homeScore": 119,
+          "note": ""
+        },
+        {
+          "away": "Timberwolves",
+          "awayScore": 115,
+          "home": "Pelicans",
+          "homeScore": 109,
+          "note": ""
+        },
+        {
+          "away": "Raptors",
+          "awayScore": 121,
+          "home": "Bucks",
+          "homeScore": 107,
+          "note": ""
+        },
+        {
+          "away": "Jazz",
+          "awayScore": 100,
+          "home": "Mavericks",
+          "homeScore": 112,
+          "note": ""
+        },
+        {
+          "away": "Thunder",
+          "awayScore": 128,
+          "home": "Grizzlies",
+          "homeScore": 97,
+          "note": ""
+        },
+        {
+          "away": "Trail Blazers",
+          "awayScore": 118,
+          "home": "Lakers",
+          "homeScore": 124,
+          "note": ""
+        },
+        {
+          "away": "Spurs",
+          "awayScore": 124,
+          "home": "Kings",
+          "homeScore": 109,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Luka Doncic",
+          "team": "Lakers",
+          "line": "53 PTS · 5 REB · 5 AST",
+          "note": "Season high and his fourth straight 40-point game."
+        },
+        {
+          "name": "Ajay Mitchell",
+          "team": "Thunder",
+          "line": "35 PTS",
+          "note": "Career high in a 31-point road win."
+        },
+        {
+          "name": "Jamal Shead",
+          "team": "Raptors",
+          "line": "10 PTS · 16 AST",
+          "note": "Ran a depleted lineup through a comeback in Milwaukee."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Cavaliers sign Norchad Omier to a two-way deal, waive Riley Minix (Nov. 5)",
+          "url": "https://www.hoopsrumors.com/2026/11/cavaliers-to-waive-riley-minix.html"
+        },
+        {
+          "text": "Raptors sign Kevin McCullar Jr. to a two-way contract (Nov. 5)",
+          "url": "https://www.hoopsrumors.com/2026/11/raptors-sign-kevin-mccullar-jr-to-two-way-contract.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Gauthier caps a Ducks comeback in Calgary; Kaprizov's 16th leads the league; McDavid's streak goes on the line tonight",
+      "stories": [
+        {
+          "headline": "Gauthier finishes Ducks' comeback in Calgary",
+          "summary": "Down 3-0 after one, Anaheim won 5-3 on Cutter Gauthier's go-ahead goal with 1:34 left. Gauthier has 10 goals in a five-game goal streak. The Ducks have won four straight and scored at least five in seven straight.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/anaheim-ducks-calgary-flames-game-recap-november-6-2026"
+        },
+        {
+          "headline": "Kaprizov's 16th leads the NHL as Wild beat Sharks",
+          "summary": "Kirill Kaprizov had a goal and three assists in a 4-1 win. Minnesota is 12-3-3 and 6-0-1 in its last seven; San Jose has lost four straight.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/san-jose-sharks-minnesota-wild-game-recap-november-6-2026"
+        },
+        {
+          "headline": "Sabres beat Blue Jackets; Monahan hurt",
+          "summary": "Josh Norris scored twice and Owen Power had three assists in Buffalo's 5-2 win, its fourth in five games. Columbus lost Sean Monahan to a lower-body injury late in the second.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/columbus-blue-jackets-buffalo-sabres-game-recap-november-6-2026"
+        },
+        {
+          "headline": "McDavid's streak meets the reeling Canucks tonight",
+          "summary": "Connor McDavid has a point in all 17 games this season. One more against Vancouver, losers of 14 of 15, gives him the longest point streak by an active player.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-november-7-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Blue Jackets",
+          "awayScore": 2,
+          "home": "Sabres",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Sharks",
+          "awayScore": 1,
+          "home": "Wild",
+          "homeScore": 4,
+          "note": ""
+        },
+        {
+          "away": "Ducks",
+          "awayScore": 5,
+          "home": "Flames",
+          "homeScore": 3,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Kirill Kaprizov",
+          "team": "Wild",
+          "line": "1 G · 3 A",
+          "note": "His power-play goal was his league-leading 16th."
+        },
+        {
+          "name": "Owen Power",
+          "team": "Sabres",
+          "line": "0 G · 3 A",
+          "note": "Set up three as Buffalo scored five."
+        },
+        {
+          "name": "Jesper Wallstedt",
+          "team": "Wild",
+          "line": "23 SV · .958 SV%",
+          "note": "Only Macklin Celebrini beat him."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Mammoth recall D Gregor Biber, place Kailer Yamamoto on IR (Nov. 6)",
+          "url": "https://www.prohockeyrumors.com/2026/11/mammoth-recall-gregor-biber-place-kailer-yamamoto-on-ir.html"
+        },
+        {
+          "text": "Sabres activate D Jack Rathbone from IR and place him on waivers (Nov. 6)",
+          "url": "https://www.prohockeyrumors.com/2026/11/sabres-waive-jack-rathbone.html"
+        },
+        {
+          "text": "Wild recall F Mason Shaw, loan Rasmus Kumpulainen to Liiga's Lukko (Nov. 6)",
+          "url": "https://www.prohockeyrumors.com/2026/11/wild-notes-faber-shaw-kumpulainen.html"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Crow-Armstrong, Bellinger win Platinum Gloves · Nats extend Jacob Young · Cardinals name Cerfolio GM",
+      "stories": [
+        {
+          "headline": "Crow-Armstrong, Bellinger win Platinum Gloves",
+          "summary": "Rawlings named the Cubs' Pete Crow-Armstrong the NL's top defender and the Yankees' Cody Bellinger the AL's, the first for each. Crow-Armstrong led MLB with +26 Outs Above Average.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/pete-crow-armstrong-cody-bellinger-win-platinum-gloves"
+        },
+        {
+          "headline": "Nationals extend CF Jacob Young: four years, $23M",
+          "summary": "The deal covers his arbitration years plus at least one free-agent year, with an $8 million club option. He's hit little (82 wRC+ since 2024), but Statcast rates him the second-best defensive outfielder of the past three seasons.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/nationals-extend-jacob-young-center-fielder.html"
+        },
+        {
+          "headline": "Cardinals promote Rob Cerfolio to GM",
+          "summary": "The 34-year-old assistant GM becomes the No. 2 under Chaim Bloom. He fills the opening left when Randy Flores became the Astros' GM.",
+          "source": "MLB Trade Rumors",
+          "url": "https://mlbtraderumors.com/2026/11/cardinals-promote-rob-cerfolio-general-manager.html"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Nationals sign CF Jacob Young to a four-year, $23M extension (Nov. 6)",
+          "url": "https://www.mlbtraderumors.com/2026/11/nationals-extend-jacob-young-center-fielder.html"
+        },
+        {
+          "text": "Cardinals promote Rob Cerfolio to general manager (Nov. 6)",
+          "url": "https://mlbtraderumors.com/2026/11/cardinals-promote-rob-cerfolio-general-manager.html"
+        },
+        {
+          "text": "Giants trade LHP Reiver Sanmartin to the Nationals for RHP Robert Cranz (Nov. 6)",
+          "url": "https://www.mlbtraderumors.com/2026/11/giants-trade-reiver-sanmartin-nationals.html"
+        },
+        {
+          "text": "Nationals DFA RHP Kyle Nicolas (Nov. 6)",
+          "url": "https://www.mlbtraderumors.com/2026/11/nationals-dfa-kyle-nicolas-reliever.html"
+        },
+        {
+          "text": "Guardians claim INF José Tena off waivers from the Nationals (Nov. 6)",
+          "url": "https://www.mlbtraderumors.com/2026/11/guardians-claim-jose-tena.html"
+        },
+        {
+          "text": "Tigers outright RHP Yilber Díaz to Triple-A (Nov. 6)",
+          "url": "https://www.mlbtraderumors.com/2026/11/tigers-outright-yilber-diaz.html"
+        },
+        {
+          "text": "Royals sign RHP Hobie Harris to a minor league deal (Nov. 6)",
+          "url": "https://www.mlbtraderumors.com/2026/11/royals-hobie-harris-agree-to-minor-league-deal.html"
+        }
+      ]
+    }
+  ]
+}

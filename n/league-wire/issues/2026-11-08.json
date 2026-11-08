@@ -1,0 +1,429 @@
+{
+  "date": "2026-11-08",
+  "headline": "Curry scores 41 as Warriors win seventh straight in OT",
+  "ticker": [
+    "Warriors 126, Magic 119",
+    "McDavid streak hits 18",
+    "Spurs win 8th straight",
+    "Colts listening on Jones",
+    "Devils 5, Islanders 4"
+  ],
+  "top": [
+    {
+      "league": "nba",
+      "headline": "Curry scores 41 as Warriors win seventh straight in OT",
+      "summary": "Stephen Curry had 41 points, 6 rebounds and 6 assists in a 126-119 overtime win in Orlando, scoring 12 in the last 2:21 of regulation before Jamal Cain's tip-in forced OT. It's his 16th 40-point game since turning 35, passing LeBron James (15) and Michael Jordan (12). Per ESPN, the 7-3 Warriors are only the second team to follow an 0-3 start with seven straight wins, after the 1950-51 Celtics.",
+      "source": "ESPN",
+      "url": "https://espn.com/nba/story/_/id/50417316/remarkable-curry-latest-history-making-night-keeps-warriors-rolling"
+    },
+    {
+      "league": "nhl",
+      "headline": "McDavid stretches season-opening point streak to 18",
+      "summary": "Connor McDavid had three assists and Leon Draisaitl scored twice in a 4-2 win over Vancouver. NHL.com says 18 straight games to open a season is the longest by an active player, passing McDavid's own 17 from 2021-22. He leads the league with 47 points and is two games short of his career-best 20. The Canucks are 1-14-1 in their last 16.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/vancouver-canucks-edmonton-oilers-game-recap-november-7-2026"
+    },
+    {
+      "league": "nfl",
+      "headline": "Colts open for business on Daniel Jones and Jonathan Taylor",
+      "summary": "Ian Rapoport and Adam Schefter report the Colts are listening to offers for QB Daniel Jones and RB Jonathan Taylor ahead of Tuesday's 4 p.m. ET trade deadline. The Ravens reportedly called about Jones before trading for Jacoby Brissett. Schefter also says Derrick Henry is expected to stay in Baltimore.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-trade-deadline-rumors-week-9-163704992.html"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Deadline is Tuesday: Colts listening on Jones and Taylor, Jaguars hunting defense, Aiyuk unresolved; Madrid opens Sunday",
+      "stories": [
+        {
+          "headline": "Colts open for business on Daniel Jones and Jonathan Taylor",
+          "summary": "Ian Rapoport and Adam Schefter report the Colts are listening to offers for QB Daniel Jones and RB Jonathan Taylor ahead of Tuesday's 4 p.m. ET trade deadline. The Ravens reportedly called about Jones before trading for Jacoby Brissett. Schefter also says Derrick Henry is expected to stay in Baltimore.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-trade-deadline-rumors-week-9-163704992.html"
+        },
+        {
+          "headline": "Broncos ask about Trey McBride, Cardinals say no",
+          "summary": "Per ESPN, Denver checked in on Arizona TE Trey McBride, who leads the NFL with 66 catches, and was turned down. The Broncos want an upgrade over Evan Engram (13 catches, 136 yards, 1 TD) before Tuesday.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-trade-deadline-rumors-week-9-163704992.html"
+        },
+        {
+          "headline": "Jaguars shop for defense; Brian Thomas Jr. draws calls",
+          "summary": "Jacksonville has been calling around for a defensive playmaker after losing NT DaVon Hamilton and S Eric Murray for the season, per Schefter and Rapoport. The Jaguars have had \"multiple inquiries\" about WR Brian Thomas Jr., who could be part of a deal.",
+          "source": "Bleacher Report",
+          "url": "https://bleacherreport.com/articles/25530198-new-nfl-trade-rumors-jaguars-pursuit-defensive-playmaker-ahead-2026-deadline"
+        },
+        {
+          "headline": "Aiyuk saga: 'To be continued'",
+          "summary": "Friday's meeting at the 49ers' offices didn't end in a reinstatement. A dispute over roughly $13 million in forfeited bonus money now involves the NFL Management Council and the NFLPA, and San Francisco still holds his rights. Agent Drew Rosenhaus: \"To be continued.\"",
+          "source": "Yahoo Sports (Heavy)",
+          "url": "https://sports.yahoo.com/articles/san-francisco-49ers-brandon-aiyuk-040424439.html"
+        },
+        {
+          "headline": "Lions lose Jack Campbell to IR; Saints get Tyson and Banks back",
+          "summary": "Detroit put LB Jack Campbell on IR, so he's out at least four games after being taken off on a backboard against Minnesota. New Orleans' No. 8 pick Jordyn Tyson is set to debut off IR against Cleveland, with LT Kelvin Banks Jr. expected back for the first time since Week 2. Deshaun Watson cleared concussion protocol, but Shedeur Sanders still starts.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-trade-deadline-rumors-week-9-163704992.html"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Lions place LB Jack Campbell on IR (Nov. 7)",
+          "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-trade-deadline-rumors-week-9-163704992.html"
+        },
+        {
+          "text": "Cowboys place edge Malachi Lawrence on IR, activate LB Marist Liufau (Nov. 7)",
+          "url": "https://sports.yahoo.com/articles/cowboys-announce-brutal-news-1st-235118955.html"
+        },
+        {
+          "text": "49ers activate WR Demarcus Robinson from IR (Nov. 7)",
+          "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-trade-deadline-rumors-week-9-163704992.html"
+        },
+        {
+          "text": "Broncos activate WR Pat Bryant from IR (Nov. 7)",
+          "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-trade-deadline-rumors-week-9-163704992.html"
+        },
+        {
+          "text": "Browns sign DL Sam Kamara to the active roster (Nov. 6)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-nov-6"
+        },
+        {
+          "text": "Jets cut QB Jake Haener (Nov. 6)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-nov-6"
+        },
+        {
+          "text": "Broncos waive DB Taylor Rapp (Nov. 6)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-nov-6"
+        },
+        {
+          "text": "Ravens waive QB Austin Reed (Nov. 6)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-nov-6"
+        },
+        {
+          "text": "Eagles waive RB Dameon Pierce from IR with an injury settlement (Nov. 6)",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-nov-6"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Curry's 41 extends Golden State's streak to seven; Spurs win eight straight; Thunder hold Washington to 75",
+      "stories": [
+        {
+          "headline": "Curry scores 41 as Warriors win seventh straight in OT",
+          "summary": "Stephen Curry had 41 points, 6 rebounds and 6 assists in a 126-119 overtime win in Orlando, scoring 12 in the last 2:21 of regulation before Jamal Cain's tip-in forced OT. It's his 16th 40-point game since turning 35, passing LeBron James (15) and Michael Jordan (12). Per ESPN, the 7-3 Warriors are only the second team to follow an 0-3 start with seven straight wins, after the 1950-51 Celtics.",
+          "source": "ESPN",
+          "url": "https://espn.com/nba/story/_/id/50417316/remarkable-curry-latest-history-making-night-keeps-warriors-rolling"
+        },
+        {
+          "headline": "Spurs win eighth straight, sit starters for the fourth",
+          "summary": "San Antonio won 125-103 in Portland. Victor Wembanyama scored 29 in 24 minutes on 9-of-13 shooting, and the starters sat the fourth with a 33-point lead. At 8-2, it's the Spurs' longest streak since 11 straight last March.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/3-takeaways-victor-wembanyama-scores-090357234.html"
+        },
+        {
+          "headline": "Thunder hold Wizards to 75, the NBA's lowest total this season",
+          "summary": "Oklahoma City won 114-75 as Washington shot 29 of 98, including 7 of 43 from three. Shai Gilgeous-Alexander scored 30 in three quarters. OKC is 8-2 with Jalen Williams, Cason Wallace and Chet Holmgren out long-term, per AP.",
+          "source": "AP (via WRAL)",
+          "url": "https://www.wral.com/news/ap/2c3fa-shai-gilgeous-alexander-thunder-rout-the-poor-shooting-wizards-114-75/"
+        },
+        {
+          "headline": "Booker's late burst gets Suns past Houston",
+          "summary": "Devin Booker scored seven straight to break a 95-all tie in a 102-99 win, and Kevin Durant missed a potential tying 3 at the end. It's Phoenix's first set of back-to-back wins this season.",
+          "source": "AP (via Fox Sports)",
+          "url": "https://www.foxsports.com/articles/nba/booker-scores-24-suns-outlast-rockets-10299-for-1st-backtoback-wins-of-season"
+        },
+        {
+          "headline": "Nuggets beat Haliburton-less Pacers in Mexico City",
+          "summary": "Denver won 114-102 at Arena CDMX behind Nikola Jokic's 19 points, 13 rebounds and 8 assists. Indiana, without Tyrese Haliburton (hamstring), has lost five of six and is 3-7.",
+          "source": "AP (via ABC News)",
+          "url": "https://abcnews.com/Sports/wireStory/nuggets-beat-pacers-114-102-mexico-city-nikola-137948008"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Warriors",
+          "awayScore": 126,
+          "home": "Magic",
+          "homeScore": 119,
+          "note": "OT"
+        },
+        {
+          "away": "Nets",
+          "awayScore": 121,
+          "home": "Hawks",
+          "homeScore": 124,
+          "note": "Close"
+        },
+        {
+          "away": "Rockets",
+          "awayScore": 99,
+          "home": "Suns",
+          "homeScore": 102,
+          "note": "Close"
+        },
+        {
+          "away": "Knicks",
+          "awayScore": 109,
+          "home": "Cavaliers",
+          "homeScore": 97,
+          "note": ""
+        },
+        {
+          "away": "Nuggets",
+          "awayScore": 114,
+          "home": "Pacers",
+          "homeScore": 102,
+          "note": ""
+        },
+        {
+          "away": "Wizards",
+          "awayScore": 75,
+          "home": "Thunder",
+          "homeScore": 114,
+          "note": ""
+        },
+        {
+          "away": "Spurs",
+          "awayScore": 125,
+          "home": "Trail Blazers",
+          "homeScore": 103,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Stephen Curry",
+          "team": "Warriors",
+          "line": "41 PTS · 6 REB · 6 AST",
+          "note": "Scored 12 in the last 2:21 of regulation to force OT."
+        },
+        {
+          "name": "Day'Ron Sharpe",
+          "team": "Nets",
+          "line": "12 PTS · 10 REB · 13 AST",
+          "note": "First career triple-double, though Brooklyn blew a 17-point lead."
+        },
+        {
+          "name": "Franz Wagner",
+          "team": "Magic",
+          "line": "30 PTS · 6 REB · 11 AST",
+          "note": "Orlando led by six in the fourth before losing in OT."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Cavaliers sign F Riley Minix to a two-way deal, waive F Tristan Enaruna (Nov. 7)",
+          "url": "https://www.nba.com/cavaliers/news/releases-riley-minix-signing-261107"
+        },
+        {
+          "text": "Grizzlies sign second-round pick Richie Saunders to a two-way deal, waive Carson Cooper (Nov. 7)",
+          "url": "https://hoopsrumors.com/2026/11/grizzlies-to-sign-second-rounder-saunders-to-two-way-deal.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "McDavid's point streak hits 18; Jack Hughes wins it in OT; Stamkos passes Robitaille; Canes score nine",
+      "stories": [
+        {
+          "headline": "McDavid stretches season-opening point streak to 18",
+          "summary": "Connor McDavid had three assists and Leon Draisaitl scored twice in a 4-2 win over Vancouver. NHL.com says 18 straight games to open a season is the longest by an active player, passing McDavid's own 17 from 2021-22. He leads the league with 47 points and is two games short of his career-best 20. The Canucks are 1-14-1 in their last 16.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/vancouver-canucks-edmonton-oilers-game-recap-november-7-2026"
+        },
+        {
+          "headline": "Jack Hughes ends Devils' comeback in OT on Long Island",
+          "summary": "New Jersey trailed by two in the third, tied it on Dougie Hamilton's power-play goal and won 5-4 on Hughes' breakaway 1:18 into overtime. It's his league-leading third OT goal, and the 12-5-0 Devils have won four straight. Ilya Sorokin made 45 saves in the loss.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/new-jersey-devils-new-york-islanders-game-recap-november-7-2026"
+        },
+        {
+          "headline": "Stamkos moves to fifth all-time in power-play goals",
+          "summary": "Steven Stamkos scored his 248th career power-play goal, passing Luc Robitaille, in Nashville's 3-1 win over St. Louis. The Predators have won four straight; the Blues have lost three in a row.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/st-louis-blues-nashville-predators-game-recap-november-7-2026"
+        },
+        {
+          "headline": "Hurricanes score nine before flying to Finland",
+          "summary": "Carolina beat Chicago 9-2, with two goals each from Jordan Martinook and Andrei Svechnikov. The 14-3-2 Hurricanes head to Helsinki to play Seattle on Nov. 12 and 14. Chicago has lost six straight.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/chicago-blackhawks-carolina-hurricanes-game-recap-november-7-2026"
+        },
+        {
+          "headline": "Canadiens win in Toronto, point streak hits 10",
+          "summary": "Alex Newhook scored twice and Jacob Fowler made 26 saves in a 4-2 win. Montreal is 8-0-2 in its last 10; the Leafs have lost four of five and lost Morgan Rielly to a lower-body injury.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/montreal-canadiens-toronto-maple-leafs-game-recap-november-7-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Panthers",
+          "awayScore": 3,
+          "home": "Capitals",
+          "homeScore": 4,
+          "note": "Close"
+        },
+        {
+          "away": "Blues",
+          "awayScore": 1,
+          "home": "Predators",
+          "homeScore": 3,
+          "note": ""
+        },
+        {
+          "away": "Rangers",
+          "awayScore": 4,
+          "home": "Kraken",
+          "homeScore": 3,
+          "note": "Close"
+        },
+        {
+          "away": "Canadiens",
+          "awayScore": 4,
+          "home": "Maple Leafs",
+          "homeScore": 2,
+          "note": ""
+        },
+        {
+          "away": "Devils",
+          "awayScore": 5,
+          "home": "Islanders",
+          "homeScore": 4,
+          "note": "OT"
+        },
+        {
+          "away": "Mammoth",
+          "awayScore": 2,
+          "home": "Senators",
+          "homeScore": 4,
+          "note": ""
+        },
+        {
+          "away": "Blackhawks",
+          "awayScore": 2,
+          "home": "Hurricanes",
+          "homeScore": 9,
+          "note": ""
+        },
+        {
+          "away": "Sharks",
+          "awayScore": 3,
+          "home": "Stars",
+          "homeScore": 4,
+          "note": "Close"
+        },
+        {
+          "away": "Lightning",
+          "awayScore": 4,
+          "home": "Wild",
+          "homeScore": 3,
+          "note": "OT"
+        },
+        {
+          "away": "Red Wings",
+          "awayScore": 0,
+          "home": "Avalanche",
+          "homeScore": 4,
+          "note": ""
+        },
+        {
+          "away": "Penguins",
+          "awayScore": 5,
+          "home": "Kings",
+          "homeScore": 2,
+          "note": ""
+        },
+        {
+          "away": "Canucks",
+          "awayScore": 2,
+          "home": "Oilers",
+          "homeScore": 4,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Martin Necas",
+          "team": "Avalanche",
+          "line": "2 G · 2 A",
+          "note": "Both goals came on the power play in a 4-0 win over Detroit."
+        },
+        {
+          "name": "Connor McDavid",
+          "team": "Oilers",
+          "line": "0 G · 3 A",
+          "note": "Point streak to open the season is now 18."
+        },
+        {
+          "name": "Mackenzie Blackwood",
+          "team": "Avalanche",
+          "line": "27 SV · 1.000 SV%",
+          "note": "His first shutout of the season."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Oilers activate G Devon Levi and F Zach Hyman off IR, assign G Matt Tomkins to the AHL (Nov. 7)",
+          "url": "https://www.prohockeyrumors.com/2026/11/oilers-activate-devon-levi-and-zach-hyman-off-ir.html"
+        },
+        {
+          "text": "Oilers place D Atro Leppanen on waivers (Nov. 7)",
+          "url": "https://www.prohockeyrumors.com/2026/11/oilers-place-atro-leppanen-on-waivers.html"
+        },
+        {
+          "text": "Maple Leafs activate John Tavares off IR, recall G Artur Akhtyamov (Nov. 7)",
+          "url": "https://www.prohockeyrumors.com/2026/11/maple-leafs-activate-john-tavares-recall-artur-akhtyamov.html"
+        },
+        {
+          "text": "Rangers place G James Reimer on waivers to terminate his contract (Nov. 7)",
+          "url": "https://www.prohockeyrumors.com/2026/11/rangers-place-james-reimer-on-waivers-for-purpose-of-contract-termination.html"
+        },
+        {
+          "text": "Wild activate Marcus and Nick Foligno off IR (Nov. 7)",
+          "url": "https://www.prohockeyrumors.com/2026/11/wild-activate-marcus-foligno-and-nick-foligno.html"
+        },
+        {
+          "text": "Bruins place James Hagens on IR, recall Michael Eyssimont (Nov. 7)",
+          "url": "https://www.prohockeyrumors.com/2026/11/bruins-place-james-hagens-on-ir-recall-michael-eyssimont.html"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Skubal tops MLB.com's free-agent starters · Mets add Robert Stock",
+      "stories": [
+        {
+          "headline": "Skubal is the unanimous No. 1 free-agent starter",
+          "summary": "MLB.com's free-agent starting pitcher rankings put Tarik Skubal first by unanimous vote, ahead of Michael King, Freddy Peralta, Sonny Gray and NPB's Kaima Taira. Skubal missed about six weeks with an elbow injury this year and still tops the board.",
+          "source": "MLB.com",
+          "url": "https://mlb.com/news/free-agent-starting-pitcher-power-rankings-for-2026-2027"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Mets sign RHP Robert Stock to a one-year split major league deal (Nov. 7)",
+          "url": "https://www.mlbtraderumors.com/2026/11/mets-sign-robert-stock-to-major-league-contract.html"
+        },
+        {
+          "text": "Blue Jays re-sign RHP Lazaro Estrada to a minor league deal (Nov. 7)",
+          "url": "https://www.mlbtraderumors.com/2026/11/blue-jays-re-sign-lazaro-estrada-to-minor-league-contract.html"
+        },
+        {
+          "text": "Red Sox RHP Zack Kelly clears waivers, elects free agency (Nov. 6)",
+          "url": "https://www.mlbtraderumors.com/2026/11/red-sox-zack-kelly-clears-waivers-free-agent.html"
+        }
+      ]
+    }
+  ]
+}

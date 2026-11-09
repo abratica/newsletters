@@ -1,0 +1,464 @@
+{
+  "date": "2026-11-09",
+  "headline": "Bears survive five turnovers to beat Buccaneers on last-second field goal",
+  "ticker": [
+    "Bears 27, Buccaneers 24",
+    "Texans 44, Chargers 22",
+    "Reaves 43, Lakers top DET",
+    "Thunder trade for Clifford",
+    "Scheifele wins it at 59:58"
+  ],
+  "top": [
+    {
+      "league": "nfl",
+      "headline": "Bears survive five turnovers to beat Buccaneers on last-second field goal",
+      "summary": "Caleb Williams threw four interceptions, but Cairo Santos hit a 38-yarder as time expired for a 27-24 Sunday night win, and Jaylon Johnson returned an interception 67 yards for a score. Chicago is 7-2 and leads the NFC North heading into its bye. Tampa Bay falls to 3-6.",
+      "source": "NBC Sports (ProFootballTalk)",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-bears-overcome-five-giveaways-beat-bucs-27-24"
+    },
+    {
+      "league": "nfl",
+      "headline": "Puka Nacua set for MRI after knee injury on final snap",
+      "summary": "Nacua hurt his knee on the Rams' last offensive play of a 20-13 win in Washington, after 14 catches for 150 yards and a touchdown. The team reportedly doesn't believe it's a torn ACL; Monday's imaging will tell. With Davante Adams already on IR, the Rams could shop for a receiver before Tuesday's deadline.",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/puka-nacua-injury-rams-wr-undergo-mri-knee-injury-on-final-snap/"
+    },
+    {
+      "league": "nba",
+      "headline": "Reaves scores 43 as Lakers win in Detroit without Doncic",
+      "summary": "Austin Reaves scored 43, going 11 of 11 from the line, in a 121-116 win over the Pistons. Luka Doncic sat with lower-back tightness. Detroit has dropped two straight after a 6-1 start.",
+      "source": "AP (via ABC News)",
+      "url": "https://abcnews.com/Sports/wireStory/lakers-43-austin-reaves-beat-pistons-luka-doncic-137963108"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Bears win SNF despite five giveaways; Nacua awaits MRI; Packers win in Foxborough; deadline Tuesday 4 p.m. ET",
+      "stories": [
+        {
+          "headline": "Bears survive five turnovers to beat Buccaneers on last-second field goal",
+          "summary": "Caleb Williams threw four interceptions, but Cairo Santos hit a 38-yarder as time expired for a 27-24 Sunday night win, and Jaylon Johnson returned an interception 67 yards for a score. Chicago is 7-2 and leads the NFC North heading into its bye. Tampa Bay falls to 3-6.",
+          "source": "NBC Sports (ProFootballTalk)",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-bears-overcome-five-giveaways-beat-bucs-27-24"
+        },
+        {
+          "headline": "Puka Nacua set for MRI after knee injury on final snap",
+          "summary": "Nacua hurt his knee on the Rams' last offensive play of a 20-13 win in Washington, after 14 catches for 150 yards and a touchdown. The team reportedly doesn't believe it's a torn ACL; Monday's imaging will tell. With Davante Adams already on IR, the Rams could shop for a receiver before Tuesday's deadline.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/puka-nacua-injury-rams-wr-undergo-mri-knee-injury-on-final-snap/"
+        },
+        {
+          "headline": "Bengals beat Falcons 34-17 in Madrid",
+          "summary": "Joe Burrow led four first-half scoring drives and Ja'Marr Chase had 10 catches for 155 yards and a touchdown. Cincinnati has scored 30-plus in four straight wins, a franchise first. The 6-2 Bengals are tied with Pittsburgh atop the AFC North.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-9-what-we-learned-from-sunday-s-games"
+        },
+        {
+          "headline": "Colts tell Daniel Jones he isn't being traded",
+          "summary": "Per NFL Network's Tom Pelissero, Indianapolis told Jones on Saturday he'll stay put. Minnesota had been linked to him after Kyler Murray was ruled out with a hamstring injury; Carson Wentz starts for the Vikings Monday night. The deadline is Tuesday at 4 p.m. ET.",
+          "source": "Yahoo Sports (Heavy)",
+          "url": "https://sports.yahoo.com/articles/vikings-final-answer-potential-daniel-035219292.html"
+        },
+        {
+          "headline": "Giants win in Philadelphia; Eagles lose seventh straight",
+          "summary": "New York beat Philadelphia 19-11 to move to 5-2-1, ending a 13-game losing streak in Philadelphia. The Eagles have lost seven in a row and are on their third quarterback with Jalen Hurts out for the season.",
+          "source": "ESPN (via ABC7)",
+          "url": "https://abc7news.com/post/nfl-week-9-big-takeaways-questions-fantasy-spin-sundays-games/20024817/"
+        }
+      ],
+      "scoresLabel": "Week 9",
+      "scores": [
+        {
+          "away": "Jaguars",
+          "awayScore": 33,
+          "home": "Ravens",
+          "homeScore": 10,
+          "note": ""
+        },
+        {
+          "away": "Bengals",
+          "awayScore": 34,
+          "home": "Falcons",
+          "homeScore": 17,
+          "note": ""
+        },
+        {
+          "away": "Browns",
+          "awayScore": 22,
+          "home": "Saints",
+          "homeScore": 23,
+          "note": "OT"
+        },
+        {
+          "away": "Cowboys",
+          "awayScore": 27,
+          "home": "Colts",
+          "homeScore": 23,
+          "note": "Close"
+        },
+        {
+          "away": "Broncos",
+          "awayScore": 26,
+          "home": "Panthers",
+          "homeScore": 21,
+          "note": "Close"
+        },
+        {
+          "away": "Lions",
+          "awayScore": 19,
+          "home": "Dolphins",
+          "homeScore": 9,
+          "note": ""
+        },
+        {
+          "away": "Rams",
+          "awayScore": 20,
+          "home": "Commanders",
+          "homeScore": 13,
+          "note": "Close"
+        },
+        {
+          "away": "Giants",
+          "awayScore": 19,
+          "home": "Eagles",
+          "homeScore": 11,
+          "note": "Close"
+        },
+        {
+          "away": "Jets",
+          "awayScore": 12,
+          "home": "Chiefs",
+          "homeScore": 35,
+          "note": ""
+        },
+        {
+          "away": "Texans",
+          "awayScore": 44,
+          "home": "Chargers",
+          "homeScore": 22,
+          "note": ""
+        },
+        {
+          "away": "Packers",
+          "awayScore": 45,
+          "home": "Patriots",
+          "homeScore": 27,
+          "note": "Upset"
+        },
+        {
+          "away": "Raiders",
+          "awayScore": 17,
+          "home": "49ers",
+          "homeScore": 38,
+          "note": ""
+        },
+        {
+          "away": "Cardinals",
+          "awayScore": 3,
+          "home": "Seahawks",
+          "homeScore": 17,
+          "note": ""
+        },
+        {
+          "away": "Buccaneers",
+          "awayScore": 24,
+          "home": "Bears",
+          "homeScore": 27,
+          "note": "Close"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "C.J. Stroud",
+          "team": "Texans",
+          "line": "21-35 · 384 YDS · 5 TD · 1 INT",
+          "note": "Tied his career high with five TD passes in a 44-22 win over the Chargers."
+        },
+        {
+          "name": "Jordan Love",
+          "team": "Packers",
+          "line": "23-29 · 372 YDS · 3 TD · 0 INT",
+          "note": "Also ran for a score as Green Bay won 45-27 as a 3.5-point underdog."
+        },
+        {
+          "name": "CeeDee Lamb",
+          "team": "Cowboys",
+          "line": "10-195-1",
+          "note": "Targeted 16 times in a 27-23 win at Indianapolis."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Rams activate DE Myles Garrett from IR, place CB Jaylen Watson on IR (Nov. 7)",
+          "url": "https://www.profootballrumors.com/2026/11/rams-expected-to-activate-de-myles-garrett-from-ir"
+        },
+        {
+          "text": "49ers place WR Christian Kirk on IR (Nov. 7)",
+          "url": "https://www.profootballrumors.com/2026/11/49ers-lose-wr-christian-kirk-to-ir-activate-wr-demarcus-robinson"
+        },
+        {
+          "text": "Falcons place RB Brian Robinson Jr. on IR, sign RB Khalil Herbert to the 53-man roster (Nov. 7)",
+          "url": "https://www.profootballrumors.com/2026/11/falcons-activate-two-from-ir-return-olb-james-pearce-from-suspension"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Reaves drops 43 in Detroit; Sixers 9-2; Clippers snap seven-game skid; Thunder add Nique Clifford",
+      "stories": [
+        {
+          "headline": "Reaves scores 43 as Lakers win in Detroit without Doncic",
+          "summary": "Austin Reaves scored 43, going 11 of 11 from the line, in a 121-116 win over the Pistons. Luka Doncic sat with lower-back tightness. Detroit has dropped two straight after a 6-1 start.",
+          "source": "AP (via ABC News)",
+          "url": "https://abcnews.com/Sports/wireStory/lakers-43-austin-reaves-beat-pistons-luka-doncic-137963108"
+        },
+        {
+          "headline": "Thunder trade for Nique Clifford, waive Dalen Terry",
+          "summary": "Sacramento sent the second-year guard to Oklahoma City for two second-round picks; he had fallen out of the Kings' rotation. The Thunder waived Terry to make room while Jalen Williams, Cason Wallace and Chet Holmgren are out.",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/news/kings-trade-nique-clifford-thunder"
+        },
+        {
+          "headline": "76ers move to 9-2, best 11-game start since 2000-01",
+          "summary": "Philadelphia won 127-121 in Chicago behind Jaylen Brown's 29, Tyrese Maxey's 27 and a season-high 22 from LeBron James. The Sixers lead the East. The Bulls have lost seven straight.",
+          "source": "IBTimes Australia",
+          "url": "https://ibtimes.com.au/lebron-james-76ers-defeat-bulls-127-121-1878187"
+        },
+        {
+          "headline": "Clippers end seven-game skid",
+          "summary": "The Clippers beat New Orleans 139-123 for their first win since opening night, with Darius Garland posting 24 points and 10 assists. Brandon Ingram (heel) is close to his Clippers debut.",
+          "source": "AP (via ABC News)",
+          "url": "https://abcnews.com/Sports/wireStory/clippers-beat-pelicans-end-7-game-losing-streak-137965380"
+        },
+        {
+          "headline": "Timberwolves win fourth straight; Jazz drop eighth in a row",
+          "summary": "Minnesota beat Utah 115-100 to reach 8-3, with Ayo Dosunmu scoring 26 while Anthony Edwards recovers from knee surgery. Utah, without Lauri Markkanen (wrist), is 1-9 and lost Keyonte George to a sprained ankle.",
+          "source": "ESPN (AP)",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909947"
+        }
+      ],
+      "scores": [
+        {
+          "away": "76ers",
+          "awayScore": 127,
+          "home": "Bulls",
+          "homeScore": 121,
+          "note": ""
+        },
+        {
+          "away": "Lakers",
+          "awayScore": 121,
+          "home": "Pistons",
+          "homeScore": 116,
+          "note": "Upset"
+        },
+        {
+          "away": "Jazz",
+          "awayScore": 100,
+          "home": "Timberwolves",
+          "homeScore": 115,
+          "note": ""
+        },
+        {
+          "away": "Nets",
+          "awayScore": 93,
+          "home": "Mavericks",
+          "homeScore": 130,
+          "note": ""
+        },
+        {
+          "away": "Celtics",
+          "awayScore": 117,
+          "home": "Bucks",
+          "homeScore": 97,
+          "note": ""
+        },
+        {
+          "away": "Heat",
+          "awayScore": 114,
+          "home": "Kings",
+          "homeScore": 108,
+          "note": ""
+        },
+        {
+          "away": "Pelicans",
+          "awayScore": 123,
+          "home": "Clippers",
+          "homeScore": 139,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Giannis Antetokounmpo",
+          "team": "Heat",
+          "line": "29 PTS · 14 REB · 3 AST",
+          "note": "Shot 14 of 23 in a 114-108 win in Sacramento."
+        },
+        {
+          "name": "Cooper Flagg",
+          "team": "Mavericks",
+          "line": "25 PTS · 5 REB · 12 AST",
+          "note": "Career-high 12 assists in a 130-93 rout of Brooklyn."
+        },
+        {
+          "name": "Josh Giddey",
+          "team": "Bulls",
+          "line": "19 PTS · 7 REB · 15 AST",
+          "note": "Came in a 127-121 loss to Philadelphia."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Kings trade G Nique Clifford to the Thunder for two second-round picks (Nov. 8)",
+          "url": "https://www.nba.com/news/kings-trade-nique-clifford-thunder"
+        },
+        {
+          "text": "Thunder waive F Dalen Terry (Nov. 8)",
+          "url": "https://www.espn.com/nba/transactions"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Scheifele wins it with 1.6 seconds left; Gauthier's third hat trick in five games; Hellebuyck blanks Toronto",
+      "stories": [
+        {
+          "headline": "Scheifele scores with 1.6 seconds left as Jets edge Lightning",
+          "summary": "Mark Scheifele scored on a 5-on-3 at 59:58 of the third for a 4-3 win after Tampa Bay erased a 3-0 deficit. NHL.com says it's the league's latest regulation winner since Feb. 14, 2023. Brayden Point left in the first period with an injury.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/tampa-bay-lightning-winnipeg-jets-game-recap-november-8-2026"
+        },
+        {
+          "headline": "Gauthier scores third hat trick in five games",
+          "summary": "Cutter Gauthier had three goals and an assist in Anaheim's 5-2 win over Pittsburgh. NHL.com says he's the first player with three hat tricks in the first 10 days of a calendar month. The Ducks have won five straight.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/pittsburgh-penguins-anaheim-ducks-game-recap-november-8-2026"
+        },
+        {
+          "headline": "Hellebuyck blanks Leafs as Devils win fifth straight",
+          "summary": "Connor Hellebuyck made 23 saves in a 4-0 win in Toronto, his first shutout with New Jersey. Per NHL.com, he's the first goalie to win his first five starts as a Devil. Timo Meier scored twice and Nico Hischier reached 500 career points.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/new-jersey-devils-toronto-maple-leafs-game-recap-november-8-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Panthers",
+          "awayScore": 1,
+          "home": "Bruins",
+          "homeScore": 4,
+          "note": ""
+        },
+        {
+          "away": "Golden Knights",
+          "awayScore": 4,
+          "home": "Sabres",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Lightning",
+          "awayScore": 3,
+          "home": "Jets",
+          "homeScore": 4,
+          "note": "Close"
+        },
+        {
+          "away": "Flyers",
+          "awayScore": 3,
+          "home": "Flames",
+          "homeScore": 4,
+          "note": "OT"
+        },
+        {
+          "away": "Devils",
+          "awayScore": 4,
+          "home": "Maple Leafs",
+          "homeScore": 0,
+          "note": ""
+        },
+        {
+          "away": "Penguins",
+          "awayScore": 2,
+          "home": "Ducks",
+          "homeScore": 5,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Cutter Gauthier",
+          "team": "Ducks",
+          "line": "3 G · 1 A",
+          "note": "His goal streak is at six games, with 13 goals in that span."
+        },
+        {
+          "name": "Connor Hellebuyck",
+          "team": "Devils",
+          "line": "23 SV · 1.000 SV%",
+          "note": "First shutout with New Jersey, which has won five straight."
+        },
+        {
+          "name": "Jeremy Swayman",
+          "team": "Bruins",
+          "line": "40 SV · .976 SV%",
+          "note": "Stopped 40 of 41 in a 4-1 win over Florida."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Blackhawks waive G Arvid Soderblom, recall G Drew Commesso (Nov. 8)",
+          "url": "https://www.dailyfaceoff.com/news/two-nhl-players-placed-waivers-november-8-arvid-soderblom-chicago-blackhawks-remi-poirier-washington-capitals"
+        },
+        {
+          "text": "Capitals waive G Remi Poirier (Nov. 8)",
+          "url": "https://www.dailyfaceoff.com/news/two-nhl-players-placed-waivers-november-8-arvid-soderblom-chicago-blackhawks-remi-poirier-washington-capitals"
+        },
+        {
+          "text": "Flames place D Kevin Bahl (Achilles surgery) on IR, recall D Brayden Pachal (Nov. 8)",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Senators activate G Linus Ullmark off IR, assign G Jonas Johansson to Belleville (Nov. 8)",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Lightning activate C Yanni Gourde off IR (Nov. 8)",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Maple Leafs recall F Vinni Lettieri and D Cole McWard, assign G Artur Akhtyamov to the Marlies (Nov. 8)",
+          "url": "https://www.espn.com/nhl/transactions"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Awards week opens with Rookie of the Year; qualifying offer decisions due Nov. 17",
+      "stories": [
+        {
+          "headline": "BBWAA awards week opens with Rookie of the Year",
+          "summary": "Rookie of the Year is announced Monday, followed by Manager of the Year Tuesday, Cy Young Wednesday and MVP Thursday. AL finalists: Kevin McGonigle (Tigers), Parker Messick (Guardians), Payton Tolle (Red Sox). NL finalists: Carson Benge (Mets), Sal Stewart (Reds), JJ Wetherholt (Cardinals).",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/2026-bbwaa-awards-finalists"
+        }
+      ],
+      "moves": [
+        {
+          "text": "INF Eric Wagaman elects free agency after being outrighted by the Mets (Nov. 8)",
+          "url": "https://www.mlbtraderumors.com/2026/11/eric-wagaman-elects-free-agency.html"
+        }
+      ]
+    }
+  ]
+}

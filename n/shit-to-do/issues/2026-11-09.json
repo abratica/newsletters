@@ -1,496 +1,7 @@
 {
-  "date": "2026-11-08",
-  "weekendNote": "Last day of the weekend",
+  "date": "2026-11-09",
+  "weekendNote": "Friday the 13th weekend",
   "events": [
-    {
-      "id": "2026-11-08-handmade-for-the-holidays-gore-place",
-      "name": "Handmade for the Holidays at Gore Place",
-      "date": "2026-11-08",
-      "time": "10 AM",
-      "startTime": "10:00",
-      "venue": "Gore Place, 52 Gore St",
-      "area": "Waltham",
-      "price": "Free",
-      "free": true,
-      "note": "Rain or shine. No dogs except service animals.",
-      "tags": [
-        "market",
-        "outdoors"
-      ],
-      "why": "A holiday market with 60 artisan vendors on the grounds of a 19th-century estate, where you can also see heritage-breed sheep.",
-      "url": "https://goreplace.org/whats-on/handmade-for-the-holidays",
-      "linkLabel": "Info",
-      "added": "2026-11-08"
-    },
-    {
-      "id": "2026-11-08-newbery-street-coffee-popup",
-      "name": "Newbery Street Coffee pop-up at merai.bar",
-      "date": "2026-11-08",
-      "time": "10 AM–1 PM",
-      "startTime": "10:00",
-      "endTime": "13:00",
-      "venue": "merai.bar",
-      "area": "Brookline",
-      "note": "Saturdays and Sundays through November.",
-      "tags": [
-        "food"
-      ],
-      "why": "A weekend pop-up café serving N-Pan salt bread, Thai-style rice porridge, pour-over coffee, matcha and Thai tea.",
-      "url": "https://ma.to/event/newbery-street-coffee-pop-up-08-nov-2026",
-      "linkLabel": "Info",
-      "added": "2026-11-08"
-    },
-    {
-      "name": "Harboring Creativity: East Boston Artists Group show & sale",
-      "date": "2026-11-08",
-      "endDate": "2026-11-08",
-      "time": "11 AM–4 PM",
-      "startTime": "11:00",
-      "endTime": "16:00",
-      "venue": "ICA Watershed, 256 Marginal St",
-      "area": "East Boston",
-      "free": true,
-      "tags": [
-        "market"
-      ],
-      "why": "Annual show and sale with 20+ local artists at the Watershed; listed free by the Globe.",
-      "url": "http://eastbostonartistsgroup.com",
-      "linkLabel": "Info",
-      "id": "2026-11-07-harboring-creativity-east-boston-artists",
-      "added": "2026-11-02"
-    },
-    {
-      "name": "The Brighton Bazaar: Fall Season Finale",
-      "date": "2026-11-08",
-      "endDate": "2026-11-08",
-      "time": "11 AM–5 PM",
-      "startTime": "11:00",
-      "endTime": "17:00",
-      "venue": "Brighton Elks Lodge, 326 Washington St",
-      "area": "Brighton",
-      "price": "Free",
-      "free": true,
-      "note": "Rain or shine",
-      "tags": [
-        "market"
-      ],
-      "why": "120+ vendors selling art, vinyl, vintage and handmade goods, with a vinyl DJ.",
-      "url": "https://www.thebostoncalendar.com/events/the-brighton-bazaar-fall-season-finale",
-      "linkLabel": "Info",
-      "id": "2026-11-07-brighton-bazaar-fall-finale",
-      "added": "2026-11-01"
-    },
-    {
-      "id": "2026-11-07-fenway-studios-open-studios",
-      "name": "Fenway Studios Open Studios",
-      "date": "2026-11-08",
-      "endDate": "2026-11-08",
-      "time": "11 AM–5 PM",
-      "startTime": "11:00",
-      "endTime": "17:00",
-      "venue": "Fenway Studios, 30 Ipswich St",
-      "area": "Boston",
-      "free": true,
-      "tags": [],
-      "why": "Free annual open studios: more than 25 artists open their studios in a 1905 National Historic Landmark building. There's also a food drive for The Home for Little Wanderers.",
-      "url": "https://www.friendsoffenwaystudios.org/",
-      "linkLabel": "Info",
-      "added": "2026-11-07"
-    },
-    {
-      "id": "2026-11-08-sowa-open-market",
-      "name": "SoWa Open Market",
-      "date": "2026-11-08",
-      "time": "11 AM–5 PM",
-      "startTime": "11:00",
-      "endTime": "17:00",
-      "venue": "500 Harrison Ave",
-      "area": "Boston (South End)",
-      "free": true,
-      "note": "Sundays through Nov 15 (season ends)",
-      "tags": [
-        "market",
-        "food",
-        "outdoors"
-      ],
-      "why": "Outdoor artist and farmer market with food trucks on pedestrian-only Thayer Street. Only two Sundays are left in the season.",
-      "url": "https://www.thebostoncalendar.com/events/sowa-open-market--293",
-      "linkLabel": "Info",
-      "added": "2026-11-07",
-      "pick": true
-    },
-    {
-      "id": "2026-11-08-memorial-drive-final-open-sunday",
-      "name": "Last car-free Memorial Drive Sunday of 2026",
-      "date": "2026-11-08",
-      "time": "11 AM–7 PM",
-      "startTime": "11:00",
-      "endTime": "19:00",
-      "venue": "Memorial Drive, Western Ave to JFK St (Riverbend Park)",
-      "area": "Cambridge",
-      "price": "Free",
-      "free": true,
-      "note": "Weather permitting. The Gerrys Landing–JFK St section is closed for construction this year.",
-      "tags": [
-        "outdoors"
-      ],
-      "why": "DCR closes this stretch of Memorial Drive to cars on Sundays so people can walk and bike by the river. The Boston Calendar lists today as the final open day of the season. A free riverside walk before it closes to people for the winter.",
-      "url": "https://www.thebostoncalendar.com/events/memorial-drive-recreation-sundays-2026--29",
-      "linkLabel": "Info",
-      "added": "2026-11-08",
-      "pick": true
-    },
-    {
-      "id": "2026-11-06-antiquarian-book-fair",
-      "name": "Boston International Antiquarian Book Fair",
-      "date": "2026-11-08",
-      "endDate": "2026-11-08",
-      "time": "12–7 PM",
-      "startTime": "12:00",
-      "endTime": "19:00",
-      "venue": "Hynes Convention Center",
-      "area": "Back Bay",
-      "price": "$10–$25",
-      "note": "Sun 11 AM–4 PM",
-      "tags": [
-        "market"
-      ],
-      "why": "Rare books, maps and ephemera; a good browse even without buying.",
-      "url": "https://www.finebooksmagazine.com/news/boston-international-antiquarian-book-fair-2026-details",
-      "linkLabel": "Info",
-      "added": "2026-10-29"
-    },
-    {
-      "id": "2026-11-07-waltham-open-studios",
-      "name": "Waltham Open Studios (50th annual)",
-      "date": "2026-11-08",
-      "endDate": "2026-11-08",
-      "time": "12–5 PM",
-      "startTime": "12:00",
-      "endTime": "17:00",
-      "venue": "Waltham Mills & Lincoln Studios, 144 and 289 Moody St",
-      "area": "Waltham",
-      "free": true,
-      "tags": [],
-      "why": "The 50th year of Waltham's open studios. Dozens of artists open their studios on Moody Street, with demos, performances and work for sale. Moody Street's restaurants are right there.",
-      "url": "https://www.walthamopenstudios.org/",
-      "linkLabel": "Info",
-      "added": "2026-11-07"
-    },
-    {
-      "name": "Silents, Please! Grass (live score)",
-      "date": "2026-11-08",
-      "time": "2 PM",
-      "startTime": "14:00",
-      "venue": "Somerville Theatre",
-      "area": "Somerville",
-      "tags": [
-        "somerville",
-        "film",
-        "music"
-      ],
-      "why": "1924 migration epic by the King Kong team, with Jeff Rapsis improvising a live score.",
-      "url": "https://www.somervilletheatre.com/production/silents-please-grass-a-nations-battle-for-life/",
-      "linkLabel": "Tickets",
-      "id": "2026-11-08-silents-please-grass-live-score",
-      "added": "2026-11-02",
-      "pick": true
-    },
-    {
-      "name": "Boston Conservatory Wind Ensemble: America at 250",
-      "date": "2026-11-08",
-      "time": "3 PM",
-      "startTime": "15:00",
-      "venue": "Samuel Adams Park at Faneuil Hall",
-      "area": "Boston",
-      "free": true,
-      "tags": [
-        "music",
-        "outdoors"
-      ],
-      "why": "Free outdoor concert of works by four American composers.",
-      "url": "https://berklee.edu/events/boston-conservatory-wind-ensemble-america-at-250",
-      "linkLabel": "Info",
-      "id": "2026-11-08-boston-conservatory-wind-ensemble-americ",
-      "added": "2026-11-04"
-    },
-    {
-      "id": "2026-11-08-hfa-noir-dark-passage-the-lineup",
-      "name": "Noir on 35mm at HFA: Dark Passage + The Lineup",
-      "date": "2026-11-08",
-      "time": "3 PM & 7 PM",
-      "startTime": "15:00",
-      "venue": "Harvard Film Archive",
-      "area": "Cambridge",
-      "note": "Dark Passage (1947) at 3 PM, The Lineup (1958) at 7 PM. Both on 35mm.",
-      "tags": [
-        "film"
-      ],
-      "why": "Two 35mm noir thrillers on the same day: Bogart and Bacall in Dark Passage, then Don Siegel's San Francisco crime film The Lineup.",
-      "url": "https://bostonfilmhub.com/",
-      "linkLabel": "Info",
-      "added": "2026-11-08"
-    },
-    {
-      "name": "Somerville Art Fair Auction",
-      "date": "2026-11-08",
-      "time": "4–6 PM",
-      "startTime": "16:00",
-      "endTime": "18:00",
-      "venue": "Upstairs at Bow, Bow Market",
-      "area": "Somerville",
-      "note": "Ticketed; silent bidding from 5:30 PM",
-      "tags": [
-        "somerville",
-        "market"
-      ],
-      "why": "Silent auction of original works by 2026 Somerville Art Fair artists; proceeds go to the artists.",
-      "url": "https://www.eventbrite.com/e/1986925499656/",
-      "linkLabel": "Tickets",
-      "id": "2026-11-08-somerville-art-fair-auction",
-      "added": "2026-11-01"
-    },
-    {
-      "id": "2026-11-08-love-cycle-film-premiere",
-      "name": "Love Cycle film premiere + Q&A (Zoë Knight & Mythical Beasts)",
-      "date": "2026-11-08",
-      "time": "4:30 PM",
-      "startTime": "16:30",
-      "endTime": "18:30",
-      "venue": "Museum of Modern Renaissance, 115 College Ave",
-      "area": "Somerville",
-      "price": "$35 ($20 students)",
-      "note": "Doors 4:30, film 5:00, Q&A 5:30. No refunds.",
-      "tags": [
-        "somerville",
-        "film",
-        "music"
-      ],
-      "why": "Premiere of a 22-minute 'art rock odyssey' film made of five music videos, shot mostly inside this Davis Square museum, followed by a Q&A with the band and the co-director.",
-      "url": "https://www.eventbrite.com/e/2000233348791/",
-      "linkLabel": "Tickets",
-      "added": "2026-11-08"
-    },
-    {
-      "id": "2026-11-08-begotten-brattle",
-      "name": "Begotten (1991), new 4K restoration",
-      "date": "2026-11-08",
-      "time": "4:30 PM",
-      "startTime": "16:30",
-      "venue": "Brattle Theatre",
-      "area": "Cambridge",
-      "tags": [
-        "film"
-      ],
-      "why": "E. Elias Merhige's experimental black-and-white horror film, showing in the Brattle's New Restorations program.",
-      "url": "https://bostonfilmhub.com/",
-      "linkLabel": "Info",
-      "added": "2026-11-08"
-    },
-    {
-      "name": "Pie & Wine Pairings at Marzae",
-      "date": "2026-11-08",
-      "time": "5–9 PM",
-      "startTime": "17:00",
-      "endTime": "21:00",
-      "venue": "Marzae, Boston Public Market",
-      "area": "Downtown",
-      "price": "$45",
-      "note": "Drop in any time; after 6 PM enter at Congress & Sudbury",
-      "tags": [
-        "food"
-      ],
-      "why": "Pick 4 mini slices of sweet or savory pie and get a matching flight of Marzae's natural wines.",
-      "url": "https://www.eventbrite.com/e/2003570559478",
-      "linkLabel": "Tickets",
-      "id": "2026-11-08-pie-wine-pairings-at-marzae",
-      "added": "2026-11-03"
-    },
-    {
-      "id": "2026-11-06-hfa-san-francisco-thrillers",
-      "name": "HFA: A Weekend in San Francisco",
-      "date": "2026-11-08",
-      "endDate": "2026-11-09",
-      "time": "7 PM",
-      "startTime": "19:00",
-      "venue": "Harvard Film Archive",
-      "area": "Cambridge",
-      "note": "Bullitt, The Conversation, Invasion of the Body Snatchers (Sat 11:30 PM), Vertigo (Mon)",
-      "tags": [
-        "film"
-      ],
-      "why": "Four days of San Francisco thrillers and noirs.",
-      "url": "https://harvardfilmarchive.org/",
-      "linkLabel": "Info",
-      "added": "2026-10-29"
-    },
-    {
-      "id": "2026-11-08-diles-que-no-me-maten-rockwell",
-      "name": "Diles que no me maten",
-      "date": "2026-11-08",
-      "time": "8 PM",
-      "startTime": "20:00",
-      "venue": "The Rockwell, 255 Elm St",
-      "area": "Somerville",
-      "price": "$23.83",
-      "note": "With Noah Britton",
-      "tags": [
-        "somerville",
-        "music"
-      ],
-      "why": "A Sunday-night show in Davis Square, with Noah Britton opening.",
-      "url": "https://wl.eventim.us/event/diles-que-no-me-maten/687461",
-      "linkLabel": "Tickets",
-      "added": "2026-11-07"
-    },
-    {
-      "id": "2026-11-08-the-devils-coolidge",
-      "name": "The Devils (1971)",
-      "date": "2026-11-08",
-      "time": "9:30 PM",
-      "startTime": "21:30",
-      "venue": "Coolidge Corner Theatre",
-      "area": "Brookline",
-      "note": "Also Mon Nov 9 at 10:10 PM.",
-      "tags": [
-        "film"
-      ],
-      "why": "Ken Russell's notorious religious-hysteria horror drama on the big screen at the Coolidge.",
-      "url": "https://bostonfilmhub.com/",
-      "linkLabel": "Info",
-      "added": "2026-11-08"
-    },
-    {
-      "id": "2026-11-08-boston-lights",
-      "name": "Boston Lights: A Lantern Experience",
-      "date": "2026-11-08",
-      "endDate": "2026-11-08",
-      "venue": "Franklin Park Zoo",
-      "area": "Roxbury",
-      "price": "$21.95",
-      "why": "Lantern walk through the zoo after dark. A good date night before it closes Nov 8.",
-      "url": "https://www.bostonmagazine.com/things-to-do/weekend/",
-      "linkLabel": "Info",
-      "note": "Runs through Nov 8"
-    },
-    {
-      "name": "Fleurs de Villes WONDER",
-      "date": "2026-11-08",
-      "endDate": "2026-11-08",
-      "venue": "Prudential Center, 800 Boylston St",
-      "area": "Back Bay",
-      "free": true,
-      "tags": [],
-      "why": "Free exhibit of fresh-flower mannequins by local floral artists, themed around natural wonders.",
-      "url": "https://www.boston.com/things-to-do/events/free-floral-art-exhibit-returning-to-prudential-center-this-november/",
-      "linkLabel": "Info",
-      "id": "2026-11-04-fleurs-de-villes-wonder",
-      "added": "2026-11-02"
-    },
-    {
-      "name": "Finding Bright Film Festival",
-      "date": "2026-11-08",
-      "endDate": "2026-11-08",
-      "venue": "Capitol Theatre",
-      "area": "Arlington",
-      "tags": [
-        "film"
-      ],
-      "why": "The renamed Arlington International Film Festival, with Fantastique and Matapanki in the lineup plus a 'witch hunt' and monster sketching during live readings.",
-      "url": "https://www.capitoltheatreusa.com/finding-bright-film-festival/",
-      "linkLabel": "Info",
-      "id": "2026-11-05-finding-bright-film-festival",
-      "added": "2026-11-01"
-    },
-    {
-      "name": "Swimming with Sharks (closing)",
-      "date": "2026-11-08",
-      "endDate": "2026-11-08",
-      "venue": "Harvard Museum of Natural History",
-      "area": "Cambridge",
-      "note": "Closes Nov 8",
-      "why": "Exhibition on shark biology and behavior, closing Sunday.",
-      "url": "https://www.musa.guide/en/discover/boston/exhibitions/harvard-museum-of-natural-history/swimming-with-sharks",
-      "linkLabel": "Info",
-      "id": "2026-11-05-swimming-with-sharks-closing",
-      "added": "2026-11-05"
-    },
-    {
-      "name": "Freezing Time: Edgerton (closing)",
-      "date": "2026-11-08",
-      "endDate": "2026-11-29",
-      "venue": "MIT Museum",
-      "area": "Cambridge",
-      "note": "Closes Nov 29",
-      "why": "Harold 'Doc' Edgerton's high-speed photography; closes Nov 29.",
-      "url": "https://www.musa.guide/en/discover/boston/exhibitions/mit-museum/freezing-time-edgerton",
-      "linkLabel": "Info",
-      "id": "2026-11-05-freezing-time-edgerton-closing",
-      "added": "2026-11-05"
-    },
-    {
-      "name": "Location Location Location: 80s NYC",
-      "date": "2026-11-08",
-      "endDate": "2026-11-10",
-      "venue": "Brattle Theatre",
-      "area": "Cambridge",
-      "note": "After Hours Nov 6–7; Brother from Another Planet (35mm) Nov 8–9; Permanent Vacation + Variety Tue Nov 10",
-      "tags": [
-        "film"
-      ],
-      "why": "Short repertory run of 1980s New York films led by Scorsese's dark comedy After Hours.",
-      "url": "https://brattlefilm.org/film-series/location-location-location-80s-nyc/",
-      "linkLabel": "Info",
-      "id": "2026-11-06-location-location-location-80s-nyc",
-      "added": "2026-10-31"
-    },
-    {
-      "id": "2026-11-06-snowport",
-      "name": "Snowport Holiday Market",
-      "date": "2026-11-08",
-      "endDate": "2026-12-27",
-      "venue": "Snowport, 100 Seaport Blvd",
-      "area": "Seaport",
-      "free": true,
-      "note": "Fri 11 AM–9 PM, Sat 10 AM–9 PM, Sun 10 AM–8 PM, Mon–Thu 3–8 PM",
-      "tags": [
-        "market",
-        "food"
-      ],
-      "why": "The big Seaport holiday market opens Nov 6; general admission is free.",
-      "url": "https://www.boston25news.com/news/local/snowport-holiday-market-returning-boston-seaport-2026-holiday-season/VOOAPT3EP5FXRI4SVYFRFDNRO4/",
-      "linkLabel": "Info",
-      "added": "2026-10-29"
-    },
-    {
-      "name": "Boston Harvest Marketplace & Creator Fest",
-      "date": "2026-11-08",
-      "endDate": "2026-11-08",
-      "venue": "Franklin Park",
-      "area": "Boston",
-      "tags": [
-        "market",
-        "outdoors"
-      ],
-      "why": "Three-day local makers' market this weekend.",
-      "url": "https://www.eventbrite.com/e/boston-harvest-marketplace-creator-fest-tickets-1999385396543",
-      "linkLabel": "Info",
-      "id": "2026-11-06-boston-harvest-marketplace-creator-fest",
-      "added": "2026-11-06"
-    },
-    {
-      "name": "Time & Times Again: An Interactive Installation",
-      "date": "2026-11-08",
-      "endDate": "2026-11-08",
-      "venue": "The Dance Complex, 536 Mass. Ave",
-      "area": "Cambridge",
-      "price": "$7.18–$23.18",
-      "why": "Two-day interactive installation in Central Square, from Boston Magazine's weekend picks.",
-      "url": "https://www.eventbrite.com/e/time-times-again-an-interactive-installation-tickets-2002836772702",
-      "linkLabel": "Tickets",
-      "id": "2026-11-07-time-times-again-an-interactive-installa",
-      "added": "2026-11-06"
-    },
     {
       "name": "Double Indemnity craft-along screening",
       "date": "2026-11-09",
@@ -508,6 +19,24 @@
       "linkLabel": "Tickets",
       "id": "2026-11-09-double-indemnity-craft-along",
       "added": "2026-11-01"
+    },
+    {
+      "id": "2026-11-06-hfa-san-francisco-thrillers",
+      "name": "HFA: A Weekend in San Francisco",
+      "date": "2026-11-09",
+      "endDate": "2026-11-09",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "Harvard Film Archive",
+      "area": "Cambridge",
+      "note": "Bullitt, The Conversation, Invasion of the Body Snatchers (Sat 11:30 PM), Vertigo (Mon)",
+      "tags": [
+        "film"
+      ],
+      "why": "Four days of San Francisco thrillers and noirs.",
+      "url": "https://harvardfilmarchive.org/",
+      "linkLabel": "Info",
+      "added": "2026-10-29"
     },
     {
       "name": "The Blues Brothers in 35mm",
@@ -541,6 +70,70 @@
       "linkLabel": "Tickets",
       "id": "2026-11-09-hiss-golden-messenger",
       "added": "2026-11-06"
+    },
+    {
+      "id": "2026-11-09-the-devils-35mm-coolidge",
+      "name": "The Devils (1971), director's cut in 35mm",
+      "date": "2026-11-09",
+      "time": "10:10 PM",
+      "startTime": "22:10",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "note": "Tonight. Newly struck 35mm print of the 4K restoration.",
+      "tags": [
+        "film"
+      ],
+      "why": "Ken Russell's film about the Loudun possession trial, starring Oliver Reed and Vanessa Redgrave, with production design by Derek Jarman. It was originally rated X and censored in many countries.",
+      "url": "https://coolidge.org/films/devils-1971",
+      "linkLabel": "Tickets",
+      "added": "2026-11-09"
+    },
+    {
+      "name": "Freezing Time: Edgerton (closing)",
+      "date": "2026-11-09",
+      "endDate": "2026-11-29",
+      "venue": "MIT Museum",
+      "area": "Cambridge",
+      "note": "Closes Nov 29",
+      "why": "Harold 'Doc' Edgerton's high-speed photography; closes Nov 29.",
+      "url": "https://www.musa.guide/en/discover/boston/exhibitions/mit-museum/freezing-time-edgerton",
+      "linkLabel": "Info",
+      "id": "2026-11-05-freezing-time-edgerton-closing",
+      "added": "2026-11-05"
+    },
+    {
+      "name": "Location Location Location: 80s NYC",
+      "date": "2026-11-09",
+      "endDate": "2026-11-10",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "note": "After Hours Nov 6–7; Brother from Another Planet (35mm) Nov 8–9; Permanent Vacation + Variety Tue Nov 10",
+      "tags": [
+        "film"
+      ],
+      "why": "Short repertory run of 1980s New York films led by Scorsese's dark comedy After Hours.",
+      "url": "https://brattlefilm.org/film-series/location-location-location-80s-nyc/",
+      "linkLabel": "Info",
+      "id": "2026-11-06-location-location-location-80s-nyc",
+      "added": "2026-10-31"
+    },
+    {
+      "id": "2026-11-06-snowport",
+      "name": "Snowport Holiday Market",
+      "date": "2026-11-09",
+      "endDate": "2026-12-27",
+      "venue": "Snowport, 100 Seaport Blvd",
+      "area": "Seaport",
+      "free": true,
+      "note": "Fri 11 AM–9 PM, Sat 10 AM–9 PM, Sun 10 AM–8 PM, Mon–Thu 3–8 PM",
+      "tags": [
+        "market",
+        "food"
+      ],
+      "why": "The big Seaport holiday market opens Nov 6; general admission is free.",
+      "url": "https://www.boston25news.com/news/local/snowport-holiday-market-returning-boston-seaport-2026-holiday-season/VOOAPT3EP5FXRI4SVYFRFDNRO4/",
+      "linkLabel": "Info",
+      "added": "2026-10-29"
     },
     {
       "id": "2026-11-10-dumpling-fest-boston",
@@ -679,6 +272,77 @@
       "added": "2026-11-06"
     },
     {
+      "id": "2026-11-12-ica-free-thursday",
+      "name": "ICA Free Thursday Night",
+      "date": "2026-11-12",
+      "time": "5–9 PM",
+      "startTime": "17:00",
+      "endTime": "21:00",
+      "venue": "Institute of Contemporary Art",
+      "area": "Seaport",
+      "price": "Free",
+      "free": true,
+      "note": "Free reservations are released at 10 AM that day; last entry 8:30 PM.",
+      "tags": [],
+      "why": "The ICA is free for everyone on Thursday evenings, and advance reservations are strongly recommended.",
+      "url": "https://my.icaboston.org/8463/9249",
+      "linkLabel": "Info",
+      "added": "2026-11-09"
+    },
+    {
+      "id": "2026-11-12-holly-jolly-christmas-bar",
+      "name": "Holly Jolly Christmas Bar pop-up",
+      "date": "2026-11-12",
+      "endDate": "2026-11-27",
+      "time": "From 5 PM",
+      "startTime": "17:00",
+      "venue": "Johnnie's",
+      "area": "West End",
+      "note": "Ticketed 90-minute open-seating slots, welcome drink included; times vary.",
+      "tags": [
+        "food"
+      ],
+      "why": "A holiday pop-up bar with decorations, cocktails and entertainment. Each ticket includes 90 minutes of seating and a welcome drink, with a non-alcoholic option.",
+      "url": "https://bucketlisters.com/experience/holly-jolly-christmas-bar-boston",
+      "linkLabel": "Tickets",
+      "added": "2026-11-09"
+    },
+    {
+      "id": "2026-11-12-election-roslindale-film-society",
+      "name": "Roslindale Film Society: Election (1999)",
+      "date": "2026-11-12",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "The Square Root, 2 Corinth St",
+      "area": "Roslindale",
+      "price": "$7 advance / $10 door",
+      "note": "Doors 6:30 PM. Beer, wine and food for sale.",
+      "tags": [
+        "film"
+      ],
+      "why": "A community screening of Alexander Payne's dark comedy about a high school election, part of the Roslindale Showcase Series.",
+      "url": "https://do617.com/events/2026/11/12/roslindale-film-society-election-1999-tickets",
+      "linkLabel": "Info",
+      "added": "2026-11-09"
+    },
+    {
+      "id": "2026-11-12-sleep-sinclair",
+      "name": "Sleep",
+      "date": "2026-11-12",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "The Sinclair",
+      "area": "Cambridge",
+      "note": "Moved here from Roadrunner; tickets already bought are honored.",
+      "tags": [
+        "music"
+      ],
+      "why": "The stoner-doom band is on a fall North American tour with Al Cisneros, Dale Crover and Bubba Dupree in the lineup.",
+      "url": "https://www.axs.com/events/1494309/sleep-tickets",
+      "linkLabel": "Tickets",
+      "added": "2026-11-09"
+    },
+    {
       "name": "Big Ducking Bananagrams Tournament",
       "date": "2026-11-12",
       "venue": "Aeronaut Brewing, 14 Tyler St",
@@ -707,6 +371,25 @@
       "linkLabel": "Tickets",
       "id": "2026-11-12-in-bruges-cult-classics",
       "added": "2026-11-06"
+    },
+    {
+      "id": "2026-11-13-greek-cuisine-fall-fest",
+      "name": "Greek Cuisine Fall Fest",
+      "date": "2026-11-13",
+      "endDate": "2026-11-15",
+      "time": "Fri–Sat 11:30 AM–8 PM, Sun 12–6 PM",
+      "startTime": "11:30",
+      "venue": "Saint Athanasius the Great Greek Orthodox Church, 4 Appleton St",
+      "area": "Arlington",
+      "price": "Free admission",
+      "free": true,
+      "tags": [
+        "food"
+      ],
+      "why": "An indoor weekend Greek food festival in the church auditorium, serving classic dishes plus menu items only available there.",
+      "url": "https://www.thebostoncalendar.com/events/greek-cuisine-fall-fest-2026-our-autumn-indoor-food-event",
+      "linkLabel": "Info",
+      "added": "2026-11-09"
     },
     {
       "id": "2026-11-13-boston-art-book-fair",
@@ -823,7 +506,8 @@
       "url": "https://coolidge.org/films/rocky-horror-picture-show",
       "linkLabel": "Info",
       "id": "2026-11-13-rocky-horror-on-friday-the-13th",
-      "added": "2026-11-03"
+      "added": "2026-11-03",
+      "pick": true
     },
     {
       "id": "2026-11-13-celebration-of-cats-art",
@@ -839,6 +523,59 @@
       "url": "https://www.eventbrite.com/e/a-celebration-of-cats-art-exhibition-tickets-2002962941075",
       "linkLabel": "Info",
       "added": "2026-11-08"
+    },
+    {
+      "id": "2026-11-13-raise-the-red-lantern-4k",
+      "name": "Raise the Red Lantern (new 4K restoration)",
+      "date": "2026-11-13",
+      "endDate": "2026-11-22",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "note": "Runs Nov 13–19 and Nov 21–22; check the Brattle for daily showtimes.",
+      "tags": [
+        "film"
+      ],
+      "why": "A run of the new 4K restoration of Zhang Yimou's film, from the Brattle's Holidays 2026 calendar.",
+      "url": "https://brattlefilm.org/movies/raise-the-red-lantern/",
+      "linkLabel": "Tickets",
+      "added": "2026-11-09"
+    },
+    {
+      "id": "2026-11-14-somerville-winter-farmers-market",
+      "name": "Somerville Winter Farmers Market",
+      "date": "2026-11-14",
+      "time": "9:30 AM–1:30 PM",
+      "startTime": "09:30",
+      "endTime": "13:30",
+      "venue": "Arts at the Armory, 191 Highland Ave",
+      "area": "Somerville",
+      "note": "Every Saturday through Apr 17, 2027; closed Nov 28 and Dec 26.",
+      "tags": [
+        "somerville",
+        "market",
+        "food"
+      ],
+      "why": "A weekly winter market with 65+ local food vendors selling produce, cheese, meat, fish, bread, tamales, pastries and chocolate.",
+      "url": "https://do617.com/events/2026/11/14/somerville-winter-farmers-market-tickets",
+      "linkLabel": "Info",
+      "added": "2026-11-09"
+    },
+    {
+      "id": "2026-11-14-mfa-artisan-market",
+      "name": "MFA Artisan Market",
+      "date": "2026-11-14",
+      "time": "10 AM–5 PM",
+      "startTime": "10:00",
+      "endTime": "17:00",
+      "venue": "Museum of Fine Arts Boston",
+      "area": "Fenway",
+      "tags": [
+        "market"
+      ],
+      "why": "A holiday market of one-of-a-kind jewelry, ceramics, stationery, fashion and baked goods. Eric Jay Dolin and chef Joanne Chang hold book signings from 11 AM to 1 PM.",
+      "url": "https://do617.com/events/2026/11/14/artisan-market-tickets",
+      "linkLabel": "Info",
+      "added": "2026-11-09"
     },
     {
       "name": "Merry Makers Holiday Market",
@@ -937,7 +674,8 @@
       "url": "https://www.thebostoncalendar.com/events/lagers-leaves-a-fall-festival--2",
       "linkLabel": "Info",
       "id": "2026-11-14-lagers-leaves-a-fall-festival",
-      "added": "2026-10-31"
+      "added": "2026-10-31",
+      "pick": true
     },
     {
       "id": "2026-11-14-chairlift-charcuterie-championship",
@@ -958,6 +696,42 @@
       "url": "https://happeningnext.com/event/chairlift-charcuterie-championship-eid1ef0l8hx4baa",
       "linkLabel": "Tickets",
       "added": "2026-11-08"
+    },
+    {
+      "id": "2026-11-14-bottomless-dumplings-mei-mei",
+      "name": "Bottomless Dumplings: Anniversary Edition",
+      "date": "2026-11-14",
+      "time": "12 PM",
+      "startTime": "12:00",
+      "venue": "Mei Mei, 58 Old Colony Ave",
+      "area": "South Boston",
+      "tags": [
+        "food"
+      ],
+      "why": "An all-you-can-eat dumpling buffet with a toppings and sauce bar, marking the restaurant's 14th anniversary with throwback specials.",
+      "url": "https://www.eventbrite.com/e/bottomless-dumplings-tickets-1448081002259",
+      "linkLabel": "Tickets",
+      "note": "Timed two-hour entry slots; drinks extra.",
+      "added": "2026-11-09"
+    },
+    {
+      "id": "2026-11-14-style-exchange-community-market",
+      "name": "Style Exchange Community Market",
+      "date": "2026-11-14",
+      "time": "12–3 PM",
+      "startTime": "12:00",
+      "endTime": "15:00",
+      "venue": "Fort Point Room, 290 Congress St",
+      "area": "Fort Point",
+      "price": "Free",
+      "free": true,
+      "tags": [
+        "market"
+      ],
+      "why": "A secondhand clothing market with more than 40 racks of local finds.",
+      "url": "https://do617.com/events/2026/11/14/style-exchange-community-market-1793811098",
+      "linkLabel": "Info",
+      "added": "2026-11-09"
     },
     {
       "name": "Somerville Cat Tour x Tandem Vet",
@@ -999,6 +773,24 @@
       "added": "2026-11-08"
     },
     {
+      "id": "2026-11-14-orkest-rooted-armory-cafe",
+      "name": "Orkest at the ROOTED Armory Cafe",
+      "date": "2026-11-14",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "Arts at the Armory (ROOTED Armory Cafe)",
+      "area": "Somerville",
+      "note": "Space is limited.",
+      "tags": [
+        "somerville",
+        "music"
+      ],
+      "why": "A live performance in the Armory's cafe by Orkest, the Somerville new-music group.",
+      "url": "https://www.eventbrite.com/e/orkest-the-rooted-armory-cafe-tickets-2001674850361",
+      "linkLabel": "Tickets",
+      "added": "2026-11-09"
+    },
+    {
       "name": "Non-Event: Lautaro Mantilla + Kristina Warren",
       "date": "2026-11-14",
       "time": "7:30 PM",
@@ -1031,6 +823,24 @@
       "url": "https://www.somervilletheatre.com/events/",
       "linkLabel": "Tickets",
       "price": "$30"
+    },
+    {
+      "id": "2026-11-14-aaron-lee-tasjan-warehouse-xi",
+      "name": "Aaron Lee Tasjan",
+      "date": "2026-11-14",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "Warehouse XI, 11 Sanborn Ct",
+      "area": "Somerville",
+      "note": "All ages. Opener: Madeleine Kelson.",
+      "tags": [
+        "somerville",
+        "music"
+      ],
+      "why": "The Americana/alt-country songwriter plays Union Square in a Get To The Gig Boston show.",
+      "url": "https://wl.eventim.us/event/aaron-lee-tasjan/687462?afflky=GetToTheGig",
+      "linkLabel": "Tickets",
+      "added": "2026-11-09"
     },
     {
       "name": "After Midnite: Cruising",
@@ -1093,6 +903,26 @@
       "url": "https://happeningnext.com/event/boinga-game-festival-at-harpoon-brewing-in-boston-eid1ef0l39lnc7a",
       "linkLabel": "Info",
       "added": "2026-11-07"
+    },
+    {
+      "id": "2026-11-15-found-mega-vintage-market-sowa",
+      "name": "FOUND Mega Vintage Market",
+      "date": "2026-11-15",
+      "time": "12–5 PM",
+      "startTime": "12:00",
+      "endTime": "17:00",
+      "venue": "SoWa Power Station, 550 Harrison Ave",
+      "area": "South End",
+      "price": "Free admission",
+      "free": true,
+      "tags": [
+        "market"
+      ],
+      "why": "About 100 New England vendors of vintage and sustainable clothing indoors at the Power Station, with a bar on site.",
+      "url": "https://www.thebostoncalendar.com/events/found-mega-vintage-market-at-sowa",
+      "linkLabel": "Info",
+      "added": "2026-11-09",
+      "pick": true
     },
     {
       "name": "Michael Clayton on 35mm + seminar",
@@ -1395,6 +1225,27 @@
       "added": "2026-11-05"
     },
     {
+      "id": "2026-11-20-splicetape-1-aeronaut",
+      "name": "Somerville Ciné-Club: SpliceTape #1 (secret 16mm film)",
+      "date": "2026-11-20",
+      "time": "7:30–9:30 PM",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "venue": "Aeronaut Brewing Company, 14 Tyler St",
+      "area": "Somerville",
+      "price": "Free",
+      "free": true,
+      "note": "21+ taproom; free Eventbrite tickets.",
+      "tags": [
+        "somerville",
+        "film"
+      ],
+      "why": "The first night of a new Ciné-Club series that shows unusual formats in unusual venues. November's film is a secret 16mm mystery comedy.",
+      "url": "https://www.thebostoncalendar.com/events/somerville-cine-club-presents-splicetape-1-at-aeronaut",
+      "linkLabel": "Info",
+      "added": "2026-11-09"
+    },
+    {
       "name": "After Midnite: Rampage (1989) on 35mm",
       "date": "2026-11-20",
       "venue": "Coolidge Corner Theatre",
@@ -1437,6 +1288,38 @@
       "linkLabel": "Info",
       "id": "2026-11-20-after-midnite-the-room",
       "added": "2026-11-05"
+    },
+    {
+      "id": "2026-11-20-the-hole-35mm-brattle",
+      "name": "The Hole (new 35mm print)",
+      "date": "2026-11-20",
+      "endDate": "2026-11-22",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "tags": [
+        "film"
+      ],
+      "why": "A new 35mm print of Tsai Ming-liang's film, shown over three days with afternoon and evening shows.",
+      "url": "https://brattlefilm.org/movies/the-hole/",
+      "linkLabel": "Tickets",
+      "added": "2026-11-09"
+    },
+    {
+      "id": "2026-11-20-miracle-holiday-pop-up-cambridge",
+      "name": "Miracle Holiday Pop-Up Bar",
+      "date": "2026-11-20",
+      "endDate": "2026-12-31",
+      "time": "Sun–Wed 5–10 PM, Thu–Fri 5–11 PM, Sat 4–11 PM",
+      "venue": "Kimpton Marlowe Hotel, 25 Edwin H. Land Blvd",
+      "area": "Cambridge",
+      "note": "First come, first served. Closed Thanksgiving Day.",
+      "tags": [
+        "food"
+      ],
+      "why": "The ninth year of the holiday-themed cocktail pop-up, with new 2026 drinks, decorations and a 6-foot Santa.",
+      "url": "https://do617.com/events/2026/11/20/miracle-holiday-pop-up-in-cambridge-tickets",
+      "linkLabel": "Info",
+      "added": "2026-11-09"
     },
     {
       "name": "Fall Thrift Festival (Select Markets)",
@@ -1497,6 +1380,25 @@
       "url": "https://happeningnext.com/event/brickbottom-arts-district-open-studios-eid1ef0l90rthpr",
       "linkLabel": "Info",
       "added": "2026-11-08"
+    },
+    {
+      "id": "2026-11-21-quincy-market-tree-lighting",
+      "name": "Quincy Market Annual Tree Lighting",
+      "date": "2026-11-21",
+      "time": "2–6 PM (tree lit at 6)",
+      "startTime": "14:00",
+      "endTime": "18:00",
+      "venue": "Quincy Market / Faneuil Hall Marketplace",
+      "area": "Boston",
+      "price": "Free",
+      "free": true,
+      "tags": [
+        "outdoors"
+      ],
+      "why": "Faneuil Hall Marketplace's yearly start to the holiday season, with live performances before the tree is lit at 6 PM.",
+      "url": "https://www.thebostoncalendar.com/events/quincy-market-annual-tree-lighting",
+      "linkLabel": "Info",
+      "added": "2026-11-09"
     },
     {
       "id": "2026-11-21-maple-and-malts-festival",
@@ -1625,6 +1527,22 @@
       "added": "2026-11-05"
     },
     {
+      "id": "2026-11-23-persepolis-brattle",
+      "name": "Persepolis + conversation",
+      "date": "2026-11-23",
+      "time": "6:30 PM",
+      "startTime": "18:30",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "tags": [
+        "film"
+      ],
+      "why": "A screening co-presented by the Boston Comic Arts Foundation and MESA, followed by a conversation.",
+      "url": "https://brattlefilm.org/movies/persepolis/",
+      "linkLabel": "Tickets",
+      "added": "2026-11-09"
+    },
+    {
       "name": "Blast of Silence in 35mm (Noirvember)",
       "date": "2026-11-24",
       "venue": "Coolidge Corner Theatre",
@@ -1720,6 +1638,24 @@
       "added": "2026-11-07"
     },
     {
+      "id": "2026-11-27-mariah-carey-holiday-bar",
+      "name": "Mariah Carey's Holiday Bar",
+      "date": "2026-11-27",
+      "endDate": "2027-01-03",
+      "time": "From 5 PM",
+      "startTime": "17:00",
+      "venue": "Tuscan Kitchen Seaport",
+      "area": "Seaport",
+      "note": "Ticketed 90-minute reservations, mostly standing room. Weekend brunch available.",
+      "tags": [
+        "food"
+      ],
+      "why": "A Mariah Carey-themed holiday pop-up bar with photo ops, merchandise and holiday cocktails.",
+      "url": "https://do617.com/events/2026/11/27/mariah-careys-holiday-bar-tickets",
+      "linkLabel": "Tickets",
+      "added": "2026-11-09"
+    },
+    {
       "id": "2026-11-27-dancegiving",
       "name": "Dancegiving: Chus + Ceballos",
       "date": "2026-11-27",
@@ -1752,6 +1688,23 @@
       "linkLabel": "Info",
       "id": "2026-11-28-holiday-pop-up-market",
       "added": "2026-11-04"
+    },
+    {
+      "id": "2026-11-28-bonobo-house-of-blues",
+      "name": "Bonobo",
+      "date": "2026-11-28",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "Citizens House of Blues",
+      "area": "Fenway",
+      "price": "$55–$212",
+      "tags": [
+        "music"
+      ],
+      "why": "The electronica/downtempo act plays a headline show billed as 'Distance in Static Live'.",
+      "url": "https://do617.com/events/2026/11/28/bonobo-tickets",
+      "linkLabel": "Tickets",
+      "added": "2026-11-09"
     },
     {
       "id": "2026-11-29-boston-womens-holiday-market-armory",
@@ -1972,7 +1925,6 @@
       "time": "10 PM",
       "startTime": "22:00",
       "venue": "Big Night Live",
-      "with": "Cristoph",
       "url": "https://www.ticketmaster.com/event/0100650696CEF09E",
       "onSale": "On sale now"
     },
@@ -1996,26 +1948,6 @@
     }
   ],
   "comedyShows": [
-    {
-      "comedian": "Ben Schwartz & Friends",
-      "date": "2026-11-08",
-      "time": "3:30 & 7 PM",
-      "startTime": "19:00",
-      "venue": "Chevalier Theatre",
-      "area": "Medford",
-      "note": "2 shows: 3:30 & 7 PM",
-      "url": "https://chevaliertheatre.com/event/ben-schwartz-friends/"
-    },
-    {
-      "comedian": "DeRay Davis",
-      "date": "2026-11-08",
-      "time": "7 PM",
-      "startTime": "19:00",
-      "venue": "The Wilbur",
-      "area": "Boston",
-      "url": "https://www.songkick.com/concerts/43247387-deray-davis-at-wilbur-theatre",
-      "added": "2026-10-29"
-    },
     {
       "comedian": "Mohanad Elshieky",
       "date": "2026-11-13",
@@ -2479,6 +2411,15 @@
       "area": "Boston",
       "url": "https://thewilbur.com/event/",
       "added": "2026-11-04"
+    },
+    {
+      "comedian": "Luis J. Gomez",
+      "date": "2027-02-05",
+      "venue": "Laugh Boston",
+      "area": "Boston",
+      "note": "Podcaster (Gas Digital) and author",
+      "url": "https://www.boston-theater.com/dates/2027/02/category/comedy",
+      "added": "2026-11-09"
     }
   ],
   "watchlist": [
@@ -2511,8 +2452,8 @@
   ],
   "comedianWatchlist": [],
   "ticker": [
-    "New: Mau P, Roadrunner, May 7",
-    "Free: car-free Memorial Dr, today",
-    "Grass + live score, today"
+    "Rocky Horror, Fri the 13th",
+    "Free: Lagers & Leaves, Sat",
+    "Free: FOUND vintage mkt, Sun"
   ]
 }

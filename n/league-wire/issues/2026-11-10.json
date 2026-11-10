@@ -1,0 +1,1076 @@
+{
+  "date": "2026-11-10",
+  "headline": "Jaguars go all in: Jordan Davis, Jessie Bates and Davon Godchaux in one day",
+  "ticker": [
+    "Bills 23, Vikings 6",
+    "Jaguars trade for J. Davis",
+    "Warriors 138, Pelicans 87",
+    "Wemby: 40 pts, 8 blk",
+    "McDavid streak hits 19"
+  ],
+  "powerRankingsDay": true,
+  "top": [
+    {
+      "league": "nfl",
+      "headline": "Jaguars go all in: Jordan Davis, Jessie Bates and Davon Godchaux in one day",
+      "summary": "Jacksonville sent a 2027 first and a 2029 second to Philadelphia for DT Jordan Davis, who signed a three-year, $78 million extension this offseason. Earlier Monday the Jaguars added S Jessie Bates III from Atlanta and DT Davon Godchaux from New Orleans. The 6-2 AFC South leaders have now moved a first, two seconds, a fifth and a sixth.",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/jordan-davis-traded-jaguars-acquire-former-first-round-pick-from-eagles/"
+    },
+    {
+      "league": "nba",
+      "headline": "Wembanyama scores 40 with 8 blocks as Spurs win ninth straight",
+      "summary": "Victor Wembanyama went 15 of 19 for 40 points, 11 rebounds and eight blocks in 25 minutes of a 122-96 win at Phoenix. San Antonio has won nine straight since an 0-2 start. Last Wednesday he had career highs of 52 points and 24 rebounds against Dallas.",
+      "source": "AP (via KSAT)",
+      "url": "https://www.ksat.com/sports/2026/11/10/wembanyama-has-40-points-8-blocks-as-spurs-win-9th-straight-with-122-96-victory-over-suns/"
+    },
+    {
+      "league": "nhl",
+      "headline": "Devils won't start Hellebuyck in his return to Winnipeg",
+      "summary": "New Jersey says Connor Hellebuyck will not start Tuesday against the Jets, his old team. GM Sunny Mehta called it an organizational decision, citing a \"reduction in our expected win probability.\" Jets players said they were disappointed, and coach Scott Arniel questioned the reasoning; Jake Allen is expected to start.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/50435073/jets-disappointed-ex-goalie-connor-hellebuyck-sitting-out"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Jaguars land Jordan Davis and Jessie Bates in deadline spree; Bills stifle Vikings 23-6; Nacua headed to IR; deadline 4 p.m. ET",
+      "stories": [
+        {
+          "headline": "Jaguars go all in: Jordan Davis, Jessie Bates and Davon Godchaux in one day",
+          "summary": "Jacksonville sent a 2027 first and a 2029 second to Philadelphia for DT Jordan Davis, who signed a three-year, $78 million extension this offseason. Earlier Monday the Jaguars added S Jessie Bates III from Atlanta and DT Davon Godchaux from New Orleans. The 6-2 AFC South leaders have now moved a first, two seconds, a fifth and a sixth.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/jordan-davis-traded-jaguars-acquire-former-first-round-pick-from-eagles/"
+        },
+        {
+          "headline": "Bills stifle Wentz, Vikings 23-6 on Monday night",
+          "summary": "Carson Wentz, starting for the injured Kyler Murray, went 8 of 25 for 81 yards with three turnovers and was pulled for Max Brosmer in the fourth quarter. James Cook ran 31 times for 107 yards and Buffalo held the ball for 42:32. The Bills are 7-1, their best eight-game start since 1993; Minnesota falls to 6-2.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/bills-stifle-vikings-23-6-to-match-best-start-since-1993/"
+        },
+        {
+          "headline": "Puka Nacua expected to land on IR",
+          "summary": "Sean McVay said Monday that Nacua has MCL and PCL sprains plus turf toe, and the Rams expect to put him on injured reserve. That means at least four missed games. Konata Mumpfield leads the remaining receivers.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/breaking-news/article/rams-expect-all-pro-wr-puka-nacua-to-land-on-injured-reserve-with-multiple-knee-sprains-and-turf-toe-224143254.html"
+        },
+        {
+          "headline": "Cardinals fear Minshew UCL tear, sign 40-year-old Josh Johnson",
+          "summary": "Arizona fears Gardner Minshew tore the UCL in his throwing arm, and he is getting a second opinion. Rookie Carson Beck is expected to start in Week 10. The Cardinals signed Josh Johnson off Cincinnati's practice squad, which would make Arizona his 15th NFL team.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/cardinals-fear-gardner-minshew-suffered-ucl-tear"
+        },
+        {
+          "headline": "Lions add Andre Cisco as deadline nears",
+          "summary": "Detroit got S Andre Cisco from the Jets for a 2028 sixth-round pick, one of four trades Monday. The deadline is Tuesday at 4 p.m. ET.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-tracker-latest-deals-grades/"
+        }
+      ],
+      "scoresLabel": "Week 9",
+      "scores": [
+        {
+          "away": "Jaguars",
+          "awayScore": 33,
+          "home": "Ravens",
+          "homeScore": 10,
+          "note": ""
+        },
+        {
+          "away": "Bengals",
+          "awayScore": 34,
+          "home": "Falcons",
+          "homeScore": 17,
+          "note": ""
+        },
+        {
+          "away": "Browns",
+          "awayScore": 22,
+          "home": "Saints",
+          "homeScore": 23,
+          "note": "OT"
+        },
+        {
+          "away": "Cowboys",
+          "awayScore": 27,
+          "home": "Colts",
+          "homeScore": 23,
+          "note": "Close"
+        },
+        {
+          "away": "Broncos",
+          "awayScore": 26,
+          "home": "Panthers",
+          "homeScore": 21,
+          "note": "Close"
+        },
+        {
+          "away": "Lions",
+          "awayScore": 19,
+          "home": "Dolphins",
+          "homeScore": 9,
+          "note": ""
+        },
+        {
+          "away": "Rams",
+          "awayScore": 20,
+          "home": "Commanders",
+          "homeScore": 13,
+          "note": "Close"
+        },
+        {
+          "away": "Giants",
+          "awayScore": 19,
+          "home": "Eagles",
+          "homeScore": 11,
+          "note": "Close"
+        },
+        {
+          "away": "Jets",
+          "awayScore": 12,
+          "home": "Chiefs",
+          "homeScore": 35,
+          "note": ""
+        },
+        {
+          "away": "Texans",
+          "awayScore": 44,
+          "home": "Chargers",
+          "homeScore": 22,
+          "note": ""
+        },
+        {
+          "away": "Packers",
+          "awayScore": 45,
+          "home": "Patriots",
+          "homeScore": 27,
+          "note": "Upset"
+        },
+        {
+          "away": "Raiders",
+          "awayScore": 17,
+          "home": "49ers",
+          "homeScore": 38,
+          "note": ""
+        },
+        {
+          "away": "Cardinals",
+          "awayScore": 3,
+          "home": "Seahawks",
+          "homeScore": 17,
+          "note": ""
+        },
+        {
+          "away": "Buccaneers",
+          "awayScore": 24,
+          "home": "Bears",
+          "homeScore": 27,
+          "note": "Close"
+        },
+        {
+          "away": "Bills",
+          "awayScore": 23,
+          "home": "Vikings",
+          "homeScore": 6,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "C.J. Stroud",
+          "team": "Texans",
+          "line": "21-35 · 384 YDS · 5 TD · 1 INT",
+          "note": "Tied his career high with five TD passes in a 44-22 win over the Chargers."
+        },
+        {
+          "name": "Jordan Love",
+          "team": "Packers",
+          "line": "23-29 · 372 YDS · 3 TD · 0 INT",
+          "note": "Also ran for a score as Green Bay won 45-27 as a 3.5-point underdog."
+        },
+        {
+          "name": "CeeDee Lamb",
+          "team": "Cowboys",
+          "line": "10-195-1",
+          "note": "Targeted 16 times in a 27-23 win at Indianapolis."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Eagles trade DT Jordan Davis to Jaguars for a 2027 1st and a 2029 2nd (Nov. 9)",
+          "url": "https://www.cbssports.com/nfl/news/jordan-davis-traded-jaguars-acquire-former-first-round-pick-from-eagles/"
+        },
+        {
+          "text": "Falcons trade S Jessie Bates III to Jaguars for a 2027 2nd and a 2028 5th (Nov. 9)",
+          "url": "https://www.thescore.com/nfl/news/3642475/nfl-trade-deadline-tracking-every-deal"
+        },
+        {
+          "text": "Saints trade DT Davon Godchaux to Jaguars for a conditional 2028 6th (Nov. 9)",
+          "url": "https://www.thescore.com/nfl/news/3642475/nfl-trade-deadline-tracking-every-deal"
+        },
+        {
+          "text": "Jets trade S Andre Cisco to Lions for a 2028 6th (Nov. 9)",
+          "url": "https://www.nfl.com/news/nfl-trade-deadline-track-every-move-since-start-of-2026-regular-season"
+        },
+        {
+          "text": "Bills place WR Josh Palmer (hamstring) on IR (Nov. 9)",
+          "url": "https://www.profootballrumors.com/2026/11/bills-place-wr-josh-palmer-on-ir-2"
+        },
+        {
+          "text": "Cardinals sign QB Josh Johnson off Bengals' practice squad (Nov. 9)",
+          "url": "https://www.profootballrumors.com/2026/11/cardinals-signing-qb-josh-johnson"
+        }
+      ],
+      "powerRankings": {
+        "sources": [
+          "FOX Sports",
+          "Yahoo Sports",
+          "Bleacher Report",
+          "ClutchPoints"
+        ],
+        "teams": [
+          {
+            "team": "Bills",
+            "rank": 1,
+            "prev": 1,
+            "avg": 1.5
+          },
+          {
+            "team": "49ers",
+            "rank": 2,
+            "prev": 2,
+            "avg": 2.8
+          },
+          {
+            "team": "Jaguars",
+            "rank": 3,
+            "prev": 6,
+            "avg": 3.5
+          },
+          {
+            "team": "Broncos",
+            "rank": 4,
+            "prev": 3,
+            "avg": 4.5
+          },
+          {
+            "team": "Bears",
+            "rank": 5,
+            "prev": 4,
+            "avg": 4.8
+          },
+          {
+            "team": "Chiefs",
+            "rank": 6,
+            "prev": 7,
+            "avg": 5.8
+          },
+          {
+            "team": "Vikings",
+            "rank": 7,
+            "prev": 5,
+            "avg": 6.8
+          },
+          {
+            "team": "Bengals",
+            "rank": 8,
+            "prev": 10,
+            "avg": 8.0
+          },
+          {
+            "team": "Lions",
+            "rank": 9,
+            "prev": 8,
+            "avg": 9.0
+          },
+          {
+            "team": "Packers",
+            "rank": 10,
+            "prev": 14,
+            "avg": 10.0
+          },
+          {
+            "team": "Seahawks",
+            "rank": 11,
+            "prev": 9,
+            "avg": 10.5
+          },
+          {
+            "team": "Steelers",
+            "rank": 12,
+            "prev": 11,
+            "avg": 11.3
+          },
+          {
+            "team": "Rams",
+            "rank": 13,
+            "prev": 13,
+            "avg": 13.3
+          },
+          {
+            "team": "Patriots",
+            "rank": 14,
+            "prev": 12,
+            "avg": 14.3
+          },
+          {
+            "team": "Giants",
+            "rank": 15,
+            "prev": 15,
+            "avg": 14.5
+          },
+          {
+            "team": "Browns",
+            "rank": 16,
+            "prev": 16,
+            "avg": 16.8
+          },
+          {
+            "team": "Texans",
+            "rank": 17,
+            "prev": 20,
+            "avg": 17.8
+          },
+          {
+            "team": "Raiders",
+            "rank": 18,
+            "prev": 17,
+            "avg": 18.5
+          },
+          {
+            "team": "Panthers",
+            "rank": 19,
+            "prev": 18,
+            "avg": 19.3
+          },
+          {
+            "team": "Buccaneers",
+            "rank": 20,
+            "prev": 21,
+            "avg": 20.5
+          },
+          {
+            "team": "Cowboys",
+            "rank": 21,
+            "prev": 24,
+            "avg": 20.5
+          },
+          {
+            "team": "Ravens",
+            "rank": 22,
+            "prev": 19,
+            "avg": 21.0
+          },
+          {
+            "team": "Saints",
+            "rank": 23,
+            "prev": 25,
+            "avg": 22.0
+          },
+          {
+            "team": "Falcons",
+            "rank": 24,
+            "prev": 22,
+            "avg": 23.8
+          },
+          {
+            "team": "Commanders",
+            "rank": 25,
+            "prev": 26,
+            "avg": 25.3
+          },
+          {
+            "team": "Cardinals",
+            "rank": 26,
+            "prev": 23,
+            "avg": 25.8
+          },
+          {
+            "team": "Eagles",
+            "rank": 27,
+            "prev": 27,
+            "avg": 28.0
+          },
+          {
+            "team": "Jets",
+            "rank": 28,
+            "prev": 28,
+            "avg": 28.8
+          },
+          {
+            "team": "Titans",
+            "rank": 29,
+            "prev": 30,
+            "avg": 29.0
+          },
+          {
+            "team": "Colts",
+            "rank": 30,
+            "prev": 29,
+            "avg": 29.5
+          },
+          {
+            "team": "Dolphins",
+            "rank": 31,
+            "prev": 31,
+            "avg": 29.5
+          },
+          {
+            "team": "Chargers",
+            "rank": 32,
+            "prev": 32,
+            "avg": 32.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Wembanyama scores 40 with 8 blocks as Spurs win ninth straight; Warriors win by 51; Flagg 43 in Dallas comeback",
+      "stories": [
+        {
+          "headline": "Wembanyama scores 40 with 8 blocks as Spurs win ninth straight",
+          "summary": "Victor Wembanyama went 15 of 19 for 40 points, 11 rebounds and eight blocks in 25 minutes of a 122-96 win at Phoenix. San Antonio has won nine straight since an 0-2 start. Last Wednesday he had career highs of 52 points and 24 rebounds against Dallas.",
+          "source": "AP (via KSAT)",
+          "url": "https://www.ksat.com/sports/2026/11/10/wembanyama-has-40-points-8-blocks-as-spurs-win-9th-straight-with-122-96-victory-over-suns/"
+        },
+        {
+          "headline": "Warriors beat Pelicans by 51 for eighth straight win",
+          "summary": "Stephen Curry and Brandin Podziemski scored 25 each in a 138-87 rout, and Curry passed DeMar DeRozan for 16th on the career scoring list. New Orleans rested Zion Williamson on the second night of a back-to-back. Golden State's Will Richard has a torn ligament in his left thumb.",
+          "source": "AP (via ABC7 San Francisco)",
+          "url": "https://abc7news.com/post/stephen-curry-brandin-podziemski-each-score-25-warriors-run-away-pelicans-138-87-win/20028917/"
+        },
+        {
+          "headline": "Flagg scores 43 as Mavericks rally past Pacers",
+          "summary": "Cooper Flagg had a season-high 43 points and 10 rebounds, and Kyrie Irving added 35 with seven 3-pointers in a 125-122 win. Dallas came back from 13 down. The Mavericks are three games over .500 for the first time since March 1, 2025.",
+          "source": "ESPN (AP)",
+          "url": "https://www.espn.com/nba/recap?gameId=401909956"
+        },
+        {
+          "headline": "Doncic returns, Lakers win sixth straight without Reaves",
+          "summary": "Luka Doncic had 32 points, eight rebounds and 10 assists in a 124-114 win at Atlanta after missing one game with lower-back tightness. Austin Reaves sat with an illness a night after scoring 43 in Detroit. The Lakers are 10-2.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/50439743/luka-doncic-returns-nets-32-lakers-push-win-streak-6"
+        },
+        {
+          "headline": "Short-handed Hornets end six-game skid against Cavaliers",
+          "summary": "Charlotte hit 23 of 46 3-pointers and led by 33 in a 124-112 win over Cleveland. Grayson Allen scored 27 and Naz Reid had 25 and 13 rebounds. The Hornets played without Brandon Miller (hip) and Kon Knueppel (hamstring).",
+          "source": "ESPN (AP)",
+          "url": "https://www.espn.com/nba/recap?gameId=401909953"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Lakers",
+          "awayScore": 124,
+          "home": "Hawks",
+          "homeScore": 114,
+          "note": "Upset"
+        },
+        {
+          "away": "Cavaliers",
+          "awayScore": 112,
+          "home": "Hornets",
+          "homeScore": 124,
+          "note": "Upset"
+        },
+        {
+          "away": "Wizards",
+          "awayScore": 111,
+          "home": "Pistons",
+          "homeScore": 122,
+          "note": ""
+        },
+        {
+          "away": "Grizzlies",
+          "awayScore": 118,
+          "home": "Raptors",
+          "homeScore": 102,
+          "note": "Upset"
+        },
+        {
+          "away": "Pacers",
+          "awayScore": 122,
+          "home": "Mavericks",
+          "homeScore": 125,
+          "note": "Close"
+        },
+        {
+          "away": "Nuggets",
+          "awayScore": 100,
+          "home": "Rockets",
+          "homeScore": 110,
+          "note": ""
+        },
+        {
+          "away": "Spurs",
+          "awayScore": 122,
+          "home": "Suns",
+          "homeScore": 96,
+          "note": ""
+        },
+        {
+          "away": "Pelicans",
+          "awayScore": 87,
+          "home": "Warriors",
+          "homeScore": 138,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Victor Wembanyama",
+          "team": "Spurs",
+          "line": "40 PTS · 11 REB · 8 BLK",
+          "note": "Shot 15 of 19 in 25 minutes in a 122-96 win at Phoenix."
+        },
+        {
+          "name": "Cooper Flagg",
+          "team": "Mavericks",
+          "line": "43 PTS · 10 REB",
+          "note": "A season high on 16-of-25 shooting in a 125-122 comeback win over Indiana."
+        },
+        {
+          "name": "Luka Doncic",
+          "team": "Lakers",
+          "line": "32 PTS · 8 REB · 10 AST",
+          "note": "Back from a one-game absence to lead a 124-114 win in Atlanta, the Lakers' sixth straight."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Kings trade G Nique Clifford to the Thunder for two second-round picks (Nov. 8)",
+          "url": "https://www.hoopsrumors.com/2026/11/kings-trading-nique-clifford-to-thunder-for-two-second-round-picks.html"
+        },
+        {
+          "text": "Thunder waive F Dalen Terry (Nov. 8)",
+          "url": "https://www.espn.com/nba/transactions"
+        }
+      ],
+      "powerRankings": {
+        "sources": [
+          "NBA.com",
+          "NBC Sports",
+          "CBS Sports",
+          "ClutchPoints"
+        ],
+        "teams": [
+          {
+            "team": "Spurs",
+            "rank": 1,
+            "prev": 5,
+            "avg": 2.0
+          },
+          {
+            "team": "76ers",
+            "rank": 2,
+            "prev": 3,
+            "avg": 2.3
+          },
+          {
+            "team": "Rockets",
+            "rank": 3,
+            "prev": 1,
+            "avg": 5.0
+          },
+          {
+            "team": "Thunder",
+            "rank": 4,
+            "prev": 6,
+            "avg": 5.3
+          },
+          {
+            "team": "Lakers",
+            "rank": 5,
+            "prev": 8,
+            "avg": 5.3
+          },
+          {
+            "team": "Celtics",
+            "rank": 6,
+            "prev": 4,
+            "avg": 5.8
+          },
+          {
+            "team": "Timberwolves",
+            "rank": 7,
+            "prev": 11,
+            "avg": 6.5
+          },
+          {
+            "team": "Pistons",
+            "rank": 8,
+            "prev": 2,
+            "avg": 6.5
+          },
+          {
+            "team": "Warriors",
+            "rank": 9,
+            "prev": 18,
+            "avg": 9.3
+          },
+          {
+            "team": "Knicks",
+            "rank": 10,
+            "prev": 12,
+            "avg": 10.3
+          },
+          {
+            "team": "Trail Blazers",
+            "rank": 11,
+            "prev": 10,
+            "avg": 10.5
+          },
+          {
+            "team": "Cavaliers",
+            "rank": 12,
+            "prev": 9,
+            "avg": 11.5
+          },
+          {
+            "team": "Grizzlies",
+            "rank": 13,
+            "prev": 7,
+            "avg": 12.5
+          },
+          {
+            "team": "Nuggets",
+            "rank": 14,
+            "prev": 15,
+            "avg": 15.0
+          },
+          {
+            "team": "Mavericks",
+            "rank": 15,
+            "prev": 13,
+            "avg": 15.0
+          },
+          {
+            "team": "Raptors",
+            "rank": 16,
+            "prev": 14,
+            "avg": 15.3
+          },
+          {
+            "team": "Hawks",
+            "rank": 17,
+            "prev": 16,
+            "avg": 16.3
+          },
+          {
+            "team": "Wizards",
+            "rank": 18,
+            "prev": 17,
+            "avg": 18.3
+          },
+          {
+            "team": "Heat",
+            "rank": 19,
+            "prev": 20,
+            "avg": 19.0
+          },
+          {
+            "team": "Pelicans",
+            "rank": 20,
+            "prev": 23,
+            "avg": 19.5
+          },
+          {
+            "team": "Pacers",
+            "rank": 21,
+            "prev": 21,
+            "avg": 21.8
+          },
+          {
+            "team": "Suns",
+            "rank": 22,
+            "prev": 25,
+            "avg": 22.0
+          },
+          {
+            "team": "Magic",
+            "rank": 23,
+            "prev": 22,
+            "avg": 22.8
+          },
+          {
+            "team": "Hornets",
+            "rank": 24,
+            "prev": 19,
+            "avg": 23.8
+          },
+          {
+            "team": "Clippers",
+            "rank": 25,
+            "prev": 26,
+            "avg": 25.0
+          },
+          {
+            "team": "Jazz",
+            "rank": 26,
+            "prev": 24,
+            "avg": 26.0
+          },
+          {
+            "team": "Nets",
+            "rank": 27,
+            "prev": 28,
+            "avg": 26.3
+          },
+          {
+            "team": "Kings",
+            "rank": 28,
+            "prev": 30,
+            "avg": 28.3
+          },
+          {
+            "team": "Bulls",
+            "rank": 29,
+            "prev": 29,
+            "avg": 29.3
+          },
+          {
+            "team": "Bucks",
+            "rank": 30,
+            "prev": 27,
+            "avg": 29.3
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Devils sit Hellebuyck for his Winnipeg return; McDavid's point streak hits 19; Sharks win an eight-round shootout",
+      "stories": [
+        {
+          "headline": "Devils won't start Hellebuyck in his return to Winnipeg",
+          "summary": "New Jersey says Connor Hellebuyck will not start Tuesday against the Jets, his old team. GM Sunny Mehta called it an organizational decision, citing a \"reduction in our expected win probability.\" Jets players said they were disappointed, and coach Scott Arniel questioned the reasoning; Jake Allen is expected to start.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nhl/story/_/id/50435073/jets-disappointed-ex-goalie-connor-hellebuyck-sitting-out"
+        },
+        {
+          "headline": "McDavid's season-opening point streak reaches 19 as Oilers beat Rangers",
+          "summary": "Connor McDavid scored and Leon Draisaitl had two goals, one into an empty net, in a 3-1 win over New York. McDavid has 48 points during the streak. NHL.com says he is the fourth player to open a season with a 19-game point streak, and the first since Dany Heatley in 2005.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/new-york-rangers-edmonton-oilers-game-recap-november-9-2026"
+        },
+        {
+          "headline": "Stenberg ends eight-round shootout, Sharks snap five-game skid",
+          "summary": "Ivar Stenberg scored in regulation and had the only goal of the shootout in San Jose's 3-2 win over the Islanders. Yaroslav Askarov made 30 saves and Ilya Sorokin made 37. The Islanders have lost four straight.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/ivar-stenberg-leads-sharks-past-062806499.html"
+        },
+        {
+          "headline": "Flyers beat Canucks to end three-game skid",
+          "summary": "Joseph Woll made 18 saves in a 3-1 win in Vancouver. Michael Bunting scored his first goal of the season after five straight games as a healthy scratch. The Canucks are 3-16-1 and have lost six straight.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/philadelphia-flyers-vancouver-canucks-game-recap-november-9-2026"
+        },
+        {
+          "headline": "Point may miss time; Rangers' Smits out week to week",
+          "summary": "Brayden Point left Tampa Bay's loss in Winnipeg in the first period, and Jon Cooper said he might miss some time. Rangers defenseman Alberts Smits, the No. 5 pick in the 2026 draft, is week to week with an upper-body injury.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-9-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Rangers",
+          "awayScore": 1,
+          "home": "Oilers",
+          "homeScore": 3,
+          "note": ""
+        },
+        {
+          "away": "Flyers",
+          "awayScore": 3,
+          "home": "Canucks",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Islanders",
+          "awayScore": 2,
+          "home": "Sharks",
+          "homeScore": 3,
+          "note": "SO"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Connor McDavid",
+          "team": "Oilers",
+          "line": "1 G · 0 A",
+          "note": "He has a point in all 19 games this season, with 11 goals and 37 assists."
+        },
+        {
+          "name": "Devon Levi",
+          "team": "Oilers",
+          "line": "29 SV · .967 SV%",
+          "note": "Allowed only a short-handed goal in a 3-1 win over the Rangers."
+        },
+        {
+          "name": "Yaroslav Askarov",
+          "team": "Sharks",
+          "line": "30 SV · .938 SV%",
+          "note": "Held the Islanders off through eight shootout rounds to end San Jose's five-game skid."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Stars claim G Remi Poirier off waivers from Capitals (Nov. 9)",
+          "url": "https://russianmachineneverbreaks.com/2026/11/09/remi-poirier-claimed-dallas-stars-nhl-waivers-capitals/"
+        },
+        {
+          "text": "Blackhawks G Arvid Soderblom clears waivers (Nov. 9)",
+          "url": "https://russianmachineneverbreaks.com/2026/11/09/remi-poirier-claimed-dallas-stars-nhl-waivers-capitals/"
+        },
+        {
+          "text": "Wild waive F Tyler Pitlick and D Cameron Crotty (Nov. 9)",
+          "url": "https://www.dailyfaceoff.com/news/minnesota-wild-place-two-players-nhl-waivers-november-9-cameron-crotty-tyler-pitlick-ahl-iowa"
+        },
+        {
+          "text": "Blues activate D Logan Mailloux off IR",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-9-2026"
+        },
+        {
+          "text": "Capitals recall D Justin Holl from Hershey",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-9-2026"
+        },
+        {
+          "text": "Rangers recall D Marc Del Gaizo from Hartford",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-9-2026"
+        }
+      ],
+      "powerRankings": {
+        "sources": [
+          "NHL.com Super 16 (Nov 5)",
+          "ESPN (Nov 6)",
+          "The Big Lead/Yahoo (Nov 3)",
+          "The Hockey Writers (Nov 9)"
+        ],
+        "teams": [
+          {
+            "team": "Hurricanes",
+            "rank": 1,
+            "prev": 1,
+            "avg": 1.0
+          },
+          {
+            "team": "Wild",
+            "rank": 2,
+            "prev": 3,
+            "avg": 2.3
+          },
+          {
+            "team": "Oilers",
+            "rank": 3,
+            "prev": 4,
+            "avg": 3.8
+          },
+          {
+            "team": "Bruins",
+            "rank": 4,
+            "prev": 2,
+            "avg": 4.0
+          },
+          {
+            "team": "Devils",
+            "rank": 5,
+            "prev": 9,
+            "avg": 5.5
+          },
+          {
+            "team": "Lightning",
+            "rank": 6,
+            "prev": 7,
+            "avg": 6.3
+          },
+          {
+            "team": "Golden Knights",
+            "rank": 7,
+            "prev": 8,
+            "avg": 6.8
+          },
+          {
+            "team": "Canadiens",
+            "rank": 8,
+            "prev": 11,
+            "avg": 7.8
+          },
+          {
+            "team": "Mammoth",
+            "rank": 9,
+            "prev": 6,
+            "avg": 10.3
+          },
+          {
+            "team": "Stars",
+            "rank": 10,
+            "prev": 5,
+            "avg": 10.8
+          },
+          {
+            "team": "Avalanche",
+            "rank": 11,
+            "prev": 14,
+            "avg": 11.8
+          },
+          {
+            "team": "Panthers",
+            "rank": 12,
+            "prev": 13,
+            "avg": 12.0
+          },
+          {
+            "team": "Senators",
+            "rank": 13,
+            "prev": 10,
+            "avg": 12.5
+          },
+          {
+            "team": "Capitals",
+            "rank": 14,
+            "prev": 16,
+            "avg": 14.0
+          },
+          {
+            "team": "Kraken",
+            "rank": 15,
+            "prev": 15,
+            "avg": 15.0
+          },
+          {
+            "team": "Sabres",
+            "rank": 16,
+            "prev": 25,
+            "avg": 16.3
+          },
+          {
+            "team": "Islanders",
+            "rank": 17,
+            "prev": 18,
+            "avg": 17.0
+          },
+          {
+            "team": "Rangers",
+            "rank": 18,
+            "prev": 17,
+            "avg": 18.3
+          },
+          {
+            "team": "Maple Leafs",
+            "rank": 19,
+            "prev": 12,
+            "avg": 18.7
+          },
+          {
+            "team": "Predators",
+            "rank": 20,
+            "prev": 20,
+            "avg": 20.0
+          },
+          {
+            "team": "Ducks",
+            "rank": 21,
+            "prev": 26,
+            "avg": 21.0
+          },
+          {
+            "team": "Red Wings",
+            "rank": 22,
+            "prev": 21,
+            "avg": 21.0
+          },
+          {
+            "team": "Blues",
+            "rank": 23,
+            "prev": 22,
+            "avg": 23.0
+          },
+          {
+            "team": "Flames",
+            "rank": 24,
+            "prev": 27,
+            "avg": 24.0
+          },
+          {
+            "team": "Sharks",
+            "rank": 25,
+            "prev": 19,
+            "avg": 24.3
+          },
+          {
+            "team": "Jets",
+            "rank": 26,
+            "prev": 24,
+            "avg": 26.0
+          },
+          {
+            "team": "Penguins",
+            "rank": 27,
+            "prev": 23,
+            "avg": 26.3
+          },
+          {
+            "team": "Blue Jackets",
+            "rank": 28,
+            "prev": 29,
+            "avg": 26.3
+          },
+          {
+            "team": "Kings",
+            "rank": 29,
+            "prev": 30,
+            "avg": 28.0
+          },
+          {
+            "team": "Flyers",
+            "rank": 30,
+            "prev": 28,
+            "avg": 30.0
+          },
+          {
+            "team": "Blackhawks",
+            "rank": 31,
+            "prev": 31,
+            "avg": 31.0
+          },
+          {
+            "team": "Canucks",
+            "rank": 32,
+            "prev": 32,
+            "avg": 32.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · McGonigle and Stewart win Rookie of the Year; Manager of the Year is next",
+      "stories": [
+        {
+          "headline": "Tigers' Kevin McGonigle, Reds' Sal Stewart win Rookie of the Year",
+          "summary": "McGonigle took 28 of 30 first-place votes in the AL, ahead of Guardians LHP Parker Messick and Red Sox LHP Payton Tolle. Stewart won the NL with 20 first-place votes after hitting 32 homers with 112 RBIs in all 162 games, ahead of the Mets' Carson Benge and the Cardinals' JJ Wetherholt.",
+          "source": "AP",
+          "url": "https://sports.yahoo.com/articles/tigers-infielder-kevin-mcgonigle-wins-012326737.html"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Guardians sign LHP Antoine Kelly to minor league deal with spring training invite (Nov. 9)",
+          "url": "https://www.mlbtraderumors.com/2026/11/guardians-sign-antoine-kelly-minor-league-deal.html"
+        }
+      ]
+    }
+  ]
+}

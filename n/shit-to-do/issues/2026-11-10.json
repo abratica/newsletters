@@ -1,140 +1,7 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "weekendNote": "Friday the 13th weekend",
   "events": [
-    {
-      "name": "Double Indemnity craft-along screening",
-      "date": "2026-11-09",
-      "time": "6 PM",
-      "startTime": "18:00",
-      "venue": "Brattle Theatre",
-      "area": "Cambridge",
-      "price": "$13.50",
-      "note": "4K DCP",
-      "tags": [
-        "film"
-      ],
-      "why": "The 1944 noir with the lights halfway up so people can work on small craft projects during the film.",
-      "url": "https://brattlefilm.org/showtimes/double-indemnity-11-9-26-600-pm/",
-      "linkLabel": "Tickets",
-      "id": "2026-11-09-double-indemnity-craft-along",
-      "added": "2026-11-01"
-    },
-    {
-      "id": "2026-11-06-hfa-san-francisco-thrillers",
-      "name": "HFA: A Weekend in San Francisco",
-      "date": "2026-11-09",
-      "endDate": "2026-11-09",
-      "time": "7 PM",
-      "startTime": "19:00",
-      "venue": "Harvard Film Archive",
-      "area": "Cambridge",
-      "note": "Bullitt, The Conversation, Invasion of the Body Snatchers (Sat 11:30 PM), Vertigo (Mon)",
-      "tags": [
-        "film"
-      ],
-      "why": "Four days of San Francisco thrillers and noirs.",
-      "url": "https://harvardfilmarchive.org/",
-      "linkLabel": "Info",
-      "added": "2026-10-29"
-    },
-    {
-      "name": "The Blues Brothers in 35mm",
-      "date": "2026-11-09",
-      "time": "7:30 PM",
-      "startTime": "19:30",
-      "venue": "Somerville Theatre",
-      "area": "Somerville",
-      "tags": [
-        "somerville",
-        "film"
-      ],
-      "why": "35mm print closing the theatre's fall 'F**k the Nazis (Again!)' series.",
-      "url": "https://internet-ticketing.com/websales/sales/CSBSOM/book?perfcode=931",
-      "linkLabel": "Tickets",
-      "id": "2026-11-09-the-blues-brothers-in-35mm",
-      "added": "2026-11-05"
-    },
-    {
-      "name": "Hiss Golden Messenger",
-      "date": "2026-11-09",
-      "time": "8 PM",
-      "startTime": "20:00",
-      "venue": "The Sinclair",
-      "area": "Cambridge",
-      "price": "$33.50–$139.47",
-      "tags": [
-        "music"
-      ],
-      "url": "https://www.bowerypresents.com/events/detail/?event_id=1329972",
-      "linkLabel": "Tickets",
-      "id": "2026-11-09-hiss-golden-messenger",
-      "added": "2026-11-06"
-    },
-    {
-      "id": "2026-11-09-the-devils-35mm-coolidge",
-      "name": "The Devils (1971), director's cut in 35mm",
-      "date": "2026-11-09",
-      "time": "10:10 PM",
-      "startTime": "22:10",
-      "venue": "Coolidge Corner Theatre",
-      "area": "Brookline",
-      "note": "Tonight. Newly struck 35mm print of the 4K restoration.",
-      "tags": [
-        "film"
-      ],
-      "why": "Ken Russell's film about the Loudun possession trial, starring Oliver Reed and Vanessa Redgrave, with production design by Derek Jarman. It was originally rated X and censored in many countries.",
-      "url": "https://coolidge.org/films/devils-1971",
-      "linkLabel": "Tickets",
-      "added": "2026-11-09"
-    },
-    {
-      "name": "Freezing Time: Edgerton (closing)",
-      "date": "2026-11-09",
-      "endDate": "2026-11-29",
-      "venue": "MIT Museum",
-      "area": "Cambridge",
-      "note": "Closes Nov 29",
-      "why": "Harold 'Doc' Edgerton's high-speed photography; closes Nov 29.",
-      "url": "https://www.musa.guide/en/discover/boston/exhibitions/mit-museum/freezing-time-edgerton",
-      "linkLabel": "Info",
-      "id": "2026-11-05-freezing-time-edgerton-closing",
-      "added": "2026-11-05"
-    },
-    {
-      "name": "Location Location Location: 80s NYC",
-      "date": "2026-11-09",
-      "endDate": "2026-11-10",
-      "venue": "Brattle Theatre",
-      "area": "Cambridge",
-      "note": "After Hours Nov 6–7; Brother from Another Planet (35mm) Nov 8–9; Permanent Vacation + Variety Tue Nov 10",
-      "tags": [
-        "film"
-      ],
-      "why": "Short repertory run of 1980s New York films led by Scorsese's dark comedy After Hours.",
-      "url": "https://brattlefilm.org/film-series/location-location-location-80s-nyc/",
-      "linkLabel": "Info",
-      "id": "2026-11-06-location-location-location-80s-nyc",
-      "added": "2026-10-31"
-    },
-    {
-      "id": "2026-11-06-snowport",
-      "name": "Snowport Holiday Market",
-      "date": "2026-11-09",
-      "endDate": "2026-12-27",
-      "venue": "Snowport, 100 Seaport Blvd",
-      "area": "Seaport",
-      "free": true,
-      "note": "Fri 11 AM–9 PM, Sat 10 AM–9 PM, Sun 10 AM–8 PM, Mon–Thu 3–8 PM",
-      "tags": [
-        "market",
-        "food"
-      ],
-      "why": "The big Seaport holiday market opens Nov 6; general admission is free.",
-      "url": "https://www.boston25news.com/news/local/snowport-holiday-market-returning-boston-seaport-2026-holiday-season/VOOAPT3EP5FXRI4SVYFRFDNRO4/",
-      "linkLabel": "Info",
-      "added": "2026-10-29"
-    },
     {
       "id": "2026-11-10-dumpling-fest-boston",
       "name": "Dumpling Fest Boston",
@@ -155,6 +22,24 @@
       "added": "2026-11-08"
     },
     {
+      "name": "Astronomy on Tap: Neutrino Astronomy",
+      "date": "2026-11-10",
+      "time": "6–8 PM",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "venue": "Lamplighter CX, 110 N First St",
+      "area": "Cambridge",
+      "price": "Free",
+      "free": true,
+      "note": "21+, first come first served",
+      "tags": [],
+      "why": "Free brewery talk by Harvard physicists on 'ghost particle' detectors in Antarctic ice, then space trivia.",
+      "url": "https://astronomyontap.org/event/astronomy-on-tap-boston-neutrino-astronomy/",
+      "linkLabel": "Info",
+      "id": "2026-11-10-astronomy-on-tap-neutrino-astronomy",
+      "added": "2026-11-10"
+    },
+    {
       "id": "2026-11-10-pokey-lafarge-armory",
       "name": "Pokey LaFarge",
       "date": "2026-11-10",
@@ -170,6 +55,23 @@
       "url": "https://artsatthearmory.org/?p=34355",
       "linkLabel": "Info",
       "added": "2026-11-07"
+    },
+    {
+      "name": "Permanent Vacation (35mm) + Variety double feature",
+      "date": "2026-11-10",
+      "time": "7 PM / 8:45 PM",
+      "startTime": "19:00",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "note": "One admission covers both",
+      "tags": [
+        "film"
+      ],
+      "why": "Jarmusch's 1981 debut on 35mm with Bette Gordon's 1983 Times Square thriller Variety.",
+      "url": "https://brattlefilm.org/purchase/1741904/",
+      "linkLabel": "Tickets",
+      "id": "2026-11-10-permanent-vacation-35mm-variety-double-feature",
+      "added": "2026-11-10"
     },
     {
       "name": "El Topo in 35mm",
@@ -205,6 +107,89 @@
       "url": "https://www.jambase.com/show/protomartyr-crystal-ballroom-at-somerville-theatre-20261110",
       "linkLabel": "Info",
       "added": "2026-10-29"
+    },
+    {
+      "name": "Freezing Time: Edgerton (closing)",
+      "date": "2026-11-10",
+      "endDate": "2026-11-29",
+      "venue": "MIT Museum",
+      "area": "Cambridge",
+      "note": "Closes Nov 29",
+      "why": "Harold 'Doc' Edgerton's high-speed photography; closes Nov 29.",
+      "url": "https://www.musa.guide/en/discover/boston/exhibitions/mit-museum/freezing-time-edgerton",
+      "linkLabel": "Info",
+      "id": "2026-11-05-freezing-time-edgerton-closing",
+      "added": "2026-11-05"
+    },
+    {
+      "name": "Location Location Location: 80s NYC",
+      "date": "2026-11-10",
+      "endDate": "2026-11-10",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "note": "After Hours Nov 6–7; Brother from Another Planet (35mm) Nov 8–9; Permanent Vacation + Variety Tue Nov 10",
+      "tags": [
+        "film"
+      ],
+      "why": "Short repertory run of 1980s New York films led by Scorsese's dark comedy After Hours.",
+      "url": "https://brattlefilm.org/film-series/location-location-location-80s-nyc/",
+      "linkLabel": "Info",
+      "id": "2026-11-06-location-location-location-80s-nyc",
+      "added": "2026-10-31"
+    },
+    {
+      "id": "2026-11-06-snowport",
+      "name": "Snowport Holiday Market",
+      "date": "2026-11-10",
+      "endDate": "2026-12-27",
+      "venue": "Snowport, 100 Seaport Blvd",
+      "area": "Seaport",
+      "free": true,
+      "note": "Fri 11 AM–9 PM, Sat 10 AM–9 PM, Sun 10 AM–8 PM, Mon–Thu 3–8 PM",
+      "tags": [
+        "market",
+        "food"
+      ],
+      "why": "The big Seaport holiday market opens Nov 6; general admission is free.",
+      "url": "https://www.boston25news.com/news/local/snowport-holiday-market-returning-boston-seaport-2026-holiday-season/VOOAPT3EP5FXRI4SVYFRFDNRO4/",
+      "linkLabel": "Info",
+      "added": "2026-10-29"
+    },
+    {
+      "name": "Snowport Curling Lanes",
+      "date": "2026-11-10",
+      "endDate": "2027-02-28",
+      "venue": "111 Harbor Way, Seaport",
+      "area": "Boston",
+      "price": "Free",
+      "free": true,
+      "tags": [
+        "outdoors"
+      ],
+      "why": "Free curling lanes next to the Snowport market, all winter.",
+      "url": "https://www.bostonseaport.xyz/event/snowport-curling",
+      "linkLabel": "Info",
+      "id": "2026-11-10-snowport-curling-lanes",
+      "added": "2026-11-10"
+    },
+    {
+      "name": "My Undesirable Friends: Part II – Exile",
+      "date": "2026-11-11",
+      "endDate": "2026-11-12",
+      "time": "4 PM & 7:30 PM",
+      "startTime": "19:30",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "price": "$10 per half",
+      "note": "Chapters 1–3 Wed, 4–5 Thu; ticketed separately",
+      "tags": [
+        "film"
+      ],
+      "why": "Premiere screenings of Julia Loktev's two-part documentary epic.",
+      "url": "https://brattlefilm.org/movies/my-undesirable-friends-part-ii-exile/",
+      "linkLabel": "Tickets",
+      "id": "2026-11-11-my-undesirable-friends-part-ii-exile",
+      "added": "2026-11-10"
     },
     {
       "name": "Survivor Season 51 screenings",
@@ -324,6 +309,24 @@
       "url": "https://do617.com/events/2026/11/12/roslindale-film-society-election-1999-tickets",
       "linkLabel": "Info",
       "added": "2026-11-09"
+    },
+    {
+      "name": "Sub Rosa: The Emperor's Feast",
+      "date": "2026-11-12",
+      "endDate": "2026-11-13",
+      "time": "7:30–9:30 PM",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "venue": "The Allston Abbey, 5 Saint Lukes Rd",
+      "area": "Allston",
+      "price": "$108.55",
+      "note": "18+ immersive theater; audience interaction optional",
+      "tags": [],
+      "why": "Occult-themed immersive 18+ evening listed by Boston Hassle and Boston Magazine.",
+      "url": "https://bostonhassle.com/event/sub-rosa-the-emperors-feast/",
+      "linkLabel": "Info",
+      "id": "2026-11-12-sub-rosa-the-emperor-s-feast",
+      "added": "2026-11-10"
     },
     {
       "id": "2026-11-12-sleep-sinclair",
@@ -447,6 +450,22 @@
       "url": "https://www.sinclaircambridge.com/events/detail/1402619",
       "linkLabel": "Tickets",
       "added": "2026-11-07"
+    },
+    {
+      "name": "Tiger in the Smoke",
+      "date": "2026-11-13",
+      "time": "9:15 PM",
+      "startTime": "21:15",
+      "venue": "Harvard Film Archive",
+      "area": "Cambridge",
+      "tags": [
+        "film"
+      ],
+      "why": "Late Friday-the-13th screening of the 1956 fog-bound British thriller.",
+      "url": "https://harvardfilmarchive.org/calendar/tiger-in-the-smoke-2026-11",
+      "linkLabel": "Info",
+      "id": "2026-11-13-tiger-in-the-smoke",
+      "added": "2026-11-10"
     },
     {
       "id": "2026-11-13-after-brunch-rafa-barrios",
@@ -674,8 +693,7 @@
       "url": "https://www.thebostoncalendar.com/events/lagers-leaves-a-fall-festival--2",
       "linkLabel": "Info",
       "id": "2026-11-14-lagers-leaves-a-fall-festival",
-      "added": "2026-10-31",
-      "pick": true
+      "added": "2026-10-31"
     },
     {
       "id": "2026-11-14-chairlift-charcuterie-championship",
@@ -771,6 +789,30 @@
       "url": "https://tspworkshops.square.site/product/pottery-shucking-oyster-platter-painting-tasting-sat-nov-14-1-00-pm/7QP7EZD2WHFVZQKY2IC7U4IS",
       "linkLabel": "Tickets",
       "added": "2026-11-08"
+    },
+    {
+      "name": "Loy Ka Thong Thai Night Market @ Harvard Square",
+      "date": "2026-11-14",
+      "time": "4–10 PM",
+      "startTime": "16:00",
+      "endTime": "22:00",
+      "venue": "1 Brattle St, Harvard Square",
+      "area": "Cambridge",
+      "price": "Free",
+      "free": true,
+      "note": "Moved here from Nov 7 (rain date)",
+      "tags": [
+        "food",
+        "market",
+        "outdoors",
+        "djs"
+      ],
+      "why": "Open-air Thai night market for Loy Krathong with Thai street food, handmade goods, a beer garden, a DJ and cultural performances. Free.",
+      "url": "https://www.thebostoncalendar.com/events/1st-thai-night-market-harvard-square",
+      "linkLabel": "Info",
+      "id": "2026-11-14-loy-ka-thong-thai-night-market-harvard-square",
+      "added": "2026-11-10",
+      "pick": true
     },
     {
       "id": "2026-11-14-orkest-rooted-armory-cafe",
@@ -923,6 +965,42 @@
       "linkLabel": "Info",
       "added": "2026-11-09",
       "pick": true
+    },
+    {
+      "name": "Sunday Supper Club: Raclette Edition",
+      "date": "2026-11-15",
+      "time": "5:30–7 PM",
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "venue": "Life Love Cheese, 184 Water St",
+      "area": "Wakefield",
+      "price": "$55",
+      "tags": [
+        "food"
+      ],
+      "why": "Multi-course raclette dinner ending with chocolate fondue; drink pairing samples included.",
+      "url": "https://www.eventbrite.com/e/sunday-supper-club-raclette-edition-tickets-2003070033391",
+      "linkLabel": "Tickets",
+      "id": "2026-11-15-sunday-supper-club-raclette-edition",
+      "added": "2026-11-10"
+    },
+    {
+      "name": "Winemaker Supper Club No. 1 ft. Chef Mark Lawless",
+      "date": "2026-11-15",
+      "time": "6:30–8:30 PM",
+      "startTime": "18:30",
+      "endTime": "20:30",
+      "venue": "Marzae Cellar + Provisions, Boston Public Market",
+      "area": "Boston",
+      "price": "$108–$129",
+      "tags": [
+        "food"
+      ],
+      "why": "Multi-course chef's tasting with pairings from Massachusetts' first natural winery.",
+      "url": "https://www.eventbrite.com/e/2003571103104",
+      "linkLabel": "Tickets",
+      "id": "2026-11-15-winemaker-supper-club-no-1-ft-chef-mark-lawless",
+      "added": "2026-11-10"
     },
     {
       "name": "Michael Clayton on 35mm + seminar",
@@ -1223,6 +1301,24 @@
       "linkLabel": "Info",
       "id": "2026-11-20-zoolights-at-stone-zoo",
       "added": "2026-11-05"
+    },
+    {
+      "name": "Passim Presents: Fiddle Funk Folk Festival",
+      "date": "2026-11-20",
+      "time": "6–10 PM",
+      "startTime": "18:00",
+      "endTime": "22:00",
+      "venue": "Arts at the Armory",
+      "area": "Somerville",
+      "tags": [
+        "somerville",
+        "music"
+      ],
+      "why": "One-night mini-festival of fiddle, funk and folk presented by Club Passim.",
+      "url": "https://artsatthearmory.org/events/fiddle-funk-folk-festival/",
+      "linkLabel": "Info",
+      "id": "2026-11-20-passim-presents-fiddle-funk-folk-festival",
+      "added": "2026-11-10"
     },
     {
       "id": "2026-11-20-splicetape-1-aeronaut",
@@ -1605,6 +1701,24 @@
       "added": "2026-11-06"
     },
     {
+      "name": "Noirvember: The Maltese Falcon (35mm)",
+      "date": "2026-11-26",
+      "endDate": "2026-11-28",
+      "time": "12, 2:30, 5:15, 7 PM",
+      "startTime": "12:00",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "note": "With The Glass Key Fri 11/27, Hammett Sat 11/28",
+      "tags": [
+        "film"
+      ],
+      "why": "Huston's 1941 noir on 35mm over Thanksgiving weekend.",
+      "url": "https://brattlefilm.org/movies/the-maltese-falcon/",
+      "linkLabel": "Info",
+      "id": "2026-11-26-noirvember-the-maltese-falcon-35mm",
+      "added": "2026-11-10"
+    },
+    {
       "name": "Noirvember: Hardboiled Wonderland",
       "date": "2026-11-26",
       "endDate": "2026-11-29",
@@ -1690,6 +1804,23 @@
       "added": "2026-11-04"
     },
     {
+      "name": "Murder, My Sweet (35mm) + Pitfall",
+      "date": "2026-11-28",
+      "time": "4:30, 6:30, 8:30 PM",
+      "startTime": "16:30",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "note": "Murder, My Sweet also Sun 11/29, 3:30 PM",
+      "tags": [
+        "film"
+      ],
+      "why": "Dmytryk's 1944 Philip Marlowe film on 35mm with André de Toth's Pitfall.",
+      "url": "https://brattlefilm.org/purchase/1744725/",
+      "linkLabel": "Tickets",
+      "id": "2026-11-28-murder-my-sweet-35mm-pitfall",
+      "added": "2026-11-10"
+    },
+    {
       "id": "2026-11-28-bonobo-house-of-blues",
       "name": "Bonobo",
       "date": "2026-11-28",
@@ -1725,6 +1856,22 @@
       "url": "https://www.bostonwomensmarket.com/events-calendar/boston-womens-holiday-market-at-the-armory-nov29",
       "linkLabel": "Info",
       "added": "2026-11-07"
+    },
+    {
+      "name": "The Long Goodbye + Chinatown",
+      "date": "2026-11-29",
+      "time": "6 PM / 8:30 PM",
+      "startTime": "18:00",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "tags": [
+        "film"
+      ],
+      "why": "70s neo-noir double closing the Brattle's Noirvember.",
+      "url": "https://brattlefilm.org/purchase/1744733/",
+      "linkLabel": "Tickets",
+      "id": "2026-11-29-the-long-goodbye-chinatown",
+      "added": "2026-11-10"
     },
     {
       "id": "2026-11-30-copley-square-tree-lighting",
@@ -1861,6 +2008,27 @@
       "added": "2026-11-04"
     },
     {
+      "name": "Open Newbury: Holiday Stroll",
+      "date": "2026-12-06",
+      "time": "10 AM–6 PM",
+      "startTime": "10:00",
+      "endTime": "18:00",
+      "venue": "Newbury St",
+      "area": "Boston",
+      "price": "Free",
+      "free": true,
+      "note": "Rain date Dec 13",
+      "tags": [
+        "outdoors",
+        "market"
+      ],
+      "why": "Newbury Street closes to cars for a holiday shopping stroll.",
+      "url": "https://www.boston.gov/news/mayor-michelle-wu-announces-2026-open-newbury-holiday-stroll",
+      "linkLabel": "Info",
+      "id": "2026-12-06-open-newbury-holiday-stroll",
+      "added": "2026-11-10"
+    },
+    {
       "id": "2026-12-06-union-square-jingle",
       "name": "Union Square Jingle: Shop, Sip & Mingle",
       "date": "2026-12-06",
@@ -1926,7 +2094,8 @@
       "startTime": "22:00",
       "venue": "Big Night Live",
       "url": "https://www.ticketmaster.com/event/0100650696CEF09E",
-      "onSale": "On sale now"
+      "onSale": "On sale now",
+      "with": "Cristoph"
     },
     {
       "artist": "Chris Lake",
@@ -2453,7 +2622,7 @@
   "comedianWatchlist": [],
   "ticker": [
     "Rocky Horror, Fri the 13th",
-    "Free: Lagers & Leaves, Sat",
+    "Free: Thai Night Market, Sat",
     "Free: FOUND vintage mkt, Sun"
   ]
 }

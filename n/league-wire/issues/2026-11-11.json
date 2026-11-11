@@ -1,0 +1,377 @@
+{
+  "date": "2026-11-11",
+  "headline": "Vikings reunite with Kirk Cousins in deadline-day trade",
+  "ticker": [
+    "Vikings trade for Cousins",
+    "Chiefs trade for Josh Downs",
+    "Blazers 123, Thunder 103",
+    "Jets 4, Devils 2",
+    "Murphy wins 3rd straight MOY"
+  ],
+  "top": [
+    {
+      "league": "nfl",
+      "headline": "Vikings reunite with Kirk Cousins in deadline-day trade",
+      "summary": "The Vikings got quarterback Kirk Cousins from the Raiders for a 2027 third-round pick. The 6-2 Vikings made the deal a day after a 23-6 loss to Buffalo in which they didn't score a touchdown and Carson Wentz threw for 81 yards. No. 1 overall pick Fernando Mendoza is expected to start for the Raiders against Seattle this week.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50444360/sources-vikings-id-qb-kirk-cousins-prime-trade-target"
+    },
+    {
+      "league": "nfl",
+      "headline": "Colts keep Jonathan Taylor, trade Josh Downs and Keenan Allen",
+      "summary": "The Colts turned down offers of second-round picks for running back Jonathan Taylor and wanted at least a first-rounder, per NFL Network's Tom Pelissero. Indianapolis still moved two receivers: Josh Downs to the Chiefs and Keenan Allen to the 49ers.",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/jonathan-taylor-stays-with-colts-nfl-trade-deadline/"
+    },
+    {
+      "league": "nba",
+      "headline": "Blazers beat Thunder 123-103",
+      "summary": "Portland outscored Oklahoma City 38-21 in the third quarter and pulled away. Damian Lillard had 25 points and Deni Avdija had 24 points and 8 assists. The Blazers are 7-3, and the two teams meet again Wednesday night.",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/nba/trailblazers/onsi/2-blazers-takeaways-in-huge-win-vs-thunder"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Vikings bring back Kirk Cousins at the deadline; Colts keep Jonathan Taylor but deal Downs and Allen; Bengals back out of Ebiketie trade; Bills add Amani Hooker",
+      "stories": [
+        {
+          "headline": "Vikings reunite with Kirk Cousins in deadline-day trade",
+          "summary": "The Vikings got quarterback Kirk Cousins from the Raiders for a 2027 third-round pick. The 6-2 Vikings made the deal a day after a 23-6 loss to Buffalo in which they didn't score a touchdown and Carson Wentz threw for 81 yards. No. 1 overall pick Fernando Mendoza is expected to start for the Raiders against Seattle this week.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50444360/sources-vikings-id-qb-kirk-cousins-prime-trade-target"
+        },
+        {
+          "headline": "Colts keep Jonathan Taylor, trade Josh Downs and Keenan Allen",
+          "summary": "The Colts turned down offers of second-round picks for running back Jonathan Taylor and wanted at least a first-rounder, per NFL Network's Tom Pelissero. Indianapolis still moved two receivers: Josh Downs to the Chiefs and Keenan Allen to the 49ers.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/jonathan-taylor-stays-with-colts-nfl-trade-deadline/"
+        },
+        {
+          "headline": "Bengals back out of Arnold Ebiketie trade",
+          "summary": "Cincinnati had agreed to get edge rusher Arnold Ebiketie from the Eagles for a sixth-round pick, then called the deal off. Per The Cincinnati Enquirer, completing it would have cost the Bengals a third-round compensatory pick they expect for losing Trey Hendrickson to Baltimore. The team declined to comment.",
+          "source": "The Cincinnati Enquirer (via Yahoo Sports)",
+          "url": "https://sports.yahoo.com/articles/cincinnati-bengals-big-week-turns-053015331.html"
+        },
+        {
+          "headline": "Bills, Broncos, Ravens make late deadline additions",
+          "summary": "The Bills got safety Amani Hooker and a 2027 fifth from the Titans for a 2027 second-rounder. The Broncos added linebacker Daiyan Henley from the Chargers, and the Ravens got center Ryan Neuzil from the Falcons. NFL.com counted six trades on deadline day.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-trade-deadline-track-every-move-since-start-of-2026-regular-season"
+        },
+        {
+          "headline": "Dolphins DT Zach Sieler out for the season",
+          "summary": "Zach Sieler tore his biceps early in Sunday's loss to the Lions and will have season-ending surgery, ESPN's Adam Schefter reported. He played the rest of that game.",
+          "source": "Pro Football Talk",
+          "url": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-dolphins-dt-zach-sieler-to-have-season-ending-biceps-surgery"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Vikings acquire QB Kirk Cousins from Raiders for a 2027 third-round pick",
+          "url": "https://www.nfl.com/news/nfl-trade-deadline-track-every-move-since-start-of-2026-regular-season"
+        },
+        {
+          "text": "Chiefs acquire WR Josh Downs and a 2027 seventh from Colts for 2027 fourth- and fifth-round picks",
+          "url": "https://www.nfl.com/news/nfl-trade-deadline-track-every-move-since-start-of-2026-regular-season"
+        },
+        {
+          "text": "49ers acquire WR Keenan Allen from Colts for a 2027 sixth-round pick",
+          "url": "https://www.nfl.com/news/nfl-trade-deadline-track-every-move-since-start-of-2026-regular-season"
+        },
+        {
+          "text": "Bills acquire S Amani Hooker and a 2027 fifth from Titans for a 2027 second-round pick",
+          "url": "https://www.nfl.com/news/nfl-trade-deadline-track-every-move-since-start-of-2026-regular-season"
+        },
+        {
+          "text": "Broncos acquire LB Daiyan Henley from Chargers for a 2027 fourth and a 2028 fifth",
+          "url": "https://www.nfl.com/news/nfl-trade-deadline-track-every-move-since-start-of-2026-regular-season"
+        },
+        {
+          "text": "Ravens acquire C Ryan Neuzil from Falcons for OL Andrew Vorhees and a 2028 sixth",
+          "url": "https://www.nfl.com/news/nfl-trade-deadline-track-every-move-since-start-of-2026-regular-season"
+        },
+        {
+          "text": "Bengals call off agreed trade for Eagles edge Arnold Ebiketie",
+          "url": "https://sports.yahoo.com/articles/cincinnati-bengals-big-week-turns-053015331.html"
+        },
+        {
+          "text": "Dolphins DT Zach Sieler (biceps) to have season-ending surgery",
+          "url": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-dolphins-dt-zach-sieler-to-have-season-ending-biceps-surgery"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Blazers beat Thunder by 20; Knicks win fourth straight as Bucks drop to 1-10; Franz Wagner's 33 ends Magic skid; Kawhi out another week",
+      "stories": [
+        {
+          "headline": "Blazers beat Thunder 123-103",
+          "summary": "Portland outscored Oklahoma City 38-21 in the third quarter and pulled away. Damian Lillard had 25 points and Deni Avdija had 24 points and 8 assists. The Blazers are 7-3, and the two teams meet again Wednesday night.",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/nba/trailblazers/onsi/2-blazers-takeaways-in-huge-win-vs-thunder"
+        },
+        {
+          "headline": "Knicks win fourth straight, Bucks lose seventh in a row",
+          "summary": "New York beat Milwaukee 117-85 behind Karl-Anthony Towns' 21 points and 16 rebounds and Jalen Brunson's 23. The Knicks are 6-4 after an 0-3 start. The Bucks fell to 1-10.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909960"
+        },
+        {
+          "headline": "Wagner's 33 ends Magic skid; Acuff nears a Jordan rookie mark",
+          "summary": "Franz Wagner scored a season-high 33 as Orlando won 107-100 in Sacramento to snap a four-game losing streak. Kings rookie Darius Acuff Jr. scored 29 and has 288 points through 11 games, the most by a rookie in that span since Michael Jordan's 289 in 1984. Sacramento is 0-6 at home.",
+          "source": "AP",
+          "url": "https://abcnews.com/Sports/wireStory/franz-wagner-scores-season-high-33-points-magic-138037270"
+        },
+        {
+          "headline": "Giannis has 30 and 11 as Heat hold off Jazz",
+          "summary": "Giannis Antetokounmpo had 30 points and 11 rebounds in Miami's 115-109 win, after Utah outscored the Heat 37-23 in the fourth. The Jazz have lost nine straight and their 1-10 record is the worst in the West.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/game/_/gameId/401909963/heat-jazz"
+        },
+        {
+          "headline": "Kawhi Leonard out at least one more week",
+          "summary": "The Raptors said Leonard will miss at least another week while he reconditions after treatment for swelling in his left knee. He has been out since Oct. 23. Scottie Barnes and Immanuel Quickley have each missed two straight games.",
+          "source": "Hoops Rumors",
+          "url": "https://www.hoopsrumors.com/2026/11/raptors-notes-leonard-barnes-quickley-poeltl-more.html"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Bucks",
+          "awayScore": 85,
+          "home": "Knicks",
+          "homeScore": 117,
+          "note": ""
+        },
+        {
+          "away": "Celtics",
+          "awayScore": 123,
+          "home": "76ers",
+          "homeScore": 101,
+          "note": ""
+        },
+        {
+          "away": "Clippers",
+          "awayScore": 110,
+          "home": "Suns",
+          "homeScore": 133,
+          "note": ""
+        },
+        {
+          "away": "Heat",
+          "awayScore": 115,
+          "home": "Jazz",
+          "homeScore": 109,
+          "note": ""
+        },
+        {
+          "away": "Magic",
+          "awayScore": 107,
+          "home": "Kings",
+          "homeScore": 100,
+          "note": ""
+        },
+        {
+          "away": "Thunder",
+          "awayScore": 103,
+          "home": "Trail Blazers",
+          "homeScore": 123,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Franz Wagner",
+          "team": "Magic",
+          "line": "33 PTS · 7 REB · 7 AST · 10-21 FG",
+          "note": "A season high, with 10 of 10 at the line, as Orlando snapped a four-game skid."
+        },
+        {
+          "name": "Giannis Antetokounmpo",
+          "team": "Heat",
+          "line": "30 PTS · 11 REB · 12-21 FG",
+          "note": "Carried Miami to a road win as Utah's losing streak reached nine."
+        },
+        {
+          "name": "Damian Lillard",
+          "team": "Trail Blazers",
+          "line": "25 PTS · 8-15 FG",
+          "note": "Scored 13 in the third quarter as Portland pulled away from Oklahoma City."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Lakers to sign C Carson Cooper to a two-way deal after the Grizzlies waived him",
+          "url": "https://hoopsrumors.com/2026/11/lakers-to-sign-carson-cooper-to-two-way-deal.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Mercer scores twice as Jets beat Hellebuyck's Devils; Leafs drop fourth straight; Saros blanks Kings; Barkov and Marchand back on the ice",
+      "stories": [
+        {
+          "headline": "Mercer burns former team as Jets snap Devils' streak",
+          "summary": "Dawson Mercer scored twice, including the go-ahead power-play goal early in the third, and Nico Daws made 19 saves for his first Winnipeg win in a 4-2 victory. Connor Hellebuyck, traded to New Jersey in the deal that sent both to Winnipeg, did not play. The Jets have won four straight; the Devils' five-game win streak is over.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/new-jersey-devils-winnipeg-jets-game-recap-november-10-2026"
+        },
+        {
+          "headline": "Landeskog scores twice as Avalanche hand Maple Leafs fourth straight loss",
+          "summary": "Gabriel Landeskog had two goals, including the go-ahead goal in the third, and Cale Makar added two assists in Colorado's 6-3 win in Toronto. The Maple Leafs are 8-10-2.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/colorado-avalanche-toronto-maple-leafs-game-recap-november-10-2026"
+        },
+        {
+          "headline": "Barkov, Marchand skate with Panthers, could return within two weeks",
+          "summary": "Aleksander Barkov and Brad Marchand skated with Florida for the first time since getting hurt in early October. Coach Paul Maurice said they could return within two weeks. The Panthers won 4-1 at Columbus later Tuesday.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-10-2026"
+        },
+        {
+          "headline": "Saros shuts out Kings; Forsberg scores twice",
+          "summary": "Juuse Saros stopped all 30 shots and Filip Forsberg scored twice in Nashville's 3-0 win in Los Angeles. The Kings had been favored.",
+          "source": "theScore",
+          "url": "https://www.thescore.com/nhl/event/35272"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Avalanche",
+          "awayScore": 6,
+          "home": "Maple Leafs",
+          "homeScore": 3,
+          "note": ""
+        },
+        {
+          "away": "Wild",
+          "awayScore": 2,
+          "home": "Canadiens",
+          "homeScore": 1,
+          "note": "OT"
+        },
+        {
+          "away": "Capitals",
+          "awayScore": 3,
+          "home": "Senators",
+          "homeScore": 2,
+          "note": "OT"
+        },
+        {
+          "away": "Devils",
+          "awayScore": 2,
+          "home": "Jets",
+          "homeScore": 4,
+          "note": "Upset"
+        },
+        {
+          "away": "Panthers",
+          "awayScore": 4,
+          "home": "Blue Jackets",
+          "homeScore": 1,
+          "note": "Upset"
+        },
+        {
+          "away": "Red Wings",
+          "awayScore": 2,
+          "home": "Blues",
+          "homeScore": 3,
+          "note": "Close"
+        },
+        {
+          "away": "Predators",
+          "awayScore": 3,
+          "home": "Kings",
+          "homeScore": 0,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Juuse Saros",
+          "team": "Predators",
+          "line": "30 SV · 1.000 SV%",
+          "note": "Stopped everything in a shutout in Los Angeles."
+        },
+        {
+          "name": "Jacob Markstrom",
+          "team": "Panthers",
+          "line": "37 SV · .974 SV%",
+          "note": "Made 37 saves on 38 shots in a 4-1 win at Columbus."
+        },
+        {
+          "name": "Dawson Mercer",
+          "team": "Jets",
+          "line": "2 G",
+          "note": "Scored twice against his former team, including the go-ahead power-play goal."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Canucks claim D Cameron Crotty off waivers from the Wild",
+          "url": "https://sports.yahoo.com/articles/canucks-waiver-claim-today-193240228.html"
+        },
+        {
+          "text": "Canucks F Akil Thomas and Kings F Jan Jenik placed on waivers",
+          "url": "https://www.dailyfaceoff.com/news/two-nhl-players-placed-waivers-november-10-los-angeles-kings-jan-jenik-vancouver-canucks-akil-thomas"
+        },
+        {
+          "text": "Rangers place D Alberts Smits on IR; Red Wings activate Marco Kasper and Mason Appleton; Blues activate Logan Mailloux",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-10-2026"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Murphy and Venable win Manager of the Year; Cy Young winners announced today",
+      "stories": [
+        {
+          "headline": "Pat Murphy wins third straight NL Manager of the Year; Will Venable takes AL",
+          "summary": "Milwaukee's Pat Murphy became the first manager to win the award three years in a row, getting 20 of 30 first-place votes after the Brewers won a franchise-record 103 games and the World Series. Chicago's Will Venable won the AL award after the White Sox went 84-78 and became the first team to make the playoffs after back-to-back 100-loss seasons.",
+          "source": "AP",
+          "url": "https://abcnews.com/Sports/wireStory/milwaukees-pat-murphy-win-3-straight-manager-year-138029748"
+        },
+        {
+          "headline": "Rangers plan to explore Corey Seager trades",
+          "summary": "Per The Athletic and the Dallas Morning News, Texas will test the market for its shortstop at the GM meetings. Seager is owed about $155MM over five years and has full no-trade rights. Teams have a few weeks to deal before a widely expected lockout after the CBA expires Dec. 1.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/rangers-planning-to-explore-corey-seager-trades.html"
+        },
+        {
+          "headline": "Mets set to meet with Tarik Skubal",
+          "summary": "The Mets are scheduled to meet next week with Skubal, the top free agent, per the New York Post. He reportedly hopes to sign before the expected lockout, and because he was traded midseason, signing him costs no draft picks.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/mets-rumors-tarik-skubal-meeting-free-agent.html"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Tigers agree with RHP Emilio Pagán on a one-year deal around $11MM (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/tigers-to-sign-emilio-pagan.html"
+        },
+        {
+          "text": "Dodgers hire Pedro Guerrero as hitting coach",
+          "url": "https://www.mlbtraderumors.com/2026/11/dodgers-hire-pedro-guerrero-as-hitting-coach.html"
+        },
+        {
+          "text": "Dodgers claim INF Christian Cairo off waivers from the Mets",
+          "url": "https://www.mlbtraderumors.com/2026/11/dodgers-claim-christian-cairo.html"
+        },
+        {
+          "text": "Mets outright INF Kyren Paris to Triple-A",
+          "url": "https://www.mlbtraderumors.com/2026/11/mets-outright-kyren-paris.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "date": "2026-11-12",
+  "headline": "Curry hurts abdomen as Rockets end Warriors' eight-game streak",
+  "ticker": [
+    "Curry exits, gets MRI",
+    "Blazers 118, Thunder 108",
+    "Spurs win 10th straight",
+    "McDavid: 20-game pt streak",
+    "Schlittler, Miz win Cy Young"
+  ],
+  "top": [
+    {
+      "league": "nba",
+      "headline": "Curry hurts abdomen as Rockets end Warriors' eight-game streak",
+      "summary": "Stephen Curry left about six minutes into Golden State's 115-108 loss at Houston and had an MRI that night. Steve Kerr said Curry \"tweaked something in his abdominal area\" and that \"concern is high, but I have no idea the extent of the injury.\" His status for Friday against San Antonio depends on the results.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/concern-high-steve-kerr-offers-072836743.html"
+    },
+    {
+      "league": "mlb",
+      "headline": "Schlittler and Misiorowski win Cy Young unanimously",
+      "summary": "The Yankees' Cam Schlittler took the AL award with all 30 first-place votes, ahead of Dylan Cease, Parker Messick and Drew Rasmussen. The Brewers' Jacob Misiorowski was also unanimous in the NL after leading the majors in ERA (1.80), strikeouts (252) and opponents' average (.157). Louis Varland and Mason Miller won the first BBWAA Reliever of the Year awards.",
+      "source": "AP via NBC Sports",
+      "url": "https://www.nbcsports.com/mlb/news/brewers-jacob-misiorowski-yankees-cam-schlittler-win-cy-young-awards"
+    },
+    {
+      "league": "nhl",
+      "headline": "McDavid's season-opening point streak hits 20 as Oilers beat Flyers in OT",
+      "summary": "McDavid had an assist in a 3-2 win, and Evan Bouchard scored 47 seconds into overtime. McDavid is the fourth player with a point in each of a season's first 20 games, joining Wayne Gretzky, Mats Sundin and Dany Heatley. He leads the league with 49 points, and Edmonton is 14-3-3.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/philadelphia-flyers-edmonton-oilers-game-recap-november-11-2026"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Commanders at Giants on TNF; Vikings won't commit to Cousins yet; Darnold out as Mendoza makes first start; Rams keep Nacua off IR",
+      "stories": [
+        {
+          "headline": "TNF: Commanders at Giants",
+          "summary": "Washington (2-5-1) visits New York (5-2-1) tonight at 8:15 ET on Prime Video, a rematch of a 27-27 Week 5 tie. J.J. McCarthy has won six straight starts for the Giants, and Arvell Reese was named NFC Defensive Player of the Week after three sacks against the Eagles. Jayden Daniels practiced fully all week with a left elbow injury.",
+          "source": "Giants.com",
+          "url": "https://www.giants.com/news/john-harbaugh-commanders-week-10-arvell-reese-jayden-daniels-cam-skattebo-thursday-night-football"
+        },
+        {
+          "headline": "Vikings won't commit to Cousins as Week 10 starter",
+          "summary": "Kevin O'Connell said Wednesday it's \"still too early to commit wholeheartedly\" to Kirk Cousins starting Sunday against Green Bay, a day after Minnesota traded for him. If Cousins doesn't start, Kyler Murray, who sat Week 9 with hamstring tightness, is the expected option.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/vikings-send-mixed-messages-kirk-233824305.html"
+        },
+        {
+          "headline": "Darnold out; Lock expected to face Mendoza and the Raiders",
+          "summary": "Seattle ruled out Sam Darnold (rib, quad) for Week 10, with a return possible in Week 12 after the bye. Drew Lock, limited in practice with elbow and quad injuries, is expected to start in Las Vegas against No. 1 pick Fernando Mendoza, who makes his first NFL start after the Raiders traded Cousins.",
+          "source": "Pro Football Talk",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-darnold-did-not-practice-drew-lock-was-limited"
+        },
+        {
+          "headline": "Rams keep Puka Nacua off IR; Davante Adams eyes Week 13",
+          "summary": "Nacua sprained his MCL and PCL and has turf toe from one play in Week 9. The Rams will go week to week instead of using IR, though he could miss about four games. Sean McVay pointed to the Dec. 3 game against Kansas City as a possible return for Adams after hamstring surgery.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/rams-will-not-place-puka-nacua-on-ir-week-13-davante-adams-return-in-play"
+        },
+        {
+          "headline": "Saints open Travis Etienne's practice window",
+          "summary": "New Orleans designated Etienne to return from IR and he was limited Wednesday; Kellen Moore said there is \"some potential\" he plays this week. Center Erik McCoy (biceps) is out, so Cesar Ruiz moves to center.",
+          "source": "Pro Football Talk",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-rb-travis-etienne-has-limited-practice-in-his-return"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Cardinals place QB Gardner Minshew (elbow) and WR Michael Wilson (neck) on IR, both season-ending; rookie Carson Beck to start; Arizona signs QB Josh Johnson off Bengals' practice squad",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-place-qb-gardner-minshew-and-wr-michael-wilson-on-ir"
+        },
+        {
+          "text": "Ravens to sign K Riley Patterson with Tyler Loop (groin) hurt",
+          "url": "https://www.profootballrumors.com/2026/11/ravens-to-sign-k-riley-patterson"
+        },
+        {
+          "text": "Falcons sign K Jake Moody off the Ravens' practice squad",
+          "url": "https://www.profootballrumors.com/2026/11/ravens-to-sign-k-riley-patterson"
+        },
+        {
+          "text": "Saints designate RB Travis Etienne to return from IR",
+          "url": "https://www.profootballrumors.com/2026/11/saints-designate-rb-travis-etienne-for-return-cesar-ruiz-moving-to-c"
+        },
+        {
+          "text": "Steelers designate DT Derrick Harmon to return from IR",
+          "url": "https://www.profootballrumors.com/2026/11/steelers-designate-dt-derrick-harmon-to-return-from-ir"
+        },
+        {
+          "text": "Panthers designate CB Michael Jackson and RB Jonathon Brooks to return from IR",
+          "url": "https://www.profootballrumors.com/2026/11/panthers-cb-michael-jackson-rb-jonathon-brooks-return-to-practice"
+        },
+        {
+          "text": "Colts designate DE Arden Key to return from IR",
+          "url": "https://www.profootballrumors.com/2026/11/colts-designate-de-arden-key-for-return"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Curry leaves with abdominal injury; Spurs win 10th straight; Blazers beat Thunder again; Lakers win seventh in a row",
+      "stories": [
+        {
+          "headline": "Curry hurts abdomen as Rockets end Warriors' eight-game streak",
+          "summary": "Stephen Curry left about six minutes into Golden State's 115-108 loss at Houston and had an MRI that night. Steve Kerr said Curry \"tweaked something in his abdominal area\" and that \"concern is high, but I have no idea the extent of the injury.\" His status for Friday against San Antonio depends on the results.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/concern-high-steve-kerr-offers-072836743.html"
+        },
+        {
+          "headline": "Spurs erase 22-point hole for 10th straight win",
+          "summary": "San Antonio came back from 22 down to beat Chicago 124-119. Victor Wembanyama had 32 points, 9 rebounds and 5 blocks, and Dylan Harper added 18 points and 10 assists. The Spurs are 10-2; the Bulls are 1-9 and have lost eight straight.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909969"
+        },
+        {
+          "headline": "Trail Blazers beat Thunder for second straight night",
+          "summary": "Portland won 118-108 a night after a 123-103 win, sweeping the two-game set. Deni Avdija scored 28 and Damian Lillard had 18. Shai Gilgeous-Alexander scored a game-high 31.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/trail-blazers-sweep-thunder-118-055505907.html"
+        },
+        {
+          "headline": "Lakers win seventh straight; Bucks lose eighth in a row",
+          "summary": "Luka Doncic scored 32 as the Lakers won 123-112 in Milwaukee to move to 11-2. Sandro Mamukelashvili added 23. The Bucks are 1-11.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909971"
+        },
+        {
+          "headline": "Harden's season high ends Knicks' four-game run",
+          "summary": "James Harden scored a season-high 32, including a go-ahead 3 with 4:21 left, as Cleveland won 115-107 at Madison Square Garden. Karl-Anthony Towns had 21 and 11, tying Willis Reed's franchise record with his 11th straight double-double to open a season.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909967"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Celtics",
+          "awayScore": 98,
+          "home": "Raptors",
+          "homeScore": 93,
+          "note": "Close"
+        },
+        {
+          "away": "Nets",
+          "awayScore": 145,
+          "home": "Pelicans",
+          "homeScore": 111,
+          "note": "Upset"
+        },
+        {
+          "away": "Cavaliers",
+          "awayScore": 115,
+          "home": "Knicks",
+          "homeScore": 107,
+          "note": "Upset"
+        },
+        {
+          "away": "Nuggets",
+          "awayScore": 123,
+          "home": "Grizzlies",
+          "homeScore": 118,
+          "note": "Close"
+        },
+        {
+          "away": "Warriors",
+          "awayScore": 108,
+          "home": "Rockets",
+          "homeScore": 115,
+          "note": ""
+        },
+        {
+          "away": "Lakers",
+          "awayScore": 123,
+          "home": "Bucks",
+          "homeScore": 112,
+          "note": ""
+        },
+        {
+          "away": "Thunder",
+          "awayScore": 108,
+          "home": "Trail Blazers",
+          "homeScore": 118,
+          "note": "Upset"
+        },
+        {
+          "away": "Magic",
+          "awayScore": 123,
+          "home": "Jazz",
+          "homeScore": 108,
+          "note": ""
+        },
+        {
+          "away": "Spurs",
+          "awayScore": 124,
+          "home": "Bulls",
+          "homeScore": 119,
+          "note": "Close"
+        },
+        {
+          "away": "Wizards",
+          "awayScore": 101,
+          "home": "Pacers",
+          "homeScore": 114,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Franz Wagner",
+          "team": "Magic",
+          "line": "38 PTS · 8 REB · 1 AST · 13-23 FG",
+          "note": "Tied his career high, his third straight 30-point game, as Utah lost its 10th straight."
+        },
+        {
+          "name": "Victor Wembanyama",
+          "team": "Spurs",
+          "line": "32 PTS · 9 REB · 5 BLK · 13-18 FG",
+          "note": "Led the comeback from 22 down for San Antonio's 10th straight win."
+        },
+        {
+          "name": "James Harden",
+          "team": "Cavaliers",
+          "line": "32 PTS",
+          "note": "A season high, capped by the go-ahead 3 at MSG."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Kings sign C Mason Plumlee to a non-guaranteed deal",
+          "url": "https://www.hoopsrumors.com/2026/11/mason-plumlee-to-sign-with-kings.html"
+        },
+        {
+          "text": "Timberwolves adding Johni Broome on a two-way deal",
+          "url": "https://www.hoopsrumors.com/2026/11/timberwolves-adding-johni-broome-on-two-day-deal.html"
+        },
+        {
+          "text": "Lakers waive two-way C Lawson Lovering",
+          "url": "https://www.hoopsrumors.com/2026/11/lakers-waive-two-way-player-lawson-lovering.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "McDavid's point streak reaches 20; Predators win sixth straight despite Gauthier; Kucherov and Carlson lead 8-3 rout in Buffalo",
+      "stories": [
+        {
+          "headline": "McDavid's season-opening point streak hits 20 as Oilers beat Flyers in OT",
+          "summary": "McDavid had an assist in a 3-2 win, and Evan Bouchard scored 47 seconds into overtime. McDavid is the fourth player with a point in each of a season's first 20 games, joining Wayne Gretzky, Mats Sundin and Dany Heatley. He leads the league with 49 points, and Edmonton is 14-3-3.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/philadelphia-flyers-edmonton-oilers-game-recap-november-11-2026"
+        },
+        {
+          "headline": "Predators win sixth straight as Gauthier scores again",
+          "summary": "Nashville won 4-2 at Anaheim for its first six-game win streak since March 2024. Cutter Gauthier has 14 goals during a seven-game goal streak, the first to reach that total since Mario Lemieux and Alexander Mogilny in 1992-93. Roman Josi reached 800 career points.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/nashville-predators-anaheim-ducks-game-recap-november-11-2026"
+        },
+        {
+          "headline": "Kucherov hat trick, Carlson five points in Lightning rout",
+          "summary": "Tampa Bay won 8-3 in Buffalo. Nikita Kucherov's natural hat trick was his eighth, tying Martin St. Louis for second in franchise history, and John Carlson reached 800 points. Erik Cernak left after crashing into the glass.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/tampa-bay-lightning-buffalo-sabres-game-recap-november-11-2026"
+        },
+        {
+          "headline": "Mammoth injuries pile up in loss to Golden Knights",
+          "summary": "Utah lost 5-3 at Vegas, and Nick Schmaltz left in the first period with a lower-body injury. Dylan Guenther and Nate Schmidt went on IR. Utah has lost three straight; Vegas has won four in a row.",
+          "source": "The Sporting Tribune",
+          "url": "https://www.thesportingtribune.com/2026/11/11/goldenknights-mammoth-nov112026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Lightning",
+          "awayScore": 8,
+          "home": "Sabres",
+          "homeScore": 3,
+          "note": ""
+        },
+        {
+          "away": "Rangers",
+          "awayScore": 3,
+          "home": "Flames",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Flyers",
+          "awayScore": 2,
+          "home": "Oilers",
+          "homeScore": 3,
+          "note": "OT"
+        },
+        {
+          "away": "Mammoth",
+          "awayScore": 3,
+          "home": "Golden Knights",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Predators",
+          "awayScore": 4,
+          "home": "Ducks",
+          "homeScore": 2,
+          "note": "Upset"
+        },
+        {
+          "away": "Penguins",
+          "awayScore": 3,
+          "home": "Sharks",
+          "homeScore": 2,
+          "note": "SO"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Nikita Kucherov",
+          "team": "Lightning",
+          "line": "3 G · 1 A",
+          "note": "All three goals came in the third period."
+        },
+        {
+          "name": "John Carlson",
+          "team": "Lightning",
+          "line": "1 G · 4 A",
+          "note": "His assist on Kucherov's third goal was his 800th point."
+        },
+        {
+          "name": "Sergei Murashov",
+          "team": "Penguins",
+          "line": "34 SV · .944 SV%",
+          "note": "Kept Pittsburgh in it for a shootout win in San Jose."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Lightning place C Brayden Point (lower body) on IR, recall Sam O'Reilly",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Mammoth place Dylan Guenther and Nate Schmidt on IR",
+          "url": "https://www.canucksworld.com/2026/11/11/injuries-keep-coming-as-mammoth-lose-nick-schmaltz-and-game-to-golden-knights/"
+        },
+        {
+          "text": "Canucks place F Ilya Safonov on waivers",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Ducks activate Troy Terry from IR",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Golden Knights' Noah Hanifin out week to week; Senators' Nick Cousins out 7-10 days",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-11-2026"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Schlittler and Misiorowski win Cy Youngs unanimously; MVPs tonight",
+      "stories": [
+        {
+          "headline": "Schlittler and Misiorowski win Cy Young unanimously",
+          "summary": "The Yankees' Cam Schlittler took the AL award with all 30 first-place votes, ahead of Dylan Cease, Parker Messick and Drew Rasmussen. The Brewers' Jacob Misiorowski was also unanimous in the NL after leading the majors in ERA (1.80), strikeouts (252) and opponents' average (.157). Louis Varland and Mason Miller won the first BBWAA Reliever of the Year awards.",
+          "source": "AP via NBC Sports",
+          "url": "https://www.nbcsports.com/mlb/news/brewers-jacob-misiorowski-yankees-cam-schlittler-win-cy-young-awards"
+        },
+        {
+          "headline": "MVP winners announced tonight",
+          "summary": "The BBWAA announces both MVPs at 7 p.m. ET on MLB Network. AL finalists are Yordan Alvarez, Junior Caminero and Bobby Witt Jr.; NL finalists are Pete Crow-Armstrong, Shohei Ohtani and Brice Turang.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/when-are-2026-mlb-awards-announced-mvp-cy-young-rookie-of-the-year"
+        },
+        {
+          "headline": "Skubal market widens; Padres expected to meet him",
+          "summary": "The Mets, Dodgers, Padres and Blue Jays have known interest in Tarik Skubal, and San Diego is expected to meet with his camp in the coming days. ESPN's Jeff Passan reported Skubal has no interest in a shorter, higher-dollar deal.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-11"
+        },
+        {
+          "headline": "GMs say 'business as usual' as lockout looms",
+          "summary": "The GM meetings in Las Vegas wrapped with the CBA set to expire Dec. 1. Yankees GM Brian Cashman said he is \"approaching business as usual here until told otherwise.\"",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/gm-meetings-mlb-execs-trying-141801322.html"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Padres sign RHP Ryan Weiss to a major league deal",
+          "url": "https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027"
+        },
+        {
+          "text": "Twins sign Jose Espada; Phillies sign Bryan Ramos and Brian Navarreto (minor league deals)",
+          "url": "https://www.cbssports.com/mlb/transactions/"
+        }
+      ]
+    }
+  ]
+}

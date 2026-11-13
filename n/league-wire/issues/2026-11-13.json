@@ -1,0 +1,436 @@
+{
+  "date": "2026-11-13",
+  "headline": "Cunningham scores 52 with no turnovers as Pistons outlast Wizards in 2OT",
+  "ticker": [
+    "Commanders 24, Giants 21",
+    "Cunningham drops 52",
+    "Curry: oblique tear",
+    "PCA, Alvarez win MVP",
+    "Rams put Nacua on IR"
+  ],
+  "top": [
+    {
+      "league": "nba",
+      "headline": "Cunningham scores 52 with no turnovers as Pistons outlast Wizards in 2OT",
+      "summary": "Cade Cunningham had a career-high 52 points and 11 assists with no turnovers in Detroit's 144-140 double-overtime win at Washington. NBA.com says he is the first player in league history with 50 points, 10 assists and zero turnovers in a game. Ausar Thompson had the first triple-double of his career, and Washington has lost six straight.",
+      "source": "AP via NBC Sports",
+      "url": "https://www.nbcsports.com/nba/news/cunninghams-52-points-help-the-pistons-outlast-the-wizards-144-140-in-double-overtime"
+    },
+    {
+      "league": "nfl",
+      "headline": "Daniels-to-Diggs TD with 49 seconds left lifts Commanders past Giants",
+      "summary": "Jayden Daniels hit Stefon Diggs for a 32-yard touchdown with 49 seconds left, and Rasul Douglas intercepted J.J. McCarthy on New York's last possession to finish a 24-21 Washington win. Daniels threw for three touchdowns and also threw his first two interceptions of the season. New York came in with a 2.5-game NFC East lead; it is now 5-3-1, and Washington is 3-5-1.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50466279/new-york-giants-washington-commanders-week-10-tnf"
+    },
+    {
+      "league": "mlb",
+      "headline": "Crow-Armstrong, Alvarez win MVP unanimously",
+      "summary": "The Cubs' Pete Crow-Armstrong (45 HR, 41 SB) and the Astros' Yordan Alvarez (.316/.432/.601, 42 HR) each got all 30 first-place votes. Shohei Ohtani finished second in the NL after three straight MVPs, and Junior Caminero was second in the AL. It's the third year both MVPs were unanimous, after 2023 and 2024.",
+      "source": "AP",
+      "url": "https://www.wsls.com/sports/2026/11/13/yordan-alvarez-wins-al-mvp-award-after-the-astros-slugger-made-a-run-at-the-triple-crown/"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Commanders stun Giants on late Daniels-to-Diggs TD; Rams reverse course and put Nacua on IR; Cousins on track to start; Henley trade called off",
+      "stories": [
+        {
+          "headline": "Daniels-to-Diggs TD with 49 seconds left lifts Commanders past Giants",
+          "summary": "Jayden Daniels hit Stefon Diggs for a 32-yard touchdown with 49 seconds left, and Rasul Douglas intercepted J.J. McCarthy on New York's last possession to finish a 24-21 Washington win. Daniels threw for three touchdowns and also threw his first two interceptions of the season. New York came in with a 2.5-game NFC East lead; it is now 5-3-1, and Washington is 3-5-1.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50466279/new-york-giants-washington-commanders-week-10-tnf"
+        },
+        {
+          "headline": "Rams reverse course, put Puka Nacua on IR",
+          "summary": "A day after Sean McVay said Nacua would stay on the active roster, the Rams placed him on injured reserve with right MCL and toe injuries. He will miss at least four games. Los Angeles signed Brennan Presley to the active roster and Tyler Scott to the practice squad, and Davante Adams is still on IR.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50466270/rams-wide-receiver-puka-nacua-ir-knee-toe-injuries"
+        },
+        {
+          "headline": "Cousins takes first-team reps, on track to start at Green Bay",
+          "summary": "Kirk Cousins took the first-team reps at Vikings practice and is on track to start Sunday against the Packers, CBS Sports' Matt Zenitz reported. Kevin O'Connell had declined to commit to him a day earlier. Minnesota got Cousins from Las Vegas for a 2027 third-round pick and has lost two straight after a 6-0 start.",
+          "source": "Yahoo Sports (ClutchPoints)",
+          "url": "https://sports.yahoo.com/articles/kirk-cousins-trending-toward-starting-060437446.html"
+        },
+        {
+          "headline": "Broncos-Chargers Daiyan Henley trade falls through",
+          "summary": "Denver called off its deal for the Chargers linebacker after its physical turned up an issue with one of Henley's knees, per ESPN's Jeff Legwold. Denver had agreed to send a 2027 fourth-round pick and a 2028 fifth. The Broncos tried to rework the deal with different picks, but nothing was finalized, so Henley stays in Los Angeles.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/broncos-chargers-daiyan-henley-trade-nixed"
+        },
+        {
+          "headline": "Eagles to waive Marquise Brown",
+          "summary": "Philadelphia is waiving the receiver two days after the trade deadline, according to Jordan Schultz. Brown signed a one-year deal with $5 million guaranteed and caught five passes for 63 yards over the Eagles' last three games. Because he was cut after the deadline he must go through waivers.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/eagles-to-waive-wr-marquise-brown"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Commanders",
+          "awayScore": 24,
+          "home": "Giants",
+          "homeScore": 21,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Jayden Daniels",
+          "team": "Commanders",
+          "line": "23-33 · 249 YDS · 3 TD · 2 INT",
+          "note": "Got past his first two interceptions of the season and threw the game-winner to Diggs with 49 seconds left."
+        },
+        {
+          "name": "Isaiah Likely",
+          "team": "Giants",
+          "line": "9-127-1",
+          "note": "His 66-yard touchdown catch put New York ahead in the fourth quarter."
+        },
+        {
+          "name": "Cam Skattebo",
+          "team": "Giants",
+          "line": "18-78-2",
+          "note": "Scored twice in his return from a hamstring injury and added 44 receiving yards."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Rams place WR Puka Nacua (knee, toe) on IR; sign WR Brennan Presley to active roster and WR Tyler Scott to practice squad",
+          "url": "https://www.espn.com/nfl/story/_/id/50466270/rams-wide-receiver-puka-nacua-ir-knee-toe-injuries"
+        },
+        {
+          "text": "Eagles to waive WR Marquise Brown",
+          "url": "https://www.profootballrumors.com/2026/11/eagles-to-waive-wr-marquise-brown"
+        },
+        {
+          "text": "Broncos call off trade for Chargers LB Daiyan Henley after physical",
+          "url": "https://www.profootballrumors.com/2026/11/broncos-chargers-daiyan-henley-trade-nixed"
+        },
+        {
+          "text": "Bengals designate WR Andrei Iosivas, G Brian Parker II and CB Jalen Davis to return from IR",
+          "url": "https://www.profootballrumors.com/2026/11/bengals-open-practice-windows-for-andrei-iosivas-brian-parker-ii-jalen-davis"
+        },
+        {
+          "text": "Jaguars designate DE BJ Green II to return from IR; sign CB Alijah Huzzie to practice squad",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-nov-12"
+        },
+        {
+          "text": "Vikings sign WR Odell Beckham to practice squad",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-nov-12"
+        },
+        {
+          "text": "Ravens sign K Harrison Mevis to practice squad",
+          "url": "https://www.profootballrumors.com/2026/11/ravens-to-sign-k-harrison-mevis-to-practice-squad"
+        },
+        {
+          "text": "Seahawks sign G Cordell Volson to practice squad",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-nov-12"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Cunningham scores 52 with no turnovers in a double-OT win; Curry has an oblique tear; Markkanen out a month; Wolves beat Mavs by 39",
+      "stories": [
+        {
+          "headline": "Cunningham scores 52 with no turnovers as Pistons outlast Wizards in 2OT",
+          "summary": "Cade Cunningham had a career-high 52 points and 11 assists with no turnovers in Detroit's 144-140 double-overtime win at Washington. NBA.com says he is the first player in league history with 50 points, 10 assists and zero turnovers in a game. Ausar Thompson had the first triple-double of his career, and Washington has lost six straight.",
+          "source": "AP via NBC Sports",
+          "url": "https://www.nbcsports.com/nba/news/cunninghams-52-points-help-the-pistons-outlast-the-wizards-144-140-in-double-overtime"
+        },
+        {
+          "headline": "MRI shows Curry has an oblique abdominal tear",
+          "summary": "The Warriors said Thursday that Stephen Curry's MRI showed an oblique abdominal tear. He will be re-evaluated in two weeks and is out until at least Thanksgiving. He was hurt six minutes into Wednesday's loss at Houston and had been averaging 27.8 points.",
+          "source": "NBC Sports Bay Area",
+          "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-oblique-abdominal-tear-injury-update/1979479/"
+        },
+        {
+          "headline": "Markkanen out at least a month with fractured hand",
+          "summary": "Utah's Lauri Markkanen has a non-displaced fracture in his right hand and is expected to miss at least a month. He joins a Jazz injury list that already includes Jaren Jackson Jr. (MCL), Jusuf Nurkic (foot) and Keyonte George (ankle).",
+          "source": "NBC Sports",
+          "url": "https://www.nbcsports.com/nba/news/jazz-star-lauri-markkanen-set-to-miss-at-least-a-month-with-fractured-hand"
+        },
+        {
+          "headline": "Timberwolves beat Mavericks by 39 for fifth straight win",
+          "summary": "Minnesota won 133-94 for its biggest margin of the season and led by as many as 44. Bones Hyland scored 24 off the bench and LaMelo Ball had 22 points and a season-high 9 assists. The Wolves are 9-3 and have beaten Dallas seven straight times.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909978"
+        },
+        {
+          "headline": "76ers beat Raptors without LeBron",
+          "summary": "Philadelphia won 123-112 with LeBron James out with a back injury, his third missed game of the season. Tyrese Maxey scored 27 and Joel Embiid had 20 after briefly going down holding his right knee in the first quarter. The 76ers are 10-3; Toronto has lost three straight.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909976"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Pistons",
+          "awayScore": 144,
+          "home": "Wizards",
+          "homeScore": 140,
+          "note": "OT"
+        },
+        {
+          "away": "Raptors",
+          "awayScore": 112,
+          "home": "76ers",
+          "homeScore": 123,
+          "note": ""
+        },
+        {
+          "away": "Mavericks",
+          "awayScore": 94,
+          "home": "Timberwolves",
+          "homeScore": 133,
+          "note": ""
+        },
+        {
+          "away": "Hornets",
+          "awayScore": 96,
+          "home": "Suns",
+          "homeScore": 101,
+          "note": "Close"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Cade Cunningham",
+          "team": "Pistons",
+          "line": "52 PTS · 5 REB · 11 AST · 16-25 FG",
+          "note": "A career high with no turnovers, including 17 of 18 free throws, in a double-overtime win."
+        },
+        {
+          "name": "Ausar Thompson",
+          "team": "Pistons",
+          "line": "17 PTS · 11 REB · 11 AST",
+          "note": "The first triple-double of his career, with 3 steals and 3 blocks."
+        },
+        {
+          "name": "RJ Barrett",
+          "team": "Raptors",
+          "line": "31 PTS · 14 REB · 5 AST",
+          "note": "Kept Toronto close in Philadelphia, but the Raptors lost their third straight."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Lakers sign C Carson Cooper to a two-way deal, replacing Lawson Lovering",
+          "url": "https://www.hoopsrumors.com/2026/11/lakers-to-sign-carson-cooper-to-two-way-deal.html"
+        },
+        {
+          "text": "Free agent G Rob Dillingham signs a G League contract, expected to join the Knicks' Westchester affiliate",
+          "url": "https://www.hoopsrumors.com/2026/11/rob-dillingham-signing-g-league-contract-expected-to-join-knicks-affiliate.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "MacKinnon and Makar both hurt in Avs' OT loss; Boldy hat trick extends Wild point streak to 10; Jets score 8 in Dallas; Canadiens' point streak hits 12",
+      "stories": [
+        {
+          "headline": "MacKinnon and Makar leave with injuries as Senators beat Avalanche in OT",
+          "summary": "Nathan MacKinnon and Cale Makar both left Colorado's 4-3 overtime loss in Ottawa with lower-body injuries in the second period. MacKinnon went down holding his right hip after a shove from Artem Zub, and Makar left favoring his right leg. Jared Bednar had no update; Colorado plays Montreal on Saturday.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nhl/story/_/id/50467465/avalanche-lose-stars-mackinnon-makar-injuries-vs-senators"
+        },
+        {
+          "headline": "Boldy hat trick pushes Wild point streak to 10; Leafs drop fifth straight",
+          "summary": "Matt Boldy scored three times and Kirill Kaprizov had three assists in Minnesota's 5-2 win in Toronto. The Wild (14-3-4) are 8-0-2 during the streak and have won seven straight on the road. Toronto (8-11-2) has lost the first five games of a six-game homestand, all in regulation.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/minnesota-wild-toronto-maple-leafs-game-recap-november-12-2026"
+        },
+        {
+          "headline": "Jets score five in the second, rout Stars for fifth straight win",
+          "summary": "Winnipeg won 8-3 in Dallas. Mark Scheifele had two goals and an assist to reach 929 points, tying Dale Hawerchuk for the most in Jets/Thrashers history. Dylan DeMelo (Jets) and Lian Bichsel (Stars) both left with lower-body injuries.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/winnipeg-jets-dallas-stars-game-recap-november-12-2026"
+        },
+        {
+          "headline": "Aho scores twice at home as Hurricanes win in Helsinki",
+          "summary": "Sebastian Aho scored twice in Carolina's 4-1 Global Series win over Seattle in Finland, 10 years to the day after his first NHL goal. Taylor Hall became the first player to play his 1,000th game outside North America. The teams play again in Helsinki on Saturday.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/carolina-hurricanes-seattle-kraken-global-series-game-recap-november-12-2026"
+        },
+        {
+          "headline": "Canadiens' point streak hits 12 behind rookie Fowler",
+          "summary": "Montreal scored the first five goals and won 5-2 in Boston, improving to 12-3-4 and 9-0-3 during the streak. Jacob Fowler made 30 saves and tied Charlie Hodge's franchise mark with five straight road wins to open a season. Chris Kreider left in the third period without putting weight on his left leg.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/montreal-canadiens-boston-bruins-game-recap-november-12-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Canadiens",
+          "awayScore": 5,
+          "home": "Bruins",
+          "homeScore": 2,
+          "note": ""
+        },
+        {
+          "away": "Hurricanes",
+          "awayScore": 4,
+          "home": "Kraken",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Wild",
+          "awayScore": 5,
+          "home": "Maple Leafs",
+          "homeScore": 2,
+          "note": ""
+        },
+        {
+          "away": "Capitals",
+          "awayScore": 2,
+          "home": "Devils",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Lightning",
+          "awayScore": 3,
+          "home": "Blue Jackets",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Avalanche",
+          "awayScore": 3,
+          "home": "Senators",
+          "homeScore": 4,
+          "note": "OT"
+        },
+        {
+          "away": "Red Wings",
+          "awayScore": 4,
+          "home": "Panthers",
+          "homeScore": 5,
+          "note": "Close"
+        },
+        {
+          "away": "Jets",
+          "awayScore": 8,
+          "home": "Stars",
+          "homeScore": 3,
+          "note": "Upset"
+        },
+        {
+          "away": "Sabres",
+          "awayScore": 2,
+          "home": "Blackhawks",
+          "homeScore": 3,
+          "note": "OT"
+        },
+        {
+          "away": "Blues",
+          "awayScore": 1,
+          "home": "Mammoth",
+          "homeScore": 0,
+          "note": "SO"
+        },
+        {
+          "away": "Islanders",
+          "awayScore": 5,
+          "home": "Kings",
+          "homeScore": 2,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Matt Boldy",
+          "team": "Wild",
+          "line": "3 G",
+          "note": "His second hat trick of the season, in a win that extended Minnesota's point streak to 10."
+        },
+        {
+          "name": "Mark Scheifele",
+          "team": "Jets",
+          "line": "2 G · 1 A",
+          "note": "Tied Dale Hawerchuk's franchise record of 929 points."
+        },
+        {
+          "name": "Joel Hofer",
+          "team": "Blues",
+          "line": "29 SV · 1.000 SV%",
+          "note": "Shut out Utah through overtime before St. Louis won it in the eighth round of the shootout."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Sabres activate G Alex Lyon (shoulder) from IR, place F Konsta Helenius (upper body) on IR",
+          "url": "https://www.dailyfaceoff.com/news/buffalo-sabres-konsta-helenius-nhl-ir-injured-reserve-activate-alex-lyon-news"
+        },
+        {
+          "text": "Devils recall D Vladislav Kolyachonok, F Lenni Hameenaho and F Stefan Noesen from Utica (AHL)",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-12-2026"
+        },
+        {
+          "text": "Jets D Dylan DeMelo (lower body) out week to week; Stars D Lian Bichsel (lower body) out this weekend",
+          "url": "https://www.nhl.com/news/winnipeg-jets-dallas-stars-game-recap-november-12-2026"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Alvarez and Crow-Armstrong win MVP unanimously; Braves sign Evan Phillips",
+      "stories": [
+        {
+          "headline": "Crow-Armstrong, Alvarez win MVP unanimously",
+          "summary": "The Cubs' Pete Crow-Armstrong (45 HR, 41 SB) and the Astros' Yordan Alvarez (.316/.432/.601, 42 HR) each got all 30 first-place votes. Shohei Ohtani finished second in the NL after three straight MVPs, and Junior Caminero was second in the AL. It's the third year both MVPs were unanimous, after 2023 and 2024.",
+          "source": "AP",
+          "url": "https://www.wsls.com/sports/2026/11/13/yordan-alvarez-wins-al-mvp-award-after-the-astros-slugger-made-a-run-at-the-triple-crown/"
+        },
+        {
+          "headline": "Crow-Armstrong's 40-40 season ends Ohtani's MVP run",
+          "summary": "Crow-Armstrong's 45-homer, 41-steal season was the seventh 40-40 season in MLB history, and he led MLB with 10.6 fWAR. He is the first Cubs NL MVP since Kris Bryant in 2016. Brice Turang finished third.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/pete-crow-armstrong-wins-2026-nl-mvp"
+        },
+        {
+          "headline": "Alvarez falls just short of Triple Crown, wins AL MVP",
+          "summary": "Alvarez got 420 points to Junior Caminero's 267 and Bobby Witt Jr.'s 188. He led the majors in all three slash categories and finished one homer and seven RBI short of the Triple Crown after playing 48 games in 2025.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/mlb/news/mlb-2026-american-league-mvp-yordan-alvarez-astros/"
+        },
+        {
+          "headline": "MLB preparing for union disclaimer during lockout",
+          "summary": "A lockout is expected as soon as the CBA expires after Dec. 1, and MLB has tied every offer to a salary cap the union opposes. Citing The Wall Street Journal, MLB Trade Rumors reports MLB is preparing for the union to possibly file a disclaimer of interest, which would let players bring antitrust suits. The scenario would likely come deep into a lockout.",
+          "source": "MLB Trade Rumors",
+          "url": "https://mlbtraderumors.com/2026/11/mlb-preparing-for-possibility-that-mlbpa-opts-for-disclaimer-of-interest-during-lockout.html"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Braves sign RHP Evan Phillips to a three-year, $35 million deal",
+          "url": "https://www.mlbtraderumors.com/2026/11/braves-sign-evan-phillips-to-three-year-deal.html"
+        },
+        {
+          "text": "Braves sign Tyler Freeman to a minor league deal with a spring training invite",
+          "url": "https://www.mlbtraderumors.com/2026/11/braves-sign-tyler-freeman.html"
+        },
+        {
+          "text": "Nationals and OF Jacob Young agree to a four-year deal through 2030 with a 2031 club option",
+          "url": "https://www.nbcsports.com/mlb/news/nationals-agree-to-terms-with-jacob-young-on-a-deal-through-2030-with-a-31-club-option"
+        },
+        {
+          "text": "Tigers reportedly agree with RHP Emilio Pagan on a one-year deal",
+          "url": "https://www.mlbtraderumors.com/2026/11/tigers-to-sign-emilio-pagan.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "date": "2026-11-14",
+  "headline": "Lamar Jackson has thumb surgery, out 6-10 weeks",
+  "ticker": [
+    "Lamar out 6-10 weeks",
+    "Spurs win 11th straight",
+    "Clippers 113, Thunder 112",
+    "Preds win 7th straight",
+    "Bucks fall to 1-12"
+  ],
+  "top": [
+    {
+      "league": "nfl",
+      "headline": "Lamar Jackson has thumb surgery, out 6-10 weeks",
+      "summary": "Ravens coach Jesse Minter said Friday that Jackson had surgery on the broken and dislocated thumb he hurt on the first snap of Week 8 against the Bills, and will miss 6 to 10 weeks. Jacoby Brissett, acquired in a trade with Arizona, is expected to start the rest of the season, with Tyler Huntley out for the year.",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/ravens-announce-lamar-jackson-surgery-broken-dislocated-thumb-out-6-10-weeks/"
+    },
+    {
+      "league": "nba",
+      "headline": "Spurs rout Curry-less Warriors for 11th straight win",
+      "summary": "San Antonio beat Golden State 123-85 after leading by as many as 43, and Stephon Castle set a career high with 32 points on 12-of-18 shooting. The Spurs are 11-2 and unbeaten in NBA Cup play. The Warriors, without Stephen Curry, scored a season-low 14 points in the first quarter.",
+      "source": "CBS Sports (AP)",
+      "url": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261113_GS@SA/"
+    },
+    {
+      "league": "nba",
+      "headline": "Clippers rally past Thunder; OKC drops third straight",
+      "summary": "Darius Garland's late and-one finished a Clippers comeback after Oklahoma City led 112-106 with under three minutes left. Shai Gilgeous-Alexander scored 40, but his last shot rimmed out at the buzzer. It is the Thunder's first three-game losing streak in three seasons, with Jalen Williams, Chet Holmgren and Cason Wallace among those out.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/player-grades-thunder-suffer-heartbreaker-075342375.html"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Lamar Jackson out 6-10 weeks after thumb surgery; Packers rule out Parsons and Jacobs; Lock starts again for Seattle; Falcons hand out two extensions",
+      "stories": [
+        {
+          "headline": "Lamar Jackson has thumb surgery, out 6-10 weeks",
+          "summary": "Ravens coach Jesse Minter said Friday that Jackson had surgery on the broken and dislocated thumb he hurt on the first snap of Week 8 against the Bills, and will miss 6 to 10 weeks. Jacoby Brissett, acquired in a trade with Arizona, is expected to start the rest of the season, with Tyler Huntley out for the year.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/ravens-announce-lamar-jackson-surgery-broken-dislocated-thumb-out-6-10-weeks/"
+        },
+        {
+          "headline": "Packers rule out Parsons and Jacobs vs. Vikings",
+          "summary": "Green Bay ruled out EDGE Micah Parsons (knee), RB Josh Jacobs (finger), C Sean Rhyan and TE Josh Whyle for Sunday against Minnesota. Parsons, still on the PUP list, will miss his 10th game. The Vikings are short-handed too: QB Kyler Murray, TE T.J. Hockenson, WR Jauan Jennings and LB Blake Cashman are out.",
+          "source": "Packers.com",
+          "url": "https://www.packers.com/news/packers-list-seven-questionable-rule-out-four-vs-vikings-week-10-injury-report"
+        },
+        {
+          "headline": "Drew Lock cleared to start again for Seahawks",
+          "summary": "Mike Macdonald said Lock (elbow, oblique) has no injury designation and will start Sunday at Las Vegas, with Sam Darnold out with rib and quad injuries. Lock is 2-0 as Seattle's starter this season. The 4-5 Raiders have allowed 30 or more points in six straight games.",
+          "source": "NFL.com",
+          "url": "https://nfl.com/news/drew-lock-no-injury-designation-seahawks-raiders"
+        },
+        {
+          "headline": "Falcons extend Cameron Thomas and C.J. Henderson",
+          "summary": "Atlanta signed DE Cameron Thomas to a three-year extension through 2029 worth up to $33 million, and CB C.J. Henderson to a two-year deal worth up to $20 million. The 3-6 Falcons locked up two defenders who were headed for free agency.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-nov-13"
+        },
+        {
+          "headline": "Chiefs' Kenneth Walker questionable with groin injury",
+          "summary": "Kansas City listed RB Kenneth Walker III as questionable for Sunday at Atlanta after he missed Friday's practice. Elsewhere, the Texans ruled out DE Danielle Hunter and LB Azeez Al-Shaair for Cleveland, and Dallas ruled out TE Jake Ferguson against San Francisco.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-10-injury-report-chiefs-kenneth-walker-aj-brown/"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Falcons sign DE Cameron Thomas to a three-year extension",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-nov-13"
+        },
+        {
+          "text": "Falcons sign CB C.J. Henderson to a two-year extension (up to $20M)",
+          "url": "https://www.profootballrumors.com/2026/11/falcons-extend-cb-c-j-henderson"
+        },
+        {
+          "text": "Cardinals sign TE Elijah Higgins to a three-year extension through 2029 (up to $26.8M)",
+          "url": "https://www.profootballrumors.com/2026/11/cardinals-extend-te-elijah-higgins"
+        },
+        {
+          "text": "Eagles waive OT Fred Johnson",
+          "url": "https://www.profootballrumors.com/2026/11/eagles-to-waive-t-fred-johnson"
+        },
+        {
+          "text": "Texans claim WR/KR Nikko Remigio off waivers from the Chiefs, release RB Dare Ogunbowale",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-nov-13"
+        },
+        {
+          "text": "Ravens sign K Riley Patterson to the active roster",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Chargers designate OL Trey Pipkins to return from IR",
+          "url": "https://www.espn.com/nfl/transactions"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Spurs win 11th straight; Clippers rally to hand Thunder a third straight loss; Bucks fall to 1-12; Pacers edge Knicks",
+      "stories": [
+        {
+          "headline": "Spurs rout Curry-less Warriors for 11th straight win",
+          "summary": "San Antonio beat Golden State 123-85 after leading by as many as 43, and Stephon Castle set a career high with 32 points on 12-of-18 shooting. The Spurs are 11-2 and unbeaten in NBA Cup play. The Warriors, without Stephen Curry, scored a season-low 14 points in the first quarter.",
+          "source": "CBS Sports (AP)",
+          "url": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261113_GS@SA/"
+        },
+        {
+          "headline": "Clippers rally past Thunder; OKC drops third straight",
+          "summary": "Darius Garland's late and-one finished a Clippers comeback after Oklahoma City led 112-106 with under three minutes left. Shai Gilgeous-Alexander scored 40, but his last shot rimmed out at the buzzer. It is the Thunder's first three-game losing streak in three seasons, with Jalen Williams, Chet Holmgren and Cason Wallace among those out.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/player-grades-thunder-suffer-heartbreaker-075342375.html"
+        },
+        {
+          "headline": "Bucks lose ninth straight, fall to 1-12",
+          "summary": "Orlando beat Milwaukee 107-99 behind Franz Wagner's 35 points, 9 rebounds and 12 assists. The nine-game skid matches Milwaukee's longest since 2014, and its 1-12 start is its worst in 52 years, per Sportradar.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909297"
+        },
+        {
+          "headline": "Pacers hold off Knicks as 7.5-point underdogs",
+          "summary": "Indiana won 106-104 when Karl-Anthony Towns missed a tying jumper at the buzzer. Jalen Brunson scored 33, and Towns had 23 points and 15 rebounds for his 12th straight double-double to open the season. New York is 6-6.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909296"
+        },
+        {
+          "headline": "Giannis, Adebayo score 37 apiece as Heat beat Cavs",
+          "summary": "Miami beat Cleveland 133-121, with Giannis Antetokounmpo and Bam Adebayo combining for 74 points. Davion Mitchell added 22 points and 17 assists, tying his career high. The Heat are 2-0 in the NBA Cup.",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/heat/news/coups-takeaways-giannis-bam-74-cup-win-cleveland-mitchell-harden"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Bucks",
+          "awayScore": 99,
+          "home": "Magic",
+          "homeScore": 107,
+          "note": ""
+        },
+        {
+          "away": "Knicks",
+          "awayScore": 104,
+          "home": "Pacers",
+          "homeScore": 106,
+          "note": "Upset"
+        },
+        {
+          "away": "Hawks",
+          "awayScore": 117,
+          "home": "Bulls",
+          "homeScore": 125,
+          "note": "OT"
+        },
+        {
+          "away": "Cavaliers",
+          "awayScore": 121,
+          "home": "Heat",
+          "homeScore": 133,
+          "note": ""
+        },
+        {
+          "away": "Grizzlies",
+          "awayScore": 142,
+          "home": "Pelicans",
+          "homeScore": 111,
+          "note": ""
+        },
+        {
+          "away": "Jazz",
+          "awayScore": 118,
+          "home": "Rockets",
+          "homeScore": 125,
+          "note": ""
+        },
+        {
+          "away": "Warriors",
+          "awayScore": 85,
+          "home": "Spurs",
+          "homeScore": 123,
+          "note": ""
+        },
+        {
+          "away": "Trail Blazers",
+          "awayScore": 120,
+          "home": "Kings",
+          "homeScore": 107,
+          "note": ""
+        },
+        {
+          "away": "Thunder",
+          "awayScore": 112,
+          "home": "Clippers",
+          "homeScore": 113,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Alperen Sengun",
+          "team": "Rockets",
+          "line": "43 PTS · 12 REB · 17-24 FG",
+          "note": "His second career 40-point game handed Utah its 11th straight loss."
+        },
+        {
+          "name": "Franz Wagner",
+          "team": "Magic",
+          "line": "35 PTS · 9 REB · 12 AST",
+          "note": "One rebound shy of his first career triple-double, and his fourth straight 30-point game."
+        },
+        {
+          "name": "Stephon Castle",
+          "team": "Spurs",
+          "line": "32 PTS · 5 REB · 6 AST · 12-18 FG",
+          "note": "A career high in San Antonio's 11th straight win."
+        }
+      ],
+      "moves": [
+        {
+          "text": "NBA suspends Rockets G Marcus Smart three games for punching Warriors C Charles Bassey",
+          "url": "https://www.hoopsrumors.com/2026/11/nba-suspends-marcus-smart-three-games-for-punching-charles-bassey.html"
+        },
+        {
+          "text": "Bulls rookie Caleb Wilson to have surgery on a fractured right hand; out 4-6 weeks",
+          "url": "https://www.hoopsrumors.com/2026/11/caleb-wilson-to-miss-4-6-weeks-with-fractured-hand.html"
+        },
+        {
+          "text": "Bulls sign C Orlando Robinson to a non-guaranteed deal",
+          "url": "https://www.hoopsrumors.com/2026/11/bulls-to-sign-orlando-robinson.html"
+        },
+        {
+          "text": "Hawks F Mouhamed Gueye (fractured foot) out at least four more weeks",
+          "url": "https://www.hoopsrumors.com/2026/11/hawks-mouhamed-gueye-foot-out-at-least-four-more-weeks.html"
+        },
+        {
+          "text": "Kings make a standing contract offer to free-agent G Gabe Vincent",
+          "url": "https://www.hoopsrumors.com/2026/11/kings-have-made-contract-offer-to-gabe-vincent.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Predators win seventh straight in a shootout at Vegas; Rangers hand Canucks a seventh straight loss; no update on MacKinnon and Makar",
+      "stories": [
+        {
+          "headline": "Predators win seventh straight, top Golden Knights in shootout",
+          "summary": "Ryan O'Reilly scored both Nashville goals, Juuse Saros made 40 saves and Roman Josi won it in the fourth round of a 3-2 shootout win in Las Vegas. Nashville has won seven straight and four in a row on the road. Vegas' four-game winning streak ended.",
+          "source": "AP via WRAL",
+          "url": "https://www.wral.com/news/ap/5be3a-roman-josi-lifts-predators-past-golden-knights-3-2-in-shootout-for-seventh-straight-win/"
+        },
+        {
+          "headline": "Rangers drop Canucks to seventh straight loss",
+          "summary": "New York scored four straight second-period goals in a 5-1 win in Vancouver, and Glenn Gawdin, recalled from Hartford on Tuesday, scored his first two NHL goals. The Canucks are 3-17-1, the worst record in the league. The Rangers have won five of six.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nhl/recap?gameId=401892706"
+        },
+        {
+          "headline": "No update on MacKinnon, Makar before Avs visit Montreal",
+          "summary": "Jared Bednar gave no medical update on Nathan MacKinnon or Cale Makar, who both left Thursday's overtime loss to Ottawa with lower-body injuries. Both are traveling, and Bednar said he isn't sure whether either plays Saturday. Colorado recalled forward Gavin Brindley.",
+          "source": "Athlon Sports",
+          "url": "https://athlonsports.com/nhl/colorado-avalanche/nathan-mackinnon-cale-makar-avalanche-injury-update-jared-bednar-montreal"
+        },
+        {
+          "headline": "Maple Leafs try to end home skid against Oilers",
+          "summary": "Toronto has lost five straight regulation games at home, its longest such skid since 1990-91. The Leafs are 1-7-0 in their last eight and 8-11-2 overall, and Jim Hiller hadn't named a starting goalie for Saturday.",
+          "source": "Yahoo Sports / CP24",
+          "url": "https://sports.yahoo.com/articles/amid-concerning-recent-struggles-jim-192805021.html"
+        },
+        {
+          "headline": "Wild's Faber could make season debut Saturday",
+          "summary": "John Hynes said Brock Faber could debut Saturday in Boston but it isn't guaranteed. Faber fractured his skull in a Sept. 25 preseason game. Minnesota is 14-3-4 and hasn't lost in regulation since Oct. 22.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-13-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Rangers",
+          "awayScore": 5,
+          "home": "Canucks",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Predators",
+          "awayScore": 3,
+          "home": "Golden Knights",
+          "homeScore": 2,
+          "note": "SO"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Juuse Saros",
+          "team": "Predators",
+          "line": "40 SV · .952",
+          "note": "Also stopped three of four shootout attempts, including Jack Eichel's, for Nashville's seventh straight win."
+        },
+        {
+          "name": "Glenn Gawdin",
+          "team": "Rangers",
+          "line": "2 G · 0 A",
+          "note": "His first two NHL goals, days after a recall from Hartford."
+        },
+        {
+          "name": "Ryan O'Reilly",
+          "team": "Predators",
+          "line": "2 G · 0 A",
+          "note": "Scored both Nashville goals in regulation to force the shootout."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Avalanche recall F Gavin Brindley from Colorado (AHL)",
+          "url": "https://denversports.com/nhl/colorado-avalanche/avalanche-recall-a-center-after-injury-to-superstar-nathan-mackinnon"
+        },
+        {
+          "text": "Devils place D Johnathan Kovacevic (ankle) on IR, recall D Anton Silayev from Utica",
+          "url": "https://www.dailyfaceoff.com/news/new-jersey-devils-johnathan-kovacevic-injured-reserve-recall-anton-silaev-nhl"
+        },
+        {
+          "text": "Blue Jackets place F Conor Garland (upper body) on IR",
+          "url": "https://www.dailyfaceoff.com/news/columbus-blue-jackets-conor-garland-injured-reserve-sean-monahan-day-to-day-upper-body-injury-nhl"
+        },
+        {
+          "text": "Jets place D Dylan DeMelo (lower body) on IR, recall D Henry Thrun",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-13-2026"
+        },
+        {
+          "text": "Maple Leafs place F Colton Sissons on IR, recall F Brendan Brisson",
+          "url": "https://www.espn.com/nhl/transactions"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Mets seen as Skubal favorites; Red Sox agree with Jake Bauers",
+      "stories": [
+        {
+          "headline": "Mets seen as favorites for Skubal after GM meetings",
+          "summary": "ESPN reports the Mets left the GM meetings as the industry favorites for free-agent ace Tarik Skubal. The Blue Jays, Padres and Dodgers are also meeting with him; the Cubs are not bidding. The CBA expires Dec. 1, and a lockout could follow.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mlb/story/_/id/50461703/free-agency-offseason-2026-27-gm-meetings-lessons"
+        },
+        {
+          "headline": "Rays could shop DeLuca, McClanahan and Pepiot",
+          "summary": "The Athletic reports Tampa Bay could make center fielder Jonny DeLuca available, with Shane McClanahan and Ryan Pepiot also possible trade candidates. The Rays intend to keep Drew Rasmussen after exercising his $20 million 2027 option.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/rays-rumors-deluca-mcclanahan-pepiot-rasmussen.html"
+        },
+        {
+          "headline": "Cubs need to rebuild their whole rotation",
+          "summary": "All five of the Cubs' 2026 starters are free agents: Shota Imanaga, Matthew Boyd, David Peterson, Kevin Gausman and Clay Holmes. Chicago has been linked to Michael King, Freddy Peralta and Japanese right-hander Kaima Taira, among others.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-13"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Red Sox agree with 1B Jake Bauers on a four-year, $58M deal (reported, not yet official)",
+          "url": "https://www.mlbtraderumors.com/transactions"
+        },
+        {
+          "text": "Angels avoid arbitration with C Tyler Heineman (1 year, $1.2375M); re-sign LHP Sammy Peralta to a minor league deal",
+          "url": "https://www.mlbtraderumors.com/transactions"
+        },
+        {
+          "text": "Nationals release RHP Kyle Nicolas",
+          "url": "https://www.mlbtraderumors.com/"
+        }
+      ]
+    }
+  ]
+}

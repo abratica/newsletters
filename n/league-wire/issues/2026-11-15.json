@@ -1,0 +1,422 @@
+{
+  "date": "2026-11-15",
+  "headline": "MacKinnon out a month, Makar two weeks; Avs win in Montreal anyway",
+  "ticker": [
+    "MacKinnon out ~1 month",
+    "Murray asks out of N.O.",
+    "McDavid streak: 21 games",
+    "Bulls upset Wolves 117-106",
+    "Benn reaches 1,000 points"
+  ],
+  "top": [
+    {
+      "league": "nhl",
+      "headline": "MacKinnon out a month, Makar two weeks; Avs win in Montreal anyway",
+      "summary": "Jared Bednar said Nathan MacKinnon (30 points in 20 games) will miss about a month and Cale Makar about two weeks with lower-body injuries from Thursday. Colorado still won 4-1 in Montreal behind 25 saves from Mackenzie Blackwood, handing the Canadiens their first regulation loss in 13 games. Now the Avs have to tread water without their two best players.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/nathan-mackinnon-cale-makar-injury-update-colorado-avalanche-november-14-2026"
+    },
+    {
+      "league": "nba",
+      "headline": "Dejounte Murray requests trade from Pelicans",
+      "summary": "Murray's camp asked New Orleans for a trade Friday, and the team says it will weigh its options. He makes $32.8 million this season with a $30.8 million player option, and has played just 54 games over the past three seasons. Phoenix has reportedly shown interest; the Pelicans have lost six straight and are 4-10.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50473732/sources-dejounte-murray-wants-trade-pelicans"
+    },
+    {
+      "league": "nhl",
+      "headline": "McDavid's streak hits 21 as Oilers blank the Leafs",
+      "summary": "Connor McDavid assisted on Evan Bouchard's goal, the only one of the night, to run his season-opening point streak to 21 games and reach 50 points. He's the fifth player in NHL history to get to 50 in 21 games or fewer. Toronto lost all six games of its homestand in regulation and has dropped six straight.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/edmonton-oilers-toronto-maple-leafs-game-recap-november-14-2026"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Week 10 Sunday: Chiefs rule out Kenneth Walker III, Texans lose David Montgomery, Josh Jacobs has finger surgery",
+      "stories": [
+        {
+          "headline": "Chiefs downgrade Kenneth Walker III to out vs. Falcons",
+          "summary": "Kansas City ruled out RB Kenneth Walker III (groin) for Sunday at Atlanta after listing him questionable Friday. Ian Rapoport and Adam Schefter both reported the team is being cautious. DT Chris Jones is traveling separately for a personal matter but has no injury designation.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-nov-14"
+        },
+        {
+          "headline": "Texans rule out David Montgomery at Cleveland",
+          "summary": "Houston downgraded RB David Montgomery (groin) to out for Sunday against the Browns. That leaves the 3-5 Texans leaning on Dare Ogunbowale, released Friday and then re-signed to the practice squad and elevated.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-nov-14"
+        },
+        {
+          "headline": "Josh Jacobs has surgery on fractured finger",
+          "summary": "Packers RB Josh Jacobs had surgery on a fractured right finger and is expected to miss fewer than four games. Green Bay activated RB Chris Brooks from IR and expects MarShawn Lloyd back for Sunday's division game against Minnesota.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/packers-josh-jacobs-undergoes-finger-surgery-rb-chris-brooks-activated"
+        },
+        {
+          "headline": "Rams never looked hard at a WR trade",
+          "summary": "ESPN's Jeremy Fowler reports the Rams didn't seriously pursue a receiver at the deadline, even with Puka Nacua and Davante Adams out. They expect both back this season. Until then, Matthew Stafford's top targets at Arizona are Konata Mumpfield and Tutu Atwell.",
+          "source": "Pro Football Rumors (citing ESPN)",
+          "url": "https://www.profootballrumors.com/2026/11/rams-didnt-target-wr-trade-amidst-injuries"
+        },
+        {
+          "headline": "Bills chased Jordan Davis and Jessie Bates before the deadline",
+          "summary": "According to ESPN, Buffalo tried to trade for Eagles DT Jordan Davis and Falcons S Jessie Bates, but Jacksonville landed both. The Bills settled for S Amani Hooker from Tennessee, who is signed through 2028.",
+          "source": "Pro Football Rumors (citing ESPN)",
+          "url": "https://www.profootballrumors.com/2026/11/bills-pursued-jordan-davis-jessie-bates-before-trade-deadline"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Saints activate RB Travis Etienne (hamstring) from IR; DT Christen Miller (knee) to IR",
+          "url": "https://www.profootballrumors.com/2026/11/saints-plan-to-activate-travis-etienne"
+        },
+        {
+          "text": "Titans place G Peter Skoronski and P Tommy Townsend on IR, sign P Thomas Morstead, waive RB Michael Carter",
+          "url": "https://www.profootballrumors.com/2026/11/titans-place-g-peter-skoronski-on-ir"
+        },
+        {
+          "text": "Steelers activate DT Derrick Harmon from IR, waive CB Terell Smith",
+          "url": "https://www.profootballrumors.com/2026/11/steelers-designate-dt-derrick-harmon-to-return-from-ir"
+        },
+        {
+          "text": "Cowboys activate DT Jonathan Bullard from IR, place RB Tyler Goodson on IR",
+          "url": "https://www.profootballrumors.com/2026/11/cowboys-activate-dt-jonathan-bullard"
+        },
+        {
+          "text": "Packers activate WR Skyy Moore and RB Chris Brooks from IR, place TE Josh Whyle on IR",
+          "url": "https://www.profootballrumors.com/2026/11/packers-josh-jacobs-undergoes-finger-surgery-rb-chris-brooks-activated"
+        },
+        {
+          "text": "Colts activate DE Arden Key from IR, place TE Mo Alie-Cox and LB Akeem Davis-Gaither on IR",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-nov-14"
+        },
+        {
+          "text": "Panthers activate WR Xavier Legette from IR",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-nov-14"
+        },
+        {
+          "text": "Dolphins sign K Zane Gonzalez off the practice squad, elevate QB Brady Cook",
+          "url": "https://www.profootballrumors.com/2026/11/minor-nfl-transactions-11-14-26"
+        },
+        {
+          "text": "Seahawks elevate CB Trevon Diggs for Sunday at Las Vegas",
+          "url": "https://www.profootballrumors.com/2026/11/minor-nfl-transactions-11-14-26"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Dejounte Murray wants out of New Orleans; Bulls stun Wolves as 13.5-point underdogs; Cavs' backups win after a travel mess",
+      "stories": [
+        {
+          "headline": "Dejounte Murray requests trade from Pelicans",
+          "summary": "Murray's camp asked New Orleans for a trade Friday, and the team says it will weigh its options. He makes $32.8 million this season with a $30.8 million player option, and has played just 54 games over the past three seasons. Phoenix has reportedly shown interest; the Pelicans have lost six straight and are 4-10.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/50473732/sources-dejounte-murray-wants-trade-pelicans"
+        },
+        {
+          "headline": "Bulls stun Timberwolves as 13.5-point underdogs",
+          "summary": "Chicago won 117-106 in Minnesota to end the Wolves' five-game winning streak. Without Anthony Edwards (knee), Minnesota went 9 of 38 from three and missed its first 13. Norman Powell scored 23 for the 3-9 Bulls.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909984"
+        },
+        {
+          "headline": "Cavs' backups beat Dallas behind Proctor's triple-double",
+          "summary": "An FAA ground stop kept Cleveland in Miami until Saturday morning, and the Cavs sat Donovan Mitchell, James Harden, Jarrett Allen and Peyton Watson, with Evan Mobley also out. Tyrese Proctor posted his first career triple-double in a 127-117 win anyway. Mitchell called it 'unprecedented' and said the game should have been moved.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909981"
+        },
+        {
+          "headline": "Heat roll Pistons for fourth straight win",
+          "summary": "Giannis Antetokounmpo had 34 points, 14 rebounds and 8 assists, and Klay Thompson hit six threes in his return from an ankle sprain in a 137-117 win. Miami blocked 14 shots and is 7-6 after an 0-4 start.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909982"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Nuggets",
+          "awayScore": 116,
+          "home": "Pelicans",
+          "homeScore": 108,
+          "note": ""
+        },
+        {
+          "away": "Mavericks",
+          "awayScore": 117,
+          "home": "Cavaliers",
+          "homeScore": 127,
+          "note": ""
+        },
+        {
+          "away": "Nets",
+          "awayScore": 110,
+          "home": "Grizzlies",
+          "homeScore": 129,
+          "note": ""
+        },
+        {
+          "away": "Bulls",
+          "awayScore": 117,
+          "home": "Timberwolves",
+          "homeScore": 106,
+          "note": "Upset"
+        },
+        {
+          "away": "Pistons",
+          "awayScore": 117,
+          "home": "Heat",
+          "homeScore": 137,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Tyrese Proctor",
+          "team": "Cavaliers",
+          "line": "24 PTS · 11 REB · 10 AST",
+          "note": "His first career triple-double, with Cleveland's starters resting."
+        },
+        {
+          "name": "Giannis Antetokounmpo",
+          "team": "Heat",
+          "line": "34 PTS · 14 REB · 8 AST",
+          "note": "71 points over two nights as Miami won its fourth straight."
+        },
+        {
+          "name": "Nikola Jokic",
+          "team": "Nuggets",
+          "line": "26 PTS · 8 REB · 10 AST · 9-14 FG",
+          "note": "Denver has won four of five."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Pelicans G Dejounte Murray requests a trade; team will weigh options",
+          "url": "https://www.hoopsrumors.com/2026/11/pelicans-to-begin-dejounte-murray-trade-search.html"
+        },
+        {
+          "text": "Doug McDermott retires after 12 NBA seasons",
+          "url": "https://www.hoopsrumors.com/2026/11/doug-mcdermott-retiring-after-12-years-in-nba.html"
+        },
+        {
+          "text": "Timberwolves sign F Johni Broome to a two-way contract",
+          "url": "https://www.hoopsrumors.com/2026/11/timberwolves-adding-johni-broome-on-two-day-deal.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Avs lose MacKinnon and Makar for weeks; McDavid's streak hits 21; Benn reaches 1,000; Scheifele passes Hawerchuk",
+      "stories": [
+        {
+          "headline": "MacKinnon out a month, Makar two weeks; Avs win in Montreal anyway",
+          "summary": "Jared Bednar said Nathan MacKinnon (30 points in 20 games) will miss about a month and Cale Makar about two weeks with lower-body injuries from Thursday. Colorado still won 4-1 in Montreal behind 25 saves from Mackenzie Blackwood, handing the Canadiens their first regulation loss in 13 games. Now the Avs have to tread water without their two best players.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/nathan-mackinnon-cale-makar-injury-update-colorado-avalanche-november-14-2026"
+        },
+        {
+          "headline": "McDavid's streak hits 21 as Oilers blank the Leafs",
+          "summary": "Connor McDavid assisted on Evan Bouchard's goal, the only one of the night, to run his season-opening point streak to 21 games and reach 50 points. He's the fifth player in NHL history to get to 50 in 21 games or fewer. Toronto lost all six games of its homestand in regulation and has dropped six straight.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/edmonton-oilers-toronto-maple-leafs-game-recap-november-14-2026"
+        },
+        {
+          "headline": "Jamie Benn reaches 1,000 points",
+          "summary": "Benn opened the scoring in Dallas' 2-0 win over Buffalo for his 1,000th NHL point. He's the 104th player to get there and the second in Stars/North Stars history, after Mike Modano. Jake Oettinger's 22 saves gave him a league-leading fourth shutout.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/buffalo-sabres-dallas-stars-game-recap-november-14-2026"
+        },
+        {
+          "headline": "Scheifele passes Hawerchuk as Jets erase 4-0 deficit",
+          "summary": "Mark Scheifele had a goal and three assists, then scored in the shootout, as Winnipeg rallied to win 5-4 in Chicago. His 933 points are the most in Jets/Thrashers history. Winnipeg has won six straight; Chicago has lost seven of eight.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/winnipeg-jets-chicago-blackhawks-game-recap-november-14-2026"
+        },
+        {
+          "headline": "Wild run point streak to 11; Faber returns",
+          "summary": "Minnesota won 6-2 in Boston for its eighth straight road win and is 15-3-4. Brock Faber played his first game since a preseason skull fracture, with an assist in 24:29.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/minnesota-wild-boston-bruins-game-recap-november-14-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Kraken",
+          "awayScore": 1,
+          "home": "Hurricanes",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Jets",
+          "awayScore": 5,
+          "home": "Blackhawks",
+          "homeScore": 4,
+          "note": "SO"
+        },
+        {
+          "away": "Wild",
+          "awayScore": 6,
+          "home": "Bruins",
+          "homeScore": 2,
+          "note": ""
+        },
+        {
+          "away": "Oilers",
+          "awayScore": 1,
+          "home": "Maple Leafs",
+          "homeScore": 0,
+          "note": "Close"
+        },
+        {
+          "away": "Avalanche",
+          "awayScore": 4,
+          "home": "Canadiens",
+          "homeScore": 1,
+          "note": "Upset"
+        },
+        {
+          "away": "Red Wings",
+          "awayScore": 2,
+          "home": "Lightning",
+          "homeScore": 0,
+          "note": "Upset"
+        },
+        {
+          "away": "Senators",
+          "awayScore": 4,
+          "home": "Penguins",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Devils",
+          "awayScore": 7,
+          "home": "Capitals",
+          "homeScore": 4,
+          "note": ""
+        },
+        {
+          "away": "Flyers",
+          "awayScore": 4,
+          "home": "Blue Jackets",
+          "homeScore": 3,
+          "note": "Upset"
+        },
+        {
+          "away": "Panthers",
+          "awayScore": 4,
+          "home": "Blues",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Sabres",
+          "awayScore": 0,
+          "home": "Stars",
+          "homeScore": 2,
+          "note": ""
+        },
+        {
+          "away": "Sharks",
+          "awayScore": 6,
+          "home": "Mammoth",
+          "homeScore": 5,
+          "note": "SO"
+        },
+        {
+          "away": "Islanders",
+          "awayScore": 6,
+          "home": "Ducks",
+          "homeScore": 2,
+          "note": "Upset"
+        },
+        {
+          "away": "Flames",
+          "awayScore": 3,
+          "home": "Kings",
+          "homeScore": 2,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Mark Scheifele",
+          "team": "Jets",
+          "line": "1 G · 3 A",
+          "note": "Added the shootout winner and became the franchise's all-time points leader."
+        },
+        {
+          "name": "Simon Holmstrom",
+          "team": "Islanders",
+          "line": "3 G",
+          "note": "His first NHL hat trick, in a 6-2 win at Anaheim."
+        },
+        {
+          "name": "Devon Levi",
+          "team": "Oilers",
+          "line": "19 SV · 1.000",
+          "note": "His first NHL shutout; he's 9-1-0."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Hurricanes activate captain Jordan Staal (calf) from IR; D Mike Reilly placed on waivers",
+          "url": "https://www.tsn.ca/nhl/article/ice-chips-hurricanes-activate-captain-staal-off-ir/"
+        },
+        {
+          "text": "Canadiens F Chris Kreider out about 6-8 weeks (lower body)",
+          "url": "https://www.tsn.ca/nhl/article/ice-chips-hurricanes-activate-captain-staal-off-ir/"
+        },
+        {
+          "text": "Kraken activate D Ryan Lindgren from IR",
+          "url": "https://www.tsn.ca/nhl/article/ice-chips-hurricanes-activate-captain-staal-off-ir/"
+        },
+        {
+          "text": "Islanders place F Kyle MacLean on waivers",
+          "url": "https://www.yardbarker.com/nhl/articles/two_nhl_players_placed_on_waivers_for_nov_14/s1_16958_44561531"
+        },
+        {
+          "text": "Stars D Lian Bichsel out about two weeks (lower body)",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-13-2026"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Padres hunt for arms; Orioles talk Ketel Marte with Arizona",
+      "stories": [
+        {
+          "headline": "Padres shopping for starters everywhere",
+          "summary": "San Diego is losing seven starters to free agency, and A.J. Preller says 'you can never have too much' starting pitching. The Padres have a meeting set with Tarik Skubal and are linked to Michael King, Freddy Peralta, Shota Imanaga and others.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-14"
+        },
+        {
+          "headline": "Orioles in talks with D-backs on Ketel Marte",
+          "summary": "Baltimore has talked with Arizona about Marte, a three-time All-Star who hit 22 homers with a .748 OPS in 2026. Orioles second basemen posted a .628 OPS, fourth-worst in the majors. Toronto is also in on him.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-14"
+        },
+        {
+          "headline": "Five teams chase Jonathan Loáisiga",
+          "summary": "ESPN's Jesse Rogers says Loáisiga is getting closer to a deal, with the Dodgers among five teams involved. He had a 2.42 ERA in 67 games for Arizona and looks headed for a two-year contract.",
+          "source": "NBC Sports",
+          "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-11-14/jonathan-loaisiga-moving-closer-to-signing"
+        }
+      ],
+      "moves": []
+    }
+  ]
+}

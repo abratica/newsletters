@@ -1,0 +1,464 @@
+{
+  "date": "2026-11-16",
+  "headline": "Burrow and Chase bury Pittsburgh, Bengals take AFC North lead",
+  "ticker": [
+    "Bengals 38, Steelers 18",
+    "Hutchinson likely done",
+    "McDavid streak: 22 games",
+    "Spurs win 12th straight",
+    "49ers 46, Cowboys 40"
+  ],
+  "top": [
+    {
+      "league": "nfl",
+      "headline": "Burrow and Chase bury Pittsburgh, Bengals take AFC North lead",
+      "summary": "Joe Burrow threw for 409 yards and four touchdowns, and Ja'Marr Chase caught 11 passes for 231 yards, as Cincinnati beat Pittsburgh 38-18 on Sunday night. Both teams were 6-2 coming in. The Bengals are now 7-2 and alone in first; the Steelers drop to 6-3 and a wild-card spot.",
+      "source": "theScore",
+      "url": "https://www.thescore.com/nfl/event/140725"
+    },
+    {
+      "league": "nfl",
+      "headline": "Lions rout Patriots in Munich but lose Hutchinson for the season",
+      "summary": "Detroit beat New England 35-10 in Munich, but Aidan Hutchinson hurt his knee celebrating a sack of Drake Maye and is expected to miss the rest of 2026, pending a second opinion. Maye also left in the first quarter with a lower-leg injury. The 7-2 Lions are tied with Chicago atop the NFC North, now without their best pass rusher.",
+      "source": "Pro Football Rumors",
+      "url": "https://www.profootballrumors.com/2026/11/lions-de-aidan-hutchinson-expected-to-miss-remainder-of-season"
+    },
+    {
+      "league": "nhl",
+      "headline": "McDavid runs season-opening point streak to 22",
+      "summary": "Connor McDavid had a goal and two assists in Edmonton's 5-2 win at Philadelphia, extending his season-opening point streak to 22 games. That ties Dany Heatley for fifth-longest in NHL history; only Wayne Gretzky and Mats Sundin have gone longer. He leads the league with 53 points, and the 16-3-3 Oilers have won five straight.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/edmonton-oilers-philadelphia-flyers-game-recap-november-15-2026"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Week 10: Bengals take the AFC North, Lions lose Hutchinson, 49ers win a 46-40 shootout in Dallas",
+      "stories": [
+        {
+          "headline": "Burrow and Chase bury Pittsburgh, Bengals take AFC North lead",
+          "summary": "Joe Burrow threw for 409 yards and four touchdowns, and Ja'Marr Chase caught 11 passes for 231 yards, as Cincinnati beat Pittsburgh 38-18 on Sunday night. Both teams were 6-2 coming in. The Bengals are now 7-2 and alone in first; the Steelers drop to 6-3 and a wild-card spot.",
+          "source": "theScore",
+          "url": "https://www.thescore.com/nfl/event/140725"
+        },
+        {
+          "headline": "Lions rout Patriots in Munich but lose Hutchinson for the season",
+          "summary": "Detroit beat New England 35-10 in Munich, but Aidan Hutchinson hurt his knee celebrating a sack of Drake Maye and is expected to miss the rest of 2026, pending a second opinion. Maye also left in the first quarter with a lower-leg injury. The 7-2 Lions are tied with Chicago atop the NFC North, now without their best pass rusher.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/lions-de-aidan-hutchinson-expected-to-miss-remainder-of-season"
+        },
+        {
+          "headline": "Cousins' homecoming: Vikings flatten Packers at Lambeau",
+          "summary": "Five days after Las Vegas traded him back to Minnesota, Kirk Cousins started and the Vikings won 30-10 in Green Bay as 2.5-point underdogs. Minnesota's defense sacked Jordan Love eight times and forced four turnovers. The Vikings are 7-2; the Packers fall to 6-4.",
+          "source": "RawChili",
+          "url": "https://www.rawchili.com/5152268/"
+        },
+        {
+          "headline": "49ers outlast Cowboys 46-40 in Arlington shootout",
+          "summary": "Christian McCaffrey scored three times, one on a 74-yard catch from Brock Purdy, and Deebo Samuel added a 70-yard touchdown run as San Francisco held off Dallas. George Pickens had three touchdowns for the Cowboys. The 49ers are 8-1 and the NFC's top seed; Dallas drops to 4-6.",
+          "source": "DAZN",
+          "url": "https://www.dazn.com/en-US/news/football/nfl-week-10-scores-smith-njigba-mahomes-gibbs-mccaffrey/cgdcpv4loyzi102oa56r1iisx"
+        },
+        {
+          "headline": "Browns upset Texans on late Judkins touchdown",
+          "summary": "Quinshon Judkins scored from 5 yards out with 53 seconds left, and Cleveland beat Houston 27-24 as an underdog. C.J. Stroud threw three touchdown passes in the loss. The 6-4 Browns hold the AFC's No. 7 seed.",
+          "source": "theScore",
+          "url": "https://www.thescore.com/nfl/event/140721"
+        }
+      ],
+      "scoresLabel": "Week 10",
+      "scores": [
+        {
+          "away": "Commanders",
+          "awayScore": 24,
+          "home": "Giants",
+          "homeScore": 21,
+          "note": "Upset"
+        },
+        {
+          "away": "Patriots",
+          "awayScore": 10,
+          "home": "Lions",
+          "homeScore": 35,
+          "note": ""
+        },
+        {
+          "away": "Chiefs",
+          "awayScore": 35,
+          "home": "Falcons",
+          "homeScore": 13,
+          "note": ""
+        },
+        {
+          "away": "Texans",
+          "awayScore": 24,
+          "home": "Browns",
+          "homeScore": 27,
+          "note": "Upset"
+        },
+        {
+          "away": "Vikings",
+          "awayScore": 30,
+          "home": "Packers",
+          "homeScore": 10,
+          "note": "Upset"
+        },
+        {
+          "away": "Dolphins",
+          "awayScore": 22,
+          "home": "Colts",
+          "homeScore": 24,
+          "note": "Close"
+        },
+        {
+          "away": "Panthers",
+          "awayScore": 20,
+          "home": "Saints",
+          "homeScore": 17,
+          "note": "Close"
+        },
+        {
+          "away": "Bills",
+          "awayScore": 31,
+          "home": "Jets",
+          "homeScore": 12,
+          "note": ""
+        },
+        {
+          "away": "Jaguars",
+          "awayScore": 40,
+          "home": "Titans",
+          "homeScore": 23,
+          "note": ""
+        },
+        {
+          "away": "Rams",
+          "awayScore": 34,
+          "home": "Cardinals",
+          "homeScore": 6,
+          "note": ""
+        },
+        {
+          "away": "Seahawks",
+          "awayScore": 21,
+          "home": "Raiders",
+          "homeScore": 13,
+          "note": "Close"
+        },
+        {
+          "away": "49ers",
+          "awayScore": 46,
+          "home": "Cowboys",
+          "homeScore": 40,
+          "note": "Close"
+        },
+        {
+          "away": "Steelers",
+          "awayScore": 18,
+          "home": "Bengals",
+          "homeScore": 38,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Joe Burrow",
+          "team": "Bengals",
+          "line": "35-44 · 409 YDS · 4 TD · 0 INT",
+          "note": "Took apart Pittsburgh to put Cincinnati alone atop the AFC North."
+        },
+        {
+          "name": "Ja'Marr Chase",
+          "team": "Bengals",
+          "line": "11-231-0",
+          "note": "231 receiving yards in a first-place showdown."
+        },
+        {
+          "name": "Jahmyr Gibbs",
+          "team": "Lions",
+          "line": "22-153-2",
+          "note": "Ran for 153 of his 252 scrimmage yards in the Munich rout."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Lions DE Aidan Hutchinson (knee) expected to miss the rest of the season; second opinion pending",
+          "url": "https://www.profootballrumors.com/2026/11/lions-de-aidan-hutchinson-expected-to-miss-remainder-of-season"
+        },
+        {
+          "text": "Patriots QB Drake Maye (lower leg) to have more tests; New England has a Week 11 bye",
+          "url": "https://www.profootballrumors.com/2026/11/patriots-qb-drake-maye-ruled-out-of-week-10-game-with-lower-leg-injury"
+        },
+        {
+          "text": "Cardinals QB Gardner Minshew has a torn UCL and needs surgery; rookie Carson Beck starts",
+          "url": "https://www.profootballrumors.com/2026/11/cardinals-fear-gardner-minshew-suffered-ucl-tear"
+        },
+        {
+          "text": "Buccaneers QB Baker Mayfield (foot/ankle) in doubt for Week 11; Jalon Daniels would start",
+          "url": "https://www.profootballrumors.com/2026/11/bucs-qb-baker-mayfields-week-11-availability-in-doubt"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Doncic scores 43 as the Lakers win eight straight; Spurs win 12th straight; Bucks lose 10th straight",
+      "stories": [
+        {
+          "headline": "Doncic scores 43, Lakers win eighth straight",
+          "summary": "Luka Doncic scored 43 and Quentin Grimes hit five threes as the Lakers beat the Suns 131-123. The Lakers led by 31 late in the third, then had to hold off a Phoenix rally. It was Doncic's sixth 40-point game this season, with Austin Reaves out with a bruised heel.",
+          "source": "AP via KSL",
+          "url": "https://www.ksl.com/article/51646081/luka-doncic-scores-43-lakers-stretch-winning-streak-to-8-with-131-123-win-over-suns"
+        },
+        {
+          "headline": "Spurs win 12th straight, hand Jazz their 12th straight loss",
+          "summary": "Dylan Harper scored 31, including back-to-back threes that tied it at 100, and Victor Wembanyama had 26 points, 6 assists and 5 blocks in a 110-102 win at Utah. San Antonio closed on a 14-4 run. Nobody in the league is hotter, and Utah still can't find a win.",
+          "source": "AP via ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/spurs-win-12th-straight-sending-jazz-12th-straight-138166588"
+        },
+        {
+          "headline": "LeBron passes Jason Kidd for third in career assists",
+          "summary": "LeBron James had 15 points and 11 assists in the 76ers' 131-124 win over the Pacers, passing Kidd with assist No. 12,092. Only John Stockton and Chris Paul have more. Jaylen Brown (31) and Tyrese Maxey (27) did most of the scoring.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/lebron-james-steps-3rd-nbas-050108952.html"
+        },
+        {
+          "headline": "Bucks lose 10th straight, tie worst start in franchise history",
+          "summary": "Milwaukee led Atlanta 37-18 after one quarter, scored 16 in the second and lost 113-106. At 1-13, the Bucks match the 1974-75 team for the worst start in franchise history. It's their first season since trading Giannis Antetokounmpo to Miami.",
+          "source": "Yahoo News",
+          "url": "https://www.yahoo.com/news/articles/bucks-vs-hawks-milwaukee-trying-221118466.html"
+        },
+        {
+          "headline": "Rockets score 147, hold Trae Young scoreless for the first time",
+          "summary": "Houston beat Washington 147-119 behind Amen Thompson (26) and Kevin Durant (25). Trae Young went 0 for 5, failing to score after scoring in all 511 of his previous games. Houston has won four straight; Washington has lost seven in a row.",
+          "source": "KPRC Click2Houston",
+          "url": "https://www.click2houston.com/sports/2026/11/16/houston-rockets-blow-out-wizards-147-119-hold-trae-young-scoreless-for-first-time-in-his-career/"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Hawks",
+          "awayScore": 113,
+          "home": "Bucks",
+          "homeScore": 106,
+          "note": ""
+        },
+        {
+          "away": "Hornets",
+          "awayScore": 105,
+          "home": "Clippers",
+          "homeScore": 113,
+          "note": ""
+        },
+        {
+          "away": "Mavericks",
+          "awayScore": 94,
+          "home": "Celtics",
+          "homeScore": 131,
+          "note": ""
+        },
+        {
+          "away": "Rockets",
+          "awayScore": 147,
+          "home": "Wizards",
+          "homeScore": 119,
+          "note": ""
+        },
+        {
+          "away": "Pacers",
+          "awayScore": 124,
+          "home": "76ers",
+          "homeScore": 131,
+          "note": ""
+        },
+        {
+          "away": "Lakers",
+          "awayScore": 131,
+          "home": "Suns",
+          "homeScore": 123,
+          "note": ""
+        },
+        {
+          "away": "Knicks",
+          "awayScore": 112,
+          "home": "Raptors",
+          "homeScore": 108,
+          "note": "OT"
+        },
+        {
+          "away": "Spurs",
+          "awayScore": 110,
+          "home": "Jazz",
+          "homeScore": 102,
+          "note": ""
+        },
+        {
+          "away": "Thunder",
+          "awayScore": 125,
+          "home": "Kings",
+          "homeScore": 103,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Luka Doncic",
+          "team": "Lakers",
+          "line": "43 PTS · 3 REB · 9 AST",
+          "note": "His sixth 40-point game of the season, with Austin Reaves out."
+        },
+        {
+          "name": "Karl-Anthony Towns",
+          "team": "Knicks",
+          "line": "28 PTS · 17 REB · 3 AST",
+          "note": "A 13th straight double-double to open the season, tying Walt Bellamy's Knicks record, in an OT comeback."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Hawks to waive two-way G Keshon Gilbert (knee) and sign C Rafael Castro to a two-way deal",
+          "url": "https://www.hoopsrumors.com/2026/11/hawks-to-waive-gilbert-sign-castro-to-two-way-deal.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "McDavid's streak hits 22, Draisaitl first to 20 goals, Gauthier scores in a ninth straight game",
+      "stories": [
+        {
+          "headline": "McDavid runs season-opening point streak to 22",
+          "summary": "Connor McDavid had a goal and two assists in Edmonton's 5-2 win at Philadelphia, extending his season-opening point streak to 22 games. That ties Dany Heatley for fifth-longest in NHL history; only Wayne Gretzky and Mats Sundin have gone longer. He leads the league with 53 points, and the 16-3-3 Oilers have won five straight.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/edmonton-oilers-philadelphia-flyers-game-recap-november-15-2026"
+        },
+        {
+          "headline": "Gauthier's goal streak hits nine as Ducks rout Flames",
+          "summary": "Cutter Gauthier scored in a ninth straight game in Anaheim's 6-1 win over Calgary, the longest goal streak by an NHL player in 29 years. He has 16 goals during it. Teemu Selanne's franchise record of 11 games is now in sight.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/ducks/news/calgary-flames-anaheim-ducks-game-recap-november-15-2026-x3044"
+        },
+        {
+          "headline": "Draisaitl first to 20 goals",
+          "summary": "Leon Draisaitl scored twice and added an assist against the Flyers, becoming the first player to 20 goals this season, the third time he's been first there. He and McDavid also combined on their 279th power-play goal together, the most by any pair of teammates in NHL history.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/edmonton-oilers-philadelphia-flyers-game-recap-november-15-2026"
+        },
+        {
+          "headline": "Canucks snap seven-game skid in Vegas",
+          "summary": "Filip Chytil and Linus Karlsson each scored twice in Vancouver's 6-3 win at Vegas, ending a seven-game losing streak. The Canucks are still 4-17-1. The loss ended the Golden Knights' six-game point streak.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/vancouver-canucks-vegas-golden-knights-game-recap-november-15-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Oilers",
+          "awayScore": 5,
+          "home": "Flyers",
+          "homeScore": 2,
+          "note": ""
+        },
+        {
+          "away": "Flames",
+          "awayScore": 1,
+          "home": "Ducks",
+          "homeScore": 6,
+          "note": ""
+        },
+        {
+          "away": "Panthers",
+          "awayScore": 1,
+          "home": "Stars",
+          "homeScore": 2,
+          "note": "OT"
+        },
+        {
+          "away": "Predators",
+          "awayScore": 2,
+          "home": "Sharks",
+          "homeScore": 4,
+          "note": ""
+        },
+        {
+          "away": "Canucks",
+          "awayScore": 6,
+          "home": "Golden Knights",
+          "homeScore": 3,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Connor McDavid",
+          "team": "Oilers",
+          "line": "1 G · 2 A",
+          "note": "Point streak to 22, tied for fifth-longest in NHL history."
+        },
+        {
+          "name": "Leon Draisaitl",
+          "team": "Oilers",
+          "line": "2 G · 1 A",
+          "note": "First to 20 goals this season."
+        },
+        {
+          "name": "Beckett Sennecke",
+          "team": "Ducks",
+          "line": "2 G · 1 A",
+          "note": "Part of a 6-1 rout of Calgary."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Avalanche claim D Mike Reilly off waivers from the Hurricanes",
+          "url": "https://nhl.com/hurricanes/news/mike-reilly-claimed-off-waivers-by-colorado"
+        },
+        {
+          "text": "Islanders activate F Mathew Barzal from IR; F Kyle MacLean clears waivers",
+          "url": "https://ca.sports.yahoo.com/news/islanders-forward-kyle-maclean-clears-191954235.html"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Yankees bring back Tim Hill; Silver Sluggers and owners meetings this week",
+      "stories": [
+        {
+          "headline": "Yankees bring back lefty Tim Hill on a one-year deal",
+          "summary": "Hill returns on a one-year, $2.25 million deal with a $2.5 million club option for 2028. He had a 4.60 ERA over 58.2 innings in 2026, up from 3.09 in 2025. With David Bednar and Paul Blackburn both free agents, Brian Cashman says the club is 'casting a wide net' for relief help.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/yankees-re-sign-tim-hill-to-one-year-deal.html"
+        },
+        {
+          "headline": "Orioles skip the Skubal sweepstakes; Giants turn cautious",
+          "summary": "ESPN's Jorge Castillo reports Baltimore won't pursue Tarik Skubal and plans to add a mid-rotation arm instead. ESPN's Alden Gonzalez reports the Giants will 'operate more conservatively,' and Buster Posey says signing free agents tied to draft-pick compensation will be harder.",
+          "source": "FanSided via Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/mlb-rumors-no-paul-skenes-013427002.html"
+        },
+        {
+          "headline": "Busy week: Silver Sluggers, owners meetings, non-tender deadline",
+          "summary": "Silver Slugger winners are announced Tuesday, owners meet Nov. 17-19, and the non-tender deadline is Nov. 20. All of it runs up against the CBA expiring Dec. 1.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/2026-silver-slugger-award-finalists"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Yankees re-sign LHP Tim Hill: 1 year, $2.25M, with a 2028 club option",
+          "url": "https://www.mlbtraderumors.com/2026/11/yankees-re-sign-tim-hill-to-one-year-deal.html"
+        },
+        {
+          "text": "RHP Lyon Richardson signs with the KBO's SSG Landers",
+          "url": "https://www.mlbtraderumors.com/transactions"
+        }
+      ]
+    }
+  ]
+}

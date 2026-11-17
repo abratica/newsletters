@@ -1,0 +1,1077 @@
+{
+  "date": "2026-11-17",
+  "headline": "Chargers get their first win, 23-20 at Baltimore",
+  "ticker": [
+    "Chargers 23, Ravens 20",
+    "Hutchinson: torn ACL",
+    "Pelicans 115, Warriors 94",
+    "Rangers 3, Canadiens 1",
+    "MLB QO deadline today"
+  ],
+  "powerRankingsDay": true,
+  "top": [
+    {
+      "league": "nfl",
+      "headline": "Chargers get their first win, 23-20 at Baltimore",
+      "summary": "Omarion Hampton ran for 105 yards and a touchdown and Justin Herbert added a 22-yard scoring run as Los Angeles won on Monday night as a 4.5-point underdog. Tarheeb Still forced a Zay Flowers fumble with about two minutes left to help close it out. The Chargers are 1-8; the Ravens, without Lamar Jackson, have lost five straight and fall to 4-6.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/recap?gameId=401873065"
+    },
+    {
+      "league": "nfl",
+      "headline": "Hutchinson has a torn ACL, out for the season",
+      "summary": "Detroit's Aidan Hutchinson tore the ACL in his right knee, likely with additional damage, landing awkwardly while celebrating a sack of Drake Maye in Munich. The 7-2 Lions lose their best pass rusher for the stretch run. They claimed DE Tyrus Wheat off waivers from Dallas a day later.",
+      "source": "NBC Sports",
+      "url": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aidan-hutchinson-is-out-for-the-season-with-torn-acl-likely-additional-damage"
+    },
+    {
+      "league": "mlb",
+      "headline": "Seven players face today's qualifying offer deadline",
+      "summary": "Randy Arozarena, Seiya Suzuki, David Bednar, Trevor Rogers, Brandon Lowe, Ryan Jeffers and Adrian Morejon have until 4 p.m. ET to accept or decline one-year, $23.15M qualifying offers. None had accepted as of Monday. Today is also the 40-man roster deadline to protect players from the Rule 5 Draft.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/7-mlb-players-just-over-160603185.html"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Chargers win at last on Monday night; Hutchinson's torn ACL confirmed",
+      "stories": [
+        {
+          "headline": "Chargers get their first win, 23-20 at Baltimore",
+          "summary": "Omarion Hampton ran for 105 yards and a touchdown and Justin Herbert added a 22-yard scoring run as Los Angeles won on Monday night as a 4.5-point underdog. Tarheeb Still forced a Zay Flowers fumble with about two minutes left to help close it out. The Chargers are 1-8; the Ravens, without Lamar Jackson, have lost five straight and fall to 4-6.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/recap?gameId=401873065"
+        },
+        {
+          "headline": "Hutchinson has a torn ACL, out for the season",
+          "summary": "Detroit's Aidan Hutchinson tore the ACL in his right knee, likely with additional damage, landing awkwardly while celebrating a sack of Drake Maye in Munich. The 7-2 Lions lose their best pass rusher for the stretch run. They claimed DE Tyrus Wheat off waivers from Dallas a day later.",
+          "source": "NBC Sports",
+          "url": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aidan-hutchinson-is-out-for-the-season-with-torn-acl-likely-additional-damage"
+        },
+        {
+          "headline": "Mendoza's first start ends in a loss to Seattle",
+          "summary": "No. 1 overall pick Fernando Mendoza led scoring drives on the Raiders' first two possessions in his NFL debut as a starter. Drew Lock threw two third-quarter touchdown passes and Seattle won 21-13, making Lock 3-0 as a starter this season. Raiders TE Brock Bowers left with an ankle injury.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-131219200.html"
+        }
+      ],
+      "scoresLabel": "Week 10",
+      "scores": [
+        {
+          "away": "Commanders",
+          "awayScore": 24,
+          "home": "Giants",
+          "homeScore": 21,
+          "note": "Upset"
+        },
+        {
+          "away": "Patriots",
+          "awayScore": 10,
+          "home": "Lions",
+          "homeScore": 35,
+          "note": ""
+        },
+        {
+          "away": "Chiefs",
+          "awayScore": 35,
+          "home": "Falcons",
+          "homeScore": 13,
+          "note": ""
+        },
+        {
+          "away": "Texans",
+          "awayScore": 24,
+          "home": "Browns",
+          "homeScore": 27,
+          "note": "Upset"
+        },
+        {
+          "away": "Vikings",
+          "awayScore": 30,
+          "home": "Packers",
+          "homeScore": 10,
+          "note": "Upset"
+        },
+        {
+          "away": "Dolphins",
+          "awayScore": 22,
+          "home": "Colts",
+          "homeScore": 24,
+          "note": "Close"
+        },
+        {
+          "away": "Panthers",
+          "awayScore": 20,
+          "home": "Saints",
+          "homeScore": 17,
+          "note": "Close"
+        },
+        {
+          "away": "Bills",
+          "awayScore": 31,
+          "home": "Jets",
+          "homeScore": 12,
+          "note": ""
+        },
+        {
+          "away": "Jaguars",
+          "awayScore": 40,
+          "home": "Titans",
+          "homeScore": 23,
+          "note": ""
+        },
+        {
+          "away": "Rams",
+          "awayScore": 34,
+          "home": "Cardinals",
+          "homeScore": 6,
+          "note": ""
+        },
+        {
+          "away": "Seahawks",
+          "awayScore": 21,
+          "home": "Raiders",
+          "homeScore": 13,
+          "note": "Close"
+        },
+        {
+          "away": "49ers",
+          "awayScore": 46,
+          "home": "Cowboys",
+          "homeScore": 40,
+          "note": "Close"
+        },
+        {
+          "away": "Steelers",
+          "awayScore": 18,
+          "home": "Bengals",
+          "homeScore": 38,
+          "note": ""
+        },
+        {
+          "away": "Chargers",
+          "awayScore": 23,
+          "home": "Ravens",
+          "homeScore": 20,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Joe Burrow",
+          "team": "Bengals",
+          "line": "35-44 · 409 YDS · 4 TD · 0 INT",
+          "note": "Took apart Pittsburgh to put Cincinnati alone atop the AFC North."
+        },
+        {
+          "name": "Ja'Marr Chase",
+          "team": "Bengals",
+          "line": "11-231-0",
+          "note": "231 receiving yards in a first-place showdown."
+        },
+        {
+          "name": "Jahmyr Gibbs",
+          "team": "Lions",
+          "line": "22-153-2",
+          "note": "Ran for 153 of his 252 scrimmage yards in the Munich rout."
+        },
+        {
+          "name": "Omarion Hampton",
+          "team": "Chargers",
+          "line": "22-105-1",
+          "note": "Carried the Chargers to their first win of the season on Monday night."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Lions claim DE Tyrus Wheat off waivers from the Cowboys, waive DB Nick Whiteside",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-claim-de-tyrus-wheat-off-of-waivers"
+        },
+        {
+          "text": "Vikings place WR Jordan Addison on IR",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Buccaneers promote QB Easton Stick to the active roster, add QB Cooper Rush to the practice squad",
+          "url": "https://nfltraderumors.co/nfl-transactions-monday-11-16-2"
+        },
+        {
+          "text": "Chargers activate TE David Njoku and LB Denzel Perryman from IR; G Branson Taylor to IR",
+          "url": "https://nfltraderumors.co/nfl-transactions-monday-11-16-2"
+        },
+        {
+          "text": "Eagles sign TE Zach Ertz and T John Ojukwu from the practice squad",
+          "url": "https://nfltraderumors.co/nfl-transactions-monday-11-16-2"
+        },
+        {
+          "text": "Dolphins waive K Zane Gonzalez and DE Jamree Kromah",
+          "url": "https://nfltraderumors.co/nfl-transactions-monday-11-16-2"
+        }
+      ],
+      "powerRankings": {
+        "sources": [
+          "Yahoo Sports",
+          "USA Today Network",
+          "FanSided"
+        ],
+        "teams": [
+          {
+            "team": "Bills",
+            "rank": 1,
+            "prev": 1,
+            "avg": 2.0
+          },
+          {
+            "team": "Jaguars",
+            "rank": 2,
+            "prev": 3,
+            "avg": 3.33
+          },
+          {
+            "team": "Bears",
+            "rank": 3,
+            "prev": 5,
+            "avg": 3.67
+          },
+          {
+            "team": "49ers",
+            "rank": 4,
+            "prev": 2,
+            "avg": 4.0
+          },
+          {
+            "team": "Broncos",
+            "rank": 5,
+            "prev": 4,
+            "avg": 4.33
+          },
+          {
+            "team": "Chiefs",
+            "rank": 6,
+            "prev": 6,
+            "avg": 6.33
+          },
+          {
+            "team": "Bengals",
+            "rank": 7,
+            "prev": 8,
+            "avg": 6.67
+          },
+          {
+            "team": "Vikings",
+            "rank": 8,
+            "prev": 7,
+            "avg": 6.67
+          },
+          {
+            "team": "Seahawks",
+            "rank": 9,
+            "prev": 11,
+            "avg": 9.33
+          },
+          {
+            "team": "Lions",
+            "rank": 10,
+            "prev": 9,
+            "avg": 9.67
+          },
+          {
+            "team": "Rams",
+            "rank": 11,
+            "prev": 13,
+            "avg": 11.33
+          },
+          {
+            "team": "Steelers",
+            "rank": 12,
+            "prev": 12,
+            "avg": 11.67
+          },
+          {
+            "team": "Packers",
+            "rank": 13,
+            "prev": 10,
+            "avg": 13.67
+          },
+          {
+            "team": "Browns",
+            "rank": 14,
+            "prev": 16,
+            "avg": 13.67
+          },
+          {
+            "team": "Giants",
+            "rank": 15,
+            "prev": 15,
+            "avg": 14.0
+          },
+          {
+            "team": "Panthers",
+            "rank": 16,
+            "prev": 19,
+            "avg": 17.33
+          },
+          {
+            "team": "Buccaneers",
+            "rank": 17,
+            "prev": 20,
+            "avg": 17.67
+          },
+          {
+            "team": "Patriots",
+            "rank": 18,
+            "prev": 14,
+            "avg": 18.33
+          },
+          {
+            "team": "Texans",
+            "rank": 19,
+            "prev": 17,
+            "avg": 20.0
+          },
+          {
+            "team": "Ravens",
+            "rank": 20,
+            "prev": 22,
+            "avg": 20.33
+          },
+          {
+            "team": "Cowboys",
+            "rank": 21,
+            "prev": 21,
+            "avg": 20.33
+          },
+          {
+            "team": "Raiders",
+            "rank": 22,
+            "prev": 18,
+            "avg": 20.67
+          },
+          {
+            "team": "Commanders",
+            "rank": 23,
+            "prev": 25,
+            "avg": 21.0
+          },
+          {
+            "team": "Saints",
+            "rank": 24,
+            "prev": 23,
+            "avg": 24.0
+          },
+          {
+            "team": "Falcons",
+            "rank": 25,
+            "prev": 24,
+            "avg": 25.0
+          },
+          {
+            "team": "Cardinals",
+            "rank": 26,
+            "prev": 26,
+            "avg": 26.33
+          },
+          {
+            "team": "Colts",
+            "rank": 27,
+            "prev": 30,
+            "avg": 27.67
+          },
+          {
+            "team": "Eagles",
+            "rank": 28,
+            "prev": 27,
+            "avg": 28.67
+          },
+          {
+            "team": "Dolphins",
+            "rank": 29,
+            "prev": 31,
+            "avg": 28.67
+          },
+          {
+            "team": "Titans",
+            "rank": 30,
+            "prev": 29,
+            "avg": 29.67
+          },
+          {
+            "team": "Jets",
+            "rank": 31,
+            "prev": 28,
+            "avg": 30.0
+          },
+          {
+            "team": "Chargers",
+            "rank": 32,
+            "prev": 32,
+            "avg": 32.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Fears' triple-double ends the Pelicans' skid; Magic win in Boston; Wemby and Giannis take weekly honors",
+      "stories": [
+        {
+          "headline": "Fears' triple-double sends Pelicans past Warriors",
+          "summary": "Jeremiah Fears had 19 points, 10 rebounds and 10 assists in New Orleans' 115-94 win over Golden State, becoming the youngest Pelican to record a triple-double. The win snapped a six-game losing streak. The Warriors have lost three straight.",
+          "source": "Field Level Media",
+          "url": "https://740thefan.com/2026/11/17/nba-roundup-jeremiah-fears-becomes-youngest-pelican-to-log-triple-double/"
+        },
+        {
+          "headline": "Wembanyama, Giannis named Players of the Week",
+          "summary": "Victor Wembanyama averaged 27.5 points, 10.5 rebounds and 5.0 blocks as the Spurs went 4-0 and ran their win streak to 12; San Antonio and the Lakers share the league's best record at 12-2. Giannis Antetokounmpo won his first weekly award with Miami after averaging 33.7 points. The Heat are 7-6 after an 0-4 start.",
+          "source": "Hoops Rumors",
+          "url": "https://www.hoopsrumors.com/2026/11/wembanyama-antetokounmpo-named-nbas-players-of-the-week.html"
+        },
+        {
+          "headline": "Magic win fourth straight, hand Celtics first home loss",
+          "summary": "Orlando won 115-105 at TD Garden, ending Boston's six-game win streak. Desmond Bane scored 24 and Franz Wagner had 21 points, 9 assists and 8 rebounds.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909994"
+        },
+        {
+          "headline": "Grizzlies' GG Jackson to have foot surgery",
+          "summary": "GG Jackson II broke the fifth metatarsal in his left foot Saturday against Brooklyn and will have surgery that likely costs him most of the season. Memphis also listed Scotty Pippen Jr. (lumbar disc herniation) as week-to-week.",
+          "source": "Hoops Rumors",
+          "url": "https://www.hoopsrumors.com/2026/11/grizzlies-gg-jackson-to-undergo-surgery-for-broken-foot.html"
+        },
+        {
+          "headline": "Mobley out at least a week; Mitchell scores 39 without him",
+          "summary": "An MRI confirmed a sprained right big toe for Evan Mobley, who will be reevaluated in 7-10 days. Cleveland beat Chicago 126-115 without him behind Donovan Mitchell's season-high 39 points.",
+          "source": "Hoops Rumors",
+          "url": "https://www.hoopsrumors.com/2026/11/evan-mobley-out-at-least-a-week-with-great-toe-sprain.html"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Bulls",
+          "awayScore": 115,
+          "home": "Cavaliers",
+          "homeScore": 126,
+          "note": ""
+        },
+        {
+          "away": "Warriors",
+          "awayScore": 94,
+          "home": "Pelicans",
+          "homeScore": 115,
+          "note": ""
+        },
+        {
+          "away": "Rockets",
+          "awayScore": 110,
+          "home": "Heat",
+          "homeScore": 128,
+          "note": ""
+        },
+        {
+          "away": "Grizzlies",
+          "awayScore": 136,
+          "home": "Wizards",
+          "homeScore": 120,
+          "note": ""
+        },
+        {
+          "away": "Magic",
+          "awayScore": 115,
+          "home": "Celtics",
+          "homeScore": 105,
+          "note": ""
+        },
+        {
+          "away": "76ers",
+          "awayScore": 135,
+          "home": "Nets",
+          "homeScore": 123,
+          "note": ""
+        },
+        {
+          "away": "Suns",
+          "awayScore": 117,
+          "home": "Nuggets",
+          "homeScore": 105,
+          "note": ""
+        },
+        {
+          "away": "Trail Blazers",
+          "awayScore": 98,
+          "home": "Timberwolves",
+          "homeScore": 106,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Jeremiah Fears",
+          "team": "Pelicans",
+          "line": "19 PTS · 10 REB · 10 AST",
+          "note": "First career triple-double; youngest Pelican to post one."
+        },
+        {
+          "name": "Jaylen Brown",
+          "team": "76ers",
+          "line": "31 PTS · 13 REB · 4 AST",
+          "note": "With Joel Embiid's season-high 37, carried Philadelphia to its 12th win in 15 games."
+        },
+        {
+          "name": "Terrence Shannon Jr.",
+          "team": "Timberwolves",
+          "line": "34 PTS · 8-11 FG · 15-16 FT",
+          "note": "Career high in Minnesota's sixth win in seven games."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Hawks waive two-way G Keshon Gilbert (knee), sign C Rafael Castro to a two-way deal",
+          "url": "https://www.hoopsrumors.com/2026/11/hawks-to-waive-gilbert-sign-castro-to-two-way-deal.html"
+        },
+        {
+          "text": "Jazz waive two-way G Trey Alexander",
+          "url": "https://www.hoopsrumors.com/2026/11/jazz-waive-trey-alexander.html"
+        },
+        {
+          "text": "Jazz to sign C Jonas Aidoo to a two-way contract",
+          "url": "https://www.hoopsrumors.com/2026/11/jazz-to-sign-jonas-aidoo-on-two-way-contract.html"
+        },
+        {
+          "text": "Free-agent G Killian Hayes to sign with Barcelona, reportedly with an NBA opt-out",
+          "url": "https://www.hoopsrumors.com/2026/11/killian-hayes-to-sign-with-barcelona.html"
+        }
+      ],
+      "powerRankings": {
+        "sources": [
+          "NBA.com",
+          "NBC Sports",
+          "CBS Sports",
+          "FanSided"
+        ],
+        "teams": [
+          {
+            "team": "Spurs",
+            "rank": 1,
+            "prev": 1,
+            "avg": 1.0
+          },
+          {
+            "team": "Celtics",
+            "rank": 2,
+            "prev": 6,
+            "avg": 2.75
+          },
+          {
+            "team": "Lakers",
+            "rank": 3,
+            "prev": 5,
+            "avg": 3.25
+          },
+          {
+            "team": "Rockets",
+            "rank": 4,
+            "prev": 3,
+            "avg": 3.75
+          },
+          {
+            "team": "Timberwolves",
+            "rank": 5,
+            "prev": 7,
+            "avg": 5.25
+          },
+          {
+            "team": "76ers",
+            "rank": 6,
+            "prev": 2,
+            "avg": 5.75
+          },
+          {
+            "team": "Trail Blazers",
+            "rank": 7,
+            "prev": 11,
+            "avg": 7.75
+          },
+          {
+            "team": "Pistons",
+            "rank": 8,
+            "prev": 8,
+            "avg": 9.0
+          },
+          {
+            "team": "Thunder",
+            "rank": 9,
+            "prev": 4,
+            "avg": 9.5
+          },
+          {
+            "team": "Knicks",
+            "rank": 10,
+            "prev": 10,
+            "avg": 10.25
+          },
+          {
+            "team": "Nuggets",
+            "rank": 11,
+            "prev": 14,
+            "avg": 11.0
+          },
+          {
+            "team": "Warriors",
+            "rank": 12,
+            "prev": 9,
+            "avg": 11.25
+          },
+          {
+            "team": "Grizzlies",
+            "rank": 13,
+            "prev": 13,
+            "avg": 12.5
+          },
+          {
+            "team": "Heat",
+            "rank": 14,
+            "prev": 19,
+            "avg": 14.0
+          },
+          {
+            "team": "Cavaliers",
+            "rank": 15,
+            "prev": 12,
+            "avg": 15.25
+          },
+          {
+            "team": "Mavericks",
+            "rank": 16,
+            "prev": 15,
+            "avg": 15.5
+          },
+          {
+            "team": "Hawks",
+            "rank": 17,
+            "prev": 17,
+            "avg": 15.5
+          },
+          {
+            "team": "Raptors",
+            "rank": 18,
+            "prev": 16,
+            "avg": 18.25
+          },
+          {
+            "team": "Suns",
+            "rank": 19,
+            "prev": 22,
+            "avg": 19.75
+          },
+          {
+            "team": "Magic",
+            "rank": 20,
+            "prev": 23,
+            "avg": 20.75
+          },
+          {
+            "team": "Pacers",
+            "rank": 21,
+            "prev": 21,
+            "avg": 20.75
+          },
+          {
+            "team": "Clippers",
+            "rank": 22,
+            "prev": 25,
+            "avg": 22.75
+          },
+          {
+            "team": "Wizards",
+            "rank": 23,
+            "prev": 18,
+            "avg": 23.5
+          },
+          {
+            "team": "Nets",
+            "rank": 24,
+            "prev": 27,
+            "avg": 23.75
+          },
+          {
+            "team": "Pelicans",
+            "rank": 25,
+            "prev": 20,
+            "avg": 24.75
+          },
+          {
+            "team": "Hornets",
+            "rank": 26,
+            "prev": 24,
+            "avg": 24.75
+          },
+          {
+            "team": "Bulls",
+            "rank": 27,
+            "prev": 29,
+            "avg": 26.5
+          },
+          {
+            "team": "Jazz",
+            "rank": 28,
+            "prev": 26,
+            "avg": 28.5
+          },
+          {
+            "team": "Kings",
+            "rank": 29,
+            "prev": 28,
+            "avg": 28.75
+          },
+          {
+            "team": "Bucks",
+            "rank": 30,
+            "prev": 30,
+            "avg": 29.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Two-game Monday: Rangers win a third straight, Canucks push Utah's skid to six; Shesterkin done for the year",
+      "stories": [
+        {
+          "headline": "Cuylle scores twice as Rangers beat Canadiens",
+          "summary": "Will Cuylle scored twice in the second period, including a short-handed go-ahead goal, in a 3-1 win at Madison Square Garden. Joonas Korpisalo made 24 saves in his first home start for New York, which has won six of seven. Montreal has lost three of four after a 12-game point streak.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/montreal-canadiens-new-york-rangers-game-recap-november-16-2026"
+        },
+        {
+          "headline": "Rangers move Shesterkin to season-ending IR",
+          "summary": "New York moved Igor Shesterkin from LTIR to season-ending injured reserve, so he cannot return this season or in the playoffs. He has been out since a lower-body injury on Oct. 9. The move lets the Rangers use his full $11.57M cap hit for relief.",
+          "source": "Daily Faceoff",
+          "url": "https://www.yardbarker.com/nhl/articles/rangers_place_igor_shesterkin_on_season_ending_injured_reserve/s1_16958_44565324"
+        },
+        {
+          "headline": "Boeser's late power-play goal sinks Utah",
+          "summary": "Brock Boeser had a goal and two assists, including the winner with 4:23 left, as Vancouver won 3-2 in Salt Lake City as a heavy underdog. The 5-17-1 Canucks won back-to-back games for the first time this season. Utah has lost six straight.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/vancouver-canucks-utah-mammoth-game-recap-november-16-2026"
+        },
+        {
+          "headline": "Canadiens lose Kreider for 6-8 weeks",
+          "summary": "Montreal forward Chris Kreider (lower body) is out six to eight weeks. Josh Anderson is out three to four weeks and Mike Matheson two to three, both with lower-body injuries. Wild goalie Filip Gustavsson could make his season debut next week after hip surgery.",
+          "source": "NHL.com",
+          "url": "https://nhl.com/news/nhl-status-report-news-and-notes-november-16-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Canadiens",
+          "awayScore": 1,
+          "home": "Rangers",
+          "homeScore": 3,
+          "note": "Upset"
+        },
+        {
+          "away": "Canucks",
+          "awayScore": 3,
+          "home": "Mammoth",
+          "homeScore": 2,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Brock Boeser",
+          "team": "Canucks",
+          "line": "1 G · 2 A",
+          "note": "Power-play winner late in the third; point streak at eight games."
+        },
+        {
+          "name": "Nikita Tolopilo",
+          "team": "Canucks",
+          "line": "34 SV · .944",
+          "note": "Won his season debut in Utah."
+        },
+        {
+          "name": "Will Cuylle",
+          "team": "Rangers",
+          "line": "2 G",
+          "note": "Both goals in the second, one short-handed."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Blackhawks acquire G Spencer Martin from the Rangers for G Arvid Soderblom",
+          "url": "https://www.dailyfaceoff.com/news/chicago-blackhawks-acquire-spencer-martin-new-york-rangers-arvid-soderblom-nhl-trade-news-ahl"
+        },
+        {
+          "text": "Rangers move G Igor Shesterkin to season-ending IR",
+          "url": "https://www.yardbarker.com/nhl/articles/rangers_place_igor_shesterkin_on_season_ending_injured_reserve/s1_16958_44565324"
+        },
+        {
+          "text": "Stars place D Lian Bichsel (lower body) on IR, retroactive to Nov. 12",
+          "url": "https://nhl.com/news/nhl-status-report-news-and-notes-november-16-2026"
+        },
+        {
+          "text": "Senators recall F Tyler Boucher from AHL Belleville",
+          "url": "https://nhl.com/news/nhl-status-report-news-and-notes-november-16-2026"
+        }
+      ],
+      "powerRankings": {
+        "sources": [
+          "NHL.com Super 16 (Nov 12)",
+          "ESPN (Nov 13)",
+          "CBS Sports (Nov 11)",
+          "The Big Lead/Yahoo (Nov 10)"
+        ],
+        "teams": [
+          {
+            "team": "Hurricanes",
+            "rank": 1,
+            "prev": 1,
+            "avg": 1.0
+          },
+          {
+            "team": "Wild",
+            "rank": 2,
+            "prev": 2,
+            "avg": 2.5
+          },
+          {
+            "team": "Oilers",
+            "rank": 3,
+            "prev": 3,
+            "avg": 3.25
+          },
+          {
+            "team": "Bruins",
+            "rank": 4,
+            "prev": 4,
+            "avg": 3.25
+          },
+          {
+            "team": "Devils",
+            "rank": 5,
+            "prev": 5,
+            "avg": 5.5
+          },
+          {
+            "team": "Lightning",
+            "rank": 6,
+            "prev": 6,
+            "avg": 6.75
+          },
+          {
+            "team": "Golden Knights",
+            "rank": 7,
+            "prev": 7,
+            "avg": 7.0
+          },
+          {
+            "team": "Canadiens",
+            "rank": 8,
+            "prev": 8,
+            "avg": 7.25
+          },
+          {
+            "team": "Stars",
+            "rank": 9,
+            "prev": 10,
+            "avg": 9.0
+          },
+          {
+            "team": "Avalanche",
+            "rank": 10,
+            "prev": 11,
+            "avg": 10.0
+          },
+          {
+            "team": "Senators",
+            "rank": 11,
+            "prev": 13,
+            "avg": 12.25
+          },
+          {
+            "team": "Predators",
+            "rank": 12,
+            "prev": 20,
+            "avg": 12.75
+          },
+          {
+            "team": "Panthers",
+            "rank": 13,
+            "prev": 12,
+            "avg": 14.0
+          },
+          {
+            "team": "Capitals",
+            "rank": 14,
+            "prev": 14,
+            "avg": 14.25
+          },
+          {
+            "team": "Mammoth",
+            "rank": 15,
+            "prev": 9,
+            "avg": 14.25
+          },
+          {
+            "team": "Ducks",
+            "rank": 16,
+            "prev": 21,
+            "avg": 15.25
+          },
+          {
+            "team": "Rangers",
+            "rank": 17,
+            "prev": 18,
+            "avg": 16.33
+          },
+          {
+            "team": "Sabres",
+            "rank": 18,
+            "prev": 16,
+            "avg": 17.33
+          },
+          {
+            "team": "Kraken",
+            "rank": 19,
+            "prev": 15,
+            "avg": 17.33
+          },
+          {
+            "team": "Islanders",
+            "rank": 20,
+            "prev": 17,
+            "avg": 20.33
+          },
+          {
+            "team": "Maple Leafs",
+            "rank": 21,
+            "prev": 19,
+            "avg": 21.67
+          },
+          {
+            "team": "Blues",
+            "rank": 22,
+            "prev": 23,
+            "avg": 22.33
+          },
+          {
+            "team": "Jets",
+            "rank": 23,
+            "prev": 26,
+            "avg": 23.0
+          },
+          {
+            "team": "Red Wings",
+            "rank": 24,
+            "prev": 22,
+            "avg": 23.67
+          },
+          {
+            "team": "Flames",
+            "rank": 25,
+            "prev": 24,
+            "avg": 24.0
+          },
+          {
+            "team": "Sharks",
+            "rank": 26,
+            "prev": 25,
+            "avg": 26.0
+          },
+          {
+            "team": "Blue Jackets",
+            "rank": 27,
+            "prev": 28,
+            "avg": 27.33
+          },
+          {
+            "team": "Penguins",
+            "rank": 28,
+            "prev": 27,
+            "avg": 27.67
+          },
+          {
+            "team": "Kings",
+            "rank": 29,
+            "prev": 29,
+            "avg": 29.33
+          },
+          {
+            "team": "Flyers",
+            "rank": 30,
+            "prev": 30,
+            "avg": 29.67
+          },
+          {
+            "team": "Blackhawks",
+            "rank": 31,
+            "prev": 31,
+            "avg": 31.0
+          },
+          {
+            "team": "Canucks",
+            "rank": 32,
+            "prev": 32,
+            "avg": 32.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Qualifying offer and 40-man deadlines today; owners meet with the CBA expiring Dec. 1",
+      "stories": [
+        {
+          "headline": "Seven players face today's qualifying offer deadline",
+          "summary": "Randy Arozarena, Seiya Suzuki, David Bednar, Trevor Rogers, Brandon Lowe, Ryan Jeffers and Adrian Morejon have until 4 p.m. ET to accept or decline one-year, $23.15M qualifying offers. None had accepted as of Monday. Today is also the 40-man roster deadline to protect players from the Rule 5 Draft.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/7-mlb-players-just-over-160603185.html"
+        },
+        {
+          "headline": "Owners meetings open with a lockout looming",
+          "summary": "Owners meet Nov. 17-19 with the CBA expiring Dec. 1 and a lockout widely expected the next day if there's no deal. The owners' latest proposal delays a salary cap to 2028 at $258.2M with a $180.2M floor; the players' union rejected it and opposes any cap. A lockout would freeze free-agent signings and trades of 40-man players.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/mlb-owners-prepare-major-move-010957372.html"
+        },
+        {
+          "headline": "Bohm meets with both New York teams; Orioles eye Arozarena",
+          "summary": "Free-agent infielder Alec Bohm has met with the Yankees and Mets, per The Athletic. The Orioles have interest in Randy Arozarena and lefties Kris Bubic and Matthew Boyd, and have discussed a trade for Arizona's Ketel Marte, though nothing is imminent.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-16"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Brewers acquire RHP Ryan Walker from the Giants for Blake Holub and Gavin Perry",
+          "url": "https://www.mlbtraderumors.com/2026/11/brewers-acquire-ryan-walker.html"
+        },
+        {
+          "text": "Mets acquire $250K in international bonus pool money from the Rangers for Juan Arnaud",
+          "url": "https://www.mlbtraderumors.com/2026/11/mets-acquire-international-bonus-money-from-rangers.html"
+        },
+        {
+          "text": "Orioles re-sign José Barrero to a minor league deal",
+          "url": "https://www.mlbtraderumors.com/2026/11/orioles-re-sign-jose-barrero-to-minor-league-deal-2.html"
+        },
+        {
+          "text": "Phillies sign Geoff Hartlieb and Max Kranick to minor league deals",
+          "url": "https://www.mlbtraderumors.com/2026/11/phillies-to-sign-geoff-hartlieb-to-minors-deal.html"
+        },
+        {
+          "text": "Troy Watson signs with the KBO's Hanwha Eagles",
+          "url": "https://www.mlbtraderumors.com/2026/11/kbos-hanwha-eagles-sign-troy-watson.html"
+        }
+      ]
+    }
+  ]
+}

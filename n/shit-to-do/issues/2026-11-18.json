@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "weekendNote": "Weekend before Thanksgiving",
   "events": [
     {
       "id": "2026-11-12-holly-jolly-christmas-bar",
       "name": "Holly Jolly Christmas Bar pop-up",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "endDate": "2026-11-27",
       "time": "From 5 PM",
       "startTime": "17:00",
@@ -19,181 +19,6 @@
       "url": "https://bucketlisters.com/experience/holly-jolly-christmas-bar-boston",
       "linkLabel": "Tickets",
       "added": "2026-11-09"
-    },
-    {
-      "name": "The Big Lebowski in 35mm",
-      "date": "2026-11-17",
-      "time": "7:30 PM",
-      "startTime": "19:30",
-      "venue": "Somerville Theatre",
-      "area": "Somerville",
-      "note": "Cult Cinema Tuesdays",
-      "tags": [
-        "somerville",
-        "film"
-      ],
-      "url": "https://www.somervilletheatre.com/production/the-big-lebowski/",
-      "linkLabel": "Tickets",
-      "id": "2026-11-17-the-big-lebowski-in-35mm",
-      "added": "2026-11-02"
-    },
-    {
-      "name": "Ezra Furman",
-      "date": "2026-11-17",
-      "time": "8 PM",
-      "startTime": "20:00",
-      "venue": "The Rockwell",
-      "area": "Somerville",
-      "tags": [
-        "somerville",
-        "music"
-      ],
-      "why": "Ezra Furman at the small Davis Square venue.",
-      "url": "https://happeningnext.com/event/ezra-furman-in-somerville-eid1kbvqelk2m0",
-      "linkLabel": "Info",
-      "id": "2026-11-17-ezra-furman",
-      "added": "2026-11-05"
-    },
-    {
-      "name": "Freezing Time: Edgerton (closing)",
-      "date": "2026-11-17",
-      "endDate": "2026-11-29",
-      "venue": "MIT Museum",
-      "area": "Cambridge",
-      "note": "Closes Nov 29",
-      "why": "Harold 'Doc' Edgerton's high-speed photography; closes Nov 29.",
-      "url": "https://www.musa.guide/en/discover/boston/exhibitions/mit-museum/freezing-time-edgerton",
-      "linkLabel": "Info",
-      "id": "2026-11-05-freezing-time-edgerton-closing",
-      "added": "2026-11-05"
-    },
-    {
-      "id": "2026-11-06-snowport",
-      "name": "Snowport Holiday Market",
-      "date": "2026-11-17",
-      "endDate": "2026-12-27",
-      "venue": "Snowport, 100 Seaport Blvd",
-      "area": "Seaport",
-      "free": true,
-      "note": "Fri 11 AM–9 PM, Sat 10 AM–9 PM, Sun 10 AM–8 PM, Mon–Thu 3–8 PM",
-      "tags": [
-        "market",
-        "food"
-      ],
-      "why": "The big Seaport holiday market opens Nov 6; general admission is free.",
-      "url": "https://www.boston25news.com/news/local/snowport-holiday-market-returning-boston-seaport-2026-holiday-season/VOOAPT3EP5FXRI4SVYFRFDNRO4/",
-      "linkLabel": "Info",
-      "added": "2026-10-29"
-    },
-    {
-      "name": "Snowport Curling Lanes",
-      "date": "2026-11-17",
-      "endDate": "2027-02-28",
-      "venue": "111 Harbor Way, Seaport",
-      "area": "Boston",
-      "price": "Free",
-      "free": true,
-      "tags": [
-        "outdoors"
-      ],
-      "why": "Free curling lanes next to the Snowport market, all winter.",
-      "url": "https://www.bostonseaport.xyz/event/snowport-curling",
-      "linkLabel": "Info",
-      "id": "2026-11-10-snowport-curling-lanes",
-      "added": "2026-11-10"
-    },
-    {
-      "name": "Rembrandt and the Jews in the Dutch Republic (closing)",
-      "date": "2026-11-17",
-      "endDate": "2026-11-29",
-      "venue": "Museum of Fine Arts, 465 Huntington Ave",
-      "area": "Boston",
-      "price": "$30",
-      "tags": [],
-      "why": "MFA show on Jews in the 17th-century Dutch art world, with works by Rembrandt and his circle.",
-      "url": "https://mfa.org/exhibition/reality-and-imagination-rembrandt-and-the-jews-in-the-dutch-republic",
-      "linkLabel": "Info",
-      "id": "2026-11-11-rembrandt-and-the-jews-in-the-dutch-republic-closing",
-      "added": "2026-11-11"
-    },
-    {
-      "name": "Shadows and Light: Symbolist Art in Belgium (closing)",
-      "date": "2026-11-17",
-      "endDate": "2026-12-06",
-      "venue": "McMullen Museum, Boston College",
-      "area": "Brighton",
-      "price": "Free",
-      "free": true,
-      "tags": [],
-      "why": "Free show of Belgian Symbolist art from a private collection.",
-      "url": "https://mcmullenmuseum.bc.edu/shadows-and-light/",
-      "linkLabel": "Info",
-      "id": "2026-11-11-shadows-and-light-symbolist-art-in-belgium-closing",
-      "added": "2026-11-11"
-    },
-    {
-      "name": "List Projects 35: Pap Souleye Fall (closing)",
-      "date": "2026-11-17",
-      "endDate": "2026-11-29",
-      "venue": "MIT List Visual Arts Center, 20 Ames St",
-      "area": "Cambridge",
-      "price": "Free",
-      "free": true,
-      "tags": [],
-      "why": "Free show of works built around video-game 'dead pixels'.",
-      "url": "https://listart.mit.edu/exhibitions/list-projects-35-pap-souleye-fall",
-      "linkLabel": "Info",
-      "id": "2026-11-11-list-projects-35-pap-souleye-fall-closing",
-      "added": "2026-11-11"
-    },
-    {
-      "id": "2026-11-13-raise-the-red-lantern-4k",
-      "name": "Raise the Red Lantern (new 4K restoration)",
-      "date": "2026-11-17",
-      "endDate": "2026-11-22",
-      "venue": "Brattle Theatre",
-      "area": "Cambridge",
-      "note": "Runs Nov 13–19 and Nov 21–22; check the Brattle for daily showtimes.",
-      "tags": [
-        "film"
-      ],
-      "why": "A run of the new 4K restoration of Zhang Yimou's film, from the Brattle's Holidays 2026 calendar.",
-      "url": "https://brattlefilm.org/movies/raise-the-red-lantern/",
-      "linkLabel": "Tickets",
-      "added": "2026-11-09"
-    },
-    {
-      "name": "The Black Pirate with live piano score",
-      "date": "2026-11-17",
-      "venue": "Coolidge Corner Theatre",
-      "area": "Brookline",
-      "note": "Sounds of Silents series",
-      "tags": [
-        "film",
-        "music"
-      ],
-      "why": "Douglas Fairbanks' 1926 silent swashbuckler with a live piano score by Jeff Rapsis.",
-      "url": "https://coolidge.org/films/black-pirate",
-      "linkLabel": "Info",
-      "id": "2026-11-17-the-black-pirate-with-live-piano-score",
-      "added": "2026-11-03"
-    },
-    {
-      "name": "Rooftop Après at Deck 12",
-      "date": "2026-11-17",
-      "endDate": "2027-02-07",
-      "time": "From 5 PM; dates vary",
-      "venue": "Yotel (Deck 12), 65 Seaport Blvd",
-      "area": "Boston",
-      "tags": [
-        "food",
-        "outdoors"
-      ],
-      "why": "Ski-lodge rooftop series with skyline views, fondue and warm cocktails.",
-      "url": "https://do617.com/events/2026/11/13/rooftop-apres-tickets",
-      "linkLabel": "Info",
-      "id": "2026-11-17-rooftop-apr-s-at-deck-12",
-      "added": "2026-11-17"
     },
     {
       "name": "The Festivals of Drunkenness in the Temple of Mut",
@@ -248,6 +73,131 @@
       "linkLabel": "Info",
       "id": "2026-11-18-survivor-51-screening-at-aeronaut",
       "added": "2026-11-14"
+    },
+    {
+      "name": "Freezing Time: Edgerton (closing)",
+      "date": "2026-11-18",
+      "endDate": "2026-11-29",
+      "venue": "MIT Museum",
+      "area": "Cambridge",
+      "note": "Closes Nov 29",
+      "why": "Harold 'Doc' Edgerton's high-speed photography; closes Nov 29.",
+      "url": "https://www.musa.guide/en/discover/boston/exhibitions/mit-museum/freezing-time-edgerton",
+      "linkLabel": "Info",
+      "id": "2026-11-05-freezing-time-edgerton-closing",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "2026-11-06-snowport",
+      "name": "Snowport Holiday Market",
+      "date": "2026-11-18",
+      "endDate": "2026-12-27",
+      "venue": "Snowport, 100 Seaport Blvd",
+      "area": "Seaport",
+      "free": true,
+      "note": "Fri 11 AM–9 PM, Sat 10 AM–9 PM, Sun 10 AM–8 PM, Mon–Thu 3–8 PM",
+      "tags": [
+        "market",
+        "food"
+      ],
+      "why": "The big Seaport holiday market opens Nov 6; general admission is free.",
+      "url": "https://www.boston25news.com/news/local/snowport-holiday-market-returning-boston-seaport-2026-holiday-season/VOOAPT3EP5FXRI4SVYFRFDNRO4/",
+      "linkLabel": "Info",
+      "added": "2026-10-29"
+    },
+    {
+      "name": "Snowport Curling Lanes",
+      "date": "2026-11-18",
+      "endDate": "2027-02-28",
+      "venue": "111 Harbor Way, Seaport",
+      "area": "Boston",
+      "price": "Free",
+      "free": true,
+      "tags": [
+        "outdoors"
+      ],
+      "why": "Free curling lanes next to the Snowport market, all winter.",
+      "url": "https://www.bostonseaport.xyz/event/snowport-curling",
+      "linkLabel": "Info",
+      "id": "2026-11-10-snowport-curling-lanes",
+      "added": "2026-11-10"
+    },
+    {
+      "name": "Rembrandt and the Jews in the Dutch Republic (closing)",
+      "date": "2026-11-18",
+      "endDate": "2026-11-29",
+      "venue": "Museum of Fine Arts, 465 Huntington Ave",
+      "area": "Boston",
+      "price": "$30",
+      "tags": [],
+      "why": "MFA show on Jews in the 17th-century Dutch art world, with works by Rembrandt and his circle.",
+      "url": "https://mfa.org/exhibition/reality-and-imagination-rembrandt-and-the-jews-in-the-dutch-republic",
+      "linkLabel": "Info",
+      "id": "2026-11-11-rembrandt-and-the-jews-in-the-dutch-republic-closing",
+      "added": "2026-11-11"
+    },
+    {
+      "name": "Shadows and Light: Symbolist Art in Belgium (closing)",
+      "date": "2026-11-18",
+      "endDate": "2026-12-06",
+      "venue": "McMullen Museum, Boston College",
+      "area": "Brighton",
+      "price": "Free",
+      "free": true,
+      "tags": [],
+      "why": "Free show of Belgian Symbolist art from a private collection.",
+      "url": "https://mcmullenmuseum.bc.edu/shadows-and-light/",
+      "linkLabel": "Info",
+      "id": "2026-11-11-shadows-and-light-symbolist-art-in-belgium-closing",
+      "added": "2026-11-11"
+    },
+    {
+      "name": "List Projects 35: Pap Souleye Fall (closing)",
+      "date": "2026-11-18",
+      "endDate": "2026-11-29",
+      "venue": "MIT List Visual Arts Center, 20 Ames St",
+      "area": "Cambridge",
+      "price": "Free",
+      "free": true,
+      "tags": [],
+      "why": "Free show of works built around video-game 'dead pixels'.",
+      "url": "https://listart.mit.edu/exhibitions/list-projects-35-pap-souleye-fall",
+      "linkLabel": "Info",
+      "id": "2026-11-11-list-projects-35-pap-souleye-fall-closing",
+      "added": "2026-11-11"
+    },
+    {
+      "id": "2026-11-13-raise-the-red-lantern-4k",
+      "name": "Raise the Red Lantern (new 4K restoration)",
+      "date": "2026-11-18",
+      "endDate": "2026-11-22",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "note": "Runs Nov 13–19 and Nov 21–22; check the Brattle for daily showtimes.",
+      "tags": [
+        "film"
+      ],
+      "why": "A run of the new 4K restoration of Zhang Yimou's film, from the Brattle's Holidays 2026 calendar.",
+      "url": "https://brattlefilm.org/movies/raise-the-red-lantern/",
+      "linkLabel": "Tickets",
+      "added": "2026-11-09"
+    },
+    {
+      "name": "Rooftop Après at Deck 12",
+      "date": "2026-11-18",
+      "endDate": "2027-02-07",
+      "time": "From 5 PM; dates vary",
+      "venue": "Yotel (Deck 12), 65 Seaport Blvd",
+      "area": "Boston",
+      "tags": [
+        "food",
+        "outdoors"
+      ],
+      "why": "Ski-lodge rooftop series with skyline views, fondue and warm cocktails.",
+      "url": "https://do617.com/events/2026/11/13/rooftop-apres-tickets",
+      "linkLabel": "Info",
+      "id": "2026-11-17-rooftop-apr-s-at-deck-12",
+      "added": "2026-11-17"
     },
     {
       "name": "Boston African Restaurant Week",
@@ -943,6 +893,24 @@
       "added": "2026-11-17"
     },
     {
+      "name": "Earlybirds Club",
+      "date": "2026-11-21",
+      "time": "6 PM",
+      "startTime": "18:00",
+      "venue": "The Sinclair, 52 Church St",
+      "area": "Cambridge",
+      "note": "Doors 6 PM; 21+",
+      "tags": [
+        "djs",
+        "music"
+      ],
+      "why": "An early-evening dance party at The Sinclair with 6 PM doors, so it's done at a reasonable hour.",
+      "url": "https://www.sinclaircambridge.com/events/detail/1034376",
+      "linkLabel": "Tickets",
+      "id": "2026-11-21-earlybirds-club",
+      "added": "2026-11-18"
+    },
+    {
       "name": "After Midnite: Killer Joe",
       "date": "2026-11-21",
       "venue": "Coolidge Corner Theatre",
@@ -956,6 +924,36 @@
       "id": "2026-11-21-after-midnite-killer-joe",
       "added": "2026-11-02",
       "pick": true
+    },
+    {
+      "name": "Seminar: The Lunchbox (pre-film talk with Ulka Anjaria)",
+      "date": "2026-11-21",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film",
+        "food"
+      ],
+      "why": "Coolidge seminar screening of The Lunchbox, the Mumbai film about a lunch delivered to the wrong person, with a talk by Ulka Anjaria before the film.",
+      "url": "https://coolidge.org/events/seminar-lunchbox",
+      "linkLabel": "Info",
+      "id": "2026-11-21-seminar-the-lunchbox-pre-film-talk-with-ulka-anjaria",
+      "added": "2026-11-18"
+    },
+    {
+      "name": "Trove: Jewelry, Gems, Baubles & More!",
+      "date": "2026-11-21",
+      "endDate": "2026-11-22",
+      "venue": "The Charles River Speedway",
+      "area": "Brighton",
+      "tags": [
+        "market"
+      ],
+      "why": "Weekend jewelry and gem market at the Speedway's food-and-market complex.",
+      "url": "https://www.thebostoncalendar.com/events/trove-jewelry-gems-baubles-more",
+      "linkLabel": "Info",
+      "id": "2026-11-21-trove-jewelry-gems-baubles-more",
+      "added": "2026-11-18"
     },
     {
       "name": "Holiday Plant Market",
@@ -1837,6 +1835,20 @@
       "added": "2026-11-16"
     },
     {
+      "name": "After Midnite: Tales from the Crypt (1972) on 35mm",
+      "date": "2026-12-05",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "The 1972 Amicus horror anthology on 35mm in the Coolidge's late-night After Midnite series.",
+      "url": "https://coolidge.org/films/tales-crypt-1972",
+      "linkLabel": "Tickets",
+      "id": "2026-12-05-after-midnite-tales-from-the-crypt-1972-on-35mm",
+      "added": "2026-11-18"
+    },
+    {
       "name": "Open Newbury: Holiday Stroll",
       "date": "2026-12-06",
       "time": "10 AM–6 PM",
@@ -1946,6 +1958,22 @@
       "linkLabel": "Info",
       "id": "2026-12-07-mccabe-mrs-miller-on-35mm-seminar",
       "added": "2026-11-13"
+    },
+    {
+      "name": "Cameron Winter at Carnegie Hall (on film)",
+      "date": "2026-12-08",
+      "endDate": "2026-12-10",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film",
+        "music"
+      ],
+      "why": "A short run of the concert film of Geese frontman Cameron Winter's Carnegie Hall show.",
+      "url": "https://coolidge.org/films/cameron-winter-carnegie-hall",
+      "linkLabel": "Tickets",
+      "id": "2026-12-08-cameron-winter-at-carnegie-hall-on-film",
+      "added": "2026-11-18"
     },
     {
       "id": "2026-12-09-homeboy-sandman-rockwell",
@@ -2225,6 +2253,34 @@
       "added": "2026-11-16"
     },
     {
+      "name": "Looking for Langston + discussion",
+      "date": "2026-12-13",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "Isaac Julien's 1989 film about the Harlem Renaissance, followed by a discussion with guests from The Theater Offensive.",
+      "url": "https://coolidge.org/films/looking-langston",
+      "linkLabel": "Tickets",
+      "id": "2026-12-13-looking-for-langston-discussion",
+      "added": "2026-11-18"
+    },
+    {
+      "name": "Science on Screen: Altered States",
+      "date": "2026-12-14",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "Ken Russell's 1980 sci-fi body-horror film, introduced by Laura Warren, MD, as part of Science on Screen.",
+      "url": "https://coolidge.org/films/altered-states",
+      "linkLabel": "Tickets",
+      "id": "2026-12-14-science-on-screen-altered-states",
+      "added": "2026-11-18"
+    },
+    {
       "name": "Survivor 51 Finale Party",
       "date": "2026-12-16",
       "time": "6–11 PM",
@@ -2333,18 +2389,6 @@
     }
   ],
   "comedyShows": [
-    {
-      "comedian": "Ilana Glazer",
-      "date": "2026-11-17",
-      "time": "7 PM",
-      "startTime": "19:00",
-      "venue": "The Wilbur",
-      "area": "Boston",
-      "price": "$30–$60",
-      "url": "https://thewilbur.com/event/ilana-glazer/",
-      "onSale": "Sold out",
-      "added": "2026-11-16"
-    },
     {
       "comedian": "Michael Palascak",
       "date": "2026-11-18",

@@ -1,0 +1,412 @@
+{
+  "date": "2026-11-18",
+  "headline": "McDavid's opening point streak reaches 23, ties Gretzky",
+  "ticker": [
+    "McDavid streak: 23 games",
+    "Pistons 105, Spurs 93",
+    "Lakers 118, Hornets 114",
+    "Bednar, Jeffers take QOs",
+    "Raiders-Browns flexed to SNF"
+  ],
+  "top": [
+    {
+      "league": "nhl",
+      "headline": "McDavid's opening point streak reaches 23, ties Gretzky",
+      "summary": "Connor McDavid had a goal and an assist in Edmonton's 5-2 win at Florida. His 23-game streak to open the season ties Wayne Gretzky's 1988-89 run for the fourth-longest in NHL history. The Oilers (17-3-3) have won six straight.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/edmonton-oilers-florida-panthers-game-recap-november-17-2026"
+    },
+    {
+      "league": "nba",
+      "headline": "Pistons end Spurs' 12-game win streak",
+      "summary": "Detroit won 105-93 in San Antonio behind 27 points from Cade Cunningham and 14 points, 12 assists, 9 rebounds and 5 steals from Ausar Thompson. The Spurs fall to 12-3 and had not lost since Oct. 23. Rookie Dylan Harper left late with an injury; his status is unclear.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/nba/breaking-news/article/pistons-overcome-highlight-reel-victor-wembanyama-to-stun-spurs-snap-san-antonios-12-game-win-streak-044107468.html"
+    },
+    {
+      "league": "mlb",
+      "headline": "Bednar, Jeffers accept qualifying offers; five decline",
+      "summary": "David Bednar stays with the Yankees and Ryan Jeffers with the Twins on one-year, $23.15M qualifying offers. Randy Arozarena, Seiya Suzuki, Brandon Lowe, Trevor Rogers and Adrian Morejon declined and hit the market. Teams that sign them give up draft picks, with a possible lockout two weeks away.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/50513467/sources-yankees-bednar-twins-jeffers-accept-2315m-offer"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Raiders-Browns flexed to Sunday night; Texans lose Al-Shaair before Thursday's game",
+      "stories": [
+        {
+          "headline": "Raiders-Browns flexed to Sunday Night Football",
+          "summary": "The NFL moved the Week 12 Raiders-Browns game to NBC on Nov. 29 at 8:20 p.m. ET. Patriots-Chargers, first slotted for prime time, moves to 4:05 p.m. on CBS. The AP noted that flexing a game during Thanksgiving week is rare.",
+          "source": "AP",
+          "url": "https://www.clickondetroit.com/sports/2026/11/17/nfl-flexes-raiders-browns-to-nbcs-sunday-night-football-on-nov-29/"
+        },
+        {
+          "headline": "Texans put Al-Shaair on IR before Thursday game",
+          "summary": "Houston placed LB Azeez Al-Shaair on injured reserve after groin surgery; he'll miss at least four games. Henry To'oTo'o takes over his role, including the green dot, for Thursday's game against the Colts.",
+          "source": "KPRC Click2Houston",
+          "url": "https://www.click2houston.com/sports/2026/11/18/texans-defense-will-need-to-step-up-with-azeez-al-shaair-on-injured-reserve/"
+        },
+        {
+          "headline": "Mayfield's status for Detroit in doubt",
+          "summary": "Baker Mayfield has a lower leg injury and has been in and out of a walking boot during the Buccaneers' bye. It isn't expected to be long-term, but he may not be ready for Sunday at Detroit. Undrafted rookie Jalon Daniels would start again if he can't go.",
+          "source": "FOX Sports",
+          "url": "https://www.foxsports.com/stories/nfl/bucs-qb-baker-mayfield-week-11-status-leg-injury"
+        },
+        {
+          "headline": "Jets' Geno Smith uncertain for Chargers game",
+          "summary": "Geno Smith had imaging on his left ankle after leaving the 31-12 loss to Buffalo. Rookie Cade Klubnik would start if he can't. The Jets are 2-8, have lost five straight and have gone nine quarters without a touchdown.",
+          "source": "theScore",
+          "url": "https://www.thescore.com/nfl/news/3656968"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Texans place LB Azeez Al-Shaair on IR",
+          "url": "https://nfltraderumors.co/nfl-transactions-tuesday-11-17-2"
+        },
+        {
+          "text": "Titans place WR Wan'Dale Robinson (ankle) on IR, promote WR Xavier Restrepo",
+          "url": "https://www.tennesseetitans.com/news/titans-promote-wr-xavier-restrepo-to-53-man-roster-place-wr-wan-dale-robinson-on-injured-reserveroster-moves"
+        },
+        {
+          "text": "Browns claim DE Jamree Kromah off waivers from the Dolphins",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Commanders designate RB Jacory Croskey-Merritt to return from IR",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Dolphins place DLs Zeek Biggers and Jordan Phillips on IR, promote QB Brady Cook",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Cardinals place LB Jordan Burch and S Andrew Wingard on IR",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Colts place LB Jaylon Carlies on IR, promote WR Quez Watkins",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Bills place G Ar'maj Reed-Adams on IR",
+          "url": "https://www.espn.com/nfl/transactions"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Pistons snap the Spurs' 12-game streak; Grimes drops 47 as the Lakers win a ninth straight",
+      "stories": [
+        {
+          "headline": "Pistons end Spurs' 12-game win streak",
+          "summary": "Detroit won 105-93 in San Antonio behind 27 points from Cade Cunningham and 14 points, 12 assists, 9 rebounds and 5 steals from Ausar Thompson. The Spurs fall to 12-3 and had not lost since Oct. 23. Rookie Dylan Harper left late with an injury; his status is unclear.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nba/breaking-news/article/pistons-overcome-highlight-reel-victor-wembanyama-to-stun-spurs-snap-san-antonios-12-game-win-streak-044107468.html"
+        },
+        {
+          "headline": "Grimes scores career-high 47 as Lakers win ninth straight",
+          "summary": "Quentin Grimes made 10 of 14 threes, including one late in regulation to force overtime, in a 118-114 win over Charlotte. Luka Doncic added 36, his 11th straight game with at least 30. The Hornets have lost nine of 10.",
+          "source": "Field Level Media",
+          "url": "https://fieldlevelmedia.com/nba/quentin-grimes-pumps-in-47-as-lakers-rally-to-beat-hornets-in-ot/"
+        },
+        {
+          "headline": "Sensabaugh scores 40 as Jazz rout Clippers",
+          "summary": "Brice Sensabaugh scored 40 with 11 rebounds on 16-of-21 shooting, 8 of 11 from three, in a 132-107 win in Los Angeles. Keyonte George added 30 points and 11 assists for a short-handed Utah team.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261117_UTA@LAC/"
+        },
+        {
+          "headline": "McDaniels layup with 2.6 seconds left beats Blazers again",
+          "summary": "A late steal set up Jaden McDaniels' go-ahead layup and Trey Lyles blocked Damian Lillard's last shot in Minnesota's 106-105 win. Ayo Dosunmu scored a season-high 30. The Wolves beat Portland for the second straight night.",
+          "source": "AP",
+          "url": "https://www.wral.com/news/ap/0ae6c-mcdaniels-scores-with-2-6-seconds-left-to-lift-timberwolves-to-106-105-win-over-trail-blazers/"
+        },
+        {
+          "headline": "Brunson's late four-point play seals Knicks' win in Toronto",
+          "summary": "Jalen Brunson scored 31 in a 111-102 win that moves New York to 8-6. Karl-Anthony Towns had 16 and 16 for his 14th straight double-double to open the season, a franchise record. The Knicks have beaten Toronto 14 straight times.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/knicks-pull-off-toronto-sweep-032600575.html"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Pistons",
+          "awayScore": 105,
+          "home": "Spurs",
+          "homeScore": 93,
+          "note": ""
+        },
+        {
+          "away": "Knicks",
+          "awayScore": 111,
+          "home": "Raptors",
+          "homeScore": 102,
+          "note": ""
+        },
+        {
+          "away": "Trail Blazers",
+          "awayScore": 105,
+          "home": "Timberwolves",
+          "homeScore": 106,
+          "note": "Close"
+        },
+        {
+          "away": "Jazz",
+          "awayScore": 132,
+          "home": "Clippers",
+          "homeScore": 107,
+          "note": ""
+        },
+        {
+          "away": "Hornets",
+          "awayScore": 114,
+          "home": "Lakers",
+          "homeScore": 118,
+          "note": "OT"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Quentin Grimes",
+          "team": "Lakers",
+          "line": "47 PTS · 10-14 3PT",
+          "note": "Career high, including the three that forced overtime."
+        },
+        {
+          "name": "Brice Sensabaugh",
+          "team": "Jazz",
+          "line": "40 PTS · 11 REB · 16-21 FG",
+          "note": "Made 8 of 11 threes in a 25-point win at Los Angeles."
+        },
+        {
+          "name": "Ausar Thompson",
+          "team": "Pistons",
+          "line": "14 PTS · 9 REB · 12 AST · 5 STL",
+          "note": "Filled the sheet as Detroit ended San Antonio's streak."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Hawks waive two-way G Keshon Gilbert, sign C Rafael Castro to a two-way deal",
+          "url": "https://www.hoopsrumors.com/2026/11/hawks-to-waive-gilbert-sign-castro-to-two-way-deal.html"
+        },
+        {
+          "text": "Jazz waive two-way G Trey Alexander, to sign C Jonas Aidoo to a two-way deal",
+          "url": "https://www.hoopsrumors.com/2026/11/jazz-to-sign-jonas-aidoo-on-two-way-contract.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "McDavid ties Gretzky with a 23-game opening point streak; Gauthier's goal streak hits 10; Bedard hurt",
+      "stories": [
+        {
+          "headline": "McDavid's opening point streak reaches 23, ties Gretzky",
+          "summary": "Connor McDavid had a goal and an assist in Edmonton's 5-2 win at Florida. His 23-game streak to open the season ties Wayne Gretzky's 1988-89 run for the fourth-longest in NHL history. The Oilers (17-3-3) have won six straight.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/edmonton-oilers-florida-panthers-game-recap-november-17-2026"
+        },
+        {
+          "headline": "Gauthier stretches goal streak to 10 games",
+          "summary": "Cutter Gauthier had a hat trick and an assist, but Anaheim lost 8-6 at St. Louis. He has 19 goals during the streak and is one shy of the NHL record for goals in a month. It's his fourth hat trick since Nov. 1, a first for any player in one calendar month.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/anaheim-ducks-st-louis-blues-game-recap-november-17-2026"
+        },
+        {
+          "headline": "Bedard leaves with injury as Blackhawks beat Leafs",
+          "summary": "Connor Bedard scored, then left early in the third period with an apparent shoulder injury in Chicago's 6-3 win. Coach Jeff Blashill said he'll have more tests, with an update expected Wednesday. Toronto has lost seven straight.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nhl/story/_/id/50517080/blackhawks-connor-bedard-exits-win-injury"
+        },
+        {
+          "headline": "Heiskanen wins it in OT in his return",
+          "summary": "Miro Heiskanen scored at 3:36 of overtime as Dallas beat Vegas 4-3. Mikko Rantanen tied it with five seconds left in regulation and finished with a goal and three assists. Heiskanen had missed five games.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/dallas-stars-vegas-golden-knights-game-recap-november-17-2026"
+        },
+        {
+          "headline": "Schaefer's hat trick leads Islanders",
+          "summary": "Matthew Schaefer scored three times in a 5-1 win over Columbus, the first hat trick by an Islanders defenseman since Denis Potvin in 1982. The Blue Jackets have lost five straight.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/columbus-blue-jackets-new-york-islanders-game-recap-november-17-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Kings",
+          "awayScore": 3,
+          "home": "Bruins",
+          "homeScore": 0,
+          "note": "Upset"
+        },
+        {
+          "away": "Oilers",
+          "awayScore": 5,
+          "home": "Panthers",
+          "homeScore": 2,
+          "note": "Upset"
+        },
+        {
+          "away": "Blue Jackets",
+          "awayScore": 1,
+          "home": "Islanders",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Sabres",
+          "awayScore": 3,
+          "home": "Flyers",
+          "homeScore": 4,
+          "note": "Upset"
+        },
+        {
+          "away": "Senators",
+          "awayScore": 2,
+          "home": "Jets",
+          "homeScore": 1,
+          "note": "Close"
+        },
+        {
+          "away": "Capitals",
+          "awayScore": 2,
+          "home": "Lightning",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Maple Leafs",
+          "awayScore": 3,
+          "home": "Blackhawks",
+          "homeScore": 6,
+          "note": "Upset"
+        },
+        {
+          "away": "Ducks",
+          "awayScore": 6,
+          "home": "Blues",
+          "homeScore": 8,
+          "note": ""
+        },
+        {
+          "away": "Predators",
+          "awayScore": 3,
+          "home": "Wild",
+          "homeScore": 7,
+          "note": ""
+        },
+        {
+          "away": "Stars",
+          "awayScore": 4,
+          "home": "Golden Knights",
+          "homeScore": 3,
+          "note": "OT"
+        },
+        {
+          "away": "Flames",
+          "awayScore": 5,
+          "home": "Sharks",
+          "homeScore": 2,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Cutter Gauthier",
+          "team": "Ducks",
+          "line": "3 G · 1 A",
+          "note": "Fourth hat trick since Nov. 1 in a losing effort."
+        },
+        {
+          "name": "Matthew Schaefer",
+          "team": "Islanders",
+          "line": "3 G",
+          "note": "First career hat trick in a 5-1 win over Columbus."
+        },
+        {
+          "name": "Darcy Kuemper",
+          "team": "Kings",
+          "line": "29 SV · 1.000",
+          "note": "40th career shutout ended a four-game Kings skid."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Jets place F Isak Rosen on IR, retroactive to Nov. 12",
+          "url": "https://www.nhl.com/news/ottawa-senators-winnipeg-jets-game-recap-november-17-2026"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Bednar and Jeffers take qualifying offers; five others hit the market",
+      "stories": [
+        {
+          "headline": "Bednar, Jeffers accept qualifying offers; five decline",
+          "summary": "David Bednar stays with the Yankees and Ryan Jeffers with the Twins on one-year, $23.15M qualifying offers. Randy Arozarena, Seiya Suzuki, Brandon Lowe, Trevor Rogers and Adrian Morejon declined and hit the market. Teams that sign them give up draft picks, with a possible lockout two weeks away.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mlb/story/_/id/50513467/sources-yankees-bednar-twins-jeffers-accept-2315m-offer"
+        },
+        {
+          "headline": "Owners meet in New York as lockout nears",
+          "summary": "Owners meet through Thursday in what is likely their last in-person session before the CBA expires Dec. 1. The union rejected their Nov. 3 offer of a $258.2M salary cap starting in 2028. A lockout would most likely begin 12:01 a.m. ET Dec. 2, freezing signings and trades of 40-man players.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/mlb-lockout-countdown-where-owners-113046629.html"
+        },
+        {
+          "headline": "MLB takes salary cap pitch public",
+          "summary": "MLB released a five-minute video in which executive Morgan Sword makes the case for a cap and a payroll floor. Cubs pitcher Jameson Taillon criticized it. The video leaves out other proposed limits, including on the size and length of free-agent contracts.",
+          "source": "Front Office Sports",
+          "url": "https://frontofficesports.com/article/mlb-ramps-up-salary-cap-push-days-before-expected-lockout"
+        },
+        {
+          "headline": "Teams set 40-man rosters at Rule 5 deadline",
+          "summary": "Clubs added prospects to protect them from the Dec. 9 Rule 5 Draft. Detroit designated four players, including Matt Vierling, Jace Jung and Trey Sweeney; the Dodgers cut Jake Cousins and Christian Cairo. The non-tender deadline is Friday.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/transactions"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Yankees RHP David Bednar and Twins C Ryan Jeffers accept $23.15M qualifying offers",
+          "url": "https://www.mlb.com/news/qualifying-offer-candidates-and-decisions-2026-27"
+        },
+        {
+          "text": "Arozarena, Suzuki, Lowe, Rogers and Morejon decline qualifying offers",
+          "url": "https://www.mlb.com/news/qualifying-offer-candidates-and-decisions-2026-27"
+        },
+        {
+          "text": "Tigers sign RHP Emilio Pagán to a one-year deal ($11.5M base salary)",
+          "url": "https://www.mlbtraderumors.com/2026/11/tigers-to-sign-emilio-pagan.html"
+        },
+        {
+          "text": "Tigers DFA Jace Jung, Trey Sweeney, Matt Vierling and Jake Miller",
+          "url": "https://www.mlbtraderumors.com/transactions"
+        },
+        {
+          "text": "Athletics acquire RHP Yaqui Rivera from the Orioles for Josiah Romeo",
+          "url": "https://www.mlbtraderumors.com/2026/11/athletics-acquire-yaqui-rivera-from-orioles.html"
+        },
+        {
+          "text": "Dodgers DFA Jake Cousins and Christian Cairo, add four pitching prospects",
+          "url": "https://www.mlbtraderumors.com/2026/11/dodgers-designate-jake-cousins-christian-cairo-for-assignment.html"
+        },
+        {
+          "text": "Giants DFA Christian Koss and Rowan Wick",
+          "url": "https://www.mlbtraderumors.com/2026/11/giants-designate-christian-koss-rowan-wick-for-assignment.html"
+        }
+      ]
+    }
+  ]
+}

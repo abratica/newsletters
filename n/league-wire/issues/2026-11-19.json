@@ -1,0 +1,421 @@
+{
+  "date": "2026-11-19",
+  "headline": "Jazz end Lakers' nine-game win streak",
+  "ticker": [
+    "Jazz 109, Lakers 97",
+    "Garcia traded to Seattle",
+    "Heat 137, Bucks 130",
+    "Pettine to call Cowboys D",
+    "Habs hand Hellebuyck 1st L"
+  ],
+  "top": [
+    {
+      "league": "nba",
+      "headline": "Jazz end Lakers' nine-game win streak",
+      "summary": "Keyonte George had 30 points and 10 assists as Utah won 109-97 in Los Angeles. The Lakers shot 38.2%, their worst of the season, and played a third straight game without Austin Reaves (heel). It was only the Jazz's third win of the season.",
+      "source": "Field Level Media",
+      "url": "https://www.joxfm.com/2026/11/18/keyonte-george-30-jazz-deny-nba-leading-lakers-10th-straight-win/"
+    },
+    {
+      "league": "mlb",
+      "headline": "Royals trade Maikel Garcia to Mariners in six-player deal",
+      "summary": "Seattle acquired 3B Maikel Garcia and RHPs James McArthur and L.P. Langevin from Kansas City for RHP Bryce Miller, LHP José A. Ferrer and RHP Logan Evans. Garcia, 26, is a 2025 Gold Glove winner and All-Star under contract through 2030. MLB.com called it the biggest blockbuster of the winter so far.",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/news/maikel-garcia-traded-from-royals-to-mariners"
+    },
+    {
+      "league": "nhl",
+      "headline": "Bedard has right shoulder injury; status undetermined",
+      "summary": "Jeff Blashill confirmed Connor Bedard hurt his right shoulder, the same one he injured in December 2025. Blashill said it happened when Nick Paul lifted his stick on a faceoff. ESPN reported Bedard was set for more imaging and a consultation Wednesday, and surgery could be an option now or after the season.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/50522884/connor-bedard-awaiting-test-results-injured-shoulder"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Cowboys hand defensive play-calling to Mike Pettine; Lions put Hutchinson on IR",
+      "stories": [
+        {
+          "headline": "Cowboys give defensive play-calling to Mike Pettine",
+          "summary": "Senior defensive assistant Mike Pettine will call the Dallas defense for the rest of the season; Christian Parker keeps the coordinator title. The 4-6 Cowboys rank last in yards allowed per game and gave up 584 yards in a 46-40 loss to the 49ers. Brian Schottenheimer said the move gives them the best chance to win.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50520940/sources-pettine-take-defensive-playcalling-cowboys"
+        },
+        {
+          "headline": "Lions put Hutchinson on IR, bring back Kerby Joseph",
+          "summary": "Detroit placed DE Aidan Hutchinson on injured reserve with a torn ACL. S Kerby Joseph came off the PUP list, and Dan Campbell said the plan is for him to make his 2026 debut this week.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "headline": "Mayfield sits out Wednesday; Bucs to decide Friday",
+          "summary": "Baker Mayfield did not practice and is listed with foot and right thumb injuries. Todd Bowles said he's made progress, with a decision on Detroit coming Friday. Rookie Jalon Daniels took the first-team snaps.",
+          "source": "ProFootballTalk",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-injury-report-confirms-baker-mayfield-a-non-participant-wednesday"
+        },
+        {
+          "headline": "Colts rule out five for Thursday night in Houston",
+          "summary": "Indianapolis ruled out OTs Bernhard Raimann and Jalen Travis, CB Charvarius Ward, DT Jerry Tillery and TE Will Mallory; CB Sauce Gardner is questionable. Houston is without LB Azeez Al-Shaair and RB Woody Marks, while RB David Montgomery is expected back.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/colts-vs-texans-final-injury-013255413.html"
+        },
+        {
+          "headline": "Eagles name Joe Milton starter vs. Steelers",
+          "summary": "Nick Sirianni said Joe Milton will start Sunday against Pittsburgh as the Eagles come off their bye, per ESPN's Adam Schefter.",
+          "source": "ProFootballRumors",
+          "url": "https://www.profootballrumors.com/2026/11/eagles-qb-joe-milton-to-start-in-week-11"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Lions place DE Aidan Hutchinson on IR, reinstate S Kerby Joseph from PUP",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Eagles claim T Ajani Cornelius off waivers from the Cowboys",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Steelers place G Mason McCormick (ankle) on IR, designate Gennings Dunker, Michael Pittman and Roman Wilson to return",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-nov-18"
+        },
+        {
+          "text": "Chiefs place TE Jared Wiley on IR, reinstate DT Omarr Norman-Lott from PUP",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Vikings place LB Bo Richter on IR, promote WR Jeshaun Jones",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Cowboys (S Jalen Thompson), Jets (DT David Onyemata) and Titans (G Fernando Carmona) designate players to return from IR",
+          "url": "https://www.espn.com/nfl/transactions"
+        },
+        {
+          "text": "Bills reinstate WR Tyrell Shavers from PUP; Ravens reinstate RB Adam Randall from IR",
+          "url": "https://www.espn.com/nfl/transactions"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Jazz end the Lakers' nine-game streak; six underdogs win on a 12-game night",
+      "stories": [
+        {
+          "headline": "Jazz end Lakers' nine-game win streak",
+          "summary": "Keyonte George had 30 points and 10 assists as Utah won 109-97 in Los Angeles. The Lakers shot 38.2%, their worst of the season, and played a third straight game without Austin Reaves (heel). It was only the Jazz's third win of the season.",
+          "source": "Field Level Media",
+          "url": "https://www.joxfm.com/2026/11/18/keyonte-george-30-jazz-deny-nba-leading-lakers-10th-straight-win/"
+        },
+        {
+          "headline": "Giannis beats Bucks in first meeting; Milwaukee falls to 1-14",
+          "summary": "Giannis Antetokounmpo had 27 points and 9 assists as Miami won 137-130 for its sixth straight win. The Bucks have lost 11 in a row, and 1-14 is the worst 15-game start in franchise history.",
+          "source": "CBS Miami",
+          "url": "https://www.cbsnews.com/miami/news/heat-bucks-137-130-vice-city-night-antetokounmpo-first-game-against-milwaukee/"
+        },
+        {
+          "headline": "Hawks win at OKC in Dort and Wiggins' return",
+          "summary": "Onyeka Okongwu scored 28 and Jalen Johnson had a triple-double as Atlanta, a 6.5-point underdog, won 117-112. Oklahoma City (9-6) has lost four of five while missing Jalen Williams, Cason Wallace and Chet Holmgren.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401910014"
+        },
+        {
+          "headline": "Kings finish first 0-7 homestand in franchise history",
+          "summary": "Phoenix won 128-107 in Sacramento behind 29 points each from Dillon Brooks and Devin Booker. The Kings are 0-9 at home. The Suns reached .500 for the first time this season.",
+          "source": "Field Level Media",
+          "url": "https://www.joxfm.com/2026/11/18/suns-continue-hot-stretch-send-kings-to-historic-0-7-homestand/"
+        },
+        {
+          "headline": "Flagg scores 33 as Warriors drop fourth straight",
+          "summary": "Cooper Flagg had 33 points, 9 assists and 3 steals in Dallas' 116-94 win. Golden State (8-6) has lost four in a row with Stephen Curry out with a torn right oblique.",
+          "source": "Yardbarker",
+          "url": "https://www.yardbarker.com/nba/articles/mavericks_beat_warriors_116_94_as_flagg_and_washington_combine_for_54/s1_17668_44584372"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Bulls",
+          "awayScore": 137,
+          "home": "Nets",
+          "homeScore": 107,
+          "note": "Upset"
+        },
+        {
+          "away": "Rockets",
+          "awayScore": 119,
+          "home": "Pacers",
+          "homeScore": 104,
+          "note": ""
+        },
+        {
+          "away": "Grizzlies",
+          "awayScore": 124,
+          "home": "Cavaliers",
+          "homeScore": 121,
+          "note": "Upset"
+        },
+        {
+          "away": "Bucks",
+          "awayScore": 130,
+          "home": "Heat",
+          "homeScore": 137,
+          "note": ""
+        },
+        {
+          "away": "76ers",
+          "awayScore": 121,
+          "home": "Magic",
+          "homeScore": 116,
+          "note": "Close"
+        },
+        {
+          "away": "Wizards",
+          "awayScore": 103,
+          "home": "Raptors",
+          "homeScore": 99,
+          "note": "Upset"
+        },
+        {
+          "away": "Hawks",
+          "awayScore": 117,
+          "home": "Thunder",
+          "homeScore": 112,
+          "note": "Upset"
+        },
+        {
+          "away": "Warriors",
+          "awayScore": 94,
+          "home": "Mavericks",
+          "homeScore": 116,
+          "note": ""
+        },
+        {
+          "away": "Pistons",
+          "awayScore": 122,
+          "home": "Pelicans",
+          "homeScore": 109,
+          "note": ""
+        },
+        {
+          "away": "Celtics",
+          "awayScore": 101,
+          "home": "Nuggets",
+          "homeScore": 105,
+          "note": "Upset"
+        },
+        {
+          "away": "Jazz",
+          "awayScore": 109,
+          "home": "Lakers",
+          "homeScore": 97,
+          "note": "Upset"
+        },
+        {
+          "away": "Suns",
+          "awayScore": 128,
+          "home": "Kings",
+          "homeScore": 107,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Keyonte George",
+          "team": "Jazz",
+          "line": "30 PTS · 1 REB · 10 AST · 9-17 FG",
+          "note": "Led a 10.5-point underdog past the NBA-leading Lakers."
+        },
+        {
+          "name": "Cooper Flagg",
+          "team": "Mavericks",
+          "line": "33 PTS · 5 REB · 9 AST",
+          "note": "Added 3 steals in a 22-point rout of Golden State."
+        },
+        {
+          "name": "Jalen Johnson",
+          "team": "Hawks",
+          "line": "16 PTS · 12 REB · 11 AST",
+          "note": "Triple-double in Atlanta's win at Oklahoma City."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Cavaliers sign Zack Austin to a two-way deal, waive Riley Minix",
+          "url": "https://www.hoopsrumors.com/2026/11/cavaliers-sign-zack-austin-to-two-way-contract.html"
+        },
+        {
+          "text": "Raptors' Kawhi Leonard (knee swelling) out at least another week",
+          "url": "https://www.cp24.com/news/sports/2026/11/17/raptors-forward-leonard-out-at-least-another-week-with-knee-swelling/"
+        },
+        {
+          "text": "Spurs' Dylan Harper (left hip soreness) expected to miss the Clippers game",
+          "url": "https://www.basketballnews.com/news/basketballnews-nba-active-news-insider-brett-siegel-drops-update-on-dylan-harpers-injury-after-san-antonio-spurs-stars-scary-fall-made-victor-wembanyama-emotional/"
+        },
+        {
+          "text": "76ers' Jaylen Brown (hamstring) to be re-evaluated before Saturday",
+          "url": "https://www.hoopsrumors.com/2026/11/sixers-notes-brown-embiid-james-starters-minutes.html"
+        },
+        {
+          "text": "Free agent Killian Hayes signs with Barcelona",
+          "url": "https://www.hoopsrumors.com/2026/11/killian-hayes-to-sign-with-barcelona.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Bedard's shoulder injury under evaluation; Canadiens hand Hellebuyck his first loss as a Devil",
+      "stories": [
+        {
+          "headline": "Bedard has right shoulder injury; status undetermined",
+          "summary": "Jeff Blashill confirmed Connor Bedard hurt his right shoulder, the same one he injured in December 2025. Blashill said it happened when Nick Paul lifted his stick on a faceoff. ESPN reported Bedard was set for more imaging and a consultation Wednesday, and surgery could be an option now or after the season.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nhl/story/_/id/50522884/connor-bedard-awaiting-test-results-injured-shoulder"
+        },
+        {
+          "headline": "Canadiens hand Hellebuyck first loss with Devils",
+          "summary": "Jake Evans scored 6:17 into the third and Lane Hutson had three assists in Montreal's 3-2 win in New Jersey. Connor Hellebuyck had been 7-0-0 since the Oct. 23 trade from Winnipeg. The Devils had won seven of eight.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/montreal-canadiens-new-jersey-devils-game-recap-november-18-2026"
+        },
+        {
+          "headline": "Mammoth end six-game skid against Colorado",
+          "summary": "Utah beat the Avalanche 4-1 behind 30 saves from Sebastian Cossa. Vincent Trocheck had a power-play goal and an assist.",
+          "source": "AP",
+          "url": "https://abcnews.com/Sports/wireStory/mammoth-end-6-game-slide-4-1-win-138279259"
+        },
+        {
+          "headline": "Barkov, Marchand close to returning for Florida",
+          "summary": "Paul Maurice said Aleksander Barkov and Brad Marchand are both close to coming back from knee injuries that have cost them more than a month. Barkov missed all of last season with a knee injury. Florida hosts Buffalo on Saturday.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-18-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Canadiens",
+          "awayScore": 3,
+          "home": "Devils",
+          "homeScore": 2,
+          "note": "Upset"
+        },
+        {
+          "away": "Bruins",
+          "awayScore": 4,
+          "home": "Red Wings",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Avalanche",
+          "awayScore": 1,
+          "home": "Mammoth",
+          "homeScore": 4,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Lane Hutson",
+          "team": "Canadiens",
+          "line": "0 G · 3 A",
+          "note": "Set up Jake Evans' third-period winner in New Jersey."
+        },
+        {
+          "name": "Sebastian Cossa",
+          "team": "Mammoth",
+          "line": "30 SV · .968",
+          "note": "Stopped 30 of 31 to end Utah's six-game skid."
+        },
+        {
+          "name": "Jacob Fowler",
+          "team": "Canadiens",
+          "line": "28 SV · .933",
+          "note": "Blanked the Devils after the first period."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Mammoth place F Nick Schmaltz (lower body) on IR, recall D Gregor Biber",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-18-2026"
+        },
+        {
+          "text": "Flames assign Jonathan Huberdeau to the AHL on a conditioning loan",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-18-2026"
+        },
+        {
+          "text": "Islanders activate Calum Ritchie from IR, loan him to the AHL",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-18-2026"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Mariners land Maikel Garcia from the Royals in a six-player deal",
+      "stories": [
+        {
+          "headline": "Royals trade Maikel Garcia to Mariners in six-player deal",
+          "summary": "Seattle acquired 3B Maikel Garcia and RHPs James McArthur and L.P. Langevin from Kansas City for RHP Bryce Miller, LHP José A. Ferrer and RHP Logan Evans. Garcia, 26, is a 2025 Gold Glove winner and All-Star under contract through 2030. MLB.com called it the biggest blockbuster of the winter so far.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/maikel-garcia-traded-from-royals-to-mariners"
+        },
+        {
+          "headline": "Manfred: owners won't budge on salary cap",
+          "summary": "Rob Manfred said owners won't compromise on their salary cap demand, and the AP reports the sport is on track for a lockout starting Dec. 2. MLB proposed a $258.2 million cap and a $180.2 million floor for 2028; players have vowed to reject any cap.",
+          "source": "AP",
+          "url": "https://sports.yahoo.com/articles/rob-manfred-says-mlb-owners-203547056.html"
+        },
+        {
+          "headline": "Twins bring back Sonny Gray for two years, $55 million",
+          "summary": "Gray, 37, returns to Minnesota with an opt-out after the first season. He went 18-5 with a 2.72 ERA in 2026.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mlb/story/_/id/50523817/twins-sign-veteran-right-hander-sonny-gray-two-year-deal"
+        },
+        {
+          "headline": "White Sox sign Dustin May for three years, $52.5 million",
+          "summary": "Chicago added the 29-year-old right-hander to its rotation. The Sun-Times says it's the third-largest free-agent deal for a pitcher in team history.",
+          "source": "Chicago Sun-Times",
+          "url": "https://chicago.suntimes.com/white-sox/2026/11/17/white-sox-add-to-starting-rotation-by-signing-free-agent-right-hander-dustin-may"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Mariners acquire 3B Maikel Garcia, RHPs James McArthur and L.P. Langevin from Royals for RHP Bryce Miller, LHP José A. Ferrer and RHP Logan Evans",
+          "url": "https://www.mlb.com/news/maikel-garcia-traded-from-royals-to-mariners"
+        },
+        {
+          "text": "Twins sign RHP Sonny Gray, two years, $55M",
+          "url": "https://www.mlbtraderumors.com/2026/11/twins-sign-sonny-gray.html"
+        },
+        {
+          "text": "White Sox sign RHP Dustin May, three years, $52.5M",
+          "url": "https://chicago.suntimes.com/white-sox/2026/11/17/white-sox-add-to-starting-rotation-by-signing-free-agent-right-hander-dustin-may"
+        },
+        {
+          "text": "Royals DFA OF Kyle Isbel after the Garcia trade",
+          "url": "https://www.mlbtraderumors.com/2026/11/royals-designate-kyle-isbel-for-assignment.html"
+        },
+        {
+          "text": "Royals select OF Carson Roccaforte and RHP Lucas Braun, DFA RHP Nick Mears",
+          "url": "https://www.mlbtraderumors.com/2026/11/royals-select-carson-roccaforte-lucas-braun-nick-mears-designated-for-assignment.html"
+        },
+        {
+          "text": "Angels acquire INF Jace Jung from Tigers for cash",
+          "url": "https://www.cbssports.com/mlb/transactions/"
+        },
+        {
+          "text": "Nationals DFA Josiah Gray, Gus Varland, Braxton Roxby and Carson Palmquist",
+          "url": "https://www.cbssports.com/mlb/transactions/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "date": "2026-11-20",
+  "headline": "McDavid's point streak ends at 23 as Lightning beat Oilers",
+  "ticker": [
+    "McDavid streak ends at 23",
+    "Texans 26, Colts 3",
+    "Bucks fall to 1-15",
+    "Rockies get Castillo, Martin",
+    "Trump pardons Pete Rose"
+  ],
+  "top": [
+    {
+      "league": "nhl",
+      "headline": "McDavid's point streak ends at 23 as Lightning beat Oilers",
+      "summary": "Tampa Bay won 3-1 and held Connor McDavid without a point for the first time this season. The 23-game run tied Wayne Gretzky's 1988-89 streak for fourth-longest in NHL history. Edmonton's six-game winning streak ended with its first regulation road loss of the season.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/edmonton-oilers-tampa-bay-lightning-game-recap-november-19-2026"
+    },
+    {
+      "league": "nfl",
+      "headline": "Texans rout Colts 26-3 on Thursday night",
+      "summary": "C.J. Stroud threw three touchdown passes and Houston scored 26 straight points after an opening Colts field goal. The Texans are 4-6 and have won four of their last six. The Colts fell to 3-8 and failed to score a touchdown for the first time this season.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50536733/texans-colts-thursday-night-football-cj-stroud-defense"
+    },
+    {
+      "league": "nba",
+      "headline": "Bucks' skid hits 12 as Blazers win in Milwaukee",
+      "summary": "Damian Lillard scored a season-high 33 and Scoot Henderson added a season-high 27 in Portland's 124-114 win. Milwaukee is 1-15, its worst 16-game start in franchise history. The only longer losing streak in team history is 15 games, in March 1996.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/recap?gameId=401910020"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Stroud throws three TDs as Texans rout Colts 26-3; Nacua suspended three games",
+      "stories": [
+        {
+          "headline": "Texans rout Colts 26-3 on Thursday night",
+          "summary": "C.J. Stroud threw three touchdown passes and Houston scored 26 straight points after an opening Colts field goal. The Texans are 4-6 and have won four of their last six. The Colts fell to 3-8 and failed to score a touchdown for the first time this season.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50536733/texans-colts-thursday-night-football-cj-stroud-defense"
+        },
+        {
+          "headline": "Stroud has three TD passes in a third straight game",
+          "summary": "Stroud threw for 194 yards, three touchdowns and an interception. ESPN Analytics now gives Houston a 38% chance to make the playoffs after an 0-4 start.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50538998/cj-stroud-stays-groove-texans-blowout-colts"
+        },
+        {
+          "headline": "Rams' Puka Nacua suspended three games",
+          "summary": "The NFL suspended Nacua three games for violating the personal conduct policy. He will serve it while on injured reserve and is eligible for reinstatement Dec. 14. ESPN's Field Yates reports he will lose $950,000 in salary.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50533560/rams-wr-puka-nacua-serve-3-game-suspension-ir"
+        },
+        {
+          "headline": "Ravens deactivate Marlon Humphrey for Week 11",
+          "summary": "Jesse Minter said Humphrey will sit Sunday against the Panthers after saying on his podcast that Baltimore is best at \"making criminals.\" Humphrey apologized Wednesday and is expected back for Week 12.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/why-ravens-deactivated-marlon-humphrey-171302877.html"
+        },
+        {
+          "headline": "Mayfield back at practice, limited Thursday",
+          "summary": "Baker Mayfield was limited with foot and right thumb injuries a day after sitting out. He said the thumb feels great, but Tampa Bay hasn't named him the starter against Detroit. Final designations come Friday.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/bucs-injury-report-mayfield-returns-230530700.html"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Colts",
+          "awayScore": 3,
+          "home": "Texans",
+          "homeScore": 26,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "C.J. Stroud",
+          "team": "Texans",
+          "line": "21-27 · 194 YDS · 3 TD · 1 INT",
+          "note": "Threw TDs to Nico Collins, Kayshon Boutte and Marlin Klein."
+        },
+        {
+          "name": "David Montgomery",
+          "team": "Texans",
+          "line": "26 CAR · 107 YDS · 0 TD",
+          "note": "Back after missing four games with a groin injury."
+        },
+        {
+          "name": "Will Anderson Jr.",
+          "team": "Texans",
+          "line": "1 SACK · 4 QB HITS · 1 SAFETY",
+          "note": "Sacked Daniel Jones in the end zone; leads the league with 11.5 sacks."
+        }
+      ],
+      "moves": [
+        {
+          "text": "NFL suspends Rams WR Puka Nacua three games (personal conduct policy), to be served on IR",
+          "url": "https://www.espn.com/nfl/story/_/id/50533560/rams-wr-puka-nacua-serve-3-game-suspension-ir"
+        },
+        {
+          "text": "Ravens deactivate CB Marlon Humphrey for Week 11",
+          "url": "https://sports.yahoo.com/articles/why-ravens-deactivated-marlon-humphrey-171302877.html"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Bucks lose 12th straight, fall to 1-15; Spurs' Harper out 1-3 weeks",
+      "stories": [
+        {
+          "headline": "Bucks' skid hits 12 as Blazers win in Milwaukee",
+          "summary": "Damian Lillard scored a season-high 33 and Scoot Henderson added a season-high 27 in Portland's 124-114 win. Milwaukee is 1-15, its worst 16-game start in franchise history. The only longer losing streak in team history is 15 games, in March 1996.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401910020"
+        },
+        {
+          "headline": "Spurs' Dylan Harper out 1-3 weeks with hip strain",
+          "summary": "Harper strained his left hip rotator in Tuesday's loss to Detroit. Sources told ESPN's Shams Charania it is not a major injury. He is averaging 18.4 points, 5.4 rebounds and 4.5 assists.",
+          "source": "ESPN",
+          "url": "https://espn.com/nba/story/_/id/50533303/sources-spurs-dylan-harper-1-3-weeks-hip-strain"
+        },
+        {
+          "headline": "Wembanyama, Spurs bounce back against Clippers",
+          "summary": "Victor Wembanyama had 32 points and 11 rebounds as San Antonio won 124-112 without Harper. The Spurs are 13-3. The Clippers fell to 4-10 and 0-6 on the road.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401910022"
+        },
+        {
+          "headline": "Grizzlies rout short-handed Warriors for fifth straight win",
+          "summary": "Memphis won 126-98 and is 12-4. Golden State has lost five straight with Stephen Curry (oblique) and Draymond Green (elbow) out. Grizzlies forward Jerami Grant left early in the second quarter after landing awkwardly on his left leg.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401910019"
+        },
+        {
+          "headline": "Knicks hold off Timberwolves for third straight win",
+          "summary": "Karl-Anthony Towns had 22 points and 12 rebounds and Jalen Brunson added 21 as New York won 102-99 in Minneapolis. The Knicks are 9-6; Minnesota is 11-5.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401910021"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Knicks",
+          "awayScore": 102,
+          "home": "Timberwolves",
+          "homeScore": 99,
+          "note": "Close"
+        },
+        {
+          "away": "Warriors",
+          "awayScore": 98,
+          "home": "Grizzlies",
+          "homeScore": 126,
+          "note": ""
+        },
+        {
+          "away": "Clippers",
+          "awayScore": 112,
+          "home": "Spurs",
+          "homeScore": 124,
+          "note": ""
+        },
+        {
+          "away": "Trail Blazers",
+          "awayScore": 124,
+          "home": "Bucks",
+          "homeScore": 114,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Damian Lillard",
+          "team": "Trail Blazers",
+          "line": "33 PTS · 6 REB · 0 AST · 10-18 FG",
+          "note": "Season high, 5 of 12 from three, in Milwaukee's 12th straight loss."
+        },
+        {
+          "name": "Scoot Henderson",
+          "team": "Trail Blazers",
+          "line": "27 PTS · 7 REB · 3 AST · 8-12 FG",
+          "note": "Season high, with 5 of 6 from three."
+        },
+        {
+          "name": "Jrue Holiday",
+          "team": "Trail Blazers",
+          "line": "22 PTS · 2 REB · 7 AST · 8-14 FG",
+          "note": "Third Portland scorer over 20 in the win."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Spurs G Dylan Harper (left hip rotator strain) out 1-3 weeks",
+          "url": "https://espn.com/nba/story/_/id/50533303/sources-spurs-dylan-harper-1-3-weeks-hip-strain"
+        },
+        {
+          "text": "Pistons F Taurean Prince has right knee surgery, week-to-week",
+          "url": "https://www.cbssports.com/fantasy/basketball/news/pistons-taurean-prince-undergoes-knee-surgery/"
+        },
+        {
+          "text": "Raptors F RJ Barrett (right hamstring strain) to be re-evaluated in two weeks",
+          "url": "https://www.espn.com/nba/injuries"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "McDavid's opening point streak ends at 23; Bedard out at least four games",
+      "stories": [
+        {
+          "headline": "McDavid's point streak ends at 23 as Lightning beat Oilers",
+          "summary": "Tampa Bay won 3-1 and held Connor McDavid without a point for the first time this season. The 23-game run tied Wayne Gretzky's 1988-89 streak for fourth-longest in NHL history. Edmonton's six-game winning streak ended with its first regulation road loss of the season.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/edmonton-oilers-tampa-bay-lightning-game-recap-november-19-2026"
+        },
+        {
+          "headline": "Bedard out at least four games; Blackhawks weigh surgery",
+          "summary": "Jeff Blashill said the team is still deciding between rehab and surgery for Connor Bedard's right shoulder. Bedard won't play on the three-game road trip that starts Saturday in Calgary, and there is no timeline. Chicago lost 4-2 to Columbus without him.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/blackhawks-connor-bedard-may-need-shoulder-surgery"
+        },
+        {
+          "headline": "Wild move into first overall, but Hughes leaves after hit",
+          "summary": "Minnesota beat Calgary 4-1 to go 17-3-4, first in the league. Kirill Kaprizov and Quinn Hughes both pushed their point streaks to 13 games, the longest active in the NHL. Hughes left in the third after a hit from Adam Klapka; there was no update after the game.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/minnesota-wild-calgary-flames-game-recap-november-19-2026"
+        },
+        {
+          "headline": "Avalanche put Makar on IR, then blank Ducks",
+          "summary": "Colorado placed Cale Makar on injured reserve with a lower-body injury, then beat Anaheim 4-0. Brock Nelson had two goals and an assist and Scott Wedgewood made 25 saves. Colorado also ended Cutter Gauthier's 10-game goal streak.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/avalanche/news/game-recap-11-19-26"
+        },
+        {
+          "headline": "Maple Leafs blow 3-0 lead, lose eighth straight",
+          "summary": "Los Angeles scored three in the second period to tie it, and Adrian Kempe had the only shootout goal in a 4-3 Kings win. Toronto is 0-7-1 in its last eight and 8-13-3 overall.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/los-angeles-kings-toronto-maple-leafs-game-recap-november-19-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Kings",
+          "awayScore": 4,
+          "home": "Maple Leafs",
+          "homeScore": 3,
+          "note": "SO"
+        },
+        {
+          "away": "Flyers",
+          "awayScore": 6,
+          "home": "Senators",
+          "homeScore": 5,
+          "note": "OT"
+        },
+        {
+          "away": "Blues",
+          "awayScore": 5,
+          "home": "Penguins",
+          "homeScore": 2,
+          "note": "Upset"
+        },
+        {
+          "away": "Sabres",
+          "awayScore": 6,
+          "home": "Capitals",
+          "homeScore": 3,
+          "note": "Upset"
+        },
+        {
+          "away": "Canadiens",
+          "awayScore": 2,
+          "home": "Hurricanes",
+          "homeScore": 1,
+          "note": "OT"
+        },
+        {
+          "away": "Islanders",
+          "awayScore": 3,
+          "home": "Jets",
+          "homeScore": 4,
+          "note": "OT"
+        },
+        {
+          "away": "Oilers",
+          "awayScore": 1,
+          "home": "Lightning",
+          "homeScore": 3,
+          "note": ""
+        },
+        {
+          "away": "Blue Jackets",
+          "awayScore": 4,
+          "home": "Blackhawks",
+          "homeScore": 2,
+          "note": ""
+        },
+        {
+          "away": "Wild",
+          "awayScore": 4,
+          "home": "Flames",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Ducks",
+          "awayScore": 0,
+          "home": "Avalanche",
+          "homeScore": 4,
+          "note": ""
+        },
+        {
+          "away": "Canucks",
+          "awayScore": 1,
+          "home": "Kraken",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Stars",
+          "awayScore": 4,
+          "home": "Golden Knights",
+          "homeScore": 3,
+          "note": "SO"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Berkly Catton",
+          "team": "Kraken",
+          "line": "3 G · 0 A",
+          "note": "First NHL hat trick in a 5-1 win that snapped Seattle's three-game skid."
+        },
+        {
+          "name": "Travis Konecny",
+          "team": "Flyers",
+          "line": "1 G · 3 A",
+          "note": "Scored 39 seconds into OT to finish a comeback from three down in Ottawa."
+        },
+        {
+          "name": "Scott Wedgewood",
+          "team": "Avalanche",
+          "line": "25 SV · 1.000",
+          "note": "Shutout of the Ducks on the day Makar went on IR."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Avalanche place D Cale Makar (lower body) on IR, recall F Adam Beckman",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Lightning place F Brandon Hagel (lower body) on IR, recall F Jansen Harkins",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-19-2026"
+        },
+        {
+          "text": "Wild send G Filip Gustavsson to Iowa on a conditioning assignment, recall F Tyler Pitlick",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-19-2026"
+        },
+        {
+          "text": "Ducks recall D Stian Solberg after waiving F Travis Mitchell",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Kraken activate F Jacob Melanson from IR, assign F Jani Nyman to the AHL",
+          "url": "https://www.espn.com/nhl/transactions"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Rockies trade for Castillo and Martin; Trump pardons Pete Rose",
+      "stories": [
+        {
+          "headline": "Rockies get Castillo, Martin from White Sox",
+          "summary": "Colorado acquired right-handers Luis Castillo and Davis Martin for lefty Sean Sullivan and 17-year-old catching prospect Douglas Veliz. Martin went 9-8 with a 3.95 ERA in 28 starts. Chicago sheds the last year of Castillo's five-year, $108 million deal after he posted a 5.85 ERA.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mlb/story/_/id/50536728/rockies-acquire-luis-castillo-davis-martin-white-sox"
+        },
+        {
+          "headline": "Trump posthumously pardons Pete Rose",
+          "summary": "President Trump said Thursday he gave a \"Complete and Total Pardon\" to the late Pete Rose, who pleaded guilty in 1990 to filing false tax returns. MLB had already restored Rose's eligibility in May; the earliest he could be inducted into the Hall of Fame is 2028.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mlb/story/_/id/50534187/pete-rose-posthumously-pardoned-president-donald-trump"
+        },
+        {
+          "headline": "Mets add lefty Darwinzon Hernandez on 3-year deal",
+          "summary": "The Mets agreed with reliever Darwinzon Hernandez on a three-year, $12 million deal, per a source. He posted a 1.48 ERA in 45 appearances for NPB's SoftBank Hawks last season. It's the first move in the Mets' bullpen rebuild.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mlb/story/_/id/50536986/mets-reach-3-year-deal-reliever-darwinzon-hernandez"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Rockies acquire RHPs Luis Castillo and Davis Martin from White Sox for LHP Sean Sullivan and C prospect Douglas Veliz",
+          "url": "https://www.espn.com/mlb/story/_/id/50536728/rockies-acquire-luis-castillo-davis-martin-white-sox"
+        },
+        {
+          "text": "Mets agree with LHP Darwinzon Hernandez, three years, $12M",
+          "url": "https://www.espn.com/mlb/story/_/id/50536986/mets-reach-3-year-deal-reliever-darwinzon-hernandez"
+        },
+        {
+          "text": "Blue Jays DFA RHP Chase Lee",
+          "url": "https://sports.yahoo.com/articles/former-tigers-reliever-designated-assignment-211717229.html"
+        }
+      ]
+    }
+  ]
+}

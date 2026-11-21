@@ -1,0 +1,347 @@
+{
+  "date": "2026-11-21",
+  "headline": "Colts waive Daniel Jones, turn to Anthony Richardson at QB",
+  "ticker": [
+    "Colts waive Daniel Jones",
+    "Harden 51 as Cavs top Pacers",
+    "Dodgers land Royce Lewis",
+    "Thunder 126, Pelicans 120",
+    "Sasson dealt to Rangers"
+  ],
+  "top": [
+    {
+      "league": "nfl",
+      "headline": "Colts waive Daniel Jones, turn to Anthony Richardson at QB",
+      "summary": "Shane Steichen announced Friday that Anthony Richardson Sr. will start and the Colts will release Daniel Jones. Jones went 12 of 27 for 144 yards with an interception in Thursday's 26-3 loss to Houston and leads the league with 13 interceptions. A team that claims him would owe just over $2 million this season and $38 million in non-guaranteed money in 2027, per NFL Network.",
+      "source": "NFL.com",
+      "url": "https://www.nfl.com/news/colts-waive-daniel-jones-name-anthony-richardson-new-starting-quarterback"
+    },
+    {
+      "league": "nba",
+      "headline": "Harden scores 51, passes Kobe for third-most 50-point games",
+      "summary": "James Harden had 51 points on 15-of-26 shooting, 7-of-11 from three and 14-of-14 at the line as Cleveland beat Indiana 128-119 in an NBA Cup game. It was his 26th 50-point game, behind only Wilt Chamberlain (118) and Michael Jordan (31). At 37, he is the fourth-oldest player to score 50 or more.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers"
+    },
+    {
+      "league": "mlb",
+      "headline": "Dodgers acquire Royce Lewis from Twins",
+      "summary": "Minnesota traded infielder Royce Lewis, the No. 1 overall pick in 2017, to the Dodgers for right-hander Bobby Miller and minor league catcher Francisco Espinoza. Lewis hit .227 with 15 homers and 57 RBIs in 2026. The deal came on the day of Friday's non-tender deadline.",
+      "source": "AP",
+      "url": "https://www.mprnews.org/story/2026/11/20/twins-deal-onceprized-prospect-royce-lewis-to-dodgers"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Colts waive Daniel Jones and start Richardson; Mayfield questionable, Kyler Murray out",
+      "stories": [
+        {
+          "headline": "Colts waive Daniel Jones, turn to Anthony Richardson at QB",
+          "summary": "Shane Steichen announced Friday that Anthony Richardson Sr. will start and the Colts will release Daniel Jones. Jones went 12 of 27 for 144 yards with an interception in Thursday's 26-3 loss to Houston and leads the league with 13 interceptions. A team that claims him would owe just over $2 million this season and $38 million in non-guaranteed money in 2027, per NFL Network.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/colts-waive-daniel-jones-name-anthony-richardson-new-starting-quarterback"
+        },
+        {
+          "headline": "Baker Mayfield questionable for Bucs at Lions",
+          "summary": "Mayfield (foot, right thumb) is officially questionable for Sunday in Detroit after limited practices Thursday and Friday. Todd Bowles said he is \"trending in the right direction.\" If he can't go, undrafted rookie Jalon Daniels would start for 3-6 Tampa Bay against the 7-2 Lions.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/buccaneers-baker-mayfield-questionable-to-play-vs-lions"
+        },
+        {
+          "headline": "Kyler Murray out; Kirk Cousins expected to start in Mexico City",
+          "summary": "Minnesota ruled out Murray (hamstring) and WR Jordan Addison (thumb) for Sunday night's game against the 49ers in Mexico City. Cousins, who rejoined the Vikings in a trade with the Raiders, is expected to start, with Carson Wentz as the backup.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/fantasy/football/news/vikings-kyler-murray-ruled-out-for-week-11/"
+        },
+        {
+          "headline": "Broncos give CB Riley Moss four-year, $67M extension",
+          "summary": "Denver and Moss agreed to a four-year extension worth $67 million, according to NFL Network's Ian Rapoport. It locks up a starting corner through 2030.",
+          "source": "ProFootballTalk",
+          "url": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-riley-moss-agree-to-four-year-extension"
+        },
+        {
+          "headline": "Week 11 injury reports: Walker out, Evans questionable",
+          "summary": "Kansas City ruled out RB Kenneth Walker III (groin) and G Trey Smith (concussion) against Arizona. San Francisco listed WR Mike Evans (Achilles) and QB Mac Jones (illness) as questionable. Dallas ruled out TE Jake Ferguson and CB DaRon Bland.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-11-injury-report-kenneth-walker-iii-mike-evans-baker-mayfield/"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Colts waive QB Daniel Jones; Anthony Richardson Sr. named starter",
+          "url": "https://www.colts.com/news/colts-to-start-anthony-richardson-sr-at-quarterback-release-daniel-jones"
+        },
+        {
+          "text": "Broncos sign CB Riley Moss to a four-year, $67M extension through 2030",
+          "url": "https://www.profootballrumors.com/transactions"
+        },
+        {
+          "text": "Saints release S Justin Reid at his request",
+          "url": "https://www.yardbarker.com/nfl/articles/saints_s_justin_reid_agree_to_part_ways/s1_14819_44588215"
+        },
+        {
+          "text": "Chargers OLB Bud Dupree requests his release, per ESPN's Jeremy Fowler",
+          "url": "https://www.profootballrumors.com/2026/11/chargers-olb-bud-dupree-requests-release"
+        },
+        {
+          "text": "Commanders LT Laremy Tunsil (triceps, IR) not expected back this regular season, per the Washington Post",
+          "url": "https://www.profootballrumors.com/2026/11/commanders-lt-laremy-tunsil-not-expected-to-play-in-2026"
+        },
+        {
+          "text": "Packers waive RB Pierre Strong; Steelers waive WR Brandon Smith; Texans activate CB Jaylin Smith from IR",
+          "url": "https://www.profootballrumors.com/transactions"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Harden scores 51 for his 26th 50-point game; SGA's 40 rallies Thunder past Pelicans",
+      "stories": [
+        {
+          "headline": "Harden scores 51, passes Kobe for third-most 50-point games",
+          "summary": "James Harden had 51 points on 15-of-26 shooting, 7-of-11 from three and 14-of-14 at the line as Cleveland beat Indiana 128-119 in an NBA Cup game. It was his 26th 50-point game, behind only Wilt Chamberlain (118) and Michael Jordan (31). At 37, he is the fourth-oldest player to score 50 or more.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers"
+        },
+        {
+          "headline": "Short-handed Thunder rally past Pelicans behind SGA's 40",
+          "summary": "Oklahoma City trailed by as many as 16 in the third quarter and won 126-120. Shai Gilgeous-Alexander scored 40, and his and-one with 34.8 seconds left put OKC up eight. The Pelicans fell to 5-12 and 0-3 in Cup play.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909310"
+        },
+        {
+          "headline": "Raptors end six-game skid with 105-102 win at Detroit",
+          "summary": "Scottie Barnes scored 29 and hit the go-ahead drive after a late Cade Cunningham three. Allen Graves had 20 points and 10 rebounds in his first career start. Toronto won without RJ Barrett, Collin Murray-Boyles and Kawhi Leonard.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nba/breaking-news/article/nba-cup-2026-james-harden-puts-up-51-in-cavs-win-over-pacers-shorthanded-raptors-fend-off-pistons-end-6-game-skid-040246744.html"
+        },
+        {
+          "headline": "Franz Wagner's late jumper keeps Magic perfect in Cup play",
+          "summary": "Wagner had 35 points and 7 assists and hit the go-ahead jumper in Orlando's 113-111 win at Brooklyn, his first game against brother Moe as an opponent. The Magic are 3-0 in East Group A.",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/news/emirates-nba-cup-live-updates-november-20"
+        },
+        {
+          "headline": "Bucks, 1-15, take 12-game skid to Philadelphia",
+          "summary": "Milwaukee was idle Friday and visits the 13-3 Sixers on Saturday. Myles Turner and Kyle Kuzma are out with shoulder injuries. Philadelphia has won four straight.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nba/news/rolling-sixers-host-bucks-looking-to-halt-12-game-skid/"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Hornets",
+          "awayScore": 97,
+          "home": "Hawks",
+          "homeScore": 111,
+          "note": ""
+        },
+        {
+          "away": "Raptors",
+          "awayScore": 105,
+          "home": "Pistons",
+          "homeScore": 102,
+          "note": "Close"
+        },
+        {
+          "away": "Pacers",
+          "awayScore": 119,
+          "home": "Cavaliers",
+          "homeScore": 128,
+          "note": ""
+        },
+        {
+          "away": "Magic",
+          "awayScore": 113,
+          "home": "Nets",
+          "homeScore": 111,
+          "note": "Close"
+        },
+        {
+          "away": "Pelicans",
+          "awayScore": 120,
+          "home": "Thunder",
+          "homeScore": 126,
+          "note": ""
+        },
+        {
+          "away": "Wizards",
+          "awayScore": 98,
+          "home": "Bulls",
+          "homeScore": 94,
+          "note": "Close"
+        },
+        {
+          "away": "Suns",
+          "awayScore": 111,
+          "home": "Jazz",
+          "homeScore": 101,
+          "note": ""
+        },
+        {
+          "away": "Rockets",
+          "awayScore": 124,
+          "home": "Nuggets",
+          "homeScore": 133,
+          "note": ""
+        },
+        {
+          "away": "Kings",
+          "awayScore": 104,
+          "home": "Lakers",
+          "homeScore": 106,
+          "note": "Close"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "James Harden",
+          "team": "Cavaliers",
+          "line": "51 PTS · 6 REB · 6 AST · 15-26 FG",
+          "note": "His 26th career 50-point game moved him past Kobe Bryant into third all-time."
+        },
+        {
+          "name": "Franz Wagner",
+          "team": "Magic",
+          "line": "35 PTS · 5 REB · 7 AST",
+          "note": "Hit the go-ahead jumper in the 113-111 win at Brooklyn."
+        },
+        {
+          "name": "Nikola Jokić",
+          "team": "Nuggets",
+          "line": "26 PTS · 7 REB · 11 AST",
+          "note": "Led Denver to a 133-124 win over Houston; the Nuggets are 2-0 in West Group A."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Pistons C Jalen Duren (hamstring) out at least two more weeks; G Duncan Robinson (left quad) out at least a week",
+          "url": "https://sports.yahoo.com/nba/breaking-news/article/nba-cup-2026-james-harden-puts-up-51-in-cavs-win-over-pacers-shorthanded-raptors-fend-off-pistons-end-6-game-skid-040246744.html"
+        },
+        {
+          "text": "Grizzlies F Jerami Grant has a left calf strain; Pelicans F Trey Murphy III cleared after missing six games",
+          "url": "https://www.hoopsrumors.com/2026/11/injury-notes-wilson-lively-murphy-pistons-grizzlies.html"
+        },
+        {
+          "text": "Thunder's Jalen Williams and Cason Wallace may miss the season; Chet Holmgren likely out until at least January",
+          "url": "https://www.hoopsrumors.com/2026/11/northwest-notes-thunder-dort-wiggins-towns-jazz.html"
+        },
+        {
+          "text": "Raptors F Collin Murray-Boyles in concussion protocol",
+          "url": "https://www.hoopsrumors.com/2026/11/raptors-rj-barrett-hamstring-out-at-least-two-weeks.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "No games Friday; Rangers trade for Max Sasson, Malkin out Saturday",
+      "stories": [
+        {
+          "headline": "Rangers acquire Max Sasson from Canucks",
+          "summary": "Vancouver traded forward Max Sasson to the Rangers on Friday for a 2029 fourth-round pick. Sasson, 26, has five goals and three assists in 24 games. He is in the first year of a two-year, $2 million contract.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/max-sasson-traded-to-new-york-rangers-from-vancouver-canucks"
+        },
+        {
+          "headline": "Malkin to miss Penguins game Saturday",
+          "summary": "Evgeni Malkin is day to day with an upper-body injury and will sit against Nashville, with an update due Tuesday. Pittsburgh also put Nicholas Robertson on injured reserve.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-20-2026"
+        },
+        {
+          "headline": "Ovechkin sets Capitals assists record in fourth straight loss",
+          "summary": "Alex Ovechkin's 763rd assist broke Nicklas Backstrom's franchise record in Thursday's 6-3 home loss to Buffalo. Washington has lost four straight and allowed at least five goals in each. The Capitals are 10-10-0.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/ovechkin-franchise-record-assist-overshadowed-as-washington-capitals-struggle"
+        },
+        {
+          "headline": "Oilers visit Hurricanes in division leaders' matchup",
+          "summary": "Edmonton (17-4-3), first in the Pacific, plays at Metropolitan-leading Carolina at 1 p.m. ET Saturday. Both lost Thursday. Ryan Nugent-Hopkins will miss his fourth straight game.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/edmonton-oilers-carolina-hurricanes-measuring-stick-game-lookahead"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Rangers acquire F Max Sasson from Canucks for a 2029 fourth-round pick",
+          "url": "https://www.nhl.com/news/max-sasson-traded-to-new-york-rangers-from-vancouver-canucks"
+        },
+        {
+          "text": "Penguins place F Nicholas Robertson (lower body) on IR, recall F Avery Hayes",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-20-2026"
+        },
+        {
+          "text": "Kings F Adrian Kempe fined $3,500 for high-sticking Maple Leafs F Dakota Joshua",
+          "url": "https://www.nhl.com/news/kings-adrian-kempe-fined-for-high-sticking-canucks-joshua"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Dodgers get Royce Lewis; Ober, Gil, Gorman non-tendered",
+      "stories": [
+        {
+          "headline": "Dodgers acquire Royce Lewis from Twins",
+          "summary": "Minnesota traded infielder Royce Lewis, the No. 1 overall pick in 2017, to the Dodgers for right-hander Bobby Miller and minor league catcher Francisco Espinoza. Lewis hit .227 with 15 homers and 57 RBIs in 2026. The deal came on the day of Friday's non-tender deadline.",
+          "source": "AP",
+          "url": "https://www.mprnews.org/story/2026/11/20/twins-deal-onceprized-prospect-royce-lewis-to-dodgers"
+        },
+        {
+          "headline": "Tigers, Troy Melton agree to six-year extension",
+          "summary": "Detroit agreed to a six-year, $46.5 million extension with right-hander Troy Melton that includes a 2033 club option, according to a source. Melton moved into the rotation last season and posted a 2.76 ERA over 20 starts.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/tigers-troy-melton-contract-extension"
+        },
+        {
+          "headline": "Ober, Gil, Gorman among players non-tendered",
+          "summary": "Friday's non-tender deadline sent 44 players into free agency, according to theScore's tracker. Among them were Bailey Ober, Luis Gil, Nolan Gorman, David Fry and Davis Schneider.",
+          "source": "theScore",
+          "url": "https://www.thescore.com/mlb/news/3655166/mlb-non-tender-deadline-tracker"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Dodgers acquire INF Royce Lewis from Twins for RHP Bobby Miller and minor league C Francisco Espinoza",
+          "url": "https://www.mprnews.org/story/2026/11/20/twins-deal-onceprized-prospect-royce-lewis-to-dodgers"
+        },
+        {
+          "text": "Tigers agree to six-year, $46.5M extension with RHP Troy Melton (reported)",
+          "url": "https://www.mlb.com/news/tigers-troy-melton-contract-extension"
+        },
+        {
+          "text": "Yankees bring back RHP Jonathan Loáisiga on a two-year deal with a 2029 club option",
+          "url": "https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027"
+        },
+        {
+          "text": "Padres, OF Gavin Sheets agree to three-year, $11M deal (reported)",
+          "url": "https://www.yardbarker.com/mlb/articles/reports_gavin_sheets_agrees_to_three_year_11m_deal_with_padres/s1_17044_44593783"
+        },
+        {
+          "text": "Twins non-tender RHP Bailey Ober, OFs Trevor Larnach and Matt Wallner; Yankees non-tender RHPs Luis Gil and Fernando Cruz",
+          "url": "https://www.mlbtraderumors.com/2026/11/2026-non-tenders-american-league.html"
+        },
+        {
+          "text": "Cardinals non-tender INF Nolan Gorman; Mets non-tender Christopher Morel; Braves non-tender Michael Grove and James Karinchak",
+          "url": "https://www.mlbtraderumors.com/2026/11/2026-non-tenders-national-league.html"
+        },
+        {
+          "text": "Blue Jays non-tender Davis Schneider; Padres non-tender JP Sears",
+          "url": "https://www.thescore.com/mlb/news/3655166/mlb-non-tender-deadline-tracker"
+        },
+        {
+          "text": "Cubs claim RHP Chayce McDermott off waivers from Mets",
+          "url": "https://www.mlbtraderumors.com/transactions"
+        }
+      ]
+    }
+  ]
+}

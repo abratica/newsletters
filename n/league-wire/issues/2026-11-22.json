@@ -1,0 +1,444 @@
+{
+  "date": "2026-11-22",
+  "headline": "Herro scores career-high 50, but 76ers hold off Bucks 132-129",
+  "ticker": [
+    "Herro 50 in Bucks' loss",
+    "Wemby 50 & 19 as Spurs win",
+    "Leafs winless in 9",
+    "Bridges beats Blazers at horn",
+    "Mets extend A.J. Ewing"
+  ],
+  "top": [
+    {
+      "league": "nba",
+      "headline": "Herro scores career-high 50, but 76ers hold off Bucks 132-129",
+      "summary": "Tyler Herro scored 50 points on 15-of-23 shooting with 11 rebounds, topping his previous career high of 41. His tying 3 at the end was reviewed and ruled to have left his hand after time expired. Philadelphia is 14-3, tied for the NBA's best record; Milwaukee has lost 16 of its first 17.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50555316/76ers-survive-clutch-again-tyler-herro-50"
+    },
+    {
+      "league": "nba",
+      "headline": "Wembanyama posts 50 and 19 as Spurs roll Pelicans",
+      "summary": "Victor Wembanyama had 50 points, 19 rebounds, 5 blocks and 4 steals in a 114-91 win, his second 50-point game this season. The Spurs have won two straight since their 12-game streak ended. New Orleans has lost nine of 10, and Zion Williamson was a late scratch with a left thigh contusion.",
+      "source": "Yardbarker",
+      "url": "https://www.yardbarker.com/nba/articles/victor_wembanyama_posts_50_points_19_rebounds_as_spurs_roll_pelicans/s1_17045_44599545"
+    },
+    {
+      "league": "nhl",
+      "headline": "Maple Leafs' winless streak hits nine",
+      "summary": "Zach Werenski scored the winner with 3:28 left as Columbus won 4-3 in Toronto. The Maple Leafs are 0-8-1 in their last nine and 1-10-1 in their last 12.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nhl/recap/_/gameId/401892759"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Week 11 Sunday: Daniel Jones on waivers until Monday; Murray out, Mayfield expected to play",
+      "stories": [
+        {
+          "headline": "Colts release Daniel Jones; Anthony Richardson Sr. takes over",
+          "summary": "The 3-8 Colts released Daniel Jones on Friday, a week after benching him. He is on waivers until Monday afternoon, and a claiming team would owe the rest of his 2026 salary. No claim had been reported as of Saturday.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/colts-release-qb-daniel-jones"
+        },
+        {
+          "headline": "Vikings rule out Kyler Murray and Jordan Addison for Mexico City",
+          "summary": "Minnesota ruled out Murray (hamstring) and receiver Jordan Addison (thumb) for Sunday night's game against the 49ers in Mexico City. San Francisco listed QB Mac Jones as questionable with an illness.",
+          "source": "Vikings.com",
+          "url": "https://www.vikings.com/news/49ers-injury-report-week-11-2026-nfl-season"
+        },
+        {
+          "headline": "Cardinals expected to start Josh Johnson at Kansas City",
+          "summary": "Arizona quarterback Carson Beck is out with a back injury, so Josh Johnson, 40, is expected to start against the Chiefs. Kansas City has ruled out running back Kenneth Walker III (groin) and guard Trey Smith.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-week-11-injury-report-2026-season"
+        },
+        {
+          "headline": "Baker Mayfield expected to play at Detroit",
+          "summary": "Buccaneers quarterback Baker Mayfield is expected to play Sunday against the Lions. Tom Pelissero reported the foot problem is a plantar fascia injury, and Mayfield will wear a special orthotic and new cleats.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-131219200.html"
+        },
+        {
+          "headline": "Rams' Puka Nacua likely done for the season after knee surgery",
+          "summary": "Sean McVay said Nacua had MCL surgery and will be out \"a couple months,\" which likely ends his season. He was already on injured reserve and serving a three-game league suspension.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-131219200.html"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Colts waive QB Daniel Jones; on waivers until Monday afternoon, no claim reported",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-officially-place-daniel-jones-on-waivers"
+        },
+        {
+          "text": "Bills elevate LB Shaq Thompson and CB Tre'Davious White from the practice squad",
+          "url": "https://www.buffalobills.com/news/bills-roster-moves-nov-21"
+        },
+        {
+          "text": "Cardinals elevate WR Zay Jones from the practice squad",
+          "url": "https://sports.yahoo.com/articles/arizona-cardinals-elevate-wr-zay-231530713.html"
+        },
+        {
+          "text": "Steelers activate WR Roman Wilson from injured reserve",
+          "url": "https://www.nbcsports.com/fantasy/football/news/nfl-week-11-injury-report-drake-maye-likely-done-for-season-surgery-for-jordan-addison"
+        },
+        {
+          "text": "Titans place WR Wan'Dale Robinson (ankle) on IR; out for the season",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50530832/fantasy-football-injuries-nfl-week-11-inactive-active"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Herro scores 50 in a loss to the Sixers; Wembanyama goes for 50 and 19",
+      "stories": [
+        {
+          "headline": "Herro scores career-high 50, but 76ers hold off Bucks 132-129",
+          "summary": "Tyler Herro scored 50 points on 15-of-23 shooting with 11 rebounds, topping his previous career high of 41. His tying 3 at the end was reviewed and ruled to have left his hand after time expired. Philadelphia is 14-3, tied for the NBA's best record; Milwaukee has lost 16 of its first 17.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/50555316/76ers-survive-clutch-again-tyler-herro-50"
+        },
+        {
+          "headline": "Wembanyama posts 50 and 19 as Spurs roll Pelicans",
+          "summary": "Victor Wembanyama had 50 points, 19 rebounds, 5 blocks and 4 steals in a 114-91 win, his second 50-point game this season. The Spurs have won two straight since their 12-game streak ended. New Orleans has lost nine of 10, and Zion Williamson was a late scratch with a left thigh contusion.",
+          "source": "Yardbarker",
+          "url": "https://www.yardbarker.com/nba/articles/victor_wembanyama_posts_50_points_19_rebounds_as_spurs_roll_pelicans/s1_17045_44599545"
+        },
+        {
+          "headline": "Yahoo: officials missed Embiid stepping out in final seconds",
+          "summary": "With Philadelphia up 130-129, Joel Embiid stepped on the baseline after an inbounds pass, Yahoo Sports reported, but no call was made and Milwaukee had no challenges left. Herro had to foul, and Embiid made both free throws.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nba/article/tyler-herro-scores-50-officials-miss-out-of-bounds-call-on-joel-embiid-in-76ers-132-129-win-over-bucks-210453321.html"
+        },
+        {
+          "headline": "Bridges buzzer-beater lifts Knicks past Blazers 97-96",
+          "summary": "Mikal Bridges hit a 25-foot step-back 3 at the buzzer after Portland came back from as many as 26 points down. Jalen Brunson scored 30 for New York, which has won four straight. Both teams are 10-6.",
+          "source": "Yardbarker",
+          "url": "https://www.yardbarker.com/nba/articles/knicks_beat_trail_blazers_97_96_as_brunson_and_shamet_combine_for_50/s1_17668_44599423"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Bucks",
+          "awayScore": 129,
+          "home": "76ers",
+          "homeScore": 132,
+          "note": "Close"
+        },
+        {
+          "away": "Trail Blazers",
+          "awayScore": 96,
+          "home": "Knicks",
+          "homeScore": 97,
+          "note": "Upset"
+        },
+        {
+          "away": "Clippers",
+          "awayScore": 100,
+          "home": "Mavericks",
+          "homeScore": 110,
+          "note": ""
+        },
+        {
+          "away": "Grizzlies",
+          "awayScore": 95,
+          "home": "Timberwolves",
+          "homeScore": 104,
+          "note": ""
+        },
+        {
+          "away": "Pelicans",
+          "awayScore": 91,
+          "home": "Spurs",
+          "homeScore": 114,
+          "note": ""
+        },
+        {
+          "away": "Celtics",
+          "awayScore": 96,
+          "home": "Kings",
+          "homeScore": 97,
+          "note": "Close"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Tyler Herro",
+          "team": "Bucks",
+          "line": "50 PTS · 11 REB · 7 AST · 15-23 FG",
+          "note": "Career high, but his tying 3 came after the buzzer in a 132-129 loss."
+        },
+        {
+          "name": "Victor Wembanyama",
+          "team": "Spurs",
+          "line": "50 PTS · 19 REB · 5 BLK · 20-29 FG",
+          "note": "His second 50-point game this season, in a 114-91 win over New Orleans."
+        },
+        {
+          "name": "Joel Embiid",
+          "team": "76ers",
+          "line": "26 PTS · 17 REB · 9 AST",
+          "note": "His two late free throws sealed the win over Milwaukee."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Pacers' Tyrese Haliburton (hamstring strain) expected to miss at least two more weeks",
+          "url": "https://www.hoopsrumors.com/2026/11/central-notes-claxton-hezonja-austin-cunningham-haliburton.html"
+        },
+        {
+          "text": "Lakers' Rob Pelinka says the team will be active before the Feb. 11 trade deadline; Austin Reaves (left heel) could return Monday or Friday",
+          "url": "https://www.hoopsrumors.com/2026/11/pelinka-lakers-will-be-active-before-trade-deadline.html"
+        },
+        {
+          "text": "Knicks' Jordan Clarkson out (plantar fasciitis), OG Anunoby questionable (calf); Rob Dillingham signs G League contract",
+          "url": "https://www.hoopsrumors.com/2026/11/knicks-notes-road-trip-guard-rotation-knecht-dillingham-anunoby-clarkson.html"
+        },
+        {
+          "text": "Nets rookie Nolan Traore left Friday's loss to Orlando with a right hamstring injury",
+          "url": "https://www.hoopsrumors.com/2026/11/nets-notes-lineup-change-wolf-demin-m-wagner-traore.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Leafs winless in nine; Scheifele sets Jets goals record; Blues beat Devils 9-6",
+      "stories": [
+        {
+          "headline": "Maple Leafs' winless streak hits nine",
+          "summary": "Zach Werenski scored the winner with 3:28 left as Columbus won 4-3 in Toronto. The Maple Leafs are 0-8-1 in their last nine and 1-10-1 in their last 12.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892759"
+        },
+        {
+          "headline": "Scheifele becomes Jets/Thrashers franchise goals leader",
+          "summary": "Mark Scheifele's 380th goal passed Dale Hawerchuk for the most in franchise history. Vegas still won 5-4 in a shootout in Winnipeg, ending a four-game losing streak, after Ivan Barbashev tied it with 3:35 left.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/vegas-golden-knights-winnipeg-jets-game-recap-november-21-2026"
+        },
+        {
+          "headline": "Blues beat Devils 9-6; Hellebuyck pulled in first period",
+          "summary": "Jake Neighbours had five assists, tying a Blues franchise record, as St. Louis won its third straight. Devils goalie Connor Hellebuyck was pulled after allowing four goals on six shots.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/blues/news/new-jersey-devils-st-louis-blues-game-recap-november-21-2026-x7152"
+        },
+        {
+          "headline": "Canucks end Wild's win streak; Kaprizov ties franchise point-streak mark",
+          "summary": "Marco Rossi scored twice, including the tying goal with 1:23 left, and Vancouver won 4-3 in a shootout to end Minnesota's five-game winning streak. Kirill Kaprizov stretched his point streak to 14 games, tying the Wild record. Vancouver's Elias Pettersson is day to day with an upper-body injury.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/minnesota-wild-vancouver-canucks-game-recap-november-21-2026"
+        },
+        {
+          "headline": "Hurricanes score five in second period, beat Oilers 7-4",
+          "summary": "Carolina beat Edmonton in a matchup of division leaders behind a five-goal second period. Andrei Svechnikov scored twice and Sebastian Aho had a goal and two assists.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nhl/recap?gameId=401892754"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Oilers",
+          "awayScore": 4,
+          "home": "Hurricanes",
+          "homeScore": 7,
+          "note": ""
+        },
+        {
+          "away": "Penguins",
+          "awayScore": 3,
+          "home": "Predators",
+          "homeScore": 4,
+          "note": "Close"
+        },
+        {
+          "away": "Capitals",
+          "awayScore": 5,
+          "home": "Bruins",
+          "homeScore": 7,
+          "note": ""
+        },
+        {
+          "away": "Sabres",
+          "awayScore": 3,
+          "home": "Panthers",
+          "homeScore": 4,
+          "note": "Close"
+        },
+        {
+          "away": "Blue Jackets",
+          "awayScore": 4,
+          "home": "Maple Leafs",
+          "homeScore": 3,
+          "note": "Close"
+        },
+        {
+          "away": "Flyers",
+          "awayScore": 4,
+          "home": "Canadiens",
+          "homeScore": 3,
+          "note": "Close"
+        },
+        {
+          "away": "Islanders",
+          "awayScore": 3,
+          "home": "Red Wings",
+          "homeScore": 2,
+          "note": "Close"
+        },
+        {
+          "away": "Kings",
+          "awayScore": 2,
+          "home": "Senators",
+          "homeScore": 4,
+          "note": ""
+        },
+        {
+          "away": "Devils",
+          "awayScore": 6,
+          "home": "Blues",
+          "homeScore": 9,
+          "note": ""
+        },
+        {
+          "away": "Blackhawks",
+          "awayScore": 4,
+          "home": "Flames",
+          "homeScore": 3,
+          "note": "OT"
+        },
+        {
+          "away": "Golden Knights",
+          "awayScore": 5,
+          "home": "Jets",
+          "homeScore": 4,
+          "note": "SO"
+        },
+        {
+          "away": "Wild",
+          "awayScore": 3,
+          "home": "Canucks",
+          "homeScore": 4,
+          "note": "SO"
+        },
+        {
+          "away": "Ducks",
+          "awayScore": 2,
+          "home": "Mammoth",
+          "homeScore": 3,
+          "note": "Close"
+        },
+        {
+          "away": "Kraken",
+          "awayScore": 3,
+          "home": "Sharks",
+          "homeScore": 4,
+          "note": "Close"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Elias Lindholm",
+          "team": "Bruins",
+          "line": "4 G · 1 A",
+          "note": "A career high in a 7-5 win over Washington, which has lost five straight."
+        },
+        {
+          "name": "Jake Neighbours",
+          "team": "Blues",
+          "line": "0 G · 5 A",
+          "note": "Tied the Blues' franchise record for assists in a game in a 9-6 win over New Jersey."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Canucks place F Brendan Gallagher on IR; recall F Ty Mueller, F Jacob Quillan and G Nikita Tolopilo",
+          "url": "https://canucksarmy.com/news/vancouver-canucks-place-brendan-gallagher-ir-recall-jacob-quillan-ty-mueller-nikita-tolopilo-ahl-abbotsford-canucks"
+        },
+        {
+          "text": "Ducks place W Beckett Sennecke (lower body) on IR, recall W Nico Myatovic",
+          "url": "https://www.prohockeyrumors.com/2026/11/ducks-place-beckett-sennecke-on-ir-recall-nico-myatovic.html"
+        },
+        {
+          "text": "Golden Knights place D Noah Hanifin on LTIR, recall D Lukas Cormier",
+          "url": "https://www.prohockeyrumors.com/2026/11/golden-knights-recall-lukas-cormier-place-noah-hanifin-on-ltir.html"
+        },
+        {
+          "text": "Rangers place W Oliver Bjorkstrand on IR, recall W Taylor Raddysh",
+          "url": "https://www.prohockeyrumors.com/2026/11/rangers-recall-taylor-raddysh-place-oliver-bjorkstrand-on-ir.html"
+        },
+        {
+          "text": "Jets place G Clay Stevenson on waivers",
+          "url": "https://www.prohockeyrumors.com/2026/11/jets-place-clay-stevenson-on-waivers.html"
+        },
+        {
+          "text": "Rangers acquire F Max Sasson from Canucks for a 2029 fourth-round pick",
+          "url": "https://www.prohockeyrumors.com/2026/11/rangers-acquire-max-sasson.html"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Mets extend A.J. Ewing; Angels sale expected to close in January",
+      "stories": [
+        {
+          "headline": "Mets agree to eight-year extension with A.J. Ewing",
+          "summary": "The Mets and A.J. Ewing agreed to an eight-year extension with a club option for a ninth season, SNY reported. The Athletic reported $95 million guaranteed.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/mets-extend-a-j-ewing.html"
+        },
+        {
+          "headline": "Manfred: Angels sale to Stan Kroenke expected to close after New Year's",
+          "summary": "Rob Manfred said he expects Arte Moreno's sale of the Angels to close \"just after the first of the year.\" Until then the Angels can't hire a full-time GM or president of baseball operations.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/manfred-angels-sale-expected-to-be-finalized-in-early-january.html"
+        },
+        {
+          "headline": "Report: Mets offered Tarik Skubal nine years, $400 million",
+          "summary": "MLB Network Radio's Jim Duquette reported the Mets offered Skubal a nine-year, $400 million deal. Skubal has reportedly met with five teams. Freddy Peralta and Michael King are expected to wait until he signs.",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-21"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Mets agree to eight-year extension with A.J. Ewing (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/mets-extend-a-j-ewing.html"
+        },
+        {
+          "text": "Red Sox trade RHP Johan Oviedo to Diamondbacks",
+          "url": "https://www.mlbtraderumors.com/2026/11/diamondbacks-to-acquire-johan-oviedo.html"
+        },
+        {
+          "text": "White Sox trade RHP Jordan Leasure to Phillies",
+          "url": "https://www.mlbtraderumors.com/2026/11/white-sox-trade-jordan-leasure-to-phillies.html"
+        },
+        {
+          "text": "Rays acquire Christian Koss",
+          "url": "https://www.mlbtraderumors.com/2026/11/rays-acquire-christian-koss.html"
+        },
+        {
+          "text": "Cubs acquire RHP Braxton Roxby from Nationals for cash",
+          "url": "https://www.mlbtraderumors.com/2026/11/nationals-trade-braxton-roxby-to-cubs.html"
+        },
+        {
+          "text": "Mets claim RHP Gus Varland off waivers",
+          "url": "https://www.mlbtraderumors.com/2026/11/mets-claim-gus-varland.html"
+        },
+        {
+          "text": "Athletics outright RHP Hayden Juenger",
+          "url": "https://www.mlbtraderumors.com/2026/11/athletics-outright-hayden-juenger.html"
+        }
+      ]
+    }
+  ]
+}

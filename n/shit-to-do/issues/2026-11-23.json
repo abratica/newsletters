@@ -1,32 +1,10 @@
 {
-  "date": "2026-11-22",
-  "weekendNote": "Sunday before Thanksgiving",
+  "date": "2026-11-23",
+  "weekendNote": "Thanksgiving weekend",
   "events": [
     {
-      "id": "2026-11-20-boston-thanksgiving-market-harbor-festival",
-      "name": "Boston Thanksgiving Market & Harbor Festival",
-      "date": "2026-11-22",
-      "endDate": "2026-11-22",
-      "time": "10 AM–7:30 PM",
-      "startTime": "10:00",
-      "endTime": "19:30",
-      "venue": "Christopher Columbus Waterfront Park",
-      "area": "Boston",
-      "price": "Free",
-      "free": true,
-      "tags": [
-        "market",
-        "food",
-        "outdoors"
-      ],
-      "why": "A three-day waterfront market with artisans, food and dessert vendors, specialty foods and live music.",
-      "url": "https://happeningnext.com/event/boston-thanksgiving-market-andamp-harbor-festival-eid1ef0l8eewb4a",
-      "linkLabel": "Info",
-      "added": "2026-11-08"
-    },
-    {
       "name": "The Art of Banksy",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "endDate": "2027-01-03",
       "time": "10 AM–6 PM",
       "startTime": "10:00",
@@ -43,184 +21,9 @@
       "added": "2026-11-21"
     },
     {
-      "name": "Holiday Plant Market",
-      "date": "2026-11-22",
-      "time": "10 AM–4 PM",
-      "startTime": "10:00",
-      "endTime": "16:00",
-      "venue": "Arts at the Armory",
-      "area": "Somerville",
-      "tags": [
-        "somerville",
-        "market"
-      ],
-      "why": "Daytime plant market at the Armory the Sunday before Thanksgiving.",
-      "url": "https://artsatthearmory.org/events/holiday-plant-market/",
-      "linkLabel": "Info",
-      "id": "2026-11-22-holiday-plant-market",
-      "added": "2026-10-31"
-    },
-    {
-      "name": "Boston Women's Holiday Market",
-      "date": "2026-11-22",
-      "time": "11 AM–4 PM",
-      "startTime": "11:00",
-      "endTime": "16:00",
-      "venue": "Warehouse XI, 11 Sanborn Ct",
-      "area": "Somerville",
-      "price": "Free",
-      "free": true,
-      "tags": [
-        "somerville",
-        "market"
-      ],
-      "why": "Holiday pop-up with 30+ New England women makers.",
-      "url": "https://www.bostonwomensmarket.com/events-calendar/boston-womens-holiday-market-at-warehouse-xi-2026",
-      "linkLabel": "Info",
-      "id": "2026-11-22-boston-womens-holiday-market-warehouse-xi",
-      "added": "2026-11-01"
-    },
-    {
-      "name": "Community Thanksgiving Brunch at Boston Public Market",
-      "date": "2026-11-22",
-      "time": "11 AM–1 PM",
-      "startTime": "11:00",
-      "endTime": "13:00",
-      "venue": "Boston Public Market, 100 Hanover St",
-      "area": "Boston",
-      "price": "$10",
-      "note": "Bring food donations for the Greater Boston Food Bank",
-      "tags": [
-        "food"
-      ],
-      "url": "https://www.eventbrite.com/e/community-thanksgiving-brunch-at-boston-public-market-tickets-2003683787145",
-      "linkLabel": "Tickets",
-      "id": "2026-11-22-community-thanksgiving-brunch-at-boston-public-mar",
-      "added": "2026-11-21"
-    },
-    {
-      "name": "Dirty Water Stitch Club Holiday Market",
-      "date": "2026-11-22",
-      "time": "11:30 AM",
-      "startTime": "11:30",
-      "venue": "Time Out Market Boston",
-      "area": "Fenway",
-      "tags": [
-        "market"
-      ],
-      "why": "A holiday market from a local stitching club at the Time Out Market food hall.",
-      "url": "https://partiful.com/e/EnvbxdrE1eK2burB7fyW",
-      "linkLabel": "Info",
-      "id": "2026-11-22-dirty-water-stitch-club-holiday-market",
-      "added": "2026-11-14"
-    },
-    {
-      "id": "2026-11-21-brickbottom-open-studios",
-      "name": "Brickbottom Arts District Open Studios",
-      "date": "2026-11-22",
-      "endDate": "2026-11-22",
-      "time": "12–5 PM",
-      "startTime": "12:00",
-      "endTime": "17:00",
-      "venue": "Brickbottom / Joy Street Studios, 86 Joy St",
-      "area": "Somerville",
-      "price": "Free",
-      "free": true,
-      "note": "Free parking under 100 Chestnut St.",
-      "tags": [
-        "somerville",
-        "market"
-      ],
-      "why": "Artists across the Brickbottom buildings, Joy Street Studios and Triangle Gallery open their studios, with work for sale and some demos.",
-      "url": "https://happeningnext.com/event/brickbottom-arts-district-open-studios-eid1ef0l90rthpr",
-      "linkLabel": "Info",
-      "added": "2026-11-08",
-      "pick": true
-    },
-    {
-      "name": "Choco Fête at Aeronaut",
-      "date": "2026-11-22",
-      "time": "12–6 PM",
-      "startTime": "12:00",
-      "endTime": "18:00",
-      "venue": "Aeronaut Brewing, 14 Tyler St",
-      "area": "Somerville",
-      "price": "Free admission",
-      "free": true,
-      "tags": [
-        "somerville",
-        "food",
-        "market"
-      ],
-      "why": "Somerville Chocolate's festival with guest makers, chocolate-and-beer pairings and an all-day Willy Wonka screening.",
-      "url": "https://happeningnext.com/event/somerville-chocolate-presents-choco-f%C3%AAte-at-aeronaut-eid1ef0l97b55ra",
-      "linkLabel": "Info",
-      "id": "2026-11-22-choco-f-te-at-aeronaut",
-      "added": "2026-11-05",
-      "pick": true
-    },
-    {
-      "name": "Brewery Book Fair at Lamplighter Broadway",
-      "date": "2026-11-22",
-      "time": "2–5 PM",
-      "startTime": "14:00",
-      "endTime": "17:00",
-      "venue": "Lamplighter Brewing Co. Broadway, 284 Broadway",
-      "area": "Cambridge",
-      "price": "Free",
-      "free": true,
-      "tags": [
-        "market"
-      ],
-      "why": "Pop-up book fair in the taproom with local Cambridge authors signing and Book Ends selling local books and gifts.",
-      "url": "https://www.eventbrite.com/e/brewery-book-fair-at-lamplighter-broadway-tickets-2004285725559",
-      "linkLabel": "Info",
-      "id": "2026-11-22-brewery-book-fair-at-lamplighter-broadway",
-      "added": "2026-11-13"
-    },
-    {
-      "name": "Beyond Bubbie's Kitchen: Jewish Food Festival",
-      "date": "2026-11-22",
-      "time": "3–5 PM",
-      "startTime": "15:00",
-      "endTime": "17:00",
-      "venue": "The Vilna Shul, 18 Phillips St",
-      "area": "Boston",
-      "price": "$45 (food and drink included)",
-      "tags": [
-        "food"
-      ],
-      "why": "Local chefs serve modern takes on classic Jewish dishes, plus drink vendors and artisan food makers.",
-      "url": "https://vilnashul.org/events/event/beyond-bubbies-kitchen",
-      "linkLabel": "Tickets",
-      "id": "2026-11-22-beyond-bubbie-s-kitchen-jewish-food-festival",
-      "added": "2026-11-12"
-    },
-    {
-      "name": "Brunch So Hard: Friendsgiving Edition",
-      "date": "2026-11-22",
-      "time": "3–8 PM",
-      "startTime": "15:00",
-      "endTime": "20:00",
-      "venue": "Scorpion Bar Seaport, 58 Seaport Blvd",
-      "area": "Boston",
-      "price": "$23.18 GA (first 50 RSVPs free before 4 PM)",
-      "note": "21+",
-      "tags": [
-        "djs",
-        "food"
-      ],
-      "why": "An afternoon brunch-into-DJ party with Papadon & Friends; the first 50 RSVPs get in free before 4 PM.",
-      "url": "https://allevents.in/boston/brunch-so-hard-friendsgiving-edition-scorpion-bar-seaport/100002004845201968",
-      "linkLabel": "Tickets",
-      "id": "2026-11-22-brunch-so-hard-friendsgiving-edition",
-      "added": "2026-11-22",
-      "pick": true
-    },
-    {
       "id": "2026-11-20-sowa-christmas-market",
       "name": "SoWa Christmas Market",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "endDate": "2026-12-27",
       "time": "4–9 PM",
       "startTime": "16:00",
@@ -239,7 +42,7 @@
     },
     {
       "name": "ZooLights at Stone Zoo",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "endDate": "2027-01-03",
       "time": "4–9:30 PM",
       "startTime": "16:00",
@@ -258,30 +61,9 @@
       "added": "2026-11-05"
     },
     {
-      "name": "GottaBal! Balboa swing dance",
-      "date": "2026-11-22",
-      "time": "4–8 PM",
-      "startTime": "16:00",
-      "endTime": "20:00",
-      "venue": "Arts at the Armory, 191 Highland Ave",
-      "area": "Somerville",
-      "price": "Free",
-      "free": true,
-      "note": "Bring dance shoes with leather or suede soles",
-      "tags": [
-        "somerville",
-        "music"
-      ],
-      "why": "Monthly DJ'd swing dance focused on Balboa, a fast-tempo swing style; the Armory lists it as free.",
-      "url": "https://artsatthearmory.org/events/gottabal-dance-20/",
-      "linkLabel": "Info",
-      "id": "2026-11-22-gottabal-balboa-swing-dance",
-      "added": "2026-11-22"
-    },
-    {
       "id": "2026-11-12-holly-jolly-christmas-bar",
       "name": "Holly Jolly Christmas Bar pop-up",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "endDate": "2026-11-27",
       "time": "From 5 PM",
       "startTime": "17:00",
@@ -295,371 +77,6 @@
       "url": "https://bucketlisters.com/experience/holly-jolly-christmas-bar-boston",
       "linkLabel": "Tickets",
       "added": "2026-11-09"
-    },
-    {
-      "id": "2026-11-19-nouveau-day-marzae",
-      "name": "Nouveau Day weekend at Marzae",
-      "date": "2026-11-22",
-      "endDate": "2026-11-22",
-      "time": "from 5 PM Thu",
-      "startTime": "17:00",
-      "venue": "Marzae Cellar + Provisions, Boston Public Market",
-      "area": "Boston",
-      "tags": [
-        "food"
-      ],
-      "why": "Marzae marks Beaujolais Nouveau Day with a keg of this year's New England Marquette nouveau, plus a carbonic-maceration flight.",
-      "url": "https://happeningnext.com/event/nouveau-day-eid1ef0l8p0fnda",
-      "linkLabel": "Info",
-      "added": "2026-11-08"
-    },
-    {
-      "name": "Julia Minkin with Bowling Shoes and Cate Yoder",
-      "date": "2026-11-22",
-      "time": "8 PM (doors 7)",
-      "startTime": "20:00",
-      "venue": "The Rockwell, 255 Elm St",
-      "area": "Somerville",
-      "tags": [
-        "music",
-        "somerville"
-      ],
-      "why": "Chicago singer-songwriter headlines with two Boston acts: synth-pop, art-rock and folk.",
-      "url": "https://app.opendate.io/e/julia-minkin-november-22-2026-715910",
-      "linkLabel": "Tickets",
-      "id": "2026-11-22-julia-minkin-with-bowling-shoes-and-cate-yoder",
-      "added": "2026-11-21"
-    },
-    {
-      "name": "Other Lives",
-      "date": "2026-11-22",
-      "time": "8 PM (doors 7:30)",
-      "startTime": "20:00",
-      "venue": "Arts at the Armory, 191 Highland Ave",
-      "area": "Somerville",
-      "price": "$41.12",
-      "tags": [
-        "somerville",
-        "music"
-      ],
-      "why": "Orchestral, cinematic indie band from Stillwater, Oklahoma; a Boston Magazine pick this week.",
-      "url": "https://www.eventim.us/event/tickets/691414",
-      "linkLabel": "Tickets",
-      "id": "2026-11-22-other-lives",
-      "added": "2026-11-22"
-    },
-    {
-      "name": "Freezing Time: Edgerton (closing)",
-      "date": "2026-11-22",
-      "endDate": "2026-11-29",
-      "venue": "MIT Museum",
-      "area": "Cambridge",
-      "note": "Closes Nov 29",
-      "why": "Harold 'Doc' Edgerton's high-speed photography; closes Nov 29.",
-      "url": "https://www.musa.guide/en/discover/boston/exhibitions/mit-museum/freezing-time-edgerton",
-      "linkLabel": "Info",
-      "id": "2026-11-05-freezing-time-edgerton-closing",
-      "added": "2026-11-05"
-    },
-    {
-      "id": "2026-11-06-snowport",
-      "name": "Snowport Holiday Market",
-      "date": "2026-11-22",
-      "endDate": "2026-12-27",
-      "venue": "Snowport, 100 Seaport Blvd",
-      "area": "Seaport",
-      "free": true,
-      "note": "Fri 11 AM–9 PM, Sat 10 AM–9 PM, Sun 10 AM–8 PM, Mon–Thu 3–8 PM",
-      "tags": [
-        "market",
-        "food"
-      ],
-      "why": "The big Seaport holiday market opens Nov 6; general admission is free.",
-      "url": "https://www.boston25news.com/news/local/snowport-holiday-market-returning-boston-seaport-2026-holiday-season/VOOAPT3EP5FXRI4SVYFRFDNRO4/",
-      "linkLabel": "Info",
-      "added": "2026-10-29"
-    },
-    {
-      "name": "Snowport Curling Lanes",
-      "date": "2026-11-22",
-      "endDate": "2027-02-28",
-      "venue": "111 Harbor Way, Seaport",
-      "area": "Boston",
-      "price": "Free",
-      "free": true,
-      "tags": [
-        "outdoors"
-      ],
-      "why": "Free curling lanes next to the Snowport market, all winter.",
-      "url": "https://www.bostonseaport.xyz/event/snowport-curling",
-      "linkLabel": "Info",
-      "id": "2026-11-10-snowport-curling-lanes",
-      "added": "2026-11-10"
-    },
-    {
-      "name": "Rembrandt and the Jews in the Dutch Republic (closing)",
-      "date": "2026-11-22",
-      "endDate": "2026-11-29",
-      "venue": "Museum of Fine Arts, 465 Huntington Ave",
-      "area": "Boston",
-      "price": "$30",
-      "tags": [],
-      "why": "MFA show on Jews in the 17th-century Dutch art world, with works by Rembrandt and his circle.",
-      "url": "https://mfa.org/exhibition/reality-and-imagination-rembrandt-and-the-jews-in-the-dutch-republic",
-      "linkLabel": "Info",
-      "id": "2026-11-11-rembrandt-and-the-jews-in-the-dutch-republic-closing",
-      "added": "2026-11-11"
-    },
-    {
-      "name": "Shadows and Light: Symbolist Art in Belgium (closing)",
-      "date": "2026-11-22",
-      "endDate": "2026-12-06",
-      "venue": "McMullen Museum, Boston College",
-      "area": "Brighton",
-      "price": "Free",
-      "free": true,
-      "tags": [],
-      "why": "Free show of Belgian Symbolist art from a private collection.",
-      "url": "https://mcmullenmuseum.bc.edu/shadows-and-light/",
-      "linkLabel": "Info",
-      "id": "2026-11-11-shadows-and-light-symbolist-art-in-belgium-closing",
-      "added": "2026-11-11"
-    },
-    {
-      "name": "List Projects 35: Pap Souleye Fall (closing)",
-      "date": "2026-11-22",
-      "endDate": "2026-11-29",
-      "venue": "MIT List Visual Arts Center, 20 Ames St",
-      "area": "Cambridge",
-      "price": "Free",
-      "free": true,
-      "tags": [],
-      "why": "Free show of works built around video-game 'dead pixels'.",
-      "url": "https://listart.mit.edu/exhibitions/list-projects-35-pap-souleye-fall",
-      "linkLabel": "Info",
-      "id": "2026-11-11-list-projects-35-pap-souleye-fall-closing",
-      "added": "2026-11-11"
-    },
-    {
-      "id": "2026-11-13-raise-the-red-lantern-4k",
-      "name": "Raise the Red Lantern (new 4K restoration)",
-      "date": "2026-11-22",
-      "endDate": "2026-11-22",
-      "venue": "Brattle Theatre",
-      "area": "Cambridge",
-      "note": "Runs Nov 13–19 and Nov 21–22; check the Brattle for daily showtimes.",
-      "tags": [
-        "film"
-      ],
-      "why": "A run of the new 4K restoration of Zhang Yimou's film, from the Brattle's Holidays 2026 calendar.",
-      "url": "https://brattlefilm.org/movies/raise-the-red-lantern/",
-      "linkLabel": "Tickets",
-      "added": "2026-11-09"
-    },
-    {
-      "name": "Rooftop Après at Deck 12",
-      "date": "2026-11-22",
-      "endDate": "2027-02-07",
-      "time": "From 5 PM; dates vary",
-      "venue": "Yotel (Deck 12), 65 Seaport Blvd",
-      "area": "Boston",
-      "tags": [
-        "food",
-        "outdoors"
-      ],
-      "why": "Ski-lodge rooftop series with skyline views, fondue and warm cocktails.",
-      "url": "https://do617.com/events/2026/11/13/rooftop-apres-tickets",
-      "linkLabel": "Info",
-      "id": "2026-11-17-rooftop-apr-s-at-deck-12",
-      "added": "2026-11-17"
-    },
-    {
-      "name": "Boston African Restaurant Week",
-      "date": "2026-11-22",
-      "endDate": "2026-11-28",
-      "venue": "Participating restaurants",
-      "area": "Boston",
-      "note": "First edition; restaurants not yet announced",
-      "tags": [
-        "food"
-      ],
-      "why": "African, African-American and Caribbean restaurants offer discounted traditional menus for 11 days.",
-      "url": "https://www.eventbrite.com/e/boston-african-restaurant-week-2026-tickets-1980780368403",
-      "linkLabel": "Info",
-      "id": "2026-11-18-boston-african-restaurant-week",
-      "added": "2026-11-04"
-    },
-    {
-      "id": "2026-11-18-krampus-christmas-loyall",
-      "name": "Krampus Christmas pop-up",
-      "date": "2026-11-22",
-      "endDate": "2027-01-02",
-      "time": "Wed–Thu 6 PM–midnight; Fri–Sat 6 PM–1 AM",
-      "venue": "Loyall Counting Room, InterContinental Boston, 510 Atlantic Ave",
-      "area": "Boston",
-      "note": "Closed Sun–Tue. Reservations through Resy.",
-      "tags": [
-        "food"
-      ],
-      "why": "A holiday speakeasy pop-up built around the Krampus legend, with themed cocktails and holiday bites.",
-      "url": "https://www.thebostoncalendar.com/events/krampus-christmas",
-      "linkLabel": "Info",
-      "added": "2026-11-19"
-    },
-    {
-      "id": "2026-11-06-naughty-list-lounge-88-club",
-      "name": "Naughty List Lounge holiday pop-up bar",
-      "date": "2026-11-22",
-      "endDate": "2027-01-10",
-      "time": "Thu–Fri 7 PM–1 AM; Sat 6 PM–1 AM; Sun 6:30–9 PM",
-      "venue": "The 88 Club, 50 Dalton St",
-      "area": "Boston",
-      "note": "Closed Mon–Wed.",
-      "tags": [
-        "food"
-      ],
-      "why": "Holiday pop-up bar with themed cocktails, live piano and singalongs.",
-      "url": "https://www.88club.boston/naughtylistlounge",
-      "linkLabel": "Info",
-      "added": "2026-11-19"
-    },
-    {
-      "name": "Wicked Queer Fall Film Frolic",
-      "date": "2026-11-22",
-      "endDate": "2026-11-22",
-      "venue": "Museum of Fine Arts",
-      "area": "Fenway",
-      "note": "Lineup still being finalized",
-      "tags": [
-        "film"
-      ],
-      "why": "Wicked Queer's three-day fall mini film festival at the MFA.",
-      "url": "https://www.queer.film/wickedqueer",
-      "linkLabel": "Info",
-      "id": "2026-11-20-wicked-queer-fall-film-frolic",
-      "added": "2026-11-04"
-    },
-    {
-      "id": "2026-11-20-the-hole-35mm-brattle",
-      "name": "The Hole (new 35mm print)",
-      "date": "2026-11-22",
-      "endDate": "2026-11-22",
-      "venue": "Brattle Theatre",
-      "area": "Cambridge",
-      "tags": [
-        "film"
-      ],
-      "why": "A new 35mm print of Tsai Ming-liang's film, shown over three days with afternoon and evening shows.",
-      "url": "https://brattlefilm.org/movies/the-hole/",
-      "linkLabel": "Tickets",
-      "added": "2026-11-09"
-    },
-    {
-      "id": "2026-11-20-miracle-holiday-pop-up-cambridge",
-      "name": "Miracle Holiday Pop-Up Bar",
-      "date": "2026-11-22",
-      "endDate": "2026-12-31",
-      "time": "Sun–Wed 5–10 PM, Thu–Fri 5–11 PM, Sat 4–11 PM",
-      "venue": "Kimpton Marlowe Hotel, 25 Edwin H. Land Blvd",
-      "area": "Cambridge",
-      "note": "First come, first served. Closed Thanksgiving Day.",
-      "tags": [
-        "food"
-      ],
-      "why": "The ninth year of the holiday-themed cocktail pop-up, with new 2026 drinks, decorations and a 6-foot Santa.",
-      "url": "https://do617.com/events/2026/11/20/miracle-holiday-pop-up-in-cambridge-tickets",
-      "linkLabel": "Info",
-      "added": "2026-11-09"
-    },
-    {
-      "name": "Trove: Jewelry, Gems, Baubles & More!",
-      "date": "2026-11-22",
-      "endDate": "2026-11-22",
-      "venue": "The Charles River Speedway",
-      "area": "Brighton",
-      "tags": [
-        "market"
-      ],
-      "why": "Weekend jewelry and gem market at the Speedway's food-and-market complex.",
-      "url": "https://www.thebostoncalendar.com/events/trove-jewelry-gems-baubles-more",
-      "linkLabel": "Info",
-      "id": "2026-11-21-trove-jewelry-gems-baubles-more",
-      "added": "2026-11-18"
-    },
-    {
-      "id": "2026-11-21-hfa-andrzej-wajda-at-100",
-      "name": "Andrzej Wajda at 100 (HFA series)",
-      "date": "2026-11-22",
-      "endDate": "2026-12-14",
-      "venue": "Harvard Film Archive, 24 Quincy St",
-      "area": "Cambridge",
-      "note": "See HFA for screening times",
-      "tags": [
-        "film"
-      ],
-      "url": "https://harvardfilmarchive.org/programs",
-      "linkLabel": "Info",
-      "added": "2026-11-19"
-    },
-    {
-      "name": "Upside Down Holiday Trees at the Liberty Hotel",
-      "date": "2026-11-22",
-      "endDate": "2026-12-31",
-      "time": "Mon–Thu 11:30 AM–11 PM; Fri–Sat 12 PM–1 AM; Sun 10 AM–10 PM",
-      "venue": "Liberty Hotel, 215 Charles St",
-      "area": "Boston",
-      "tags": [
-        "food"
-      ],
-      "why": "Trees hung upside down in the former jail's 90-foot rotunda bar, with cocktails and small plates.",
-      "url": "https://www.thebostoncalendar.com/events/upside-down-holiday-trees-at-the-liberty-hotel-lobby-bar",
-      "linkLabel": "Info",
-      "id": "2026-11-21-upside-down-holiday-trees-at-the-liberty-hotel",
-      "added": "2026-11-21"
-    },
-    {
-      "name": "Knowledge Is Myth: Chimeric Continuities (closing)",
-      "date": "2026-11-22",
-      "endDate": "2026-12-13",
-      "venue": "Carpenter Center for the Visual Arts, Harvard",
-      "area": "Cambridge",
-      "tags": [],
-      "why": "Companion show to the Alfonso Ossorio exhibition at Harvard Art Museums.",
-      "url": "https://www.wbur.org/news/2026/08/24/2026-fall-art-exhibits-boston-massachusetts",
-      "linkLabel": "Info",
-      "id": "2026-11-21-knowledge-is-myth-chimeric-continuities-closing",
-      "added": "2026-11-21"
-    },
-    {
-      "id": "2026-11-22-holiday-maker-market-marzae",
-      "name": "Holiday Maker Market at Marzae",
-      "date": "2026-11-22",
-      "venue": "Marzae Cellar + Provisions, 100 Hanover St",
-      "area": "Boston",
-      "tags": [
-        "market",
-        "food"
-      ],
-      "why": "A holiday market of New England makers held inside a natural-wine shop.",
-      "url": "https://www.eventbrite.co.uk/e/holiday-maker-market-tickets-2003572112122",
-      "linkLabel": "Info",
-      "added": "2026-11-08"
-    },
-    {
-      "id": "2026-11-22-friendsgiving-castle-island",
-      "name": "Friendsgiving @ Castle Island Brewing",
-      "date": "2026-11-22",
-      "venue": "Castle Island Brewing",
-      "area": "South Boston",
-      "price": "Free",
-      "free": true,
-      "tags": [
-        "food"
-      ],
-      "why": "Listed in The Boston Calendar's November free-and-cheap roundup as a free Friendsgiving at the brewery.",
-      "url": "https://www.thebostoncalendar.com/events/59-things-to-do-in-boston-for-10-or-less-november-2026",
-      "linkLabel": "Info",
-      "added": "2026-11-15"
     },
     {
       "name": "Columbus Park Trellis Lighting",
@@ -697,6 +114,226 @@
       "added": "2026-11-09"
     },
     {
+      "name": "Freezing Time: Edgerton (closing)",
+      "date": "2026-11-23",
+      "endDate": "2026-11-29",
+      "venue": "MIT Museum",
+      "area": "Cambridge",
+      "note": "Closes Nov 29",
+      "why": "Harold 'Doc' Edgerton's high-speed photography; closes Nov 29.",
+      "url": "https://www.musa.guide/en/discover/boston/exhibitions/mit-museum/freezing-time-edgerton",
+      "linkLabel": "Info",
+      "id": "2026-11-05-freezing-time-edgerton-closing",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "2026-11-06-snowport",
+      "name": "Snowport Holiday Market",
+      "date": "2026-11-23",
+      "endDate": "2026-12-27",
+      "venue": "Snowport, 100 Seaport Blvd",
+      "area": "Seaport",
+      "free": true,
+      "note": "Fri 11 AM–9 PM, Sat 10 AM–9 PM, Sun 10 AM–8 PM, Mon–Thu 3–8 PM",
+      "tags": [
+        "market",
+        "food"
+      ],
+      "why": "The big Seaport holiday market opens Nov 6; general admission is free.",
+      "url": "https://www.boston25news.com/news/local/snowport-holiday-market-returning-boston-seaport-2026-holiday-season/VOOAPT3EP5FXRI4SVYFRFDNRO4/",
+      "linkLabel": "Info",
+      "added": "2026-10-29"
+    },
+    {
+      "name": "Snowport Curling Lanes",
+      "date": "2026-11-23",
+      "endDate": "2027-02-28",
+      "venue": "111 Harbor Way, Seaport",
+      "area": "Boston",
+      "price": "Free",
+      "free": true,
+      "tags": [
+        "outdoors"
+      ],
+      "why": "Free curling lanes next to the Snowport market, all winter.",
+      "url": "https://www.bostonseaport.xyz/event/snowport-curling",
+      "linkLabel": "Info",
+      "id": "2026-11-10-snowport-curling-lanes",
+      "added": "2026-11-10"
+    },
+    {
+      "name": "Rembrandt and the Jews in the Dutch Republic (closing)",
+      "date": "2026-11-23",
+      "endDate": "2026-11-29",
+      "venue": "Museum of Fine Arts, 465 Huntington Ave",
+      "area": "Boston",
+      "price": "$30",
+      "tags": [],
+      "why": "MFA show on Jews in the 17th-century Dutch art world, with works by Rembrandt and his circle.",
+      "url": "https://mfa.org/exhibition/reality-and-imagination-rembrandt-and-the-jews-in-the-dutch-republic",
+      "linkLabel": "Info",
+      "id": "2026-11-11-rembrandt-and-the-jews-in-the-dutch-republic-closing",
+      "added": "2026-11-11"
+    },
+    {
+      "name": "Shadows and Light: Symbolist Art in Belgium (closing)",
+      "date": "2026-11-23",
+      "endDate": "2026-12-06",
+      "venue": "McMullen Museum, Boston College",
+      "area": "Brighton",
+      "price": "Free",
+      "free": true,
+      "tags": [],
+      "why": "Free show of Belgian Symbolist art from a private collection.",
+      "url": "https://mcmullenmuseum.bc.edu/shadows-and-light/",
+      "linkLabel": "Info",
+      "id": "2026-11-11-shadows-and-light-symbolist-art-in-belgium-closing",
+      "added": "2026-11-11"
+    },
+    {
+      "name": "List Projects 35: Pap Souleye Fall (closing)",
+      "date": "2026-11-23",
+      "endDate": "2026-11-29",
+      "venue": "MIT List Visual Arts Center, 20 Ames St",
+      "area": "Cambridge",
+      "price": "Free",
+      "free": true,
+      "tags": [],
+      "why": "Free show of works built around video-game 'dead pixels'.",
+      "url": "https://listart.mit.edu/exhibitions/list-projects-35-pap-souleye-fall",
+      "linkLabel": "Info",
+      "id": "2026-11-11-list-projects-35-pap-souleye-fall-closing",
+      "added": "2026-11-11"
+    },
+    {
+      "name": "Rooftop Après at Deck 12",
+      "date": "2026-11-23",
+      "endDate": "2027-02-07",
+      "time": "From 5 PM; dates vary",
+      "venue": "Yotel (Deck 12), 65 Seaport Blvd",
+      "area": "Boston",
+      "tags": [
+        "food",
+        "outdoors"
+      ],
+      "why": "Ski-lodge rooftop series with skyline views, fondue and warm cocktails.",
+      "url": "https://do617.com/events/2026/11/13/rooftop-apres-tickets",
+      "linkLabel": "Info",
+      "id": "2026-11-17-rooftop-apr-s-at-deck-12",
+      "added": "2026-11-17"
+    },
+    {
+      "name": "Boston African Restaurant Week",
+      "date": "2026-11-23",
+      "endDate": "2026-11-28",
+      "venue": "Participating restaurants",
+      "area": "Boston",
+      "note": "First edition; restaurants not yet announced",
+      "tags": [
+        "food"
+      ],
+      "why": "African, African-American and Caribbean restaurants offer discounted traditional menus for 11 days.",
+      "url": "https://www.eventbrite.com/e/boston-african-restaurant-week-2026-tickets-1980780368403",
+      "linkLabel": "Info",
+      "id": "2026-11-18-boston-african-restaurant-week",
+      "added": "2026-11-04"
+    },
+    {
+      "id": "2026-11-18-krampus-christmas-loyall",
+      "name": "Krampus Christmas pop-up",
+      "date": "2026-11-23",
+      "endDate": "2027-01-02",
+      "time": "Wed–Thu 6 PM–midnight; Fri–Sat 6 PM–1 AM",
+      "venue": "Loyall Counting Room, InterContinental Boston, 510 Atlantic Ave",
+      "area": "Boston",
+      "note": "Closed Sun–Tue. Reservations through Resy.",
+      "tags": [
+        "food"
+      ],
+      "why": "A holiday speakeasy pop-up built around the Krampus legend, with themed cocktails and holiday bites.",
+      "url": "https://www.thebostoncalendar.com/events/krampus-christmas",
+      "linkLabel": "Info",
+      "added": "2026-11-19"
+    },
+    {
+      "id": "2026-11-06-naughty-list-lounge-88-club",
+      "name": "Naughty List Lounge holiday pop-up bar",
+      "date": "2026-11-23",
+      "endDate": "2027-01-10",
+      "time": "Thu–Fri 7 PM–1 AM; Sat 6 PM–1 AM; Sun 6:30–9 PM",
+      "venue": "The 88 Club, 50 Dalton St",
+      "area": "Boston",
+      "note": "Closed Mon–Wed.",
+      "tags": [
+        "food"
+      ],
+      "why": "Holiday pop-up bar with themed cocktails, live piano and singalongs.",
+      "url": "https://www.88club.boston/naughtylistlounge",
+      "linkLabel": "Info",
+      "added": "2026-11-19"
+    },
+    {
+      "id": "2026-11-20-miracle-holiday-pop-up-cambridge",
+      "name": "Miracle Holiday Pop-Up Bar",
+      "date": "2026-11-23",
+      "endDate": "2026-12-31",
+      "time": "Sun–Wed 5–10 PM, Thu–Fri 5–11 PM, Sat 4–11 PM",
+      "venue": "Kimpton Marlowe Hotel, 25 Edwin H. Land Blvd",
+      "area": "Cambridge",
+      "note": "First come, first served. Closed Thanksgiving Day.",
+      "tags": [
+        "food"
+      ],
+      "why": "The ninth year of the holiday-themed cocktail pop-up, with new 2026 drinks, decorations and a 6-foot Santa.",
+      "url": "https://do617.com/events/2026/11/20/miracle-holiday-pop-up-in-cambridge-tickets",
+      "linkLabel": "Info",
+      "added": "2026-11-09"
+    },
+    {
+      "id": "2026-11-21-hfa-andrzej-wajda-at-100",
+      "name": "Andrzej Wajda at 100 (HFA series)",
+      "date": "2026-11-23",
+      "endDate": "2026-12-14",
+      "venue": "Harvard Film Archive, 24 Quincy St",
+      "area": "Cambridge",
+      "note": "See HFA for screening times",
+      "tags": [
+        "film"
+      ],
+      "url": "https://harvardfilmarchive.org/programs",
+      "linkLabel": "Info",
+      "added": "2026-11-19"
+    },
+    {
+      "name": "Upside Down Holiday Trees at the Liberty Hotel",
+      "date": "2026-11-23",
+      "endDate": "2026-12-31",
+      "time": "Mon–Thu 11:30 AM–11 PM; Fri–Sat 12 PM–1 AM; Sun 10 AM–10 PM",
+      "venue": "Liberty Hotel, 215 Charles St",
+      "area": "Boston",
+      "tags": [
+        "food"
+      ],
+      "why": "Trees hung upside down in the former jail's 90-foot rotunda bar, with cocktails and small plates.",
+      "url": "https://www.thebostoncalendar.com/events/upside-down-holiday-trees-at-the-liberty-hotel-lobby-bar",
+      "linkLabel": "Info",
+      "id": "2026-11-21-upside-down-holiday-trees-at-the-liberty-hotel",
+      "added": "2026-11-21"
+    },
+    {
+      "name": "Knowledge Is Myth: Chimeric Continuities (closing)",
+      "date": "2026-11-23",
+      "endDate": "2026-12-13",
+      "venue": "Carpenter Center for the Visual Arts, Harvard",
+      "area": "Cambridge",
+      "tags": [],
+      "why": "Companion show to the Alfonso Ossorio exhibition at Harvard Art Museums.",
+      "url": "https://www.wbur.org/news/2026/08/24/2026-fall-art-exhibits-boston-massachusetts",
+      "linkLabel": "Info",
+      "id": "2026-11-21-knowledge-is-myth-chimeric-continuities-closing",
+      "added": "2026-11-21"
+    },
+    {
       "name": "Daughters of the Dust + guests from The Huntington",
       "date": "2026-11-23",
       "venue": "Coolidge Corner Theatre",
@@ -724,6 +361,20 @@
       "url": "https://www.thebostoncalendar.com/events/streetwise-2nd-annual-transportation-trivia",
       "linkLabel": "Info",
       "added": "2026-11-16"
+    },
+    {
+      "id": "2026-11-23-the-getaway-driver",
+      "name": "The Getaway Driver (closing)",
+      "date": "2026-11-23",
+      "endDate": "2026-11-29",
+      "venue": "Central Square Theater",
+      "area": "Cambridge",
+      "note": "Extended run ends Nov 29",
+      "tags": [],
+      "why": "A drama drawn from the lives of Katherine Ann Power and Clare Schroeder, two women tied together by a 1970 event; the run ends this Sunday.",
+      "url": "https://www.centralsquaretheater.org/shows/the-getaway-driver/",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
     },
     {
       "name": "Blast of Silence in 35mm (Noirvember)",
@@ -894,7 +545,8 @@
       "why": "An afternoon of '80s B-movie horror instead of shopping: killer mall security robots in Chopping Mall, then Night of the Comet on 35mm.",
       "url": "https://brattlefilm.org/movies/chopping-mall/",
       "linkLabel": "Tickets",
-      "added": "2026-11-07"
+      "added": "2026-11-07",
+      "pick": true
     },
     {
       "id": "2026-11-27-mariah-carey-holiday-bar",
@@ -931,6 +583,23 @@
       "linkLabel": "Info",
       "id": "2026-11-27-shit-faced-shakespeare-romeo-and-juliet",
       "added": "2026-11-12"
+    },
+    {
+      "id": "2026-11-27-david-boobie",
+      "name": "15th Annual David Boobie",
+      "date": "2026-11-27",
+      "time": "Doors 8 PM",
+      "startTime": "20:00",
+      "venue": "Crystal Ballroom, Somerville Theatre, 55 Davis Sq",
+      "area": "Somerville",
+      "tags": [
+        "somerville",
+        "music"
+      ],
+      "why": "The Crystal Ballroom's annual Black Friday David Bowie tribute mixing live music and burlesque, led by Niki Luparelli; this is its 15th year.",
+      "url": "https://www.songkick.com/festivals/3813048-15th-annual-david-boobie/id/43505436-15th-annual-david-boobie-2026",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
     },
     {
       "id": "2026-11-27-dancegiving",
@@ -1000,6 +669,23 @@
       "linkLabel": "Info",
       "id": "2026-11-27-sowa-black-friday-open-studios",
       "added": "2026-11-11"
+    },
+    {
+      "id": "2026-11-27-faneuil-hall-holiday-market",
+      "name": "Faneuil Hall Holiday Marketplace",
+      "date": "2026-11-27",
+      "endDate": "2026-12-24",
+      "venue": "Quincy Market, 4 S. Market St",
+      "area": "Boston",
+      "free": true,
+      "note": "Weekends through Dec 24",
+      "tags": [
+        "market"
+      ],
+      "why": "A weekend holiday market at Quincy Market running through Christmas Eve.",
+      "url": "https://www.bostonglobe.com/2026/11/19/arts/things-to-do-boston-this-weekend/",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
     },
     {
       "name": "Holiday Pop-Up Market",
@@ -1091,6 +777,42 @@
       "added": "2026-11-21"
     },
     {
+      "id": "2026-11-28-mei-mei-bottomless-dumplings",
+      "name": "Bottomless Dumplings: Thanksgiving Edition",
+      "date": "2026-11-28",
+      "time": "12 PM",
+      "startTime": "12:00",
+      "venue": "Mei Mei, 58 Old Colony Ave",
+      "area": "South Boston",
+      "note": "Timed two-hour entry; drinks sold separately",
+      "tags": [
+        "food"
+      ],
+      "why": "All-you-can-eat Mei Mei dumplings with Thanksgiving-themed specials, plus vegetarian and vegan options.",
+      "url": "https://do617.com/events/2026/11/28/bottomless-dumplings-thanksgiving-edition-tickets",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
+    },
+    {
+      "id": "2026-11-28-tubachristmas",
+      "name": "Boston TubaChristmas",
+      "date": "2026-11-28",
+      "time": "12:30–1:30 PM",
+      "startTime": "12:30",
+      "endTime": "13:30",
+      "venue": "The Steps Plaza (Millennium Tower), 1 Franklin St",
+      "area": "Boston",
+      "free": true,
+      "tags": [
+        "music",
+        "outdoors"
+      ],
+      "why": "A large gathering of tuba and euphonium players performing holiday carols outdoors at Downtown Crossing.",
+      "url": "https://downtownboston.org/explore-downtown-boston/downtown-boston-events-calendar/boston-tuba-christmas-3",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
+    },
+    {
       "name": "Murder, My Sweet (35mm) + Pitfall",
       "date": "2026-11-28",
       "time": "4:30, 6:30, 8:30 PM",
@@ -1140,7 +862,28 @@
       "why": "The electronica/downtempo act plays a headline show billed as 'Distance in Static Live'.",
       "url": "https://do617.com/events/2026/11/28/bonobo-tickets",
       "linkLabel": "Tickets",
-      "added": "2026-11-09"
+      "added": "2026-11-09",
+      "pick": true
+    },
+    {
+      "id": "2026-11-28-house-of-yee-friendsgiving",
+      "name": "House of Yee Saturday Sessions: Friendsgiving",
+      "date": "2026-11-28",
+      "time": "9 PM–1 AM",
+      "startTime": "21:00",
+      "endTime": "01:00",
+      "venue": "The Smoot Standard",
+      "area": "Cambridge",
+      "free": true,
+      "note": "21+",
+      "tags": [
+        "house",
+        "djs"
+      ],
+      "why": "Free Friendsgiving edition of House of Yee's Saturday house music sessions.",
+      "url": "https://ra.co/events/2568951",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
     },
     {
       "id": "2026-11-29-boston-womens-holiday-market-armory",
@@ -1160,7 +903,8 @@
       "why": "30+ women-owned local makers across two floors of the Armory the Sunday after Small Business Saturday: art, jewelry, apparel, home goods and treats.",
       "url": "https://www.bostonwomensmarket.com/events-calendar/boston-womens-holiday-market-at-the-armory-nov29",
       "linkLabel": "Info",
-      "added": "2026-11-07"
+      "added": "2026-11-07",
+      "pick": true
     },
     {
       "name": "Boston Japan Film Festival",
@@ -1170,8 +914,7 @@
       "endTime": "18:00",
       "venue": "MIT Stata Center, 32 Vassar St",
       "area": "Cambridge",
-      "price": "Free; suggested donation $15",
-      "free": true,
+      "price": "Free, suggested $15 donation",
       "tags": [
         "film"
       ],
@@ -1270,6 +1013,23 @@
       "added": "2026-11-05"
     },
     {
+      "id": "2026-12-01-love-has-come-passim",
+      "name": "Love Has Come: A Holiday Variety Show",
+      "date": "2026-12-01",
+      "time": "8 PM",
+      "startTime": "20:00",
+      "venue": "Club Passim, 47 Palmer St",
+      "area": "Cambridge",
+      "price": "$40",
+      "tags": [
+        "music"
+      ],
+      "why": "Songwriters play original songs and selections from a 1983 Christmas album at Passim in Harvard Square.",
+      "url": "https://www.passim.org/live-music/events/love-has-come-a-holiday-variety-show/",
+      "linkLabel": "Tickets",
+      "added": "2026-11-23"
+    },
+    {
       "id": "2026-12-01-brattle-david-lynch",
       "name": "Wild at Heart and Weird on Top: The Cinema of David Lynch",
       "date": "2026-12-01",
@@ -1301,6 +1061,25 @@
       "linkLabel": "Tickets",
       "id": "2026-12-02-survivor-51-ep-11-watch-party",
       "added": "2026-11-12"
+    },
+    {
+      "id": "2026-12-02-irish-christmas-burren",
+      "name": "An Irish Christmas with John Doyle, Cathie Ryan and Mick McAuley",
+      "date": "2026-12-02",
+      "time": "6 & 8:30 PM",
+      "startTime": "18:00",
+      "venue": "The Burren, 247 Elm St",
+      "area": "Somerville",
+      "price": "$32–$37",
+      "note": "Two shows",
+      "tags": [
+        "somerville",
+        "music"
+      ],
+      "why": "Traditional and contemporary Celtic holiday music in Davis Square, part of the Brian O'Donovan Legacy Series.",
+      "url": "https://tickets.24hourmusic.com/eventperformances.asp?evt=1926",
+      "linkLabel": "Tickets",
+      "added": "2026-11-23"
     },
     {
       "name": "Eliza McLamb with Lily Konigsberg",
@@ -1374,6 +1153,22 @@
       "added": "2026-11-17"
     },
     {
+      "id": "2026-12-03-harvard-art-museums-at-night",
+      "name": "Harvard Art Museums at Night",
+      "date": "2026-12-03",
+      "time": "5–9 PM",
+      "startTime": "17:00",
+      "endTime": "21:00",
+      "venue": "Harvard Art Museums, 32 Quincy St",
+      "area": "Cambridge",
+      "free": true,
+      "tags": [],
+      "why": "Free evening hours with art-making, a pop-up exhibition and chances to meet artists.",
+      "url": "https://harvardartmuseums.org/event/4111",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
+    },
+    {
       "id": "2026-12-03-boston-common-tree-lighting",
       "name": "Boston Common Tree Lighting + Comm Ave Mall lights",
       "date": "2026-12-03",
@@ -1400,7 +1195,7 @@
       "startTime": "18:30",
       "venue": "Somerville Theatre",
       "area": "Somerville",
-      "note": "Filmmaker intro; free posters for first 20",
+      "note": "Filmmaker intro; free posters for first 20; 6:30 PM show sold out; 9 PM has tickets",
       "tags": [
         "somerville",
         "film"
@@ -1546,7 +1341,7 @@
     {
       "name": "The Slutcracker",
       "date": "2026-12-04",
-      "endDate": "2026-12-05",
+      "endDate": "2027-01-03",
       "time": "8 PM",
       "startTime": "20:00",
       "venue": "Somerville Theatre",
@@ -1607,6 +1402,26 @@
       "linkLabel": "Info",
       "id": "2026-12-04-smfa-at-tufts-art-sale",
       "added": "2026-11-21"
+    },
+    {
+      "id": "2026-12-05-somerville-winter-farmers-market",
+      "name": "Somerville Winter Farmers Market",
+      "date": "2026-12-05",
+      "time": "9:30 AM–1:30 PM",
+      "startTime": "09:30",
+      "endTime": "13:30",
+      "venue": "Arts at the Armory, 191 Highland Ave",
+      "area": "Somerville",
+      "note": "Saturdays; listed Dec 5, 12, 19",
+      "tags": [
+        "somerville",
+        "market",
+        "food"
+      ],
+      "why": "An indoor weekly farmers market at the Armory through the winter.",
+      "url": "https://artsatthearmory.org/events/somerville-winter-farmers-market-2026-11-07-2026-11-14-2026-11-21-2026-11-28-2026-12-05/",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
     },
     {
       "name": "The Boston Holiday Bazaar",
@@ -1699,6 +1514,23 @@
       "linkLabel": "Tickets",
       "id": "2026-12-05-solstice-reflections-on-winter-light",
       "added": "2026-11-21"
+    },
+    {
+      "id": "2026-12-05-salem-krampusnacht",
+      "name": "Salem Krampuslauf & Krampusnacht",
+      "date": "2026-12-05",
+      "time": "7 PM–1 AM",
+      "startTime": "19:00",
+      "endTime": "01:00",
+      "venue": "Starts at Salem Ink, 201 Derby St",
+      "area": "Salem",
+      "price": "Art show and walk free; Mari Macabre Ball $10 in costume, $15 without",
+      "note": "Notch and the ball are 21+",
+      "tags": [],
+      "why": "A Krampus night in downtown Salem: a Holiday Horrors art show, a walk to Notch, and a costume ball at BitBar.",
+      "url": "https://www.salemholidayhappenings.org/event/salem-krampuslauf-krampusnacht-2026/",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
     },
     {
       "name": "Winter Wine Preview: Tasting Extravaganza",
@@ -2010,6 +1842,43 @@
       "added": "2026-11-13"
     },
     {
+      "id": "2026-12-11-tito-puente-jr-armory",
+      "name": "Spotlight Series: Tito Puente Jr.",
+      "date": "2026-12-11",
+      "time": "7–10 PM",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "venue": "Arts at the Armory, 191 Highland Ave",
+      "area": "Somerville",
+      "price": "$40",
+      "note": "Free dance lesson at 7 PM, music at 8",
+      "tags": [
+        "somerville",
+        "music"
+      ],
+      "why": "Tito Puente Jr. and his ensemble play a Latin dance concert, with Conjunto Obaye opening.",
+      "url": "https://www.thebostoncalendar.com/events/arts-at-the-armory-spotlight-series-presents-tito-puente-jr",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
+    },
+    {
+      "id": "2026-12-11-weisstronauts-holiday-jubilee",
+      "name": "The Weisstronauts' 28th Annual Holiday Jubilee",
+      "date": "2026-12-11",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "The Lilypad, 1353 Cambridge St",
+      "area": "Cambridge",
+      "price": "$20",
+      "tags": [
+        "music"
+      ],
+      "why": "The 28th edition of a long-running holiday show by Boston band the Weisstronauts, in Inman Square.",
+      "url": "https://www.lilypadinman.com/home",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
+    },
+    {
       "name": "Christmas Shoes",
       "date": "2026-12-11",
       "time": "9:30 PM (doors 9)",
@@ -2027,6 +1896,22 @@
       "linkLabel": "Tickets",
       "id": "2026-12-11-christmas-shoes",
       "added": "2026-11-22"
+    },
+    {
+      "id": "2026-12-11-the-room-after-midnite",
+      "name": "After Midnite: The Room",
+      "date": "2026-12-11",
+      "time": "11:59 PM",
+      "startTime": "23:59",
+      "venue": "Coolidge Corner Theatre, 290 Harvard St",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "A midnight screening of Tommy Wiseau's cult disaster film in the After Midnite series.",
+      "url": "https://coolidge.org/films/room",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
     },
     {
       "name": "After Midnite: Let the Right One In",
@@ -2214,6 +2099,25 @@
       "added": "2026-11-21"
     },
     {
+      "id": "2026-12-12-kendall-holiday-on-ice",
+      "name": "Kendall Square Holiday On Ice Show",
+      "date": "2026-12-12",
+      "endDate": "2026-12-13",
+      "time": "2 PM show",
+      "startTime": "14:00",
+      "venue": "Skate at Canal District Kendall, 300 Athenaeum St",
+      "area": "Cambridge",
+      "free": true,
+      "note": "Free skating from 11 AM; rentals extra",
+      "tags": [
+        "outdoors"
+      ],
+      "why": "A free 1980s-themed ice show by pro and elite local skaters, the same weekend as the Canal District Winter Market.",
+      "url": "https://www.skatekendall.com/holiday",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
+    },
+    {
       "name": "John Wilson at the Brattle: The History of Concrete + Decline of Western Civilization Part II",
       "date": "2026-12-12",
       "time": "7 PM & 9:30 PM",
@@ -2384,6 +2288,22 @@
       "added": "2026-11-22"
     },
     {
+      "id": "2026-12-15-dune-part-three-70mm",
+      "name": "Dune: Part Three in 70mm",
+      "date": "2026-12-15",
+      "endDate": "2026-12-24",
+      "venue": "Coolidge Corner Theatre, 290 Harvard St",
+      "area": "Brookline",
+      "note": "Tue 12/15 6 PM and Thu 12/17 6:30 PM, then daily from Fri 12/18",
+      "tags": [
+        "film"
+      ],
+      "why": "The Coolidge is showing Dune: Part Three on a 70mm print in Moviehouse 1.",
+      "url": "https://coolidge.org/node/76142",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
+    },
+    {
       "name": "Survivor 51 Finale Party",
       "date": "2026-12-16",
       "time": "6–11 PM",
@@ -2434,6 +2354,23 @@
       "linkLabel": "Tickets",
       "id": "2026-12-16-the-arrival-wtf-films-late-show",
       "added": "2026-11-22"
+    },
+    {
+      "id": "2026-12-17-kiss-kiss-bang-bang-rewind",
+      "name": "Rewind!: Kiss Kiss Bang Bang",
+      "date": "2026-12-17",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "Coolidge Corner Theatre, 290 Harvard St",
+      "area": "Brookline",
+      "note": "Separate-ticket 21+ afterparty",
+      "tags": [
+        "film"
+      ],
+      "why": "Shane Black's Christmas-set dark-comedy noir in the Rewind! series, with an afterparty.",
+      "url": "https://coolidge.org/films/kiss-kiss-bang-bang-2005",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
     },
     {
       "name": "Hole Show: Crone Hole",
@@ -2520,6 +2457,22 @@
       "url": "https://www.eventticketscenter.com/the-sweetback-sisters-country-christmas-sign-along-spectacular-somerville-tickets/1506957/e",
       "linkLabel": "Tickets",
       "added": "2026-11-16"
+    },
+    {
+      "id": "2026-12-19-black-christmas-after-midnite",
+      "name": "After Midnite: Black Christmas (1974)",
+      "date": "2026-12-19",
+      "time": "11:59 PM",
+      "startTime": "23:59",
+      "venue": "Coolidge Corner Theatre, 290 Harvard St",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "A midnight screening of Bob Clark's 1974 holiday slasher.",
+      "url": "https://coolidge.org/films/black-christmas-1974",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
     }
   ],
   "djShows": [
@@ -2665,6 +2618,17 @@
       "note": "Paper Bag Princess Tour",
       "url": "https://www.eventticketscenter.com/rosebud-baker-somerville-tickets/1416178/e",
       "added": "2026-10-30"
+    },
+    {
+      "comedian": "Sarper Guven",
+      "date": "2026-12-06",
+      "time": "4:30 PM",
+      "startTime": "16:30",
+      "venue": "Laugh Boston",
+      "area": "Boston",
+      "note": "2 shows: 4:30 & 7 PM",
+      "url": "https://broadway.boston/tickets/sarper-guven/",
+      "added": "2026-11-23"
     },
     {
       "comedian": "Brett Goldstein",
@@ -2957,6 +2921,16 @@
       "added": "2026-10-30"
     },
     {
+      "comedian": "Nurse Georgie Carroll",
+      "date": "2027-01-30",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "Arts at the Armory",
+      "area": "Somerville",
+      "url": "https://www.livenation.com/event/vv1A8vP33GA1nnLt/nurse-georgie-carroll",
+      "added": "2026-11-23"
+    },
+    {
       "comedian": "Jiaoying Summers",
       "date": "2027-02-05",
       "time": "7:30 PM",
@@ -3056,6 +3030,16 @@
       "added": "2026-11-22"
     },
     {
+      "comedian": "Fin Taylor",
+      "date": "2027-02-25",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "Laugh Boston",
+      "area": "Boston",
+      "url": "https://broadway.boston/event/fin-taylor-boston-laugh-boston-thursday-february-25-2027-7-00-pm/?pid=14902",
+      "added": "2026-11-23"
+    },
+    {
       "comedian": "Brian Regan",
       "date": "2027-02-26",
       "time": "7:30 PM",
@@ -3108,8 +3092,8 @@
   ],
   "comedianWatchlist": [],
   "ticker": [
-    "Free: Brickbottom studios, today",
-    "Free: Choco-Fête, Aeronaut, today",
-    "Vintage Culture, Royale, Wed"
+    "Vintage Culture, Royale, Wed",
+    "Chopping Mall double, Brattle, Fri",
+    "Free: TubaChristmas, Sat"
   ]
 }

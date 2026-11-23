@@ -1,0 +1,440 @@
+{
+  "date": "2026-11-23",
+  "headline": "Mets, Tarik Skubal agree to 9-year, $450 million deal",
+  "ticker": [
+    "Skubal to Mets: 9 yrs, $450M",
+    "Nuggets 151, Bulls 145 (OT)",
+    "49ers 35, Vikings 10",
+    "Bedard needs shoulder surgery",
+    "Cowboys 51, Titans 30"
+  ],
+  "top": [
+    {
+      "league": "mlb",
+      "headline": "Mets, Tarik Skubal agree to 9-year, $450 million deal",
+      "summary": "Tarik Skubal and the Mets agreed to a nine-year, $450 million contract, ESPN reported, citing sources. The deal is not yet official. The Mets' reported offer last week was nine years and $400 million, so the price went up.",
+      "source": "ESPN",
+      "url": "https://6abc.com/post/mlb-free-agency-tracker-2026-27-offseason-trades-moves/20000238/"
+    },
+    {
+      "league": "nba",
+      "headline": "Murray, Jokic make history as Nuggets outlast Bulls in OT",
+      "summary": "Jamal Murray scored a season-high 45, 8 of them in overtime, and Nikola Jokic had 37 points, 18 rebounds and 11 assists in Denver's 151-145 win in Chicago. NBA.com says it was the first game in league history with a triple-double on each team and 20-plus assists in one of them, courtesy of Josh Giddey's 22. Jokic's 202nd career triple-double leaves him seven behind Russell Westbrook's record.",
+      "source": "NBA.com",
+      "url": "https://www.nba.com/news/nuggets-murray-jokic-make-history-in-win-over-bulls"
+    },
+    {
+      "league": "nfl",
+      "headline": "49ers rout Vikings 35-10 in Mexico City",
+      "summary": "Brock Purdy went 21-of-26 for 255 yards and three touchdowns, two to George Kittle, and San Francisco led 28-10 at halftime. Ji'Ayir Brown added a pick-six off Kirk Cousins. The 49ers are 9-1 and the Vikings fall to 7-3, but San Francisco lost RT Colton McKivitz to a fractured and dislocated left ankle.",
+      "source": "AP via FOX Sports",
+      "url": "https://www.foxsports.com/articles/nfl/brock-purdy-carves-up-the-vikings-d-with-3-td-passes-in-the-49ers-3510-win-in-mexico-city"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "49ers rout Vikings in Mexico City to reach 9-1; Daniel Jones expected to clear waivers today",
+      "stories": [
+        {
+          "headline": "49ers rout Vikings 35-10 in Mexico City",
+          "summary": "Brock Purdy went 21-of-26 for 255 yards and three touchdowns, two to George Kittle, and San Francisco led 28-10 at halftime. Ji'Ayir Brown added a pick-six off Kirk Cousins. The 49ers are 9-1 and the Vikings fall to 7-3, but San Francisco lost RT Colton McKivitz to a fractured and dislocated left ankle.",
+          "source": "AP via FOX Sports",
+          "url": "https://www.foxsports.com/articles/nfl/brock-purdy-carves-up-the-vikings-d-with-3-td-passes-in-the-49ers-3510-win-in-mexico-city"
+        },
+        {
+          "headline": "Daniel Jones expected to clear waivers after Colts cut him",
+          "summary": "Indianapolis waived Jones a day after a 26-3 loss in Houston in which he went 12-of-27 for 144 yards and an interception. Any team that claims him takes on a contract with a $10.5 million injury guarantee, so he is expected to clear Monday afternoon and become a free agent. Anthony Richardson Sr. now starts for the Colts.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans"
+        },
+        {
+          "headline": "Cowboys score on every real possession in 51-30 win over Titans",
+          "summary": "Dallas scored touchdowns on its first six drives and scored on every possession except a closing kneel-down. CeeDee Lamb became the first Cowboys receiver with six straight 1,000-yard seasons. Dallas is 5-6; Tennessee is 1-9.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-11-winners-losers-cowboys-offense-makes-history-get-right-win-steelers-slump/"
+        },
+        {
+          "headline": "Eagles beat Steelers 19-16 with Joe Milton at QB; DK Metcalf ejected",
+          "summary": "With backup Joe Milton starting, Philadelphia sacked Aaron Rodgers five times and Saquon Barkley broke a 38-yard touchdown run. Metcalf was ejected in the second half for unsportsmanlike conduct and finished with one catch for 2 yards. Pittsburgh has lost 12 straight in Philadelphia.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50563342/week-11-sunday-games-takeaways-questions-2026"
+        },
+        {
+          "headline": "Panthers edge Ravens 35-33 to take hold of NFC South",
+          "summary": "Ryan Fitzgerald's 37-yard field goal with 1:44 left settled a game with seven lead changes, and Tyrel Dodson intercepted Jacoby Brissett to end it. Carolina is 5-5 and two games clear of three 3-7 division rivals. Baltimore is 4-7 without Lamar Jackson (thumb).",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-11-grades-every-team-cowboys-earn-a-high-flying-win-steelers-nearly-fail/"
+        }
+      ],
+      "scoresLabel": "Week 11",
+      "scores": [
+        {
+          "away": "Colts",
+          "awayScore": 3,
+          "home": "Texans",
+          "homeScore": 26,
+          "note": ""
+        },
+        {
+          "away": "Dolphins",
+          "awayScore": 9,
+          "home": "Bills",
+          "homeScore": 26,
+          "note": ""
+        },
+        {
+          "away": "Ravens",
+          "awayScore": 33,
+          "home": "Panthers",
+          "homeScore": 35,
+          "note": "Close"
+        },
+        {
+          "away": "Saints",
+          "awayScore": 13,
+          "home": "Bears",
+          "homeScore": 21,
+          "note": "Close"
+        },
+        {
+          "away": "Titans",
+          "awayScore": 30,
+          "home": "Cowboys",
+          "homeScore": 51,
+          "note": ""
+        },
+        {
+          "away": "Buccaneers",
+          "awayScore": 21,
+          "home": "Lions",
+          "homeScore": 31,
+          "note": ""
+        },
+        {
+          "away": "Cardinals",
+          "awayScore": 7,
+          "home": "Chiefs",
+          "homeScore": 34,
+          "note": ""
+        },
+        {
+          "away": "Steelers",
+          "awayScore": 16,
+          "home": "Eagles",
+          "homeScore": 19,
+          "note": "Upset"
+        },
+        {
+          "away": "Jets",
+          "awayScore": 27,
+          "home": "Chargers",
+          "homeScore": 24,
+          "note": "Upset"
+        },
+        {
+          "away": "Jaguars",
+          "awayScore": 18,
+          "home": "Giants",
+          "homeScore": 23,
+          "note": "Upset"
+        },
+        {
+          "away": "Raiders",
+          "awayScore": 24,
+          "home": "Broncos",
+          "homeScore": 38,
+          "note": ""
+        },
+        {
+          "away": "Vikings",
+          "awayScore": 10,
+          "home": "49ers",
+          "homeScore": 35,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Brock Purdy",
+          "team": "49ers",
+          "line": "21-26 · 255 YDS · 3 TD",
+          "note": "Put up 28 first-half points on Minnesota and sat midway through the fourth quarter."
+        },
+        {
+          "name": "Jared Goff",
+          "team": "Lions",
+          "line": "20-28 · 279 YDS · 2 TD · 0 INT",
+          "note": "Went 4-of-4 on deep throws for 145 yards and both scores in Detroit's first game without Aidan Hutchinson."
+        },
+        {
+          "name": "Travis Kelce",
+          "team": "Chiefs",
+          "line": "6-74-2",
+          "note": "His first multi-TD game in 47 games moved him to third all-time with 110 tight end touchdowns, counting playoffs."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Colts waived QB Daniel Jones; expected to clear waivers Monday afternoon, no claim reported",
+          "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans"
+        },
+        {
+          "text": "Eagles placed Zack Baun and Dontayvion Wicks on injured reserve",
+          "url": "https://www.nfl.com/transactions/league/reserve-list/2026/11"
+        },
+        {
+          "text": "Cowboys placed DaRon Bland on injured reserve",
+          "url": "https://www.nfl.com/transactions/league/reserve-list/2026/11"
+        },
+        {
+          "text": "Titans placed Tyjae Spears on IR; Panthers placed Isaiah Simmons on IR",
+          "url": "https://www.nfl.com/transactions/league/reserve-list/2026/11"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Murray scores 45, Jokic and Giddey post triple-doubles in a historic Nuggets OT win",
+      "stories": [
+        {
+          "headline": "Murray, Jokic make history as Nuggets outlast Bulls in OT",
+          "summary": "Jamal Murray scored a season-high 45, 8 of them in overtime, and Nikola Jokic had 37 points, 18 rebounds and 11 assists in Denver's 151-145 win in Chicago. NBA.com says it was the first game in league history with a triple-double on each team and 20-plus assists in one of them, courtesy of Josh Giddey's 22. Jokic's 202nd career triple-double leaves him seven behind Russell Westbrook's record.",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/news/nuggets-murray-jokic-make-history-in-win-over-bulls"
+        },
+        {
+          "headline": "Heat win seventh straight as Giannis and SGA both sit",
+          "summary": "Miami beat Oklahoma City 123-113 for its seventh win in a row, with Giannis Antetokounmpo (right groin) and Shai Gilgeous-Alexander (neck strain, lower back contusion) both out. It was the first game each had missed this season. Bam Adebayo had 24 points, 15 rebounds and 12 assists.",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/news/okcs-shai-gilgeous-alexander-miamis-giannis-antetokounmpo-both-out-of-thunder-heat-matchup"
+        },
+        {
+          "headline": "Thunder down to nine players as injury list grows",
+          "summary": "Oklahoma City had nine players available in Miami, three of them on two-way contracts. Jalen Williams, Chet Holmgren, Cason Wallace and Alex Caruso were among those out. The Thunder are 10-7, and Gilgeous-Alexander's status for Monday at Indiana is uncertain.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/okc-thunder-falls-miami-heat-012807124.html"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Pistons",
+          "awayScore": 97,
+          "home": "Hawks",
+          "homeScore": 107,
+          "note": "Upset"
+        },
+        {
+          "away": "Thunder",
+          "awayScore": 113,
+          "home": "Heat",
+          "homeScore": 123,
+          "note": ""
+        },
+        {
+          "away": "Mavericks",
+          "awayScore": 116,
+          "home": "Jazz",
+          "homeScore": 114,
+          "note": "Close"
+        },
+        {
+          "away": "Nuggets",
+          "awayScore": 151,
+          "home": "Bulls",
+          "homeScore": 145,
+          "note": "OT"
+        },
+        {
+          "away": "Magic",
+          "awayScore": 96,
+          "home": "Wizards",
+          "homeScore": 116,
+          "note": ""
+        },
+        {
+          "away": "Pacers",
+          "awayScore": 106,
+          "home": "Knicks",
+          "homeScore": 113,
+          "note": ""
+        },
+        {
+          "away": "Celtics",
+          "awayScore": 87,
+          "home": "Warriors",
+          "homeScore": 88,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Jamal Murray",
+          "team": "Nuggets",
+          "line": "45 PTS · 5 REB · 7 AST · 13-22 FG",
+          "note": "Season high, including 8 in overtime, in the win at Chicago."
+        },
+        {
+          "name": "Nikola Jokic",
+          "team": "Nuggets",
+          "line": "37 PTS · 18 REB · 11 AST · 14-22 FG",
+          "note": "His 202nd career triple-double, seven short of Westbrook's record."
+        },
+        {
+          "name": "Josh Giddey",
+          "team": "Bulls",
+          "line": "23 PTS · 14 REB · 22 AST · 10-17 FG",
+          "note": "Career-high 22 assists in the overtime loss."
+        }
+      ],
+      "moves": []
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Bedard needs shoulder surgery; Blues rally from 4-1 down in the third to beat the Oilers",
+      "stories": [
+        {
+          "headline": "Bedard to have shoulder surgery",
+          "summary": "Blackhawks GM Kyle Davidson said Connor Bedard will have surgery on the right shoulder he hurt on a faceoff against the Maple Leafs on Tuesday. No timeline has been given. It is his third shoulder injury in less than a year.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/blackhawks-connor-bedard-may-need-shoulder-surgery"
+        },
+        {
+          "headline": "Blues erase 3-goal third-period deficit, beat Oilers in shootout",
+          "summary": "Edmonton led 4-1 in the third before St. Louis scored three times, the last two 26 seconds apart from Pavel Buchnevich and Jimmy Snuggerud. Jake Neighbours and Mason McTavish scored in the shootout for a fourth straight win. The Oilers have lost three straight despite Leon Draisaitl reaching 1,100 career points.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/edmonton-oilers-st-louis-blues-game-recap-november-22-2026"
+        },
+        {
+          "headline": "Hurricanes first to 100 goals, extend point streak to seven",
+          "summary": "Carolina beat the Rangers 5-2 at MSG to move to 18-3-3, with 12 skaters registering a point. The Hurricanes have outshot their opponent in 23 straight games, the longest such streak on record.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/carolina-hurricanes-new-york-rangers-game-recap-november-22-2026"
+        },
+        {
+          "headline": "MacKinnon now expected to miss about 12 weeks",
+          "summary": "After a reevaluation of Nathan MacKinnon's lower-body injury, Avalanche coach Jared Bednar expects him out about 12 weeks, up from the original one-month estimate. He will likely miss the Dec. 31 Winter Classic against Utah.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/colorado-avalanche-nathan-mackinnon-injury-status-update-november-21-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Hurricanes",
+          "awayScore": 5,
+          "home": "Rangers",
+          "homeScore": 2,
+          "note": ""
+        },
+        {
+          "away": "Sabres",
+          "awayScore": 6,
+          "home": "Lightning",
+          "homeScore": 2,
+          "note": "Upset"
+        },
+        {
+          "away": "Penguins",
+          "awayScore": 0,
+          "home": "Stars",
+          "homeScore": 1,
+          "note": "Close"
+        },
+        {
+          "away": "Oilers",
+          "awayScore": 4,
+          "home": "Blues",
+          "homeScore": 5,
+          "note": "SO"
+        },
+        {
+          "away": "Blackhawks",
+          "awayScore": 6,
+          "home": "Canucks",
+          "homeScore": 3,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Roman Kantserov",
+          "team": "Blackhawks",
+          "line": "3 G · 1 A",
+          "note": "Hat trick in Chicago's 6-3 win in Vancouver."
+        },
+        {
+          "name": "Jake Oettinger",
+          "team": "Stars",
+          "line": "33 SV · 1.000 SV%",
+          "note": "Shut out Pittsburgh in the night's only 1-0 game."
+        },
+        {
+          "name": "Tage Thompson",
+          "team": "Sabres",
+          "line": "2 G",
+          "note": "Scored twice in the second period, one on the power play, as Buffalo pulled away in Tampa."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Blackhawks claimed Luke Glendening off waivers from the Rangers",
+          "url": "https://nhl.com/news/nhl-status-report-news-and-notes-november-22-2026"
+        },
+        {
+          "text": "Capitals claimed G Clay Stevenson off waivers from the Jets, loaned him to Hershey (AHL)",
+          "url": "https://nhl.com/news/nhl-status-report-news-and-notes-november-22-2026"
+        },
+        {
+          "text": "Ducks placed Beckett Sennecke (upper body) on IR, recalled Nico Myatovic",
+          "url": "https://nhl.com/news/nhl-status-report-news-and-notes-november-22-2026"
+        },
+        {
+          "text": "Rangers placed Pavel Dorofeyev (lower body) on IR; Bjorkstrand and Smits out 2-3 months",
+          "url": "https://nhl.com/news/nhl-status-report-news-and-notes-november-22-2026"
+        },
+        {
+          "text": "Maple Leafs recalled Aatu Raty from the AHL",
+          "url": "https://nhl.com/news/nhl-status-report-news-and-notes-november-22-2026"
+        },
+        {
+          "text": "Wild's Quinn Hughes (undisclosed) to miss rest of road trip; concussion ruled out",
+          "url": "https://www.nhl.com/news/quinn-hughes-injury-status-report-november-21-2026"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Skubal agrees to 9-year, $450M deal with the Mets",
+      "stories": [
+        {
+          "headline": "Mets, Tarik Skubal agree to 9-year, $450 million deal",
+          "summary": "Tarik Skubal and the Mets agreed to a nine-year, $450 million contract, ESPN reported, citing sources. The deal is not yet official. The Mets' reported offer last week was nine years and $400 million, so the price went up.",
+          "source": "ESPN",
+          "url": "https://6abc.com/post/mlb-free-agency-tracker-2026-27-offseason-trades-moves/20000238/"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Mets agree with LHP Tarik Skubal: 9 years, $450M (reported)",
+          "url": "https://6abc.com/post/mlb-free-agency-tracker-2026-27-offseason-trades-moves/20000238/"
+        },
+        {
+          "text": "Tigers agree with RHP Luis Gil on a one-year deal",
+          "url": "https://www.mlb.com/news/luis-gil-tigers-deal"
+        },
+        {
+          "text": "Rockies hire Scott Servais as senior director of baseball operations",
+          "url": "https://www.mlb.com/news/scott-servais-returns-to-rockies-front-office"
+        }
+      ]
+    }
+  ]
+}

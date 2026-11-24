@@ -1,0 +1,1121 @@
+{
+  "date": "2026-11-24",
+  "headline": "Commanders stun Bengals 22-20 on walk-off field goal",
+  "ticker": [
+    "Commanders 22, Bengals 20",
+    "49ers release Brandon Aiyuk",
+    "Larkin traded to Montreal",
+    "Bucks snap 13-game skid",
+    "Cubs land Trevor Rogers"
+  ],
+  "powerRankingsDay": true,
+  "top": [
+    {
+      "league": "nfl",
+      "headline": "Commanders stun Bengals 22-20 on walk-off field goal",
+      "summary": "Drew Stevens kicked five field goals, all in the second half, the last a 26-yarder as time expired. Washington started at its own 28 with 39 seconds left and no timeouts, and Antonio Williams' 42-yard catch-and-run set up the kick. Cincinnati's five-game win streak ends at 7-3; Washington is 4-5-1.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/recap?gameId=401873078"
+    },
+    {
+      "league": "nhl",
+      "headline": "Red Wings trade Larkin to Canadiens",
+      "summary": "Detroit sent Dylan Larkin, a 2028 second and a 2027 third to Montreal on Sunday for Kirby Dach, prospect Michael Hage, goalie Sam Montembeault, conditional 2027 and 2029 first-rounders, a 2027 second and a 2028 fourth. Larkin had requested a trade and was suspended after telling Detroit he would no longer play for the team. He has five years left at $8.7 million AAV.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/topic/trade-coverage/dylan-larkin-traded-to-montreal-canadiens-from-detroit-red-wings"
+    },
+    {
+      "league": "nfl",
+      "headline": "49ers release Brandon Aiyuk as roster exemption ends",
+      "summary": "San Francisco released Aiyuk on Monday, when the two-week exemption from his Nov. 9 reinstatement ran out. With the trade deadline past, he goes on waivers and becomes a free agent if unclaimed in 24 hours. The 49ers take $12.35 million in dead money this year and $19.29 million in 2027.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50575346/sources-49ers-releasing-wr-brandon-aiyuk"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Commanders upset the Bengals on a last-second field goal; 49ers cut Brandon Aiyuk as Daniel Jones hits free agency",
+      "stories": [
+        {
+          "headline": "Commanders stun Bengals 22-20 on walk-off field goal",
+          "summary": "Drew Stevens kicked five field goals, all in the second half, the last a 26-yarder as time expired. Washington started at its own 28 with 39 seconds left and no timeouts, and Antonio Williams' 42-yard catch-and-run set up the kick. Cincinnati's five-game win streak ends at 7-3; Washington is 4-5-1.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/recap?gameId=401873078"
+        },
+        {
+          "headline": "49ers release Brandon Aiyuk as roster exemption ends",
+          "summary": "San Francisco released Aiyuk on Monday, when the two-week exemption from his Nov. 9 reinstatement ran out. With the trade deadline past, he goes on waivers and becomes a free agent if unclaimed in 24 hours. The 49ers take $12.35 million in dead money this year and $19.29 million in 2027.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50575346/sources-49ers-releasing-wr-brandon-aiyuk"
+        },
+        {
+          "headline": "Daniel Jones clears waivers, unsigned for now",
+          "summary": "Jones cleared waivers Monday afternoon and can sign anywhere. The Cardinals, Patriots and Ravens have come up as possible fits. No signing has been reported.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/qb-daniel-jones-clears-waivers"
+        },
+        {
+          "headline": "Justin Herbert in concussion protocol after loss to Jets",
+          "summary": "Herbert entered the concussion protocol after the 27-24 loss to the Jets dropped the Chargers to 1-9. DJ Uiagalelei is next on the depth chart, and Trey Lance is on injured reserve. The Patriots visit Sunday.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50567478/chargers-justin-herbert-lands-concussion-protocol"
+        },
+        {
+          "headline": "Cardinals fire defensive coordinator Nick Rallis",
+          "summary": "Arizona fired Rallis midway through his fourth season as coordinator. It came after a 34-7 loss in Kansas City dropped the Cardinals to 3-8.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-monday-nov-23"
+        }
+      ],
+      "scoresLabel": "Week 11",
+      "scores": [
+        {
+          "away": "Colts",
+          "awayScore": 3,
+          "home": "Texans",
+          "homeScore": 26,
+          "note": ""
+        },
+        {
+          "away": "Dolphins",
+          "awayScore": 9,
+          "home": "Bills",
+          "homeScore": 26,
+          "note": ""
+        },
+        {
+          "away": "Ravens",
+          "awayScore": 33,
+          "home": "Panthers",
+          "homeScore": 35,
+          "note": "Close"
+        },
+        {
+          "away": "Saints",
+          "awayScore": 13,
+          "home": "Bears",
+          "homeScore": 21,
+          "note": "Close"
+        },
+        {
+          "away": "Titans",
+          "awayScore": 30,
+          "home": "Cowboys",
+          "homeScore": 51,
+          "note": ""
+        },
+        {
+          "away": "Buccaneers",
+          "awayScore": 21,
+          "home": "Lions",
+          "homeScore": 31,
+          "note": ""
+        },
+        {
+          "away": "Cardinals",
+          "awayScore": 7,
+          "home": "Chiefs",
+          "homeScore": 34,
+          "note": ""
+        },
+        {
+          "away": "Steelers",
+          "awayScore": 16,
+          "home": "Eagles",
+          "homeScore": 19,
+          "note": "Upset"
+        },
+        {
+          "away": "Jets",
+          "awayScore": 27,
+          "home": "Chargers",
+          "homeScore": 24,
+          "note": "Upset"
+        },
+        {
+          "away": "Jaguars",
+          "awayScore": 18,
+          "home": "Giants",
+          "homeScore": 23,
+          "note": "Upset"
+        },
+        {
+          "away": "Raiders",
+          "awayScore": 24,
+          "home": "Broncos",
+          "homeScore": 38,
+          "note": ""
+        },
+        {
+          "away": "Vikings",
+          "awayScore": 10,
+          "home": "49ers",
+          "homeScore": 35,
+          "note": ""
+        },
+        {
+          "away": "Bengals",
+          "awayScore": 20,
+          "home": "Commanders",
+          "homeScore": 22,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Antonio Williams",
+          "team": "Commanders",
+          "line": "9-122-0",
+          "note": "His two catches on the final drive, including a 42-yard catch-and-run, set up the winning field goal."
+        },
+        {
+          "name": "Jared Goff",
+          "team": "Lions",
+          "line": "20-28 · 279 YDS · 2 TD · 0 INT",
+          "note": "Went 4-of-4 on deep throws for 145 yards and both scores in Detroit's first game without Aidan Hutchinson."
+        },
+        {
+          "name": "Travis Kelce",
+          "team": "Chiefs",
+          "line": "6-74-2",
+          "note": "His first multi-TD game in 47 games moved him to third all-time with 110 tight end touchdowns, counting playoffs."
+        }
+      ],
+      "moves": [
+        {
+          "text": "49ers released WR Brandon Aiyuk; subject to waivers",
+          "url": "https://www.espn.com/nfl/story/_/id/50575346/sources-49ers-releasing-wr-brandon-aiyuk"
+        },
+        {
+          "text": "QB Daniel Jones cleared waivers after his Colts release; now a free agent",
+          "url": "https://www.profootballrumors.com/2026/11/qb-daniel-jones-clears-waivers"
+        },
+        {
+          "text": "Cardinals fired defensive coordinator Nick Rallis",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-monday-nov-23"
+        },
+        {
+          "text": "49ers agreed to a multi-year extension with GM John Lynch",
+          "url": "https://sports.yahoo.com/articles/gm-john-lynch-extends-contract-211156803.html"
+        },
+        {
+          "text": "Commanders activated RB Jacory Croskey-Merritt from injured reserve",
+          "url": "https://www.espn.com/nfl/recap?gameId=401873078"
+        },
+        {
+          "text": "Falcons promoted S Jammie Robinson, signed CB Terell Smith to the practice squad and cut LB Christian Harris",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-monday-nov-23"
+        }
+      ],
+      "powerRankings": {
+        "sources": [
+          "FOX Sports",
+          "Yahoo Sports",
+          "Sporting News"
+        ],
+        "teams": [
+          {
+            "team": "Bills",
+            "rank": 1,
+            "prev": 1,
+            "avg": 1.33
+          },
+          {
+            "team": "49ers",
+            "rank": 2,
+            "prev": 4,
+            "avg": 1.67
+          },
+          {
+            "team": "Chiefs",
+            "rank": 3,
+            "prev": 6,
+            "avg": 4.0
+          },
+          {
+            "team": "Bears",
+            "rank": 4,
+            "prev": 3,
+            "avg": 4.33
+          },
+          {
+            "team": "Broncos",
+            "rank": 5,
+            "prev": 5,
+            "avg": 4.33
+          },
+          {
+            "team": "Jaguars",
+            "rank": 6,
+            "prev": 2,
+            "avg": 6.33
+          },
+          {
+            "team": "Lions",
+            "rank": 7,
+            "prev": 10,
+            "avg": 6.67
+          },
+          {
+            "team": "Bengals",
+            "rank": 8,
+            "prev": 7,
+            "avg": 7.67
+          },
+          {
+            "team": "Vikings",
+            "rank": 9,
+            "prev": 8,
+            "avg": 8.67
+          },
+          {
+            "team": "Seahawks",
+            "rank": 10,
+            "prev": 9,
+            "avg": 10.0
+          },
+          {
+            "team": "Giants",
+            "rank": 11,
+            "prev": 15,
+            "avg": 11.67
+          },
+          {
+            "team": "Rams",
+            "rank": 12,
+            "prev": 11,
+            "avg": 12.0
+          },
+          {
+            "team": "Packers",
+            "rank": 13,
+            "prev": 13,
+            "avg": 12.33
+          },
+          {
+            "team": "Browns",
+            "rank": 14,
+            "prev": 14,
+            "avg": 14.0
+          },
+          {
+            "team": "Panthers",
+            "rank": 15,
+            "prev": 16,
+            "avg": 16.0
+          },
+          {
+            "team": "Steelers",
+            "rank": 16,
+            "prev": 12,
+            "avg": 16.67
+          },
+          {
+            "team": "Texans",
+            "rank": 17,
+            "prev": 19,
+            "avg": 17.33
+          },
+          {
+            "team": "Cowboys",
+            "rank": 18,
+            "prev": 21,
+            "avg": 18.0
+          },
+          {
+            "team": "Commanders",
+            "rank": 19,
+            "prev": 23,
+            "avg": 18.67
+          },
+          {
+            "team": "Patriots",
+            "rank": 20,
+            "prev": 18,
+            "avg": 19.67
+          },
+          {
+            "team": "Buccaneers",
+            "rank": 21,
+            "prev": 17,
+            "avg": 20.67
+          },
+          {
+            "team": "Raiders",
+            "rank": 22,
+            "prev": 22,
+            "avg": 21.67
+          },
+          {
+            "team": "Ravens",
+            "rank": 23,
+            "prev": 20,
+            "avg": 23.0
+          },
+          {
+            "team": "Saints",
+            "rank": 24,
+            "prev": 24,
+            "avg": 24.0
+          },
+          {
+            "team": "Falcons",
+            "rank": 25,
+            "prev": 25,
+            "avg": 24.33
+          },
+          {
+            "team": "Eagles",
+            "rank": 26,
+            "prev": 28,
+            "avg": 26.0
+          },
+          {
+            "team": "Jets",
+            "rank": 27,
+            "prev": 31,
+            "avg": 27.0
+          },
+          {
+            "team": "Cardinals",
+            "rank": 28,
+            "prev": 26,
+            "avg": 28.67
+          },
+          {
+            "team": "Colts",
+            "rank": 29,
+            "prev": 27,
+            "avg": 29.0
+          },
+          {
+            "team": "Titans",
+            "rank": 30,
+            "prev": 30,
+            "avg": 29.67
+          },
+          {
+            "team": "Dolphins",
+            "rank": 31,
+            "prev": 29,
+            "avg": 31.0
+          },
+          {
+            "team": "Chargers",
+            "rank": 32,
+            "prev": 32,
+            "avg": 31.67
+          }
+        ]
+      }
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Bucks snap 13-game skid in Toronto as underdogs win four of ten; Spurs 8-0 on the road without Wembanyama",
+      "stories": [
+        {
+          "headline": "Bucks end 13-game losing streak in Toronto",
+          "summary": "Tyler Herro scored 32 on 10-of-16 shooting and Myles Turner added a season-high 27 in Milwaukee's 116-111 win over the Raptors. It ended a 13-game skid, the second-longest in franchise history. It was Milwaukee's first win since Oct. 26.",
+          "source": "theScore",
+          "url": "https://www.thescore.com/nba/news/3664784/herro-scores-32-bucks-beat-raptors-to-snap-13-game-losing-streak"
+        },
+        {
+          "headline": "Spurs stay perfect on the road without Wembanyama, Fox and Harper",
+          "summary": "San Antonio beat Sacramento 123-107 to go 8-0 on the road. Victor Wembanyama sat with back tightness a day after scoring 50, and De'Aaron Fox (shin) and Dylan Harper (hip) were also out. Stephon Castle had 28 points, 11 assists and 8 rebounds.",
+          "source": "AP",
+          "url": "https://www.ksat.com/sports/2026/11/24/castle-helps-spurs-stay-unbeaten-on-road-with-123-107-win-over-kings-minus-wemby-fox-and-harper/"
+        },
+        {
+          "headline": "Short-handed Thunder fall in Indiana despite 38 from Gilgeous-Alexander",
+          "summary": "Indiana beat Oklahoma City 125-120 to snap a four-game losing streak. Shai Gilgeous-Alexander returned and scored 38 on 13-of-30 shooting, but the Thunder had only 10 players available. Oklahoma City is 10-8; Indiana is 6-12.",
+          "source": "NBA.com",
+          "url": "https://nba.com/pacers/news/rewind-pacers-thunder-261123"
+        },
+        {
+          "headline": "Injuries pile up: Harper, McCollum, Newell, GG Jackson",
+          "summary": "The Spurs' Dylan Harper has a hip strain with a 1-3 week timeline. Atlanta's CJ McCollum (calf) will be reevaluated in four weeks, and Asa Newell had toe surgery with a four-month reevaluation. Memphis' GG Jackson had surgery on a broken left foot and is expected to miss most of the season.",
+          "source": "NBC Sports",
+          "url": "https://www.nbcsports.com/nba/news/2026-27-nba-news-injury-updates-nov-23-dylan-harper-cj-mccollum-out-but-brandon-ingram-returning"
+        },
+        {
+          "headline": "McDaniels scores career-best 34 as Wolves rout Nets",
+          "summary": "Jaden McDaniels went 12 of 16, including 4 of 4 from three, in Minnesota's 142-116 win over Brooklyn. The 142 points were a Wolves season high. The Nets have lost five straight.",
+          "source": "AP",
+          "url": "https://abcnews.com/Sports/wireStory/jaden-mcdaniels-scores-career-best-34-timberwolves-142-138398995"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Grizzlies",
+          "awayScore": 117,
+          "home": "Hornets",
+          "homeScore": 111,
+          "note": ""
+        },
+        {
+          "away": "Trail Blazers",
+          "awayScore": 128,
+          "home": "76ers",
+          "homeScore": 111,
+          "note": "Upset"
+        },
+        {
+          "away": "Nets",
+          "awayScore": 116,
+          "home": "Timberwolves",
+          "homeScore": 142,
+          "note": ""
+        },
+        {
+          "away": "Bucks",
+          "awayScore": 116,
+          "home": "Raptors",
+          "homeScore": 111,
+          "note": "Upset"
+        },
+        {
+          "away": "Thunder",
+          "awayScore": 120,
+          "home": "Pacers",
+          "homeScore": 125,
+          "note": "Upset"
+        },
+        {
+          "away": "Cavaliers",
+          "awayScore": 108,
+          "home": "Bulls",
+          "homeScore": 122,
+          "note": "Upset"
+        },
+        {
+          "away": "Suns",
+          "awayScore": 123,
+          "home": "Pelicans",
+          "homeScore": 119,
+          "note": "OT"
+        },
+        {
+          "away": "Clippers",
+          "awayScore": 104,
+          "home": "Rockets",
+          "homeScore": 116,
+          "note": ""
+        },
+        {
+          "away": "Spurs",
+          "awayScore": 123,
+          "home": "Kings",
+          "homeScore": 107,
+          "note": ""
+        },
+        {
+          "away": "Jazz",
+          "awayScore": 94,
+          "home": "Lakers",
+          "homeScore": 109,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Jaden McDaniels",
+          "team": "Timberwolves",
+          "line": "34 PTS · 10 REB · 6 AST · 12-16 FG",
+          "note": "Career-best scoring night, 4-for-4 from three in the rout of Brooklyn."
+        },
+        {
+          "name": "Tyler Herro",
+          "team": "Bucks",
+          "line": "32 PTS · 6 REB · 8 AST · 10-16 FG",
+          "note": "Scored 15 in the third quarter as Milwaukee snapped its 13-game skid."
+        },
+        {
+          "name": "Stephon Castle",
+          "team": "Spurs",
+          "line": "28 PTS · 8 REB · 11 AST",
+          "note": "Ran the offense with Wembanyama, Fox and Harper all out in Sacramento."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Bulls waived C Orlando Robinson",
+          "url": "https://nba.com/bulls/news/chicago-bulls-waive-orlando-robinson"
+        },
+        {
+          "text": "Kings to sign G Gabe Vincent to a minimum contract (reported)",
+          "url": "https://www.hoopsrumors.com/2026/11/kings-to-sign-gabe-vincent.html"
+        }
+      ],
+      "powerRankings": {
+        "sources": [
+          "NBA.com",
+          "NBC Sports",
+          "ESPN",
+          "CBS Sports"
+        ],
+        "teams": [
+          {
+            "team": "Spurs",
+            "rank": 1,
+            "prev": 1,
+            "avg": 1.25
+          },
+          {
+            "team": "Lakers",
+            "rank": 2,
+            "prev": 3,
+            "avg": 1.75
+          },
+          {
+            "team": "76ers",
+            "rank": 3,
+            "prev": 6,
+            "avg": 4.0
+          },
+          {
+            "team": "Timberwolves",
+            "rank": 4,
+            "prev": 5,
+            "avg": 5.0
+          },
+          {
+            "team": "Rockets",
+            "rank": 5,
+            "prev": 4,
+            "avg": 5.75
+          },
+          {
+            "team": "Celtics",
+            "rank": 6,
+            "prev": 2,
+            "avg": 6.5
+          },
+          {
+            "team": "Heat",
+            "rank": 7,
+            "prev": 14,
+            "avg": 8.5
+          },
+          {
+            "team": "Nuggets",
+            "rank": 8,
+            "prev": 11,
+            "avg": 8.75
+          },
+          {
+            "team": "Knicks",
+            "rank": 9,
+            "prev": 10,
+            "avg": 9.0
+          },
+          {
+            "team": "Pistons",
+            "rank": 10,
+            "prev": 8,
+            "avg": 9.75
+          },
+          {
+            "team": "Trail Blazers",
+            "rank": 11,
+            "prev": 7,
+            "avg": 10.0
+          },
+          {
+            "team": "Grizzlies",
+            "rank": 12,
+            "prev": 13,
+            "avg": 10.25
+          },
+          {
+            "team": "Thunder",
+            "rank": 13,
+            "prev": 9,
+            "avg": 11.75
+          },
+          {
+            "team": "Hawks",
+            "rank": 14,
+            "prev": 17,
+            "avg": 13.0
+          },
+          {
+            "team": "Cavaliers",
+            "rank": 15,
+            "prev": 15,
+            "avg": 15.0
+          },
+          {
+            "team": "Mavericks",
+            "rank": 16,
+            "prev": 16,
+            "avg": 17.0
+          },
+          {
+            "team": "Suns",
+            "rank": 17,
+            "prev": 19,
+            "avg": 17.5
+          },
+          {
+            "team": "Warriors",
+            "rank": 18,
+            "prev": 12,
+            "avg": 18.0
+          },
+          {
+            "team": "Magic",
+            "rank": 19,
+            "prev": 20,
+            "avg": 19.0
+          },
+          {
+            "team": "Raptors",
+            "rank": 20,
+            "prev": 18,
+            "avg": 19.5
+          },
+          {
+            "team": "Wizards",
+            "rank": 21,
+            "prev": 23,
+            "avg": 20.75
+          },
+          {
+            "team": "Pacers",
+            "rank": 22,
+            "prev": 21,
+            "avg": 22.25
+          },
+          {
+            "team": "Clippers",
+            "rank": 23,
+            "prev": 22,
+            "avg": 23.75
+          },
+          {
+            "team": "Hornets",
+            "rank": 24,
+            "prev": 26,
+            "avg": 24.75
+          },
+          {
+            "team": "Pelicans",
+            "rank": 25,
+            "prev": 25,
+            "avg": 25.25
+          },
+          {
+            "team": "Nets",
+            "rank": 26,
+            "prev": 24,
+            "avg": 25.75
+          },
+          {
+            "team": "Bulls",
+            "rank": 27,
+            "prev": 27,
+            "avg": 26.0
+          },
+          {
+            "team": "Jazz",
+            "rank": 28,
+            "prev": 28,
+            "avg": 26.75
+          },
+          {
+            "team": "Kings",
+            "rank": 29,
+            "prev": 29,
+            "avg": 29.0
+          },
+          {
+            "team": "Bucks",
+            "rank": 30,
+            "prev": 30,
+            "avg": 29.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Larkin debuts for Montreal in a loss to LA; Kaprizov and the Wild push their point streaks to a franchise-record 15",
+      "stories": [
+        {
+          "headline": "Red Wings trade Larkin to Canadiens",
+          "summary": "Detroit sent Dylan Larkin, a 2028 second and a 2027 third to Montreal on Sunday for Kirby Dach, prospect Michael Hage, goalie Sam Montembeault, conditional 2027 and 2029 first-rounders, a 2027 second and a 2028 fourth. Larkin had requested a trade and was suspended after telling Detroit he would no longer play for the team. He has five years left at $8.7 million AAV.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/topic/trade-coverage/dylan-larkin-traded-to-montreal-canadiens-from-detroit-red-wings"
+        },
+        {
+          "headline": "Kings spoil Larkin's Canadiens debut",
+          "summary": "Larkin had an assist and three shots in 19:57, his first game since Oct. 26, but Los Angeles won 2-1 at Bell Centre. Darcy Kuemper made 29 saves and Trevor Moore scored the winner. Montreal's 12-game point streak is over.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/los-angeles-kings-montreal-canadiens-game-recap-november-23-2026"
+        },
+        {
+          "headline": "Wild, Kaprizov push point streaks to 15",
+          "summary": "Kirill Kaprizov had a goal and three assists in a 5-2 win at San Jose, running his point streak to a personal-best 15 games. Minnesota is 12-0-3 during its own 15-game run, the longest point streak in franchise history. Filip Gustavsson made 22 saves in his season debut after offseason hip surgery.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/minnesota-wild-san-jose-sharks-game-recap-november-23-2026"
+        },
+        {
+          "headline": "Maple Leafs end nine-game skid",
+          "summary": "Toronto trailed the Islanders 2-0, then scored the last four goals to win 4-2. Gavin McKenna scored the go-ahead goal in the third. The Leafs went 0-8-1 during the slide and are 9-14-3.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/toronto-maple-leafs-new-york-islanders-game-recap-november-23-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Blue Jackets",
+          "awayScore": 2,
+          "home": "Devils",
+          "homeScore": 3,
+          "note": "Close"
+        },
+        {
+          "away": "Kings",
+          "awayScore": 2,
+          "home": "Canadiens",
+          "homeScore": 1,
+          "note": "Upset"
+        },
+        {
+          "away": "Flames",
+          "awayScore": 1,
+          "home": "Senators",
+          "homeScore": 2,
+          "note": "Close"
+        },
+        {
+          "away": "Maple Leafs",
+          "awayScore": 4,
+          "home": "Islanders",
+          "homeScore": 2,
+          "note": "Upset"
+        },
+        {
+          "away": "Mammoth",
+          "awayScore": 2,
+          "home": "Jets",
+          "homeScore": 4,
+          "note": "Upset"
+        },
+        {
+          "away": "Ducks",
+          "awayScore": 2,
+          "home": "Kraken",
+          "homeScore": 3,
+          "note": "Close"
+        },
+        {
+          "away": "Wild",
+          "awayScore": 5,
+          "home": "Sharks",
+          "homeScore": 2,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Kirill Kaprizov",
+          "team": "Wild",
+          "line": "1 G · 3 A",
+          "note": "Extended his point streak to a personal-best 15 games in a 5-2 win at San Jose."
+        },
+        {
+          "name": "Gabriel Vilardi",
+          "team": "Jets",
+          "line": "3 G",
+          "note": "Second career hat trick, two in the first period and an empty-netter, in a 4-2 win over Utah."
+        },
+        {
+          "name": "Linus Ullmark",
+          "team": "Senators",
+          "line": "34 SV · .971 SV%",
+          "note": "Allowed only a third-period power-play goal as Ottawa stretched its point streak to nine."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Canadiens acquired Dylan Larkin from the Red Wings for Kirby Dach, Michael Hage, G Sam Montembeault, two conditional 1sts and more; Montreal flipped the 2028 2nd it got to Anaheim for a 2027 2nd",
+          "url": "https://www.nhl.com/news/topic/trade-coverage/dylan-larkin-traded-to-montreal-canadiens-from-detroit-red-wings"
+        },
+        {
+          "text": "Wild placed Quinn Hughes (upper body) on IR; G Filip Gustavsson activated",
+          "url": "https://www.yardbarker.com/nhl/articles/wild_place_quinn_hughes_on_injured_reserve/s1_17352_44608825"
+        },
+        {
+          "text": "Kings placed D Erik Gustafsson (hand fracture) on IR, out 2-4 weeks",
+          "url": "https://www.nhl.com/news/los-angeles-kings-montreal-canadiens-game-recap-november-23-2026"
+        },
+        {
+          "text": "Canucks claimed Cole Reinhardt off waivers from the Panthers",
+          "url": "https://www.dailyfaceoff.com/news/two-nhl-players-placed-waivers-november-23-detroit-red-wings-sheldon-dries-dallas-stars-remi-poirier"
+        },
+        {
+          "text": "Red Wings waived F Sheldon Dries; Stars waived G Remi Poirier",
+          "url": "https://www.dailyfaceoff.com/news/two-nhl-players-placed-waivers-november-23-detroit-red-wings-sheldon-dries-dallas-stars-remi-poirier"
+        },
+        {
+          "text": "Mammoth's Michael Carcone (upper body) out 3-4 months; Capitals' Jordan Kyrou (upper body) out at least a week",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-23-2026"
+        }
+      ],
+      "powerRankings": {
+        "sources": [
+          "NHL.com Super 16 (Nov 19)",
+          "The Hockey News (Nov 18)",
+          "Daily Faceoff (Nov 23)",
+          "USA TODAY/Yahoo Sports (Nov 23)"
+        ],
+        "teams": [
+          {
+            "team": "Hurricanes",
+            "rank": 1,
+            "prev": 1,
+            "avg": 1.0
+          },
+          {
+            "team": "Wild",
+            "rank": 2,
+            "prev": 2,
+            "avg": 2.25
+          },
+          {
+            "team": "Oilers",
+            "rank": 3,
+            "prev": 3,
+            "avg": 3.5
+          },
+          {
+            "team": "Lightning",
+            "rank": 4,
+            "prev": 6,
+            "avg": 5.0
+          },
+          {
+            "team": "Stars",
+            "rank": 5,
+            "prev": 9,
+            "avg": 5.25
+          },
+          {
+            "team": "Devils",
+            "rank": 6,
+            "prev": 5,
+            "avg": 5.5
+          },
+          {
+            "team": "Canadiens",
+            "rank": 7,
+            "prev": 8,
+            "avg": 7.75
+          },
+          {
+            "team": "Senators",
+            "rank": 8,
+            "prev": 11,
+            "avg": 8.25
+          },
+          {
+            "team": "Golden Knights",
+            "rank": 9,
+            "prev": 7,
+            "avg": 9.0
+          },
+          {
+            "team": "Bruins",
+            "rank": 10,
+            "prev": 4,
+            "avg": 9.5
+          },
+          {
+            "team": "Avalanche",
+            "rank": 11,
+            "prev": 10,
+            "avg": 9.75
+          },
+          {
+            "team": "Panthers",
+            "rank": 12,
+            "prev": 13,
+            "avg": 12.25
+          },
+          {
+            "team": "Predators",
+            "rank": 13,
+            "prev": 12,
+            "avg": 12.75
+          },
+          {
+            "team": "Rangers",
+            "rank": 14,
+            "prev": 17,
+            "avg": 14.5
+          },
+          {
+            "team": "Islanders",
+            "rank": 15,
+            "prev": 20,
+            "avg": 14.75
+          },
+          {
+            "team": "Mammoth",
+            "rank": 16,
+            "prev": 15,
+            "avg": 16.25
+          },
+          {
+            "team": "Blues",
+            "rank": 17,
+            "prev": 22,
+            "avg": 17.0
+          },
+          {
+            "team": "Jets",
+            "rank": 18,
+            "prev": 23,
+            "avg": 17.67
+          },
+          {
+            "team": "Sabres",
+            "rank": 19,
+            "prev": 18,
+            "avg": 19.67
+          },
+          {
+            "team": "Ducks",
+            "rank": 20,
+            "prev": 16,
+            "avg": 20.33
+          },
+          {
+            "team": "Capitals",
+            "rank": 21,
+            "prev": 14,
+            "avg": 20.67
+          },
+          {
+            "team": "Kraken",
+            "rank": 22,
+            "prev": 19,
+            "avg": 21.67
+          },
+          {
+            "team": "Sharks",
+            "rank": 23,
+            "prev": 26,
+            "avg": 23.0
+          },
+          {
+            "team": "Flyers",
+            "rank": 24,
+            "prev": 30,
+            "avg": 23.67
+          },
+          {
+            "team": "Flames",
+            "rank": 25,
+            "prev": 25,
+            "avg": 25.67
+          },
+          {
+            "team": "Red Wings",
+            "rank": 26,
+            "prev": 24,
+            "avg": 26.67
+          },
+          {
+            "team": "Penguins",
+            "rank": 27,
+            "prev": 28,
+            "avg": 27.33
+          },
+          {
+            "team": "Kings",
+            "rank": 28,
+            "prev": 29,
+            "avg": 27.33
+          },
+          {
+            "team": "Blue Jackets",
+            "rank": 29,
+            "prev": 27,
+            "avg": 28.0
+          },
+          {
+            "team": "Maple Leafs",
+            "rank": 30,
+            "prev": 21,
+            "avg": 29.0
+          },
+          {
+            "team": "Blackhawks",
+            "rank": 31,
+            "prev": 31,
+            "avg": 31.0
+          },
+          {
+            "team": "Canucks",
+            "rank": 32,
+            "prev": 32,
+            "avg": 31.67
+          }
+        ]
+      }
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Cubs land Trevor Rogers on reported 5-year, $120M deal",
+      "stories": [
+        {
+          "headline": "Cubs, Trevor Rogers agree to 5-year, $120 million deal",
+          "summary": "Left-hander Trevor Rogers agreed to a five-year, $120 million contract with the Cubs Monday night, ESPN reported, citing sources. He turned down the Orioles' qualifying offer, so Chicago gives up its second- and fifth-highest picks in next summer's draft plus $1 million in international pool money. Rogers went 10-11 with a 4.03 ERA last season, a year after a 1.81 ERA in 18 starts.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mlb/story/_/id/50579432/sources-free-agent-trevor-rogers-cubs-reach-5-year-deal"
+        },
+        {
+          "headline": "Skubal deal details: $45M signing bonus, no opt-outs, full no-trade",
+          "summary": "More terms of Tarik Skubal's nine-year, $450 million agreement with the Mets were reported: a $45 million signing bonus, $30 million deferred, no opt-outs and a full no-trade clause. The deal becomes final once Skubal passes a physical. The Mets give up no draft picks because a midseason trade made him ineligible for a qualifying offer.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/mets-to-sign-tarik-skubal.html"
+        },
+        {
+          "headline": "Union agrees to equal media revenue split, but the cap fight remains",
+          "summary": "The MLBPA agreed to MLB's proposal to pool local media revenue and share it equally among all 30 clubs. The league ties that proposal to a salary cap, which players strongly oppose, so nothing is settled. The CBA expires at 11:59:59 p.m. ET on Dec. 1, and a lockout is considered very likely.",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/mlb/mlbpa-owners-reach-agreement-cba-negotiations-caveat-salary-cap"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Cubs agree with LHP Trevor Rogers: 5 years, $120M (reported)",
+          "url": "https://www.espn.com/mlb/story/_/id/50579432/sources-free-agent-trevor-rogers-cubs-reach-5-year-deal"
+        },
+        {
+          "text": "Mets agree with 1B Paul Goldschmidt on a one-year deal (reported)",
+          "url": "https://www.espn.com/mlb/story/_/id/50573673/sources-mets-agree-deal-veteran-1b-paul-goldschmidt"
+        },
+        {
+          "text": "Yankees agree with LHP Brent Suter: 1 year, $4M, 2028 club option (pending physical)",
+          "url": "https://www.espn.com/mlb/story/_/id/50576087/yankees-agree-1-year-4m-deal-reliever-suter"
+        },
+        {
+          "text": "Royals sign LHP Caleb Thielbar to a one-year deal",
+          "url": "https://www.mlb.com/royals/news/caleb-thielbar-deal-with-royals"
+        }
+      ]
+    }
+  ]
+}

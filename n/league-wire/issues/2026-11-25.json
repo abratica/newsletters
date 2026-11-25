@@ -1,0 +1,332 @@
+{
+  "date": "2026-11-25",
+  "headline": "Steelers bench Aaron Rodgers for Mason Rudolph",
+  "ticker": [
+    "Steelers bench Rodgers",
+    "Mavericks 120, Nuggets 101",
+    "Golden Knights 5, Oilers 3",
+    "Cubs sign Teruaki Sato",
+    "Orioles sign Freddy Peralta"
+  ],
+  "top": [
+    {
+      "league": "nfl",
+      "headline": "Steelers bench Aaron Rodgers for Mason Rudolph",
+      "summary": "A day after Mike McCarthy said Rodgers \"is our quarterback,\" Pittsburgh announced late Tuesday night that Rudolph will start Friday against Denver and Rodgers will be inactive. Rodgers turns 43 on Sunday and has said this is his last season, so he may have taken his final snap. He has completed 60.9% of his passes this year, and the Steelers have lost two straight.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph"
+    },
+    {
+      "league": "mlb",
+      "headline": "MLB drops escrow from cap proposal; union rejects it",
+      "summary": "In Tuesday's final bargaining session before Thanksgiving, MLB withdrew its escrow proposal and pledged all guaranteed contracts stay fully guaranteed under its cap-and-floor plan. Any league-wide overpayment or underpayment to players would instead be factored into future cap and floor numbers. Interim MLBPA executive director Bruce Meyer said the change takes \"that same amount of money out of players' pockets in the following year\"; talks are expected to resume Sunday or Monday in Phoenix ahead of the Dec. 1 expiration.",
+      "source": "USA Today",
+      "url": "https://sports.yahoo.com/articles/mlb-tweaks-labor-proposal-thanksgiving-191537788.html"
+    },
+    {
+      "league": "mlb",
+      "headline": "Cubs add Teruaki Sato for 6 years, $120M (reported)",
+      "summary": "The Cubs agreed to a six-year, $120M deal with slugger Teruaki Sato, a two-time Central League MVP posted by NPB's Hanshin Tigers, per MLB Trade Rumors. He is expected to play a corner outfield spot. It's Chicago's second $120M commitment in about 12 hours, and the club will also owe Hanshin a posting fee MLBTR estimates at around $20M.",
+      "source": "MLB Trade Rumors",
+      "url": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-teruaki-sato.html"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Steelers bench Aaron Rodgers for Mason Rudolph; Brandon Aiyuk clears waivers and visits Washington",
+      "stories": [
+        {
+          "headline": "Steelers bench Aaron Rodgers for Mason Rudolph",
+          "summary": "A day after Mike McCarthy said Rodgers \"is our quarterback,\" Pittsburgh announced late Tuesday night that Rudolph will start Friday against Denver and Rodgers will be inactive. Rodgers turns 43 on Sunday and has said this is his last season, so he may have taken his final snap. He has completed 60.9% of his passes this year, and the Steelers have lost two straight.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph"
+        },
+        {
+          "headline": "Brandon Aiyuk clears waivers, visits Commanders Wednesday",
+          "summary": "Nobody claimed Aiyuk after San Francisco cut him Monday, so he's a free agent. He visits Washington on Wednesday, and The Athletic's Jonathan Jones says the Commanders are favored to sign him, probably to the practice squad to start. He hasn't played a game in 25 months, since tearing his ACL, MCL and meniscus in October 2024.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/brandon-aiyuk-clears-waivers"
+        },
+        {
+          "headline": "Broncos suspend J.K. Dobbins for Black Friday game",
+          "summary": "Denver suspended Dobbins one game for conduct detrimental to the team, and Sean Payton didn't say what he did. Dobbins is averaging 3.3 yards per carry this season and has lost his job to rookie Jonah Coleman, who is now the only running back on the active roster for Friday at Pittsburgh. Dobbins can come back in Week 13, but the article raises the possibility of a midseason split.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/broncos-suspend-rb-j-k-dobbins-for-week-12"
+        },
+        {
+          "headline": "Lions owner emerita Martha Firestone Ford dies at 101",
+          "summary": "The Lions announced Tuesday night that Ford, an owner of the team for more than 60 years, had died. She and her husband William Clay Ford took control of the club in 1963, and she handed principal ownership to her daughter Sheila Ford Hamp in 2020. Detroit hosts Chicago on Thanksgiving.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/lions-owner-martha-firestone-ford-passes-away"
+        },
+        {
+          "headline": "Ravens cut returner LaJohntay Wester after two muffed punts",
+          "summary": "Baltimore waived Wester two days after he muffed two punts in a 35-33 loss at Carolina. He has fumbled four times in 11 games. The Ravens also waived QB Kedon Slovis, which leaves Jacoby Brissett and Joe Fagnano as the only quarterbacks in the organization.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/ravens-waive-lajohntay-wester"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Broncos agreed to a four-year, $67MM extension with CB Riley Moss ($35.63MM guaranteed)",
+          "url": "https://www.profootballrumors.com/2026/11/broncos-riley-moss-agree-to-extension"
+        },
+        {
+          "text": "WR Brandon Aiyuk cleared waivers after his 49ers release; visiting Commanders",
+          "url": "https://www.profootballrumors.com/2026/11/brandon-aiyuk-clears-waivers"
+        },
+        {
+          "text": "Broncos suspended RB J.K. Dobbins one game (conduct detrimental)",
+          "url": "https://www.profootballrumors.com/2026/11/broncos-suspend-rb-j-k-dobbins-for-week-12"
+        },
+        {
+          "text": "Ravens waived WR/RS LaJohntay Wester and QB Kedon Slovis",
+          "url": "https://www.profootballrumors.com/2026/11/ravens-waive-lajohntay-wester"
+        },
+        {
+          "text": "Colts signed QB Shane Buechele off the Bills' practice squad",
+          "url": "https://www.profootballrumors.com/2026/11/colts-work-out-three-quarterbacks"
+        },
+        {
+          "text": "Bears claimed CB Isaac Yiadom",
+          "url": "https://www.profootballrumors.com/2026/11/minor-nfl-transactions-11-24-26"
+        },
+        {
+          "text": "Giants placed CB Greg Newsome on IR; promoted OLB Dawuane Smoot",
+          "url": "https://www.profootballrumors.com/2026/11/minor-nfl-transactions-11-24-26"
+        },
+        {
+          "text": "Colts promoted DE Carl Lawson, signed T Wanya Morris off Cowboys' practice squad, placed DE Caden Curry on IR",
+          "url": "https://www.profootballrumors.com/2026/11/minor-nfl-transactions-11-24-26"
+        },
+        {
+          "text": "Chiefs promoted T Fred Johnson; placed FB Ben VanSumeren on IR",
+          "url": "https://www.profootballrumors.com/2026/11/minor-nfl-transactions-11-24-26"
+        },
+        {
+          "text": "Panthers G Brady Christensen reverted to season-ending IR",
+          "url": "https://www.profootballrumors.com/2026/11/panthers-g-brady-christensen-reverts-to-season-ending-ir"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Mavericks, 7.5-point underdogs, win by 19 in Denver and take control of West Group A",
+      "stories": [
+        {
+          "headline": "Mavericks rout Nuggets, take the wheel in West Group A",
+          "summary": "Cooper Flagg had 24 points and tied his career high with 12 assists as Dallas, a 7.5-point underdog, won 120-101 in Denver. Both teams came in 2-0 in group play; the Mavs can clinch a knockout spot as soon as Wednesday if Phoenix loses at Houston. Dallas won the paint 68-38 and fast breaks 35-7, and the Nuggets, who have never gotten out of the Cup group stage, left at halftime to boos.",
+          "source": "AP (via ESPN)",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909316"
+        },
+        {
+          "headline": "Cade-less Pistons hand Magic their first Cup loss",
+          "summary": "With Cade Cunningham out with a knee injury, Isaiah Joe scored 21 in his first start for Detroit in a 104-86 win at Orlando. The loss kept the Magic from clinching East Group A, and they now have to wait on other results to learn if they advance. Orlando's 86 points were its season low.",
+          "source": "AP (via ESPN)",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909314"
+        },
+        {
+          "headline": "Kawhi Leonard ruled out at least another week",
+          "summary": "Toronto says Leonard has started individual on-court work but won't give another update for a week, the latest one-week-at-a-time ruling on his left knee. He has played two games this season and has been out since Oct. 23. The Raptors have lost 11 of 15 without him.",
+          "source": "Hoops Rumors",
+          "url": "https://www.hoopsrumors.com/2026/11/raptors-rule-out-kawhi-leonard-another-week.html"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Pistons",
+          "awayScore": 104,
+          "home": "Magic",
+          "homeScore": 86,
+          "note": ""
+        },
+        {
+          "away": "Celtics",
+          "awayScore": 131,
+          "home": "Wizards",
+          "homeScore": 116,
+          "note": ""
+        },
+        {
+          "away": "Mavericks",
+          "awayScore": 120,
+          "home": "Nuggets",
+          "homeScore": 101,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Cooper Flagg",
+          "team": "Mavericks",
+          "line": "24 PTS · 6 REB · 12 AST · 8-17 FG",
+          "note": "Tied his career high in assists and ran the upset in Denver; AP says it was his 11th 20-point double-double, tying Dwight Howard for second-most by a teenager."
+        },
+        {
+          "name": "Jayson Tatum",
+          "team": "Celtics",
+          "line": "41 PTS · 6 REB · 8 AST · 13-25 FG",
+          "note": "Scored 28 in the first half, the night's high, as Boston snapped a four-game skid and stayed unbeaten in Cup play."
+        },
+        {
+          "name": "Anthony Davis",
+          "team": "Wizards",
+          "line": "33 PTS · 13 REB · 1 AST · 12-21 FG",
+          "note": "Led a second-half push that cut a 31-point halftime gap to five, but Washington lost and is mathematically out of the Cup."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Grizzlies rookie Cameron Boozer, the No. 3 pick, is out at least four weeks with a moderate medial sprain of his right ankle (16.6 PPG, 9.2 RPG, 5.3 APG).",
+          "url": "https://www.hoopsrumors.com/2026/11/cameron-boozer-out-at-least-four-weeks-with-ankle-injury.html"
+        },
+        {
+          "text": "Raptors rule out Kawhi Leonard (left knee) for at least one more week; he has played two games this season.",
+          "url": "https://www.hoopsrumors.com/2026/11/raptors-rule-out-kawhi-leonard-another-week.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Vegas wins 5-3 in Edmonton, the night's only game; Oilers have lost four straight",
+      "stories": [
+        {
+          "headline": "Golden Knights beat Oilers 5-3 in Pacific top-two matchup",
+          "summary": "Trevor Connelly scored twice with an assist and Jack Eichel added two goals as Vegas won the only game on Tuesday's schedule. Edmonton has lost four straight. Evan Bouchard's two assists made him the fastest in Oilers history to 40 points (27 games), and Mitch Marner picked up his 600th career assist.",
+          "source": "AP via ESPN",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892780"
+        },
+        {
+          "headline": "Barkov, Marchand could return for Panthers on Wednesday",
+          "summary": "Aleksander Barkov and Brad Marchand, both out since early October with knee injuries, are 'possible' to play against Ottawa on Wednesday, pending medical clearance. Paul Maurice said it's possible both come back at once.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/florida-panthers-aleksander-barkov-brad-marchard-injury-status-update-november-24-2026"
+        },
+        {
+          "headline": "Horcoff: Larkin trade isn't the start of a Red Wings rebuild",
+          "summary": "Detroit interim GM Shawn Horcoff said the haul from Montreal (Michael Hage, Kirby Dach, Sam Montembeault, two conditional firsts and more) could be flipped for NHL-ready help. He says the goal is still the playoffs, which is ambitious for an 8-12-3 team second-to-last in the Atlantic.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/dylan-larkin-trade-not-sign-of-detroit-wings-rebuild-says-gm-shawn-horcoff"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Golden Knights",
+          "awayScore": 5,
+          "home": "Oilers",
+          "homeScore": 3,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Trevor Connelly",
+          "team": "Golden Knights",
+          "line": "2 G · 1 A",
+          "note": "The rookie's two goals moved him into second among rookies, and he has points in four straight games."
+        },
+        {
+          "name": "Jack Eichel",
+          "team": "Golden Knights",
+          "line": "2 G",
+          "note": "His second goal, on a 2-on-1 early in the third, put Vegas up 4-2 for good."
+        },
+        {
+          "name": "Evan Bouchard",
+          "team": "Oilers",
+          "line": "2 A",
+          "note": "He reached 40 points in 27 games, the fastest in Oilers history and just the third defenseman in NHL history to do it in 27 or fewer."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Capitals signed D Jack St. Ivany to a two-year, $2.35 million extension ($1.175M AAV) starting in 2027-28.",
+          "url": "https://www.tsn.ca/nhl/article/caps-sign-d-st-ivany-to-two-year-235-million-contract-extension/"
+        },
+        {
+          "text": "Canucks claimed F Cole Reinhardt off waivers from the Panthers (Nov. 23).",
+          "url": "https://floridahockeynow.com/nhl-waivers-florida-panthers-lose-cole-reinhardt-to-vancouver-canucks/"
+        },
+        {
+          "text": "Capitals claimed G Remi Poirier off waivers from the Stars; Red Wings F Sheldon Dries cleared (Nov. 23). Panthers F Cole Schwindt and Wild G Calvin Pickard were placed on waivers Nov. 24.",
+          "url": "https://puckpedia.com/waiver-wire?day=2026-11-24"
+        },
+        {
+          "text": "Sharks placed F Kiefer Sherwood (upper body) on injured reserve.",
+          "url": "https://www.spectorshockey.net/2026/11/nhl-morning-coffee-headlines-november-24-2026/"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · MLB drops escrow from cap plan; union says no",
+      "stories": [
+        {
+          "headline": "MLB drops escrow from cap proposal; union rejects it",
+          "summary": "In Tuesday's final bargaining session before Thanksgiving, MLB withdrew its escrow proposal and pledged all guaranteed contracts stay fully guaranteed under its cap-and-floor plan. Any league-wide overpayment or underpayment to players would instead be factored into future cap and floor numbers. Interim MLBPA executive director Bruce Meyer said the change takes \"that same amount of money out of players' pockets in the following year\"; talks are expected to resume Sunday or Monday in Phoenix ahead of the Dec. 1 expiration.",
+          "source": "USA Today",
+          "url": "https://sports.yahoo.com/articles/mlb-tweaks-labor-proposal-thanksgiving-191537788.html"
+        },
+        {
+          "headline": "Cubs add Teruaki Sato for 6 years, $120M (reported)",
+          "summary": "The Cubs agreed to a six-year, $120M deal with slugger Teruaki Sato, a two-time Central League MVP posted by NPB's Hanshin Tigers, per MLB Trade Rumors. He is expected to play a corner outfield spot. It's Chicago's second $120M commitment in about 12 hours, and the club will also owe Hanshin a posting fee MLBTR estimates at around $20M.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-teruaki-sato.html"
+        },
+        {
+          "headline": "Orioles sign Freddy Peralta for 5 years",
+          "summary": "Baltimore announced a five-year deal with right-hander Freddy Peralta, a day after losing Trevor Rogers to the Cubs. The contract is reportedly a $125M guarantee: a $10M signing bonus plus $23M salaries from 2027 to 2031, with no deferrals or opt-outs. Peralta posted a 4.42 ERA over 169 innings in 2026.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/orioles-sign-freddy-peralta.html"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Blue Jays agree with RHP Kaima Taira (Seibu Lions) on 5 years, $80M with opt-out after year 3 and $5M signing bonus; $13.875M posting fee (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/blue-jays-to-sign-kaima-taira.html"
+        },
+        {
+          "text": "Reds re-sign C Tyler Stephenson, 3 years, $30M with opt-out after year 2 (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/reds-to-re-sign-tyler-stephenson-to-three-year-deal.html"
+        },
+        {
+          "text": "White Sox agree with OF Tyrone Taylor, 2 years, $17M (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/white-sox-to-sign-tyrone-taylor.html"
+        },
+        {
+          "text": "Tigers agree with INF Ha-Seong Kim, 1 year, $5M plus up to $1M in incentives (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/tigers-to-sign-ha-seong-kim.html"
+        },
+        {
+          "text": "Mariners agree with 1B Carlos Santana on minor league deal with spring training invite (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/mariners-carlos-santana-agree-to-minor-league-deal.html"
+        },
+        {
+          "text": "Mets agree with INF Eddys Leonard on minor league deal with spring training invite (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/mets-sign-infielder-eddys-leonard.html"
+        },
+        {
+          "text": "Cubs agree with LHP Sam Moll on minor league deal with spring training invite (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/cubs-sign-sam-moll-reliever-lefty-reds.html"
+        },
+        {
+          "text": "Padres re-sign RHP Garrett Hawkins to minor league deal",
+          "url": "https://www.mlbtraderumors.com/2026/11/padres-re-sign-garrett-hawkins-to-minor-league-deal.html"
+        },
+        {
+          "text": "Astros to hire Nate Irving as assistant hitting coach (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/astros-to-hire-nate-irving-as-assistant-hitting-coach.html"
+        }
+      ]
+    }
+  ]
+}

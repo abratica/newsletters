@@ -1,0 +1,576 @@
+{
+  "date": "2026-11-26",
+  "headline": "Steelers waive Aaron Rodgers a day after benching him",
+  "ticker": [
+    "Steelers waive Rodgers",
+    "Rams 26, Packers 13",
+    "MLB sues players' union",
+    "Timberwolves 113, Thunder 106",
+    "Barkov, Marchand return"
+  ],
+  "top": [
+    {
+      "league": "nfl",
+      "headline": "Steelers waive Aaron Rodgers a day after benching him",
+      "summary": "About 15 hours after announcing the benching, Pittsburgh waived Rodgers, who had asked to be released. On The Pat McAfee Show he called Mike McCarthy \"unhealthy\" and said the coach fell asleep in meetings and broke a huddle with \"1-2-3 Packers.\" McCarthy admitted the huddle slip, said Rodgers made \"an ultimatum that was clearly out of his job description,\" and has the team's full support; Mason Rudolph starts Friday against Denver.",
+      "source": "Pro Football Rumors",
+      "url": "https://www.profootballrumors.com/2026/11/aaron-rodgers-on-steelers-tenure-that-ship-has-sailed"
+    },
+    {
+      "league": "mlb",
+      "headline": "MLB sues the players' union to get its lockout declared legal",
+      "summary": "MLB sued the MLBPA in federal court in Manhattan on Wednesday, asking for a ruling that next week's expected lockout is legal, a move aimed at stopping the union from disclaiming and filing an antitrust suit. The league isn't seeking damages, says it will drop the suit if the union stays a union until a new CBA, and plans an NLRB unfair labor practice charge. Interim union chief Bruce Meyer called it \"completely frivolous\"; the CBA expires Dec. 1.",
+      "source": "MLB Trade Rumors",
+      "url": "https://www.mlbtraderumors.com/2026/11/mlb-files-suit-against-mlbpa.html"
+    },
+    {
+      "league": "nhl",
+      "headline": "Barkov and Marchand return, Panthers solve Ullmark",
+      "summary": "Both had missed nearly two months with knee injuries from the season's first week. Marchand had three assists and Barkov added an empty-netter in a 5-3 win over Ottawa. Florida became the first team to score four on Linus Ullmark this season, and the Senators' nine-game point streak (7-0-2) is over.",
+      "source": "AP via ESPN",
+      "url": "https://www.espn.com/nhl/recap/_/gameId/401892784"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Steelers waive Aaron Rodgers after his McAfee broadside; Rams beat Packers 26-13 on Thanksgiving Eve",
+      "stories": [
+        {
+          "headline": "Steelers waive Aaron Rodgers a day after benching him",
+          "summary": "About 15 hours after announcing the benching, Pittsburgh waived Rodgers, who had asked to be released. On The Pat McAfee Show he called Mike McCarthy \"unhealthy\" and said the coach fell asleep in meetings and broke a huddle with \"1-2-3 Packers.\" McCarthy admitted the huddle slip, said Rodgers made \"an ultimatum that was clearly out of his job description,\" and has the team's full support; Mason Rudolph starts Friday against Denver.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/aaron-rodgers-on-steelers-tenure-that-ship-has-sailed"
+        },
+        {
+          "headline": "Rams run over Packers 26-13 on Thanksgiving Eve",
+          "summary": "Blake Corum had a career-high 32 carries for 184 yards and a touchdown as the Rams shut Green Bay out in the second half of the NFL's first Thanksgiving Eve game. Jordan Love threw two interceptions after Christian Watson left with a concussion. It's a fifth straight win for the 7-4 Rams, who move ahead of the Packers in the NFC playoff race.",
+          "source": "NBC Sports / ProFootballTalk",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-shut-down-packers-in-second-half-for-a-26-13-win"
+        },
+        {
+          "headline": "Brandon Aiyuk lands on Commanders' practice squad",
+          "summary": "A day after clearing waivers and visiting Washington, Aiyuk agreed to join the Commanders' practice squad, per ESPN's Adam Schefter. He hasn't played since tearing knee ligaments in October 2024. Washington is 4-5-1 and has won two straight.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/commanders-to-sign-wr-brandon-aiyuk"
+        },
+        {
+          "headline": "Thanksgiving injury report: Lions, Bears both thin on defense",
+          "summary": "Bears at Lions is a meeting of 8-2 teams. Chicago has CB Kyler Gordon and S Elijah Hicks out; Detroit has DL Skyler Gill-Howard (season-ending knee surgery) and CB Ennis Rakestraw Jr. out, with D.J. Wonnum and Chuck Clark questionable. Later, Dallas is without TE Jake Ferguson against Philadelphia, and Kansas City is without RB Kenneth Walker III at Buffalo.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-week-12-injury-report-2026-season"
+        },
+        {
+          "headline": "Purdy day-to-day; Darnold set to return for Seahawks-49ers",
+          "summary": "Kyle Shanahan said Brock Purdy has an ankle sprain, not a high ankle sprain, and is day-to-day after missing Wednesday's practice. Mac Jones is the fallback. Seattle expects Sam Darnold back from quad and rib injuries after Drew Lock went 3-0 filling in.",
+          "source": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/49ers-brock-purdy-uncertain-for-week-12"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Packers",
+          "awayScore": 13,
+          "home": "Rams",
+          "homeScore": 26,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Blake Corum",
+          "team": "Rams",
+          "line": "32-184-1",
+          "note": "Career-high 32 carries, with 151 yards and the touchdown coming in the second half."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Steelers waived QB Aaron Rodgers, who had requested his release",
+          "url": "https://www.nfl.com/news/steelers-release-aaron-rodgers"
+        },
+        {
+          "text": "Commanders signed WR Brandon Aiyuk to the practice squad",
+          "url": "https://www.profootballrumors.com/2026/11/commanders-to-sign-wr-brandon-aiyuk"
+        },
+        {
+          "text": "Cardinals fired DC Nick Rallis (Nov. 23); Teryl Austin is interim DC",
+          "url": "https://www.profootballrumors.com/2026/11/cardinals-fire-dc-nick-rallis"
+        },
+        {
+          "text": "Cardinals claimed QB Kedon Slovis off waivers from the Ravens",
+          "url": "https://www.profootballrumors.com/2026/11/minor-nfl-transactions-11-25-26"
+        },
+        {
+          "text": "Chargers claimed CB Avery Smith off waivers from the Seahawks",
+          "url": "https://www.profootballrumors.com/2026/11/minor-nfl-transactions-11-25-26"
+        },
+        {
+          "text": "Lions placed DL Skyler Gill-Howard on IR (knee)",
+          "url": "https://www.profootballrumors.com/2026/11/minor-nfl-transactions-11-25-26"
+        },
+        {
+          "text": "Titans waived EDGE Tanoh Kpassagnon with an injury settlement",
+          "url": "https://www.profootballrumors.com/2026/11/minor-nfl-transactions-11-25-26"
+        },
+        {
+          "text": "Dolphins signed P Jack Browning and Eagles signed DT Gabe Hall, both from their practice squads",
+          "url": "https://www.profootballrumors.com/2026/11/minor-nfl-transactions-11-25-26"
+        },
+        {
+          "text": "49ers activated CB Nate Hobbs from IR and returned WR Brandin Cooks to the practice squad",
+          "url": "https://www.profootballrumors.com/2026/11/49ers-activate-cb-nate-hobbs-sign-wr-brandin-cooks-to-practice-squad"
+        },
+        {
+          "text": "Cowboys activated S Jalen Thompson from IR",
+          "url": "https://www.profootballrumors.com/2026/11/cowboys-activate-s-jalen-thompson-off-ir"
+        },
+        {
+          "text": "Rams activated DL Kobie Turner and G Justin Dedich from IR",
+          "url": "https://www.profootballrumors.com/2026/11/rams-designate-dl-kobie-turner-for-return"
+        },
+        {
+          "text": "Jets (DT T'Vondre Sweat) and Bucs (WR Jalen McMillan) designated players to return from IR",
+          "url": "https://www.profootballrumors.com/2026/11/jets-designate-dt-tvondre-sweat-for-return"
+        },
+        {
+          "text": "Broncos signed DT Khalen Saunders to the practice squad",
+          "url": "https://www.profootballrumors.com/2026/11/nfl-practice-squad-updates-11-25-26"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Wolves win in OKC to go 3-0 in the Cup but lose LaMelo Ball to an ankle injury; Mavericks first into the knockouts",
+      "stories": [
+        {
+          "headline": "Wolves beat Thunder, then lose LaMelo Ball to ankle injury",
+          "summary": "Jaden McDaniels had 32 points and 10 rebounds as Minnesota won 113-106 in Oklahoma City to go 3-0 in Cup play. Ball had 19 points before he rolled his left ankle on Isaiah Hartenstein's foot with 2:29 left; Chris Finch said, \"It looked pretty bad, but I'm not sure.\" Minnesota was already without Anthony Edwards, Donte DiVincenzo and Jaylen Clark.",
+          "source": "AP via ESPN",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909320"
+        },
+        {
+          "headline": "Mavericks are the first team into the NBA Cup knockout round",
+          "summary": "Dallas clinched West Group A when Phoenix lost at Houston on Wednesday. The Mavs went 3-0 with a +36 point differential and hold the tiebreaker over Denver. Friday's games decide the other seven spots; the quarterfinals are Dec. 4-5.",
+          "source": "Hoops Rumors",
+          "url": "https://www.hoopsrumors.com/2026/11/mavericks-win-west-group-a-in-nba-cup.html"
+        },
+        {
+          "headline": "LeBron's first Sixers triple-double beats Miami; Jaylen Brown's hamstring flares again",
+          "summary": "LeBron James had 25 points, 12 assists and 10 rebounds, and Tyrese Maxey scored 30, in a 111-104 win over Miami with Joel Embiid out sick. Brown left late in the second quarter with left hamstring tightness, the same leg that cost him two games last week. He'll have imaging, with an update expected Thursday.",
+          "source": "AP via ESPN",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909317"
+        },
+        {
+          "headline": "Blazers stay alive in the Cup as Wembanyama's 44 isn't enough",
+          "summary": "Deni Avdija scored 33 and Damian Lillard 29 in Portland's 116-111 win over San Antonio, a 2.5-point favorite. Victor Wembanyama had 44 points on 17-of-30 shooting with 16 rebounds. Portland is 2-1 in group play with a +7 differential and still in the wild-card race.",
+          "source": "AP via ESPN",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909325"
+        },
+        {
+          "headline": "Knicks' bench keeps the Cup holders alive",
+          "summary": "Jose Alvarado (21) and Mikal Bridges (19) both had season highs as New York outscored Cleveland 39-17 in the fourth to win 121-102, its sixth straight. A loss would have knocked the Knicks out of Cup contention. Jalen Brunson shot 6 of 22, and Andre Drummond left with a head injury.",
+          "source": "AP via ESPN",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909319"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Heat",
+          "awayScore": 104,
+          "home": "76ers",
+          "homeScore": 111,
+          "note": ""
+        },
+        {
+          "away": "Bulls",
+          "awayScore": 107,
+          "home": "Hornets",
+          "homeScore": 105,
+          "note": "Close"
+        },
+        {
+          "away": "Cavaliers",
+          "awayScore": 102,
+          "home": "Knicks",
+          "homeScore": 121,
+          "note": ""
+        },
+        {
+          "away": "Timberwolves",
+          "awayScore": 113,
+          "home": "Thunder",
+          "homeScore": 106,
+          "note": "Upset"
+        },
+        {
+          "away": "Clippers",
+          "awayScore": 97,
+          "home": "Grizzlies",
+          "homeScore": 115,
+          "note": ""
+        },
+        {
+          "away": "Nets",
+          "awayScore": 104,
+          "home": "Bucks",
+          "homeScore": 97,
+          "note": "Upset"
+        },
+        {
+          "away": "Suns",
+          "awayScore": 104,
+          "home": "Rockets",
+          "homeScore": 116,
+          "note": ""
+        },
+        {
+          "away": "Kings",
+          "awayScore": 110,
+          "home": "Warriors",
+          "homeScore": 129,
+          "note": ""
+        },
+        {
+          "away": "Spurs",
+          "awayScore": 111,
+          "home": "Trail Blazers",
+          "homeScore": 116,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Victor Wembanyama",
+          "team": "Spurs",
+          "line": "44 PTS · 16 REB · 3 AST · 17-30 FG",
+          "note": "The night's top scorer, but the Spurs still lost in Portland."
+        },
+        {
+          "name": "LeBron James",
+          "team": "76ers",
+          "line": "25 PTS · 10 REB · 12 AST · 9-15 FG",
+          "note": "His first triple-double as a Sixer, including 14 straight points in the first half, with Embiid and Brown both out."
+        },
+        {
+          "name": "Deni Avdija",
+          "team": "Trail Blazers",
+          "line": "33 PTS · 12 REB · 7 AST · 11-21 FG",
+          "note": "Led the win over the Spurs that keeps Portland in the Cup wild-card race."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Magic signed free-agent G Kevin Porter Jr. to a two-year deal; Milwaukee had waived him in October",
+          "url": "https://www.hoopsrumors.com/2026/11/magic-to-sign-kevin-porter-jr.html"
+        },
+        {
+          "text": "Timberwolves G LaMelo Ball left Wednesday's win at OKC with a left ankle injury; no diagnosis yet",
+          "url": "https://basketnews.com/news-260248-timberwolves-coach-offers-disheartening-lamelo-ball-injury-update-after-okc-exit.html"
+        },
+        {
+          "text": "76ers F Jaylen Brown will have imaging on his left hamstring; update expected Thursday",
+          "url": "https://www.hoopsrumors.com/2026/11/jaylen-brown-to-undergo-imaging-after-leaving-game-with-hamstring-tightness.html"
+        },
+        {
+          "text": "Pacers G Tyrese Haliburton (hamstring) was a full participant in practice and hopes to play Friday",
+          "url": "https://www.hoopsrumors.com/2026/11/tyrese-haliburton-nears-return-from-hamstring-injury.html"
+        },
+        {
+          "text": "Knicks F OG Anunoby's injury is now listed as a left calf strain; day-to-day",
+          "url": "https://www.hoopsrumors.com/2026/11/knicks-notes-nba-cup-brown-anunoby-towns-thibodeau-jent.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "Barkov and Marchand return as Florida ends Ottawa's point streak; Carolina hits 19 wins by Thanksgiving",
+      "stories": [
+        {
+          "headline": "Barkov and Marchand return, Panthers solve Ullmark",
+          "summary": "Both had missed nearly two months with knee injuries from the season's first week. Marchand had three assists and Barkov added an empty-netter in a 5-3 win over Ottawa. Florida became the first team to score four on Linus Ullmark this season, and the Senators' nine-game point streak (7-0-2) is over.",
+          "source": "AP via ESPN",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892784"
+        },
+        {
+          "headline": "Hurricanes hit 19 wins by Thanksgiving",
+          "summary": "Carolina scored three times in the third to beat Tampa Bay 3-1 and is 7-0-1 in its last eight. At 19-3-3, it's the third team in NHL history with 19 wins by Thanksgiving; the other two, the 2001-02 Red Wings and 1983-84 Oilers, both won the Cup. Tampa had been 11-0 when leading after two periods.",
+          "source": "AP via ESPN",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892783"
+        },
+        {
+          "headline": "Gauthier ties Draisaitl for goals lead as Ducks end shutout drought",
+          "summary": "Cutter Gauthier scored his 23rd to tie Leon Draisaitl for the NHL lead, and his 19 November goals are one shy of the single-month record held by Joe Malone and Teemu Selanne. Laurent Brossoit, recalled from the AHL for the start, gave Anaheim its first shutout since Oct. 12, 2024, a 188-game regular-season gap, in a 7-0 win over San Jose that ended a four-game skid.",
+          "source": "AP via ESPN",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892793"
+        },
+        {
+          "headline": "Avalanche post third straight home shutout",
+          "summary": "Colorado beat Montreal 6-0 behind two Devon Toews goals and 27 saves from Mackenzie Blackwood. NHL research says it's only the second time the Avalanche have recorded three straight home shutouts. Cale Makar had three assists in his return, and the Canadiens are 0-2 since acquiring Dylan Larkin.",
+          "source": "AP via ESPN",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892792"
+        },
+        {
+          "headline": "Mammoth end Wild's regulation run and Kaprizov's streak",
+          "summary": "Utah won 4-3 in Minnesota, handing the Wild their first regulation loss in 16 games. Logan Cooley and Dylan Guenther each had a goal and an assist, and Karel Vejmelka got his first win in seven starts. Kirill Kaprizov's franchise-record 15-game point streak ended.",
+          "source": "AP via ESPN",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892791"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Jets",
+          "awayScore": 4,
+          "home": "Bruins",
+          "homeScore": 2,
+          "note": "Upset"
+        },
+        {
+          "away": "Rangers",
+          "awayScore": 1,
+          "home": "Sabres",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Hurricanes",
+          "awayScore": 3,
+          "home": "Lightning",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Senators",
+          "awayScore": 3,
+          "home": "Panthers",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Blues",
+          "awayScore": 2,
+          "home": "Islanders",
+          "homeScore": 3,
+          "note": "SO"
+        },
+        {
+          "away": "Flames",
+          "awayScore": 6,
+          "home": "Penguins",
+          "homeScore": 3,
+          "note": "Upset"
+        },
+        {
+          "away": "Flyers",
+          "awayScore": 3,
+          "home": "Capitals",
+          "homeScore": 7,
+          "note": ""
+        },
+        {
+          "away": "Devils",
+          "awayScore": 3,
+          "home": "Blue Jackets",
+          "homeScore": 2,
+          "note": "SO"
+        },
+        {
+          "away": "Canucks",
+          "awayScore": 1,
+          "home": "Red Wings",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Predators",
+          "awayScore": 3,
+          "home": "Stars",
+          "homeScore": 1,
+          "note": "Upset"
+        },
+        {
+          "away": "Mammoth",
+          "awayScore": 4,
+          "home": "Wild",
+          "homeScore": 3,
+          "note": "Upset"
+        },
+        {
+          "away": "Canadiens",
+          "awayScore": 0,
+          "home": "Avalanche",
+          "homeScore": 6,
+          "note": ""
+        },
+        {
+          "away": "Blackhawks",
+          "awayScore": 3,
+          "home": "Kraken",
+          "homeScore": 1,
+          "note": "Upset"
+        },
+        {
+          "away": "Sharks",
+          "awayScore": 0,
+          "home": "Ducks",
+          "homeScore": 7,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Brad Marchand",
+          "team": "Panthers",
+          "line": "0 G · 3 A",
+          "note": "In his first game back from a knee injury, he set up Anton Lundell's go-ahead goal and Sam Bennett's insurance goal."
+        },
+        {
+          "name": "Brandon Bussi",
+          "team": "Hurricanes",
+          "line": "32 SV · .970 SV%",
+          "note": "Held Tampa to one goal on a night Carolina was outshot for the first time since opening night."
+        },
+        {
+          "name": "Devon Toews",
+          "team": "Avalanche",
+          "line": "2 G · 0 A",
+          "note": "Scored twice in a 1:33 span in the second period of the rout of Montreal."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Panthers reinstated Aleksander Barkov and Brad Marchand from injured reserve (Nov. 25)",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Avalanche reinstated D Cale Makar from IR and recalled F Adam Beckman from the AHL (Nov. 25)",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Lightning reinstated F Brandon Hagel from injured reserve (Nov. 25)",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Ducks recalled G Laurent Brossoit from AHL San Diego (Nov. 25)",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Islanders placed F Kyle Palmieri on injured reserve (lower body) (Nov. 24)",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Senators placed F Hayden Hodgson on IR and recalled D Djibril Touré from Belleville (Nov. 24)",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Blue Jackets placed F Mathieu Olivier on injured reserve (Nov. 24)",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Maple Leafs recalled G Artur Akhtyamov from the AHL (Nov. 25)",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Wild assigned G Calvin Pickard to AHL Iowa after his waiver placement (Nov. 25)",
+          "url": "https://www.espn.com/nhl/transactions"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · MLB sues the union ahead of an expected lockout",
+      "stories": [
+        {
+          "headline": "MLB sues the players' union to get its lockout declared legal",
+          "summary": "MLB sued the MLBPA in federal court in Manhattan on Wednesday, asking for a ruling that next week's expected lockout is legal, a move aimed at stopping the union from disclaiming and filing an antitrust suit. The league isn't seeking damages, says it will drop the suit if the union stays a union until a new CBA, and plans an NLRB unfair labor practice charge. Interim union chief Bruce Meyer called it \"completely frivolous\"; the CBA expires Dec. 1.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/mlb-files-suit-against-mlbpa.html"
+        },
+        {
+          "headline": "Mets make Skubal's record $450M deal official",
+          "summary": "The Mets announced Tarik Skubal's nine-year contract: a $450MM guarantee with no opt-outs, a full no-trade clause, a $45MM signing bonus and $30MM deferred. It's the largest contract ever for a pitcher, far above Yoshinobu Yamamoto's $325MM. New York designated Jack Anderson and Yunior Tur for assignment to make room.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/mets-to-sign-tarik-skubal.html"
+        },
+        {
+          "headline": "Rockies, of all teams, buy free-agent starters",
+          "summary": "Colorado agreed with David Peterson on two years and $32MM and with Patrick Sandoval on three years and $42MM (both reported) on the same night. Before Peterson, the Rockies hadn't given a free-agent starter a multi-year deal in about 16 years. After a 6.28 rotation ERA, worst in baseball, it's a change in direction.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/rockies-patrick-sandoval-agree-to-three-year-deal.html"
+        },
+        {
+          "headline": "Tigers land Gausman on a one-year, $25M bet (reported)",
+          "summary": "Detroit agreed with Kevin Gausman on one year and $25MM, per Jeff Passan. He turns 36 in January and had a 4.51 ERA in 2026, split between Toronto and the Cubs. The Tigers' 40-man roster is full, and they need three spots to finish the Gausman, Luis Gil and Ha-Seong Kim deals.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/tigers-to-sign-kevin-gausman.html"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Guardians re-sign LHP Foster Griffin, 3 yrs/$48M (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/guardians-to-sign-foster-griffin.html"
+        },
+        {
+          "text": "Guardians sign LHP Kris Bubic, 1 yr/$17.5M (official)",
+          "url": "https://www.mlbtraderumors.com/2026/11/guardians-sign-kris-bubic.html"
+        },
+        {
+          "text": "Orioles re-sign CF Luis Robert Jr., 1 yr/$12M (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/orioles-luis-robert-jr-reportedly-finalizing-contract.html"
+        },
+        {
+          "text": "Twins sign RHP Kevin Ginkel, 2 yrs/$18M, pending physical (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/twins-to-sign-kevin-ginkel.html"
+        },
+        {
+          "text": "Nationals sign LHP A.J. Puk, 1 yr/$5M plus $2.5M incentives (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/nationals-to-sign-a-j-puk.html"
+        },
+        {
+          "text": "Royals sign 3B Alec Bohm, 2 yrs/$20M, pending physical (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/royals-to-sign-alec-bohm.html"
+        },
+        {
+          "text": "Padres sign LHP JoJo Romero, 3 yrs/$21M (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/padres-to-sign-jojo-romero.html"
+        },
+        {
+          "text": "Marlins sign C Gary Sánchez, 1 yr/$6.5M (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/marlins-to-sign-gary-sanchez.html"
+        },
+        {
+          "text": "Brewers sign RHP Antonio Senzatela, 1 yr/$4.75M; DFA Tyler Black",
+          "url": "https://www.mlbtraderumors.com/2026/11/brewers-sign-antonio-senzatela.html"
+        },
+        {
+          "text": "Yankees' Jonathan Loaisiga deal is $19M guaranteed over 2 yrs, with a 2029 club option (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/yankees-to-sign-jonathan-loaisiga.html"
+        },
+        {
+          "text": "Mets make Paul Goldschmidt (1 yr/$8M) and Darwinzon Hernández (3 yrs/$12M) official",
+          "url": "https://www.mlbtraderumors.com/2026/11/mets-sign-paul-goldschmidt.html"
+        },
+        {
+          "text": "Mets DFA RHPs Jack Anderson and Yunior Tur",
+          "url": "https://www.mlbtraderumors.com/2026/11/mets-designate-jack-anderson-yunior-tur-for-assignment.html"
+        },
+        {
+          "text": "Yankees hire Brandon Hyde as bench coach (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/yankees-hire-brandon-hyde-bench-coach-former-orioles-manager.html"
+        },
+        {
+          "text": "Dodgers RHP Ben Casparius had Tommy John surgery and will miss 2027",
+          "url": "https://www.mlbtraderumors.com/2026/11/ben-casparius-undergoes-ucl-surgery.html"
+        }
+      ]
+    }
+  ]
+}

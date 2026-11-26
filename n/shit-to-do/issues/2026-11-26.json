@@ -1,200 +1,10 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "weekendNote": "Thanksgiving weekend",
   "events": [
     {
-      "name": "The Art of Banksy",
-      "date": "2026-11-25",
-      "endDate": "2027-01-03",
-      "time": "10 AM–6 PM",
-      "startTime": "10:00",
-      "endTime": "18:00",
-      "venue": "Saunders Castle at Park Plaza, 130 Columbus Ave",
-      "area": "Boston",
-      "price": "From $34.50",
-      "note": "Unauthorized exhibit; not curated by Banksy",
-      "tags": [],
-      "why": "More than 150 Banksy works from private collections, including Flower Thrower and Girl with Balloon.",
-      "url": "https://feverup.com/m/833937",
-      "linkLabel": "Tickets",
-      "id": "2026-11-21-the-art-of-banksy",
-      "added": "2026-11-21"
-    },
-    {
-      "id": "2026-11-25-davis-square-farmers-market-final",
-      "name": "Davis Square Farmers Market (last market of the season)",
-      "date": "2026-11-25",
-      "time": "12–6 PM",
-      "startTime": "12:00",
-      "endTime": "18:00",
-      "venue": "Municipal lot next to Davis Square Plaza, 44 Day St",
-      "area": "Somerville",
-      "tags": [
-        "somerville",
-        "food",
-        "market",
-        "outdoors"
-      ],
-      "why": "The Wednesday market runs through Nov 25, so this pre-Thanksgiving session is the last one of the season. It has more than two dozen Massachusetts farms and food producers.",
-      "url": "https://www.thebostoncalendar.com/events/davis-square-farmers-market--195",
-      "linkLabel": "Info",
-      "added": "2026-11-24"
-    },
-    {
-      "id": "2026-11-20-sowa-christmas-market",
-      "name": "SoWa Christmas Market",
-      "date": "2026-11-25",
-      "endDate": "2026-12-27",
-      "time": "4–9 PM",
-      "startTime": "16:00",
-      "endTime": "21:00",
-      "venue": "SoWa Power Station",
-      "area": "South End",
-      "price": "$10 at the door",
-      "tags": [
-        "market",
-        "food"
-      ],
-      "why": "Indoor holiday market, open Nov 20 to Dec 27.",
-      "url": "https://www.thebostoncalendar.com/events/11th-annual-sowa-christmas-market-november-20-december-27",
-      "linkLabel": "Info",
-      "added": "2026-10-29"
-    },
-    {
-      "name": "ZooLights at Stone Zoo",
-      "date": "2026-11-25",
-      "endDate": "2027-01-03",
-      "time": "4–9:30 PM",
-      "startTime": "16:00",
-      "endTime": "21:30",
-      "venue": "Stone Zoo",
-      "area": "Stoneham",
-      "price": "Varies by date",
-      "note": "Nightly; closed Thanksgiving and Christmas",
-      "tags": [
-        "outdoors"
-      ],
-      "why": "The zoo's holiday light walk opens Nov 20.",
-      "url": "https://thrillzing.com/seasonal-events/zoolights-2026-stone-zoo/",
-      "linkLabel": "Info",
-      "id": "2026-11-20-zoolights-at-stone-zoo",
-      "added": "2026-11-05"
-    },
-    {
-      "id": "2026-11-25-families-are-hell-double-feature",
-      "name": "Families Are Hell: The People Under the Stairs + The 'Burbs",
-      "date": "2026-11-25",
-      "time": "From 4:45 PM",
-      "startTime": "16:45",
-      "venue": "Brattle Theatre",
-      "area": "Cambridge",
-      "note": "Both on 35mm; People Under the Stairs 4:45 & 9:15 PM, The 'Burbs 7 PM (per Brattle film pages)",
-      "tags": [
-        "film"
-      ],
-      "why": "Thanksgiving-eve horror-comedy double feature on 35mm: Wes Craven's The People Under the Stairs (its Brattle debut) and Joe Dante's The 'Burbs.",
-      "url": "https://brattlefilm.org/movies/the-people-under-the-stairs/",
-      "linkLabel": "Tickets",
-      "added": "2026-11-07"
-    },
-    {
-      "id": "2026-11-12-holly-jolly-christmas-bar",
-      "name": "Holly Jolly Christmas Bar pop-up",
-      "date": "2026-11-25",
-      "endDate": "2026-11-27",
-      "time": "From 5 PM",
-      "startTime": "17:00",
-      "venue": "Johnnie's",
-      "area": "West End",
-      "note": "Ticketed 90-minute open-seating slots, welcome drink included; times vary.",
-      "tags": [
-        "food"
-      ],
-      "why": "A holiday pop-up bar with decorations, cocktails and entertainment. Each ticket includes 90 minutes of seating and a welcome drink, with a non-alcoholic option.",
-      "url": "https://bucketlisters.com/experience/holly-jolly-christmas-bar-boston",
-      "linkLabel": "Tickets",
-      "added": "2026-11-09"
-    },
-    {
-      "name": "Ghostwoman with Croaker",
-      "date": "2026-11-25",
-      "time": "8 PM",
-      "startTime": "20:00",
-      "venue": "The Rockwell, 255 Elm St",
-      "area": "Davis Sq",
-      "price": "$17–$22",
-      "tags": [
-        "somerville",
-        "music"
-      ],
-      "why": "Dark psych-rock duo Ghostwoman at the Rockwell on Thanksgiving Eve.",
-      "url": "https://www.jambase.com/show/ghostwoman-the-rockwell-20261125",
-      "linkLabel": "Tickets",
-      "id": "2026-11-25-ghostwoman-with-croaker",
-      "added": "2026-11-03"
-    },
-    {
-      "id": "2026-11-25-survivor-screenings-aeronaut",
-      "name": "Survivor 51 screenings at Aeronaut",
-      "date": "2026-11-25",
-      "time": "8–9:30 PM",
-      "startTime": "20:00",
-      "endTime": "21:30",
-      "venue": "Aeronaut Brewing Company, 14 Tyler St",
-      "area": "Somerville",
-      "price": "Free",
-      "free": true,
-      "note": "Weekly on Wednesdays; 21+",
-      "tags": [
-        "somerville"
-      ],
-      "why": "Aeronaut shows every Survivor 51 episode on big projector screens, free.",
-      "url": "https://www.thebostoncalendar.com/events/survivor-screenings-at-aeronaut--10",
-      "linkLabel": "Info",
-      "added": "2026-11-19"
-    },
-    {
-      "id": "2026-11-25-carlo-lio-thanksgiving-eve",
-      "name": "Carlo Lio: Thanksgiving Eve",
-      "date": "2026-11-25",
-      "time": "9 PM–2 AM",
-      "startTime": "21:00",
-      "endTime": "02:00",
-      "venue": "Venue TBA (Boston/Cambridge)",
-      "area": "Boston",
-      "note": "21+. Venue not yet announced",
-      "tags": [
-        "house",
-        "djs"
-      ],
-      "why": "Carlo Lio, who runs the Rawthentic label, headlines a house and tech-house night with J.E.T. and Luigi Records b2b Jack. Presented by NOLIMITSBOSTON.",
-      "url": "https://ra.co/events/2579711",
-      "linkLabel": "Tickets",
-      "added": "2026-11-24"
-    },
-    {
-      "name": "Re:Set Thanksgiving Eve: Charles Levine (Soul Clap) b2b DJ E-Cology",
-      "date": "2026-11-25",
-      "time": "10 PM–2 AM",
-      "startTime": "22:00",
-      "endTime": "02:00",
-      "venue": "Phoenix Landing, 512 Massachusetts Ave",
-      "area": "Cambridge",
-      "price": "$20–$30",
-      "note": "19+",
-      "tags": [
-        "house",
-        "djs"
-      ],
-      "why": "Re:Set's annual Thanksgiving Eve dance night with Soul Clap's Charles Levine, billed as funk and dubby techno.",
-      "url": "https://ra.co/events/2586723",
-      "linkLabel": "Tickets",
-      "id": "2026-11-25-re-set-thanksgiving-eve-charles-levine-soul-clap-b",
-      "added": "2026-11-22"
-    },
-    {
       "name": "Freezing Time: Edgerton (closing)",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "endDate": "2026-11-29",
       "venue": "MIT Museum",
       "area": "Cambridge",
@@ -208,7 +18,7 @@
     {
       "id": "2026-11-06-snowport",
       "name": "Snowport Holiday Market",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "endDate": "2026-12-27",
       "venue": "Snowport, 100 Seaport Blvd",
       "area": "Seaport",
@@ -225,7 +35,7 @@
     },
     {
       "name": "Snowport Curling Lanes",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "endDate": "2027-02-28",
       "venue": "111 Harbor Way, Seaport",
       "area": "Boston",
@@ -242,7 +52,7 @@
     },
     {
       "name": "Rembrandt and the Jews in the Dutch Republic (closing)",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "endDate": "2026-11-29",
       "venue": "Museum of Fine Arts, 465 Huntington Ave",
       "area": "Boston",
@@ -256,7 +66,7 @@
     },
     {
       "name": "Shadows and Light: Symbolist Art in Belgium (closing)",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "endDate": "2026-12-06",
       "venue": "McMullen Museum, Boston College",
       "area": "Brighton",
@@ -271,7 +81,7 @@
     },
     {
       "name": "List Projects 35: Pap Souleye Fall (closing)",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "endDate": "2026-11-29",
       "venue": "MIT List Visual Arts Center, 20 Ames St",
       "area": "Cambridge",
@@ -286,7 +96,7 @@
     },
     {
       "name": "Rooftop Après at Deck 12",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "endDate": "2027-02-07",
       "time": "From 5 PM; dates vary",
       "venue": "Yotel (Deck 12), 65 Seaport Blvd",
@@ -303,7 +113,7 @@
     },
     {
       "name": "Boston African Restaurant Week",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "endDate": "2026-11-28",
       "venue": "Participating restaurants",
       "area": "Boston",
@@ -320,7 +130,7 @@
     {
       "id": "2026-11-18-krampus-christmas-loyall",
       "name": "Krampus Christmas pop-up",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "endDate": "2027-01-02",
       "time": "Wed–Thu 6 PM–midnight; Fri–Sat 6 PM–1 AM",
       "venue": "Loyall Counting Room, InterContinental Boston, 510 Atlantic Ave",
@@ -337,7 +147,7 @@
     {
       "id": "2026-11-06-naughty-list-lounge-88-club",
       "name": "Naughty List Lounge holiday pop-up bar",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "endDate": "2027-01-10",
       "time": "Thu–Fri 7 PM–1 AM; Sat 6 PM–1 AM; Sun 6:30–9 PM",
       "venue": "The 88 Club, 50 Dalton St",
@@ -354,7 +164,7 @@
     {
       "id": "2026-11-20-miracle-holiday-pop-up-cambridge",
       "name": "Miracle Holiday Pop-Up Bar",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "endDate": "2026-12-31",
       "time": "Sun–Wed 5–10 PM, Thu–Fri 5–11 PM, Sat 4–11 PM",
       "venue": "Kimpton Marlowe Hotel, 25 Edwin H. Land Blvd",
@@ -371,7 +181,7 @@
     {
       "id": "2026-11-21-hfa-andrzej-wajda-at-100",
       "name": "Andrzej Wajda at 100 (HFA series)",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "endDate": "2026-12-14",
       "venue": "Harvard Film Archive, 24 Quincy St",
       "area": "Cambridge",
@@ -385,7 +195,7 @@
     },
     {
       "name": "Upside Down Holiday Trees at the Liberty Hotel",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "endDate": "2026-12-31",
       "time": "Mon–Thu 11:30 AM–11 PM; Fri–Sat 12 PM–1 AM; Sun 10 AM–10 PM",
       "venue": "Liberty Hotel, 215 Charles St",
@@ -401,7 +211,7 @@
     },
     {
       "name": "Knowledge Is Myth: Chimeric Continuities (closing)",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "endDate": "2026-12-13",
       "venue": "Carpenter Center for the Visual Arts, Harvard",
       "area": "Cambridge",
@@ -415,7 +225,7 @@
     {
       "id": "2026-11-23-the-getaway-driver",
       "name": "The Getaway Driver (closing)",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "endDate": "2026-11-29",
       "venue": "Central Square Theater",
       "area": "Cambridge",
@@ -427,17 +237,38 @@
       "added": "2026-11-23"
     },
     {
-      "name": "Spellbound (1945) + discussion (Noirvember)",
-      "date": "2026-11-25",
-      "venue": "Coolidge Corner Theatre",
-      "area": "Brookline",
+      "name": "Noirvember: Hardboiled Wonderland",
+      "date": "2026-11-26",
+      "endDate": "2026-11-29",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "note": "Maltese Falcon double Fri; Murder, My Sweet double Sat; The Long Goodbye + Chinatown Sun",
       "tags": [
         "film"
       ],
-      "url": "https://coolidge.org/films/spellbound-1945",
+      "why": "Thanksgiving-weekend noir series with several 35mm prints.",
+      "url": "https://brattlefilm.org/film-series/noirvember/",
+      "linkLabel": "Info",
+      "id": "2026-11-26-noirvember-hardboiled-wonderland",
+      "added": "2026-10-31"
+    },
+    {
+      "name": "The Art of Banksy",
+      "date": "2026-11-26",
+      "endDate": "2027-01-03",
+      "time": "10 AM–6 PM",
+      "startTime": "10:00",
+      "endTime": "18:00",
+      "venue": "Saunders Castle at Park Plaza, 130 Columbus Ave",
+      "area": "Boston",
+      "price": "From $34.50",
+      "note": "Unauthorized exhibit; not curated by Banksy",
+      "tags": [],
+      "why": "More than 150 Banksy works from private collections, including Flower Thrower and Girl with Balloon.",
+      "url": "https://feverup.com/m/833937",
       "linkLabel": "Tickets",
-      "id": "2026-11-25-spellbound-1945-discussion-noirvember",
-      "added": "2026-11-06"
+      "id": "2026-11-21-the-art-of-banksy",
+      "added": "2026-11-21"
     },
     {
       "name": "Noirvember: The Maltese Falcon (35mm)",
@@ -458,6 +289,84 @@
       "added": "2026-11-10"
     },
     {
+      "name": "Winter Oasis at View Boston",
+      "date": "2026-11-26",
+      "endDate": "2027-02-28",
+      "time": "12–10 PM",
+      "startTime": "12:00",
+      "endTime": "22:00",
+      "venue": "Stratus bar, View Boston (Prudential Tower)",
+      "area": "Boston",
+      "price": "$34",
+      "note": "Seating first come, first served",
+      "tags": [
+        "food"
+      ],
+      "why": "The bar atop the Pru is decked in icicles and lights, with holiday cocktails, small bites and city views.",
+      "url": "https://do617.com/events/2026/11/21/winter-oasis-at-view-boston-tickets",
+      "linkLabel": "Info",
+      "id": "2026-11-21-winter-oasis-at-view-boston",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "2026-11-20-sowa-christmas-market",
+      "name": "SoWa Christmas Market",
+      "date": "2026-11-26",
+      "endDate": "2026-12-27",
+      "time": "4–9 PM",
+      "startTime": "16:00",
+      "endTime": "21:00",
+      "venue": "SoWa Power Station",
+      "area": "South End",
+      "price": "$10 at the door",
+      "tags": [
+        "market",
+        "food"
+      ],
+      "why": "Indoor holiday market, open Nov 20 to Dec 27.",
+      "url": "https://www.thebostoncalendar.com/events/11th-annual-sowa-christmas-market-november-20-december-27",
+      "linkLabel": "Info",
+      "added": "2026-10-29"
+    },
+    {
+      "name": "ZooLights at Stone Zoo",
+      "date": "2026-11-26",
+      "endDate": "2027-01-03",
+      "time": "4–9:30 PM",
+      "startTime": "16:00",
+      "endTime": "21:30",
+      "venue": "Stone Zoo",
+      "area": "Stoneham",
+      "price": "Varies by date",
+      "note": "Nightly; closed Thanksgiving and Christmas",
+      "tags": [
+        "outdoors"
+      ],
+      "why": "The zoo's holiday light walk opens Nov 20.",
+      "url": "https://thrillzing.com/seasonal-events/zoolights-2026-stone-zoo/",
+      "linkLabel": "Info",
+      "id": "2026-11-20-zoolights-at-stone-zoo",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "2026-11-12-holly-jolly-christmas-bar",
+      "name": "Holly Jolly Christmas Bar pop-up",
+      "date": "2026-11-26",
+      "endDate": "2026-11-27",
+      "time": "From 5 PM",
+      "startTime": "17:00",
+      "venue": "Johnnie's",
+      "area": "West End",
+      "note": "Ticketed 90-minute open-seating slots, welcome drink included; times vary.",
+      "tags": [
+        "food"
+      ],
+      "why": "A holiday pop-up bar with decorations, cocktails and entertainment. Each ticket includes 90 minutes of seating and a welcome drink, with a non-alcoholic option.",
+      "url": "https://bucketlisters.com/experience/holly-jolly-christmas-bar-boston",
+      "linkLabel": "Tickets",
+      "added": "2026-11-09"
+    },
+    {
       "name": "Cowboy Country Karaoke with Lauralie & Band",
       "date": "2026-11-26",
       "time": "10:30 PM–2 AM",
@@ -476,20 +385,82 @@
       "added": "2026-11-21"
     },
     {
-      "name": "Noirvember: Hardboiled Wonderland",
-      "date": "2026-11-26",
-      "endDate": "2026-11-29",
-      "venue": "Brattle Theatre",
-      "area": "Cambridge",
-      "note": "Maltese Falcon double Fri; Murder, My Sweet double Sat; The Long Goodbye + Chinatown Sun",
+      "name": "A Christmas for the Birds (Gold Dust Orphans)",
+      "date": "2026-11-27",
+      "endDate": "2026-12-20",
+      "venue": "Iron Wolf Theatre, Lithuanian Citizens' Association",
+      "area": "Boston",
       "tags": [
-        "film"
+        "comedy"
       ],
-      "why": "Thanksgiving-weekend noir series with several 35mm prints.",
-      "url": "https://brattlefilm.org/film-series/noirvember/",
+      "why": "Ryan Landry and the Gold Dust Orphans' holiday parody of Hitchcock.",
+      "url": "https://www.bostonglobe.com/2026/11/06/arts/things-to-do-in-boston-holidays/",
       "linkLabel": "Info",
-      "id": "2026-11-26-noirvember-hardboiled-wonderland",
-      "added": "2026-10-31"
+      "id": "2026-11-27-a-christmas-for-the-birds-gold-dust-orphans",
+      "added": "2026-11-11"
+    },
+    {
+      "name": "SoWa Black Friday Open Studios",
+      "date": "2026-11-27",
+      "venue": "SoWa, South End",
+      "area": "Boston",
+      "price": "Free",
+      "free": true,
+      "tags": [
+        "market"
+      ],
+      "why": "Free open house at SoWa's galleries and studios.",
+      "url": "https://www.thebostoncalendar.com/events/59-things-to-do-in-boston-for-10-or-less-november-2026",
+      "linkLabel": "Info",
+      "id": "2026-11-27-sowa-black-friday-open-studios",
+      "added": "2026-11-11"
+    },
+    {
+      "id": "2026-11-27-faneuil-hall-holiday-market",
+      "name": "Faneuil Hall Holiday Marketplace",
+      "date": "2026-11-27",
+      "endDate": "2026-12-24",
+      "venue": "Quincy Market, 4 S. Market St",
+      "area": "Boston",
+      "free": true,
+      "note": "Weekends through Dec 24",
+      "tags": [
+        "market"
+      ],
+      "why": "A weekend holiday market at Quincy Market running through Christmas Eve.",
+      "url": "https://www.bostonglobe.com/2026/11/19/arts/things-to-do-boston-this-weekend/",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
+    },
+    {
+      "id": "2026-11-27-boston-ballet-nutcracker",
+      "name": "Boston Ballet: The Nutcracker",
+      "date": "2026-11-27",
+      "endDate": "2026-12-31",
+      "venue": "Citizens Opera House",
+      "area": "Boston",
+      "tags": [],
+      "why": "Mikko Nissinen's Nutcracker runs through Dec 31 at the Citizens Opera House.",
+      "url": "https://www.bostonballet.org/performances/the-nutcracker/",
+      "linkLabel": "Tickets",
+      "added": "2026-11-24"
+    },
+    {
+      "name": "Wax & Brass: Deep House, Vinyl & Live Sax",
+      "date": "2026-11-27",
+      "venue": "The Chemist",
+      "price": "Free before 10:30 PM, $15 at door; 21+",
+      "note": "WildOneSax (live sax), Sasha GavriLove (all-vinyl), Sasha Gold b2b Shechlectic, Markous",
+      "tags": [
+        "house",
+        "djs",
+        "music"
+      ],
+      "why": "Small deep-house night with vinyl sets and live saxophone; free before 10:30 PM.",
+      "url": "https://ra.co/events/2586717",
+      "linkLabel": "Info",
+      "id": "2026-11-27-wax-brass-deep-house-vinyl-live-sax",
+      "added": "2026-11-25"
     },
     {
       "name": "Free Exhibition Admission at the Boston Athenæum",
@@ -505,6 +476,26 @@
       "linkLabel": "Info",
       "id": "2026-11-27-free-exhibition-admission-at-the-boston-athen-um",
       "added": "2026-11-25"
+    },
+    {
+      "name": "Runamok Maple Sparkle Syrup Takeover",
+      "date": "2026-11-27",
+      "endDate": "2026-11-29",
+      "time": "10 AM–7 PM",
+      "startTime": "10:00",
+      "endTime": "19:00",
+      "venue": "Museum of Ice Cream",
+      "area": "Boston",
+      "price": "$28+",
+      "note": "Last weekend of the November collab",
+      "tags": [
+        "food"
+      ],
+      "why": "Custom ice cream with shimmering 'Sparkle Syrup' for Runamok Maple's 10th anniversary.",
+      "url": "https://www.thebostoncalendar.com/events/runamok-maple-sparkle-syrup-takeover-at-museum-of-ice-cream-boston",
+      "linkLabel": "Info",
+      "id": "2026-11-27-runamok-maple-sparkle-syrup-takeover",
+      "added": "2026-11-26"
     },
     {
       "name": "The Rink at the Tall Ship",
@@ -689,82 +680,20 @@
       "added": "2026-11-22"
     },
     {
-      "name": "A Christmas for the Birds (Gold Dust Orphans)",
-      "date": "2026-11-27",
-      "endDate": "2026-12-20",
-      "venue": "Iron Wolf Theatre, Lithuanian Citizens' Association",
+      "name": "FUNKYTOWN with Rob Singh",
+      "date": "2026-11-28",
+      "venue": "Spy Bar (under the Revolution Hotel)",
       "area": "Boston",
+      "price": "$0 tickets on RA",
       "tags": [
-        "comedy"
-      ],
-      "why": "Ryan Landry and the Gold Dust Orphans' holiday parody of Hitchcock.",
-      "url": "https://www.bostonglobe.com/2026/11/06/arts/things-to-do-in-boston-holidays/",
-      "linkLabel": "Info",
-      "id": "2026-11-27-a-christmas-for-the-birds-gold-dust-orphans",
-      "added": "2026-11-11"
-    },
-    {
-      "name": "SoWa Black Friday Open Studios",
-      "date": "2026-11-27",
-      "venue": "SoWa, South End",
-      "area": "Boston",
-      "price": "Free",
-      "free": true,
-      "tags": [
-        "market"
-      ],
-      "why": "Free open house at SoWa's galleries and studios.",
-      "url": "https://www.thebostoncalendar.com/events/59-things-to-do-in-boston-for-10-or-less-november-2026",
-      "linkLabel": "Info",
-      "id": "2026-11-27-sowa-black-friday-open-studios",
-      "added": "2026-11-11"
-    },
-    {
-      "id": "2026-11-27-faneuil-hall-holiday-market",
-      "name": "Faneuil Hall Holiday Marketplace",
-      "date": "2026-11-27",
-      "endDate": "2026-12-24",
-      "venue": "Quincy Market, 4 S. Market St",
-      "area": "Boston",
-      "free": true,
-      "note": "Weekends through Dec 24",
-      "tags": [
-        "market"
-      ],
-      "why": "A weekend holiday market at Quincy Market running through Christmas Eve.",
-      "url": "https://www.bostonglobe.com/2026/11/19/arts/things-to-do-boston-this-weekend/",
-      "linkLabel": "Info",
-      "added": "2026-11-23"
-    },
-    {
-      "id": "2026-11-27-boston-ballet-nutcracker",
-      "name": "Boston Ballet: The Nutcracker",
-      "date": "2026-11-27",
-      "endDate": "2026-12-31",
-      "venue": "Citizens Opera House",
-      "area": "Boston",
-      "tags": [],
-      "why": "Mikko Nissinen's Nutcracker runs through Dec 31 at the Citizens Opera House.",
-      "url": "https://www.bostonballet.org/performances/the-nutcracker/",
-      "linkLabel": "Tickets",
-      "added": "2026-11-24"
-    },
-    {
-      "name": "Wax & Brass: Deep House, Vinyl & Live Sax",
-      "date": "2026-11-27",
-      "venue": "The Chemist",
-      "price": "Free before 10:30 PM, $15 at door; 21+",
-      "note": "WildOneSax (live sax), Sasha GavriLove (all-vinyl), Sasha Gold b2b Shechlectic, Markous",
-      "tags": [
-        "house",
         "djs",
         "music"
       ],
-      "why": "Small deep-house night with vinyl sets and live saxophone; free before 10:30 PM.",
-      "url": "https://ra.co/events/2586717",
-      "linkLabel": "Info",
-      "id": "2026-11-27-wax-brass-deep-house-vinyl-live-sax",
-      "added": "2026-11-25"
+      "why": "Funk, soul and disco from Rob Singh and MARSJPTR in the small bar under the Revolution Hotel.",
+      "url": "https://ra.co/events/2576239",
+      "linkLabel": "Tickets",
+      "id": "2026-11-28-funkytown-with-rob-singh",
+      "added": "2026-11-26"
     },
     {
       "name": "Holiday Pop-Up Market",
@@ -965,6 +894,27 @@
       "added": "2026-11-23"
     },
     {
+      "name": "Enzo is Burning",
+      "date": "2026-11-28",
+      "time": "9:30 PM–2 AM",
+      "startTime": "21:30",
+      "endTime": "02:00",
+      "venue": "bsmnt (W Hotel basement)",
+      "area": "Boston",
+      "price": "Free before 11 PM with guestlist RSVP",
+      "free": true,
+      "note": "Free entry before 11 PM on the Bassline Boston guestlist, subject to capacity",
+      "tags": [
+        "house",
+        "djs"
+      ],
+      "why": "Minimal tech-house night with R&B edits in bsmnt's 200-capacity room.",
+      "url": "https://www.thebostoncalendar.com/events/enzo-is-burning--35",
+      "linkLabel": "Info",
+      "id": "2026-11-28-enzo-is-burning",
+      "added": "2026-11-26"
+    },
+    {
       "name": "Infra presents: Tauceti, KAYLA & Profiler",
       "date": "2026-11-28",
       "time": "10 PM–late",
@@ -1079,6 +1029,20 @@
       "added": "2026-11-22"
     },
     {
+      "name": "Science on Screen: Sneakers",
+      "date": "2026-11-30",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "The 1992 hacker caper, introduced by mathematicians Lauren K. Williams and Ken Ono.",
+      "url": "https://www.coolidge.org/",
+      "linkLabel": "Info",
+      "id": "2026-11-30-science-on-screen-sneakers",
+      "added": "2026-11-05"
+    },
+    {
       "id": "2026-11-30-copley-square-tree-lighting",
       "name": "Copley Square Park reopening + tree lighting",
       "date": "2026-11-30",
@@ -1132,18 +1096,20 @@
       "added": "2026-11-24"
     },
     {
-      "name": "Science on Screen: Sneakers",
-      "date": "2026-11-30",
-      "venue": "Coolidge Corner Theatre",
-      "area": "Brookline",
+      "id": "2026-12-01-brattle-david-lynch",
+      "name": "Wild at Heart and Weird on Top: The Cinema of David Lynch",
+      "date": "2026-12-01",
+      "endDate": "2026-12-10",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "note": "Repertory series, Dec 1–10 Eraserhead + shorts Dec 2, Inland Empire Dec 3, Blue Velvet Dec 5, Mulholland Drive/Straight Story Dec 6.",
       "tags": [
         "film"
       ],
-      "why": "The 1992 hacker caper, introduced by mathematicians Lauren K. Williams and Ken Ono.",
-      "url": "https://www.coolidge.org/",
+      "why": "The Brattle runs David Lynch's complete features over ten days in early December.",
+      "url": "https://brattlefilm.org/2026/11/03/announcing-the-brattles-new-holidays-2026-calendar/",
       "linkLabel": "Info",
-      "id": "2026-11-30-science-on-screen-sneakers",
-      "added": "2026-11-05"
+      "added": "2026-11-07"
     },
     {
       "id": "2026-12-01-love-has-come-passim",
@@ -1163,20 +1129,19 @@
       "added": "2026-11-23"
     },
     {
-      "id": "2026-12-01-brattle-david-lynch",
-      "name": "Wild at Heart and Weird on Top: The Cinema of David Lynch",
-      "date": "2026-12-01",
-      "endDate": "2026-12-10",
-      "venue": "Brattle Theatre",
-      "area": "Cambridge",
-      "note": "Repertory series, Dec 1–10 Eraserhead + shorts Dec 2, Inland Empire Dec 3, Blue Velvet Dec 5, Mulholland Drive/Straight Story Dec 6.",
+      "name": "L.A. Confidential in 35mm (Noirvember)",
+      "date": "2026-12-02",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "note": "Discussion at select screenings",
       "tags": [
         "film"
       ],
-      "why": "The Brattle runs David Lynch's complete features over ten days in early December.",
-      "url": "https://brattlefilm.org/2026/11/03/announcing-the-brattles-new-holidays-2026-calendar/",
+      "why": "Closes the Coolidge's Noirvember run.",
+      "url": "https://www.coolidge.org/",
       "linkLabel": "Info",
-      "added": "2026-11-07"
+      "id": "2026-12-02-l-a-confidential-in-35mm-noirvember",
+      "added": "2026-11-05"
     },
     {
       "name": "Survivor 51 Ep. 11 Watch Party",
@@ -1251,19 +1216,52 @@
       "added": "2026-11-16"
     },
     {
-      "name": "L.A. Confidential in 35mm (Noirvember)",
-      "date": "2026-12-02",
+      "name": "Clifford (Cult Classics)",
+      "date": "2026-12-03",
       "venue": "Coolidge Corner Theatre",
       "area": "Brookline",
-      "note": "Discussion at select screenings",
       "tags": [
         "film"
       ],
-      "why": "Closes the Coolidge's Noirvember run.",
-      "url": "https://www.coolidge.org/",
-      "linkLabel": "Info",
-      "id": "2026-12-02-l-a-confidential-in-35mm-noirvember",
-      "added": "2026-11-05"
+      "why": "The 1994 Martin Short black comedy as a one-night cult screening.",
+      "url": "https://coolidge.org/films/clifford",
+      "linkLabel": "Tickets",
+      "id": "2026-12-03-clifford-cult-classics",
+      "added": "2026-11-06"
+    },
+    {
+      "id": "2026-12-03-byob-holiday-lights-trolley",
+      "name": "BYOB Holiday Lights Trolley Tours",
+      "date": "2026-12-03",
+      "endDate": "2026-12-26",
+      "time": "3–7 PM or 6:30–10:30 PM",
+      "venue": "Departs The Bebop / A.T. O'Keefe's, 1116 Boylston St",
+      "area": "Boston",
+      "price": "$89.95",
+      "note": "21+ for BYOB. Includes an appetizer at check-in.",
+      "tags": [
+        "outdoors"
+      ],
+      "why": "A vintage trolley tour past the Common, Greenway, Copley and Comm Ave lights, with music and trivia, and you can bring your own drinks.",
+      "url": "https://www.thebostoncalendar.com/events/byob-holiday-lights-trolley-tours-boston",
+      "linkLabel": "Tickets",
+      "added": "2026-11-08"
+    },
+    {
+      "id": "2026-12-03-holiday-pops",
+      "name": "Holiday Pops",
+      "date": "2026-12-03",
+      "endDate": "2026-12-24",
+      "venue": "Symphony Hall, 301 Massachusetts Ave",
+      "area": "Boston",
+      "tags": [
+        "music"
+      ],
+      "note": "32 performances",
+      "why": "The Boston Pops' holiday run, 32 performances at Symphony Hall.",
+      "url": "https://www.bso.org/events/holiday-pops-2026",
+      "linkLabel": "Tickets",
+      "added": "2026-11-24"
     },
     {
       "name": "Sip & Shop at CambridgeSide",
@@ -1328,7 +1326,7 @@
       "startTime": "18:30",
       "venue": "Somerville Theatre",
       "area": "Somerville",
-      "note": "Filmmaker intro; free posters for first 20; 6:30 PM show sold out; 9 PM has tickets",
+      "note": "Filmmaker intro; free posters for first 20; 6:30 PM show sold out; 9 PM has tickets 6:30 PM show sold out; 9 PM still available",
       "tags": [
         "somerville",
         "film"
@@ -1378,51 +1376,79 @@
       "added": "2026-11-22"
     },
     {
-      "name": "Clifford (Cult Classics)",
-      "date": "2026-12-03",
+      "name": "After Midnite: Child's Play + Eraserhead (35mm)",
+      "date": "2026-12-04",
       "venue": "Coolidge Corner Theatre",
       "area": "Brookline",
+      "note": "Two separate late-night titles; Eraserhead on 35mm.",
       "tags": [
         "film"
       ],
-      "why": "The 1994 Martin Short black comedy as a one-night cult screening.",
-      "url": "https://coolidge.org/films/clifford",
-      "linkLabel": "Tickets",
-      "id": "2026-12-03-clifford-cult-classics",
-      "added": "2026-11-06"
+      "why": "Coolidge's late-night series lists Child's Play and Eraserhead on the same Friday.",
+      "url": "https://coolidge.org/programs/after-midnite",
+      "linkLabel": "Info",
+      "id": "2026-12-04-after-midnite-child-s-play-eraserhead-35mm",
+      "added": "2026-11-12"
     },
     {
-      "id": "2026-12-03-byob-holiday-lights-trolley",
-      "name": "BYOB Holiday Lights Trolley Tours",
-      "date": "2026-12-03",
-      "endDate": "2026-12-26",
-      "time": "3–7 PM or 6:30–10:30 PM",
-      "venue": "Departs The Bebop / A.T. O'Keefe's, 1116 Boylston St",
-      "area": "Boston",
-      "price": "$89.95",
-      "note": "21+ for BYOB. Includes an appetizer at check-in.",
+      "name": "Mudflat Open Studio & Pottery Sale",
+      "date": "2026-12-04",
+      "endDate": "2026-12-13",
+      "venue": "Mudflat Studio",
+      "area": "Somerville",
       "tags": [
-        "outdoors"
+        "somerville",
+        "market"
       ],
-      "why": "A vintage trolley tour past the Common, Greenway, Copley and Comm Ave lights, with music and trivia, and you can bring your own drinks.",
-      "url": "https://www.thebostoncalendar.com/events/byob-holiday-lights-trolley-tours-boston",
-      "linkLabel": "Tickets",
-      "added": "2026-11-08"
+      "why": "Mudflat's ceramics studio holds its holiday open studio and pottery sale.",
+      "note": "Check Mudflat's page for hours",
+      "url": "https://www.mudflat.org/open-studio-pottery-sales",
+      "linkLabel": "Info",
+      "id": "2026-12-04-mudflat-open-studio-pottery-sale",
+      "added": "2026-11-13"
     },
     {
-      "id": "2026-12-03-holiday-pops",
-      "name": "Holiday Pops",
-      "date": "2026-12-03",
-      "endDate": "2026-12-24",
-      "venue": "Symphony Hall, 301 Massachusetts Ave",
+      "name": "SMFA at Tufts Art Sale",
+      "date": "2026-12-04",
+      "endDate": "2026-12-06",
+      "venue": "SMFA at Tufts, 230 Fenway",
       "area": "Boston",
+      "tags": [
+        "market"
+      ],
+      "why": "Annual sale of work by SMFA students, faculty and alumni.",
+      "url": "https://smfa.tufts.edu/events-exhibitions/art-sale/faq",
+      "linkLabel": "Info",
+      "id": "2026-12-04-smfa-at-tufts-art-sale",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "2026-12-04-mexodus",
+      "name": "Mexodus (A.R.T.)",
+      "date": "2026-12-04",
+      "endDate": "2027-01-10",
+      "venue": "Loeb Drama Center, 64 Brattle St",
+      "area": "Cambridge",
+      "price": "$45–$131",
       "tags": [
         "music"
       ],
-      "note": "32 performances",
-      "why": "The Boston Pops' holiday run, 32 performances at Symphony Hall.",
-      "url": "https://www.bso.org/events/holiday-pops-2026",
+      "why": "Helen Hayes Award-winning hip-hop musical, built on live-looped music, about the Underground Railroad that ran south into Mexico.",
+      "url": "https://americanrepertorytheater.org/shows-events/mexodus/",
       "linkLabel": "Tickets",
+      "added": "2026-11-24"
+    },
+    {
+      "id": "2026-12-04-black-nativity",
+      "name": "Black Nativity",
+      "date": "2026-12-04",
+      "endDate": "2026-12-20",
+      "venue": "Robert J. Orchard Stage, Emerson Paramount Center",
+      "area": "Boston",
+      "tags": [],
+      "why": "Holiday production at the Emerson Paramount Center, Dec 4–20, from the Globe's holiday roundup.",
+      "url": "https://www.bostonglobe.com/2026/11/06/arts/things-to-do-in-boston-holidays/",
+      "linkLabel": "Info",
       "added": "2026-11-24"
     },
     {
@@ -1546,80 +1572,83 @@
       "added": "2026-11-25"
     },
     {
-      "name": "After Midnite: Child's Play + Eraserhead (35mm)",
-      "date": "2026-12-04",
-      "venue": "Coolidge Corner Theatre",
-      "area": "Brookline",
-      "note": "Two separate late-night titles; Eraserhead on 35mm.",
-      "tags": [
-        "film"
-      ],
-      "why": "Coolidge's late-night series lists Child's Play and Eraserhead on the same Friday.",
-      "url": "https://coolidge.org/programs/after-midnite",
-      "linkLabel": "Info",
-      "id": "2026-12-04-after-midnite-child-s-play-eraserhead-35mm",
-      "added": "2026-11-12"
-    },
-    {
-      "name": "Mudflat Open Studio & Pottery Sale",
-      "date": "2026-12-04",
-      "endDate": "2026-12-13",
-      "venue": "Mudflat Studio",
+      "name": "Central Street & Vernon Street Open Studios",
+      "date": "2026-12-05",
+      "endDate": "2026-12-06",
+      "venue": "Central Street Studios / Vernon Street Studios",
       "area": "Somerville",
       "tags": [
         "somerville",
         "market"
       ],
-      "why": "Mudflat's ceramics studio holds its holiday open studio and pottery sale.",
-      "note": "Check Mudflat's page for hours",
-      "url": "https://www.mudflat.org/open-studio-pottery-sales",
+      "why": "Two Somerville artist buildings open their studios the same weekend.",
+      "url": "https://centralstreetstudios.org/about/",
       "linkLabel": "Info",
-      "id": "2026-12-04-mudflat-open-studio-pottery-sale",
+      "id": "2026-12-05-central-street-vernon-street-open-studios",
       "added": "2026-11-13"
     },
     {
-      "name": "SMFA at Tufts Art Sale",
-      "date": "2026-12-04",
-      "endDate": "2026-12-06",
-      "venue": "SMFA at Tufts, 230 Fenway",
-      "area": "Boston",
+      "id": "2026-12-05-joy-movement-dance-party",
+      "name": "The Joy Movement Dance Party",
+      "date": "2026-12-05",
+      "venue": "The Substation, 4228 Washington St",
+      "area": "Roslindale",
+      "price": "$10 suggested donation",
       "tags": [
-        "market"
+        "house",
+        "djs"
       ],
-      "why": "Annual sale of work by SMFA students, faculty and alumni.",
-      "url": "https://smfa.tufts.edu/events-exhibitions/art-sale/faq",
-      "linkLabel": "Info",
-      "id": "2026-12-04-smfa-at-tufts-art-sale",
-      "added": "2026-11-21"
-    },
-    {
-      "id": "2026-12-04-mexodus",
-      "name": "Mexodus (A.R.T.)",
-      "date": "2026-12-04",
-      "endDate": "2027-01-10",
-      "venue": "Loeb Drama Center, 64 Brattle St",
-      "area": "Cambridge",
-      "price": "$45–$131",
-      "tags": [
-        "music"
-      ],
-      "why": "Helen Hayes Award-winning hip-hop musical, built on live-looped music, about the Underground Railroad that ran south into Mexico.",
-      "url": "https://americanrepertorytheater.org/shows-events/mexodus/",
+      "why": "Afro, jazzy, deep and soulful house from DJs Jenene C and Jesse C (JC2).",
+      "url": "https://joy-movement-dec.eventbrite.com",
       "linkLabel": "Tickets",
-      "added": "2026-11-24"
+      "added": "2026-11-16"
     },
     {
-      "id": "2026-12-04-black-nativity",
-      "name": "Black Nativity",
-      "date": "2026-12-04",
-      "endDate": "2026-12-20",
-      "venue": "Robert J. Orchard Stage, Emerson Paramount Center",
+      "name": "After Midnite: Tales from the Crypt (1972) on 35mm",
+      "date": "2026-12-05",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "The 1972 Amicus horror anthology on 35mm in the Coolidge's late-night After Midnite series.",
+      "url": "https://coolidge.org/films/tales-crypt-1972",
+      "linkLabel": "Tickets",
+      "id": "2026-12-05-after-midnite-tales-from-the-crypt-1972-on-35mm",
+      "added": "2026-11-18"
+    },
+    {
+      "name": "Boston Frostival holiday drone shows",
+      "date": "2026-12-05",
+      "endDate": "2026-12-19",
+      "time": "6 PM & 8 PM",
+      "venue": "Boston Common",
       "area": "Boston",
-      "tags": [],
-      "why": "Holiday production at the Emerson Paramount Center, Dec 4–20, from the Globe's holiday roundup.",
-      "url": "https://www.bostonglobe.com/2026/11/06/arts/things-to-do-in-boston-holidays/",
+      "note": "Saturdays Dec 5, 12, 19; two 15-minute shows each night",
+      "tags": [
+        "outdoors"
+      ],
+      "why": "Drone light shows over Boston Common as part of the city's Frostival.",
+      "url": "https://www.goboston.com/whats-happening-boston",
       "linkLabel": "Info",
-      "added": "2026-11-24"
+      "id": "2026-12-05-boston-frostival-holiday-drone-shows",
+      "added": "2026-11-22"
+    },
+    {
+      "name": "ZODIAC II (The Basement Project)",
+      "date": "2026-12-05",
+      "venue": "288 Green St",
+      "area": "Cambridge",
+      "price": "$25–$40",
+      "tags": [
+        "house",
+        "djs"
+      ],
+      "why": "House and deep house party with star-sign installations; FRANZIV, ViV:On, DJ Bookworm, 1R.fm and naDJa.",
+      "url": "https://ra.co/events/2575436",
+      "linkLabel": "Tickets",
+      "id": "2026-12-05-zodiac-ii-the-basement-project",
+      "added": "2026-11-26"
     },
     {
       "id": "2026-12-05-somerville-winter-farmers-market",
@@ -1786,67 +1815,19 @@
       "added": "2026-11-22"
     },
     {
-      "name": "Central Street & Vernon Street Open Studios",
-      "date": "2026-12-05",
-      "endDate": "2026-12-06",
-      "venue": "Central Street Studios / Vernon Street Studios",
-      "area": "Somerville",
-      "tags": [
-        "somerville",
-        "market"
-      ],
-      "why": "Two Somerville artist buildings open their studios the same weekend.",
-      "url": "https://centralstreetstudios.org/about/",
-      "linkLabel": "Info",
-      "id": "2026-12-05-central-street-vernon-street-open-studios",
-      "added": "2026-11-13"
-    },
-    {
-      "id": "2026-12-05-joy-movement-dance-party",
-      "name": "The Joy Movement Dance Party",
-      "date": "2026-12-05",
-      "venue": "The Substation, 4228 Washington St",
-      "area": "Roslindale",
-      "price": "$10 suggested donation",
-      "tags": [
-        "house",
-        "djs"
-      ],
-      "why": "Afro, jazzy, deep and soulful house from DJs Jenene C and Jesse C (JC2).",
-      "url": "https://joy-movement-dec.eventbrite.com",
-      "linkLabel": "Tickets",
-      "added": "2026-11-16"
-    },
-    {
-      "name": "After Midnite: Tales from the Crypt (1972) on 35mm",
-      "date": "2026-12-05",
+      "name": "Minotaur with director Andrey Zvyagintsev",
+      "date": "2026-12-06",
+      "endDate": "2026-12-07",
       "venue": "Coolidge Corner Theatre",
       "area": "Brookline",
       "tags": [
         "film"
       ],
-      "why": "The 1972 Amicus horror anthology on 35mm in the Coolidge's late-night After Midnite series.",
-      "url": "https://coolidge.org/films/tales-crypt-1972",
+      "why": "Zvyagintsev's Cannes Grand Prix–winning thriller, with the director in person.",
+      "url": "https://coolidge.org/events/minotaur-director-andrey-zvyagintsev",
       "linkLabel": "Tickets",
-      "id": "2026-12-05-after-midnite-tales-from-the-crypt-1972-on-35mm",
-      "added": "2026-11-18"
-    },
-    {
-      "name": "Boston Frostival holiday drone shows",
-      "date": "2026-12-05",
-      "endDate": "2026-12-19",
-      "time": "6 PM & 8 PM",
-      "venue": "Boston Common",
-      "area": "Boston",
-      "note": "Saturdays Dec 5, 12, 19; two 15-minute shows each night",
-      "tags": [
-        "outdoors"
-      ],
-      "why": "Drone light shows over Boston Common as part of the city's Frostival.",
-      "url": "https://www.goboston.com/whats-happening-boston",
-      "linkLabel": "Info",
-      "id": "2026-12-05-boston-frostival-holiday-drone-shows",
-      "added": "2026-11-22"
+      "id": "2026-12-06-minotaur-with-director-andrey-zvyagintsev",
+      "added": "2026-11-21"
     },
     {
       "name": "Open Newbury: Holiday Stroll",
@@ -1965,19 +1946,18 @@
       "added": "2026-11-16"
     },
     {
-      "name": "Minotaur with director Andrey Zvyagintsev",
-      "date": "2026-12-06",
-      "endDate": "2026-12-07",
+      "name": "McCabe & Mrs. Miller on 35mm + seminar",
+      "date": "2026-12-07",
       "venue": "Coolidge Corner Theatre",
       "area": "Brookline",
       "tags": [
         "film"
       ],
-      "why": "Zvyagintsev's Cannes Grand Prix–winning thriller, with the director in person.",
-      "url": "https://coolidge.org/events/minotaur-director-andrey-zvyagintsev",
-      "linkLabel": "Tickets",
-      "id": "2026-12-06-minotaur-with-director-andrey-zvyagintsev",
-      "added": "2026-11-21"
+      "why": "Altman's snowbound anti-western on 35mm in the Big Screen Classics series, with a seminar by Sarah Keller.",
+      "url": "https://coolidge.org/films/mccabe-mrs-miller",
+      "linkLabel": "Info",
+      "id": "2026-12-07-mccabe-mrs-miller-on-35mm-seminar",
+      "added": "2026-11-13"
     },
     {
       "name": "Astronomy on Tap: Five Years of JWST",
@@ -1994,20 +1974,6 @@
       "linkLabel": "Info",
       "id": "2026-12-07-astronomy-on-tap-five-years-of-jwst",
       "added": "2026-11-25"
-    },
-    {
-      "name": "McCabe & Mrs. Miller on 35mm + seminar",
-      "date": "2026-12-07",
-      "venue": "Coolidge Corner Theatre",
-      "area": "Brookline",
-      "tags": [
-        "film"
-      ],
-      "why": "Altman's snowbound anti-western on 35mm in the Big Screen Classics series, with a seminar by Sarah Keller.",
-      "url": "https://coolidge.org/films/mccabe-mrs-miller",
-      "linkLabel": "Info",
-      "id": "2026-12-07-mccabe-mrs-miller-on-35mm-seminar",
-      "added": "2026-11-13"
     },
     {
       "name": "Cameron Winter at Carnegie Hall (on film)",
@@ -2039,6 +2005,35 @@
       "url": "https://www.songkick.com/concerts/43474119-homeboy-sandman-at-rockwell",
       "linkLabel": "Info",
       "added": "2026-11-16"
+    },
+    {
+      "name": "Batman Returns on 35mm (Cult Classics)",
+      "date": "2026-12-10",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "Tim Burton's gothic Christmas-set sequel on 35mm.",
+      "url": "https://coolidge.org/films/batman-returns",
+      "linkLabel": "Info",
+      "id": "2026-12-10-batman-returns-on-35mm-cult-classics",
+      "added": "2026-11-13"
+    },
+    {
+      "name": "Harvard Ceramics Program Winter Show and Sale",
+      "date": "2026-12-10",
+      "endDate": "2026-12-13",
+      "venue": "Harvard Ceramics Program",
+      "area": "Allston",
+      "tags": [
+        "market"
+      ],
+      "why": "Harvard's ceramics studio holds its annual winter show and sale.",
+      "url": "https://ofa.fas.harvard.edu/show-and-sale",
+      "linkLabel": "Info",
+      "id": "2026-12-10-harvard-ceramics-program-winter-show-and-sale",
+      "added": "2026-11-13"
     },
     {
       "name": "Assembly Row Ugly Sweater Crawl",
@@ -2078,33 +2073,68 @@
       "added": "2026-11-24"
     },
     {
-      "name": "Batman Returns on 35mm (Cult Classics)",
-      "date": "2026-12-10",
+      "name": "After Midnite: Let the Right One In",
+      "date": "2026-12-11",
       "venue": "Coolidge Corner Theatre",
       "area": "Brookline",
       "tags": [
         "film"
       ],
-      "why": "Tim Burton's gothic Christmas-set sequel on 35mm.",
-      "url": "https://coolidge.org/films/batman-returns",
+      "why": "The Swedish vampire horror film in the Coolidge's late-night After Midnite series.",
+      "url": "https://coolidge.org/films/let-right-one",
       "linkLabel": "Info",
-      "id": "2026-12-10-batman-returns-on-35mm-cult-classics",
+      "id": "2026-12-11-after-midnite-let-the-right-one-in",
       "added": "2026-11-13"
     },
     {
-      "name": "Harvard Ceramics Program Winter Show and Sale",
-      "date": "2026-12-10",
+      "name": "Uncut Gems (35mm) + The Gambler double feature",
+      "date": "2026-12-11",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "tags": [
+        "film"
+      ],
+      "why": "The Safdies' anxiety thriller on 35mm, paired with the 1974 drama The Gambler.",
+      "url": "https://brattlefilm.org/movies/uncut-gems/",
+      "linkLabel": "Info",
+      "id": "2026-12-11-uncut-gems-35mm-the-gambler-double-feature",
+      "added": "2026-11-13"
+    },
+    {
+      "name": "Harvard Square Holiday Fair",
+      "date": "2026-12-11",
       "endDate": "2026-12-13",
-      "venue": "Harvard Ceramics Program",
-      "area": "Allston",
+      "time": "Fri 12–7 PM, Sat 11 AM–7 PM, Sun 12–6 PM",
+      "venue": "Galeria building, lower level, 57 JFK St",
+      "area": "Cambridge",
+      "price": "Free",
+      "free": true,
+      "note": "Runs again Dec 18–20",
       "tags": [
         "market"
       ],
-      "why": "Harvard's ceramics studio holds its annual winter show and sale.",
-      "url": "https://ofa.fas.harvard.edu/show-and-sale",
+      "why": "Indoor holiday craft fair in Harvard Square over two weekends; WBUR lists it as free.",
+      "url": "https://www.harvardsquareholidayfair.com/",
       "linkLabel": "Info",
-      "id": "2026-12-10-harvard-ceramics-program-winter-show-and-sale",
-      "added": "2026-11-13"
+      "id": "2026-12-11-harvard-square-holiday-fair",
+      "added": "2026-11-14"
+    },
+    {
+      "id": "2026-12-11-midwinter-revels",
+      "name": "Midwinter Revels: An American Celebration of the Solstice",
+      "date": "2026-12-11",
+      "endDate": "2026-12-28",
+      "venue": "Sanders Theatre, 45 Quincy St",
+      "area": "Cambridge",
+      "price": "$47–$107 (preview Dec 11 $20–$75)",
+      "tags": [
+        "music"
+      ],
+      "note": "Preview Fri Dec 11 7 PM; shows Dec 12–13, 18–21, 23, 26–28",
+      "why": "The annual Revels solstice show, this year built on 19th-century songs and stories of the Great Plains. Patrons 35 and under can get $35 balcony seats with a promo code.",
+      "url": "https://revels.org/?p=22731",
+      "linkLabel": "Info",
+      "added": "2026-11-24"
     },
     {
       "name": "Vinyl Takeover at Aeronaut",
@@ -2237,68 +2267,47 @@
       "added": "2026-11-23"
     },
     {
-      "name": "After Midnite: Let the Right One In",
-      "date": "2026-12-11",
+      "id": "2026-12-12-the-shining-35mm-coolidge",
+      "name": "After Midnite: The Shining (35mm)",
+      "date": "2026-12-12",
       "venue": "Coolidge Corner Theatre",
       "area": "Brookline",
       "tags": [
         "film"
       ],
-      "why": "The Swedish vampire horror film in the Coolidge's late-night After Midnite series.",
-      "url": "https://coolidge.org/films/let-right-one",
+      "why": "Kubrick's The Shining on 35mm in the Coolidge's late-night After Midnite series.",
+      "url": "https://coolidge.org/films/shining",
       "linkLabel": "Info",
-      "id": "2026-12-11-after-midnite-let-the-right-one-in",
-      "added": "2026-11-13"
+      "added": "2026-11-16"
     },
     {
-      "name": "Uncut Gems (35mm) + The Gambler double feature",
-      "date": "2026-12-11",
+      "name": "Something Wild (35mm) + Married to the Mob",
+      "date": "2026-12-12",
       "venue": "Brattle Theatre",
       "area": "Cambridge",
       "tags": [
         "film"
       ],
-      "why": "The Safdies' anxiety thriller on 35mm, paired with the 1974 drama The Gambler.",
-      "url": "https://brattlefilm.org/movies/uncut-gems/",
-      "linkLabel": "Info",
-      "id": "2026-12-11-uncut-gems-35mm-the-gambler-double-feature",
-      "added": "2026-11-13"
+      "why": "Jonathan Demme double feature: the dark-comedy thriller Something Wild on 35mm with Married to the Mob.",
+      "url": "https://brattlefilm.org/movies/something-wild/",
+      "linkLabel": "Tickets",
+      "id": "2026-12-12-something-wild-35mm-married-to-the-mob",
+      "added": "2026-11-17"
     },
     {
-      "name": "Harvard Square Holiday Fair",
-      "date": "2026-12-11",
-      "endDate": "2026-12-13",
-      "time": "Fri 12–7 PM, Sat 11 AM–7 PM, Sun 12–6 PM",
-      "venue": "Galeria building, lower level, 57 JFK St",
-      "area": "Cambridge",
-      "price": "Free",
-      "free": true,
-      "note": "Runs again Dec 18–20",
+      "name": "SAF Holiday Art Fair at Bow Market",
+      "date": "2026-12-12",
+      "venue": "Bow Market, 1 Bow Market Way",
+      "area": "Somerville",
       "tags": [
+        "somerville",
         "market"
       ],
-      "why": "Indoor holiday craft fair in Harvard Square over two weekends; WBUR lists it as free.",
-      "url": "https://www.harvardsquareholidayfair.com/",
+      "why": "Somerville Art Fair's holiday fair of local artists.",
+      "url": "https://www.thecraftmap.com/fair/saf-holiday-art-fair-at-bow-market-somerville-ma",
       "linkLabel": "Info",
-      "id": "2026-12-11-harvard-square-holiday-fair",
-      "added": "2026-11-14"
-    },
-    {
-      "id": "2026-12-11-midwinter-revels",
-      "name": "Midwinter Revels: An American Celebration of the Solstice",
-      "date": "2026-12-11",
-      "endDate": "2026-12-28",
-      "venue": "Sanders Theatre, 45 Quincy St",
-      "area": "Cambridge",
-      "price": "$47–$107 (preview Dec 11 $20–$75)",
-      "tags": [
-        "music"
-      ],
-      "note": "Preview Fri Dec 11 7 PM; shows Dec 12–13, 18–21, 23, 26–28",
-      "why": "The annual Revels solstice show, this year built on 19th-century songs and stories of the Great Plains. Patrons 35 and under can get $35 balcony seats with a promo code.",
-      "url": "https://revels.org/?p=22731",
-      "linkLabel": "Info",
-      "added": "2026-11-24"
+      "id": "2026-12-12-saf-holiday-art-fair-at-bow-market",
+      "added": "2026-11-21"
     },
     {
       "name": "Cultural Survival Bazaar",
@@ -2475,47 +2484,32 @@
       "endTime": "02:00"
     },
     {
-      "id": "2026-12-12-the-shining-35mm-coolidge",
-      "name": "After Midnite: The Shining (35mm)",
-      "date": "2026-12-12",
-      "venue": "Coolidge Corner Theatre",
-      "area": "Brookline",
-      "tags": [
-        "film"
-      ],
-      "why": "Kubrick's The Shining on 35mm in the Coolidge's late-night After Midnite series.",
-      "url": "https://coolidge.org/films/shining",
-      "linkLabel": "Info",
-      "added": "2026-11-16"
-    },
-    {
-      "name": "Something Wild (35mm) + Married to the Mob",
-      "date": "2026-12-12",
+      "id": "2026-12-13-the-women-illeana-douglas-brattle",
+      "name": "The Women (1939) + An Evening with Illeana Douglas",
+      "date": "2026-12-13",
       "venue": "Brattle Theatre",
       "area": "Cambridge",
       "tags": [
         "film"
       ],
-      "why": "Jonathan Demme double feature: the dark-comedy thriller Something Wild on 35mm with Married to the Mob.",
-      "url": "https://brattlefilm.org/movies/something-wild/",
-      "linkLabel": "Tickets",
-      "id": "2026-12-12-something-wild-35mm-married-to-the-mob",
-      "added": "2026-11-17"
+      "why": "Illeana Douglas appears in person with George Cukor's 1939 comedy The Women.",
+      "url": "https://brattlefilm.org/movies/the-women/",
+      "linkLabel": "Info",
+      "added": "2026-11-16"
     },
     {
-      "name": "SAF Holiday Art Fair at Bow Market",
-      "date": "2026-12-12",
-      "venue": "Bow Market, 1 Bow Market Way",
-      "area": "Somerville",
+      "name": "Looking for Langston + discussion",
+      "date": "2026-12-13",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
       "tags": [
-        "somerville",
-        "market"
+        "film"
       ],
-      "why": "Somerville Art Fair's holiday fair of local artists.",
-      "url": "https://www.thecraftmap.com/fair/saf-holiday-art-fair-at-bow-market-somerville-ma",
-      "linkLabel": "Info",
-      "id": "2026-12-12-saf-holiday-art-fair-at-bow-market",
-      "added": "2026-11-21"
+      "why": "Isaac Julien's 1989 film about the Harlem Renaissance, followed by a discussion with guests from The Theater Offensive.",
+      "url": "https://coolidge.org/films/looking-langston",
+      "linkLabel": "Tickets",
+      "id": "2026-12-13-looking-for-langston-discussion",
+      "added": "2026-11-18"
     },
     {
       "name": "West End Museum Holiday Market",
@@ -2554,31 +2548,17 @@
       "added": "2026-11-19"
     },
     {
-      "id": "2026-12-13-the-women-illeana-douglas-brattle",
-      "name": "The Women (1939) + An Evening with Illeana Douglas",
-      "date": "2026-12-13",
-      "venue": "Brattle Theatre",
-      "area": "Cambridge",
-      "tags": [
-        "film"
-      ],
-      "why": "Illeana Douglas appears in person with George Cukor's 1939 comedy The Women.",
-      "url": "https://brattlefilm.org/movies/the-women/",
-      "linkLabel": "Info",
-      "added": "2026-11-16"
-    },
-    {
-      "name": "Looking for Langston + discussion",
-      "date": "2026-12-13",
+      "name": "Science on Screen: Altered States",
+      "date": "2026-12-14",
       "venue": "Coolidge Corner Theatre",
       "area": "Brookline",
       "tags": [
         "film"
       ],
-      "why": "Isaac Julien's 1989 film about the Harlem Renaissance, followed by a discussion with guests from The Theater Offensive.",
-      "url": "https://coolidge.org/films/looking-langston",
+      "why": "Ken Russell's 1980 sci-fi body-horror film, introduced by Laura Warren, MD, as part of Science on Screen.",
+      "url": "https://coolidge.org/films/altered-states",
       "linkLabel": "Tickets",
-      "id": "2026-12-13-looking-for-langston-discussion",
+      "id": "2026-12-14-science-on-screen-altered-states",
       "added": "2026-11-18"
     },
     {
@@ -2597,18 +2577,20 @@
       "added": "2026-11-22"
     },
     {
-      "name": "Science on Screen: Altered States",
-      "date": "2026-12-14",
-      "venue": "Coolidge Corner Theatre",
+      "id": "2026-12-15-dune-part-three-70mm",
+      "name": "Dune: Part Three in 70mm",
+      "date": "2026-12-15",
+      "endDate": "2026-12-24",
+      "venue": "Coolidge Corner Theatre, 290 Harvard St",
       "area": "Brookline",
+      "note": "Tue 12/15 6 PM and Thu 12/17 6:30 PM, then daily from Fri 12/18",
       "tags": [
         "film"
       ],
-      "why": "Ken Russell's 1980 sci-fi body-horror film, introduced by Laura Warren, MD, as part of Science on Screen.",
-      "url": "https://coolidge.org/films/altered-states",
-      "linkLabel": "Tickets",
-      "id": "2026-12-14-science-on-screen-altered-states",
-      "added": "2026-11-18"
+      "why": "The Coolidge is showing Dune: Part Three on a 70mm print in Moviehouse 1.",
+      "url": "https://coolidge.org/node/76142",
+      "linkLabel": "Info",
+      "added": "2026-11-23"
     },
     {
       "name": "Boston in 12 Massacres Part IV",
@@ -2627,22 +2609,6 @@
       "linkLabel": "Tickets",
       "id": "2026-12-15-boston-in-12-massacres-part-iv",
       "added": "2026-11-22"
-    },
-    {
-      "id": "2026-12-15-dune-part-three-70mm",
-      "name": "Dune: Part Three in 70mm",
-      "date": "2026-12-15",
-      "endDate": "2026-12-24",
-      "venue": "Coolidge Corner Theatre, 290 Harvard St",
-      "area": "Brookline",
-      "note": "Tue 12/15 6 PM and Thu 12/17 6:30 PM, then daily from Fri 12/18",
-      "tags": [
-        "film"
-      ],
-      "why": "The Coolidge is showing Dune: Part Three on a 70mm print in Moviehouse 1.",
-      "url": "https://coolidge.org/node/76142",
-      "linkLabel": "Info",
-      "added": "2026-11-23"
     },
     {
       "name": "Survivor 51 Finale Party",
@@ -2733,6 +2699,53 @@
       "added": "2026-11-23"
     },
     {
+      "name": "Grrl Haus Cinema: Horror and Camp Shorts",
+      "date": "2026-12-17",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "tags": [
+        "film"
+      ],
+      "why": "Horror and camp short films: giallo-style suspense, DIY horror, noir mysteries and cosmic dread.",
+      "url": "https://brattlefilm.org/special_events/grrl-haus-cinema/",
+      "linkLabel": "Tickets",
+      "id": "2026-12-17-grrl-haus-cinema-horror-and-camp-shorts",
+      "added": "2026-11-26"
+    },
+    {
+      "name": "Dial Code Santa Claus (restoration)",
+      "date": "2026-12-18",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
+      "tags": [
+        "film"
+      ],
+      "why": "1989 French cult Christmas home-invasion thriller, newly restored.",
+      "url": "https://coolidge.org/films/dial-code-santa-claus",
+      "linkLabel": "Tickets",
+      "id": "2026-12-18-dial-code-santa-claus-restoration",
+      "added": "2026-11-21"
+    },
+    {
+      "name": "It's a Wonderful Life (35mm)",
+      "date": "2026-12-18",
+      "endDate": "2026-12-20",
+      "time": "Times vary by day",
+      "venue": "Brattle Theatre",
+      "area": "Cambridge",
+      "note": "7 shows",
+      "tags": [
+        "film"
+      ],
+      "why": "The Brattle's yearly holiday 35mm run.",
+      "url": "https://brattlefilm.org/movies/its-a-wonderful-life/",
+      "linkLabel": "Tickets",
+      "id": "2026-12-18-it-s-a-wonderful-life-35mm",
+      "added": "2026-11-22"
+    },
+    {
       "id": "2026-12-18-street-dogs-wreck-the-halls",
       "name": "Street Dogs: Wreck the Halls",
       "date": "2026-12-18",
@@ -2783,35 +2796,19 @@
       "added": "2026-11-21"
     },
     {
-      "name": "Dial Code Santa Claus (restoration)",
-      "date": "2026-12-18",
-      "venue": "Coolidge Corner Theatre",
-      "area": "Brookline",
-      "tags": [
-        "film"
-      ],
-      "why": "1989 French cult Christmas home-invasion thriller, newly restored.",
-      "url": "https://coolidge.org/films/dial-code-santa-claus",
-      "linkLabel": "Tickets",
-      "id": "2026-12-18-dial-code-santa-claus-restoration",
-      "added": "2026-11-21"
-    },
-    {
-      "name": "It's a Wonderful Life (35mm)",
-      "date": "2026-12-18",
+      "name": "Holiday Feast (Front Porch Arts Collective)",
+      "date": "2026-12-19",
       "endDate": "2026-12-20",
-      "time": "Times vary by day",
-      "venue": "Brattle Theatre",
-      "area": "Cambridge",
-      "note": "7 shows",
+      "venue": "Modern Theatre at Suffolk University",
+      "area": "Boston",
       "tags": [
-        "film"
+        "comedy"
       ],
-      "why": "The Brattle's yearly holiday 35mm run.",
-      "url": "https://brattlefilm.org/movies/its-a-wonderful-life/",
-      "linkLabel": "Tickets",
-      "id": "2026-12-18-it-s-a-wonderful-life-35mm",
-      "added": "2026-11-22"
+      "why": "Staged readings of holiday episodes of What's Happening!!, Living Single and The Jamie Foxx Show.",
+      "url": "https://www.frontporcharts.org",
+      "linkLabel": "Info",
+      "id": "2026-12-19-holiday-feast-front-porch-arts-collective",
+      "added": "2026-11-25"
     },
     {
       "name": "Illuminations Bike Tour",
@@ -2886,19 +2883,18 @@
       "added": "2026-11-23"
     },
     {
-      "name": "Holiday Feast (Front Porch Arts Collective)",
-      "date": "2026-12-19",
-      "endDate": "2026-12-20",
-      "venue": "Modern Theatre at Suffolk University",
-      "area": "Boston",
+      "id": "2026-12-21-christmas-in-connecticut-35mm",
+      "name": "Christmas in Connecticut (35mm)",
+      "date": "2026-12-21",
+      "venue": "Coolidge Corner Theatre",
+      "area": "Brookline",
       "tags": [
-        "comedy"
+        "film"
       ],
-      "why": "Staged readings of holiday episodes of What's Happening!!, Living Single and The Jamie Foxx Show.",
-      "url": "https://www.frontporcharts.org",
+      "why": "Christmas in Connecticut screens on 35mm at the Coolidge.",
+      "url": "https://coolidge.org/films/christmas-connecticut",
       "linkLabel": "Info",
-      "id": "2026-12-19-holiday-feast-front-porch-arts-collective",
-      "added": "2026-11-25"
+      "added": "2026-11-24"
     },
     {
       "id": "2026-12-21-winter-solstice-night-marzae",
@@ -2916,20 +2912,6 @@
       ],
       "why": "Mulled wine and raclette all night, plus festive music and special menu items. Reservations recommended; after 6 PM enter from the corner of Congress and Sudbury Streets.",
       "url": "https://www.thebostoncalendar.com/events/winter-solstice-night",
-      "linkLabel": "Info",
-      "added": "2026-11-24"
-    },
-    {
-      "id": "2026-12-21-christmas-in-connecticut-35mm",
-      "name": "Christmas in Connecticut (35mm)",
-      "date": "2026-12-21",
-      "venue": "Coolidge Corner Theatre",
-      "area": "Brookline",
-      "tags": [
-        "film"
-      ],
-      "why": "Christmas in Connecticut screens on 35mm at the Coolidge.",
-      "url": "https://coolidge.org/films/christmas-connecticut",
       "linkLabel": "Info",
       "added": "2026-11-24"
     },
@@ -2984,16 +2966,6 @@
   ],
   "djShows": [
     {
-      "artist": "Vintage Culture",
-      "date": "2026-11-25",
-      "time": "9 PM",
-      "startTime": "21:00",
-      "venue": "Royale",
-      "url": "https://royaleboston.com/event/vintage-culture-2/",
-      "onSale": "On sale now",
-      "added": "2026-11-16"
-    },
-    {
       "artist": "Eric Prydz",
       "date": "2026-12-04",
       "time": "10 PM",
@@ -3027,17 +2999,6 @@
     }
   ],
   "comedyShows": [
-    {
-      "comedian": "Doughboys (live podcast)",
-      "date": "2026-11-25",
-      "time": "7:30 PM",
-      "startTime": "19:30",
-      "venue": "The Wilbur",
-      "area": "Boston",
-      "price": "$39–$49",
-      "url": "https://thewilbur.com/event/doughboys/",
-      "added": "2026-11-03"
-    },
     {
       "comedian": "Ian Lara",
       "date": "2026-11-27",
@@ -3073,6 +3034,16 @@
       "added": "2026-11-16"
     },
     {
+      "comedian": "Kyle Gordon",
+      "date": "2026-12-03",
+      "time": "Doors 7 PM",
+      "venue": "The Sinclair",
+      "area": "Cambridge",
+      "onSale": "On sale now",
+      "url": "https://www.songkick.com/concerts/43249271-kyle-gordon-at-sinclair",
+      "added": "2026-10-31"
+    },
+    {
       "comedian": "Gianmarco Soresi",
       "date": "2026-12-03",
       "time": "7:30 PM",
@@ -3106,16 +3077,6 @@
       "note": "Benefit show; 18+",
       "url": "https://www.thecomedystudio.com/events/tcs-presents-gary-gulman-a-benefit-for-the-malaria-consortium",
       "added": "2026-11-25"
-    },
-    {
-      "comedian": "Kyle Gordon",
-      "date": "2026-12-03",
-      "time": "Doors 7 PM",
-      "venue": "The Sinclair",
-      "area": "Cambridge",
-      "onSale": "On sale now",
-      "url": "https://www.songkick.com/concerts/43249271-kyle-gordon-at-sinclair",
-      "added": "2026-10-31"
     },
     {
       "comedian": "Gabby Bryan",
@@ -3176,6 +3137,18 @@
       "added": "2026-11-16"
     },
     {
+      "comedian": "Peter Liu",
+      "date": "2026-12-10",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "Laugh Boston",
+      "area": "Boston",
+      "price": "From $33",
+      "onSale": "On sale now",
+      "url": "https://www.tixr.com/groups/laughboston/events/peter-liu-204068",
+      "added": "2026-11-26"
+    },
+    {
       "comedian": "Whitmer Thomas",
       "date": "2026-12-10",
       "time": "8 PM",
@@ -3185,6 +3158,16 @@
       "onSale": "On sale now",
       "url": "https://seatgeek.com/whitmer-thomas-tickets/comedy/2026-12-10-8-pm/18827245",
       "added": "2026-11-25"
+    },
+    {
+      "comedian": "Jay Jurden",
+      "date": "2026-12-11",
+      "venue": "The Comedy Studio",
+      "area": "Cambridge",
+      "price": "$29.95",
+      "note": "Listing shows conflicting times; check before going",
+      "url": "https://www.thebostoncalendar.com/events/jay-jurden-stand-up--2",
+      "added": "2026-11-15"
     },
     {
       "comedian": "Jeff Dye",
@@ -3206,16 +3189,6 @@
       "area": "Lynn",
       "url": "https://www.thebostoncalendar.com/events/rob-schneider-lynn-ma-2026-comedy-tour",
       "added": "2026-11-16"
-    },
-    {
-      "comedian": "Jay Jurden",
-      "date": "2026-12-11",
-      "venue": "The Comedy Studio",
-      "area": "Cambridge",
-      "price": "$29.95",
-      "note": "Listing shows conflicting times; check before going",
-      "url": "https://www.thebostoncalendar.com/events/jay-jurden-stand-up--2",
-      "added": "2026-11-15"
     },
     {
       "comedian": "Janine Harouni",
@@ -3332,7 +3305,7 @@
       "date": "2027-01-07",
       "venue": "Laugh Boston",
       "area": "Boston",
-      "note": "Jan 7–9, 5 shows",
+      "note": "Runs Jan 7–9",
       "url": "https://theater.guide/events/kyle-kinane/",
       "added": "2026-10-29",
       "time": "7 PM",
@@ -3381,7 +3354,7 @@
       "venue": "The Wilbur",
       "area": "Boston",
       "price": "$49–$79",
-      "note": "Jan 15–16, 4 shows; only Jan 15 10 PM still has tickets",
+      "note": "4 shows over Jan 15–16",
       "url": "https://thewilbur.com/event/anthony-jeselnik-wrath-of-man/",
       "added": "2026-11-16"
     },
@@ -3432,6 +3405,14 @@
       "added": "2026-10-30"
     },
     {
+      "comedian": "Bored Teachers: Is It Friday Yet?! Tour",
+      "date": "2027-01-23",
+      "venue": "Chevalier Theatre",
+      "area": "Medford",
+      "url": "https://app.songkick.com/metro-areas/18842-us-boston-cambridge/2027/genre/comedy",
+      "added": "2026-11-08"
+    },
+    {
       "comedian": "Big Jay Oakerson",
       "date": "2027-01-23",
       "time": "7 PM",
@@ -3441,14 +3422,6 @@
       "note": "The Greatest Yapper Alive Tour",
       "url": "https://thewilbur.com/event/big-jay-oakerson/",
       "added": "2026-11-16"
-    },
-    {
-      "comedian": "Bored Teachers: Is It Friday Yet?! Tour",
-      "date": "2027-01-23",
-      "venue": "Chevalier Theatre",
-      "area": "Medford",
-      "url": "https://app.songkick.com/metro-areas/18842-us-boston-cambridge/2027/genre/comedy",
-      "added": "2026-11-08"
     },
     {
       "comedian": "Michelle Collins",
@@ -3495,7 +3468,7 @@
       "onSale": "Sold out",
       "url": "https://thewilbur.com/event/des-bishop-grey-area-tour/",
       "added": "2026-10-30",
-      "note": "Jan 30 sold out; added date Mar 13 (4 & 7 PM)"
+      "note": "Jan 30 sold out; added date Mar 13 (4 & 7 PM); also Mar 13"
     },
     {
       "comedian": "Giggly Squad (Hannah Berner & Paige DeSorbo)",
@@ -3533,6 +3506,28 @@
       "added": "2026-11-25"
     },
     {
+      "comedian": "Charles McBee",
+      "date": "2027-02-04",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "The Rockwell",
+      "area": "Somerville",
+      "price": "$24–$35",
+      "onSale": "On sale now",
+      "note": "You Had To Be There",
+      "url": "https://therockwell.org/calendar/charles-mcbee-2/",
+      "added": "2026-11-26"
+    },
+    {
+      "comedian": "Luis J. Gomez",
+      "date": "2027-02-05",
+      "venue": "Laugh Boston",
+      "area": "Boston",
+      "note": "Podcaster (Gas Digital) and author",
+      "url": "https://www.boston-theater.com/dates/2027/02/category/comedy",
+      "added": "2026-11-09"
+    },
+    {
       "comedian": "Jiaoying Summers",
       "date": "2027-02-05",
       "time": "7:30 PM",
@@ -3543,13 +3538,38 @@
       "added": "2026-11-04"
     },
     {
-      "comedian": "Luis J. Gomez",
-      "date": "2027-02-05",
+      "comedian": "Ophira Eisenberg",
+      "date": "2027-02-06",
+      "venue": "The Comedy Studio",
+      "area": "Cambridge",
+      "onSale": "On sale now",
+      "note": "2 shows, 18+",
+      "url": "https://www.thecomedystudio.com/events",
+      "added": "2026-11-26"
+    },
+    {
+      "comedian": "Desi Alexander",
+      "date": "2027-02-11",
+      "time": "7 PM",
+      "startTime": "19:00",
       "venue": "Laugh Boston",
       "area": "Boston",
-      "note": "Podcaster (Gas Digital) and author",
-      "url": "https://www.boston-theater.com/dates/2027/02/category/comedy",
-      "added": "2026-11-09"
+      "price": "From $33",
+      "onSale": "On sale now",
+      "url": "https://www.tixr.com/groups/laughboston/events/desi-alexander-201059",
+      "added": "2026-11-26"
+    },
+    {
+      "comedian": "Juston McKinney",
+      "date": "2027-02-12",
+      "time": "7 PM",
+      "startTime": "19:00",
+      "venue": "Marilyn Rodman Performing Arts Center",
+      "area": "Foxborough",
+      "onSale": "On sale now",
+      "note": "Feb 12 and 13",
+      "url": "https://www.boston-theater.com/shows/marilyn-rodman-performing-arts-center/juston-mckinney/tickets/calendar",
+      "added": "2026-11-26"
     },
     {
       "comedian": "Jeremy Piven",
@@ -3572,6 +3592,16 @@
       "note": "Live show from the TV series cast",
       "url": "https://comedy.tickets/venue/agganis-arena/",
       "added": "2026-11-11"
+    },
+    {
+      "comedian": "Ted Alexandro",
+      "date": "2027-02-13",
+      "venue": "The Comedy Studio",
+      "area": "Cambridge",
+      "onSale": "On sale now",
+      "note": "Feb 13–14, 3 shows, 18+",
+      "url": "https://www.thecomedystudio.com/events",
+      "added": "2026-11-26"
     },
     {
       "comedian": "Anthony Rodia",
@@ -3664,6 +3694,16 @@
       "note": "Feb 26 7:30 PM and Feb 27 7 PM"
     },
     {
+      "comedian": "Adam Cayton-Holland",
+      "date": "2027-02-27",
+      "venue": "The Comedy Studio",
+      "area": "Cambridge",
+      "onSale": "On sale now",
+      "note": "2 shows, 18+",
+      "url": "https://www.thecomedystudio.com/events",
+      "added": "2026-11-26"
+    },
+    {
       "comedian": "Paula Poundstone",
       "date": "2027-03-05",
       "time": "7:30 PM",
@@ -3705,8 +3745,8 @@
   ],
   "comedianWatchlist": [],
   "ticker": [
-    "Vintage Culture, Royale, tonight",
-    "Chopping Mall double, Brattle, Fri",
+    "Black Friday double, Brattle, Fri",
+    "Bonobo, House of Blues, Sat",
     "Free: TubaChristmas, Sat"
   ]
 }

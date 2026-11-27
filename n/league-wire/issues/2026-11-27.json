@@ -1,0 +1,323 @@
+{
+  "date": "2026-11-27",
+  "headline": "Eagles erase 21-point deficit, stun Cowboys 39-38",
+  "ticker": [
+    "Eagles 39, Cowboys 38",
+    "Bears 39, Lions 35",
+    "Bills 13, Chiefs 10",
+    "Rodgers clears waivers",
+    "Dillon suspended 4 games"
+  ],
+  "top": [
+    {
+      "league": "nfl",
+      "headline": "Eagles erase 21-point deficit, stun Cowboys 39-38",
+      "summary": "Joe Milton and DeVonta Smith (11 catches, 200 yards, 2 TD) led Philadelphia back from 31-10 down, and Jake Elliott won it with a 59-yard field goal with 2 seconds left. It was the biggest comeback in Thanksgiving history. The Eagles move to 4-7; Dallas falls to 5-7.",
+      "source": "NBC Washington",
+      "url": "https://www.nbcwashington.com/news/sports/nfl/cowboys-eagles-score-joe-milton/4188412/"
+    },
+    {
+      "league": "nfl",
+      "headline": "Bears beat Lions 39-35 on a TD with 3 seconds left, take NFC North lead",
+      "summary": "Caleb Williams hit Rome Odunze for the winning touchdown with 3 seconds left in a shootout at Ford Field. Jahmyr Gibbs ran for 205 yards and three touchdowns for Detroit. Chicago's sixth straight win puts it at 9-2, alone in first in the NFC North; Detroit is 8-3.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/nfl/articles/bears-stun-lions-39-35-001700457.html"
+    },
+    {
+      "league": "nfl",
+      "headline": "Bass hits 57-yarder at the buzzer as Bills edge Chiefs 13-10",
+      "summary": "Tyler Bass kicked a 57-yard field goal as time expired in the rain at Highmark Stadium. Buffalo won despite Josh Allen going 10-of-21 for 81 yards with two interceptions. The Bills (10-1) are the first team to 10 wins and have won seven straight; the Chiefs (8-3) trail Denver in the AFC West.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50582828/2026-nfl-buffalo-bills-kansas-city-chiefs-thanksgiving"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Three last-second Thanksgiving finishes: Eagles erase 21 in Dallas, Bears take the NFC North lead, Bills first to 10 wins",
+      "stories": [
+        {
+          "headline": "Eagles erase 21-point deficit, stun Cowboys 39-38",
+          "summary": "Joe Milton and DeVonta Smith (11 catches, 200 yards, 2 TD) led Philadelphia back from 31-10 down, and Jake Elliott won it with a 59-yard field goal with 2 seconds left. It was the biggest comeback in Thanksgiving history. The Eagles move to 4-7; Dallas falls to 5-7.",
+          "source": "NBC Washington",
+          "url": "https://www.nbcwashington.com/news/sports/nfl/cowboys-eagles-score-joe-milton/4188412/"
+        },
+        {
+          "headline": "Bears beat Lions 39-35 on a TD with 3 seconds left, take NFC North lead",
+          "summary": "Caleb Williams hit Rome Odunze for the winning touchdown with 3 seconds left in a shootout at Ford Field. Jahmyr Gibbs ran for 205 yards and three touchdowns for Detroit. Chicago's sixth straight win puts it at 9-2, alone in first in the NFC North; Detroit is 8-3.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/bears-stun-lions-39-35-001700457.html"
+        },
+        {
+          "headline": "Bass hits 57-yarder at the buzzer as Bills edge Chiefs 13-10",
+          "summary": "Tyler Bass kicked a 57-yard field goal as time expired in the rain at Highmark Stadium. Buffalo won despite Josh Allen going 10-of-21 for 81 yards with two interceptions. The Bills (10-1) are the first team to 10 wins and have won seven straight; the Chiefs (8-3) trail Denver in the AFC West.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50582828/2026-nfl-buffalo-bills-kansas-city-chiefs-thanksgiving"
+        },
+        {
+          "headline": "Aaron Rodgers clears waivers, becomes a free agent",
+          "summary": "No team claimed Rodgers before Thursday's 4 p.m. ET deadline, a day after Pittsburgh released him. ESPN reported no teams showing interest so far. Mason Rudolph starts for the Steelers against the Broncos on Friday.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50606625/aaron-rodgers-officially-free-agent-clearing-waivers"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Bears",
+          "awayScore": 39,
+          "home": "Lions",
+          "homeScore": 35,
+          "note": "Close"
+        },
+        {
+          "away": "Eagles",
+          "awayScore": 39,
+          "home": "Cowboys",
+          "homeScore": 38,
+          "note": "Upset"
+        },
+        {
+          "away": "Chiefs",
+          "awayScore": 10,
+          "home": "Bills",
+          "homeScore": 13,
+          "note": "Close"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "DeVonta Smith",
+          "team": "Eagles",
+          "line": "11-200-2",
+          "note": "Touchdown catches of 50 and 45 yards in the record comeback."
+        },
+        {
+          "name": "Jahmyr Gibbs",
+          "team": "Lions",
+          "line": "21-205-3",
+          "note": "His 70-yard touchdown run gave Detroit a late lead before Chicago's last-second winner."
+        },
+        {
+          "name": "Joe Milton",
+          "team": "Eagles",
+          "line": "21-31 · 331 YDS · 3 TD · 1 INT",
+          "note": "Also ran for two touchdowns as Philadelphia came back from 21 down."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Aaron Rodgers cleared waivers and is a free agent",
+          "url": "https://www.espn.com/nfl/story/_/id/50606625/aaron-rodgers-officially-free-agent-clearing-waivers"
+        },
+        {
+          "text": "Steelers activated WR Michael Pittman Jr. from IR, promoted WR Max Hurleman and placed WR Ben Skowronek on IR (calf)",
+          "url": "https://www.profootballrumors.com/2026/11/steelers-activate-wr-michael-pittman-jr"
+        },
+        {
+          "text": "Broncos activated RB Tyler Badie from IR, signed RB Cody Schrader from the practice squad and placed DT Sai'vion Jones on IR",
+          "url": "https://www.profootballrumors.com/2026/11/minor-nfl-transactions-11-26-26"
+        },
+        {
+          "text": "Chargers placed S Deane Leonard on IR",
+          "url": "https://www.profootballrumors.com/2026/11/minor-nfl-transactions-11-26-26"
+        },
+        {
+          "text": "Seahawks restructured Sam Darnold, Julian Love and Ernest Jones (about $9.88M in cap space); Jaguars restructured Foyesade Oluokun and Walker Little",
+          "url": "https://www.profootballrumors.com/2026/11/nfl-restructures-seahawks-oluokun-little"
+        },
+        {
+          "text": "Practice squads: Chargers signed WR Theo Wease, Jets DT Payton Page, Commanders CB Ambry Thomas (released WR Malik Heath)",
+          "url": "https://www.profootballrumors.com/2026/11/nfl-practice-squad-updates-11-26-26"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "No games on Thanksgiving; Haliburton and Jaylen Brown out, LaMelo Ball questionable for Friday's 11-game Cup finale",
+      "stories": [
+        {
+          "headline": "Black Friday: 11 games close NBA Cup group play",
+          "summary": "The NBA took Thanksgiving off and returns Friday with 11 games that finish group play, led by Heat at Knicks (7 ET) and Lakers at Spurs (9:30 ET). In West Group C, the Spurs, Blazers, Warriors and Lakers can all still win the group. Orlando, Detroit and Toronto are bunched in East Group A.",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/news/starting-5-november-26-2026"
+        },
+        {
+          "headline": "Jaylen Brown out at Indiana; Embiid questionable as Sixers chase Cup berth",
+          "summary": "The 76ers ruled Brown out for Friday's game at Indiana with his left hamstring. Joel Embiid, who has missed two games with an illness, is questionable. A win clinches East Group B and sends Philadelphia to the knockout round for the first time.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/50606614/76ers-jaylen-brown-hamstring-friday-pacers"
+        },
+        {
+          "headline": "Haliburton ruled out for Friday despite hoping to return",
+          "summary": "Tyrese Haliburton is listed as out for Friday's Cup game against the 76ers. He said Wednesday he hoped to return within the week. He has been out with a left hamstring strain since Oct. 26.",
+          "source": "IndyStar",
+          "url": "https://www.indystar.com/story/sports/nba/pacers/2026/11/26/tyrese-haliburton-injury-report-pacers-point-guard-gets-bad-news-vs-sixers/92973719007/"
+        },
+        {
+          "headline": "LaMelo Ball questionable for Wolves' Cup decider vs. Memphis",
+          "summary": "Minnesota listed Ball as questionable for Friday with a left ankle sprain after he left Wednesday's win in Oklahoma City. The 3-0 Wolves host Memphis with a Cup berth on the line.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/fantasy/basketball/news/timberwolves-lamelo-ball-listed-questionable-vs-memphis/"
+        },
+        {
+          "headline": "Knicks' Anunoby doubtful; Pistons' Cunningham out Friday",
+          "summary": "OG Anunoby (left calf strain) is doubtful against Miami and would miss a fourth straight game. Cade Cunningham misses a second straight game with right knee tendinopathy. Memphis lists Zach Edey (left ankle) as questionable at Minnesota.",
+          "source": "Hoops Rumors",
+          "url": "https://www.hoopsrumors.com/2026/11/injury-notes-pacers-sixers-knicks-ball-edey.html"
+        }
+      ],
+      "standouts": [],
+      "moves": [
+        {
+          "text": "Pistons: Cade Cunningham (right knee tendinopathy) out Friday vs. Bucks",
+          "url": "https://www.hoopsrumors.com/2026/11/central-notes-cavs-watson-cunningham-nesmith-buzelis.html"
+        },
+        {
+          "text": "Grizzlies: Zach Edey (left ankle) and Isaiah Stewart (right hip) questionable Friday at Minnesota",
+          "url": "https://www.hoopsrumors.com/2026/11/injury-notes-pacers-sixers-knicks-ball-edey.html"
+        },
+        {
+          "text": "Pacers: Aaron Nesmith off the injury report; T.J. McConnell, Kelly Oubre Jr. and Larry Nance Jr. questionable",
+          "url": "https://www.hoopsrumors.com/2026/11/injury-notes-pacers-sixers-knicks-ball-edey.html"
+        },
+        {
+          "text": "Trail Blazers: Ja Morant (left hamstring) has resumed five-on-five work and could return on the home stand",
+          "url": "https://www.hoopsrumors.com/2026/11/northwest-notes-morant-holiday-filipowski-mitchell.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "No games on Thanksgiving; Devils' Brenden Dillon gets four games for a hit on Denton Mateychuk",
+      "stories": [
+        {
+          "headline": "Devils' Brenden Dillon suspended four games",
+          "summary": "The NHL suspended Dillon four games for an illegal check to the head that injured Columbus defenseman Denton Mateychuk in Wednesday's shootout game. Dillon got a match penalty on the play. He forfeits $82,474.24.",
+          "source": "The Athletic",
+          "url": "https://www.nytimes.com/athletic/7814981/2026/11/26/brenden-dillon-suspended-blue-jackets-denton-mateychuk/"
+        },
+        {
+          "headline": "Kantserov keeps scoring for Blackhawks",
+          "summary": "Roman Kantserov scored twice in Seattle as Chicago won its third straight road game. He has 15 goals and 20 points in 25 games and leads all rookies in both. He's the first Blackhawks skater with 15 goals through his first 25 games since Bill Mosienko.",
+          "source": "NHL Public Relations",
+          "url": "https://media.nhl.com/public/news/20222"
+        },
+        {
+          "headline": "Goals at a record pace by Thanksgiving",
+          "summary": "Teams have scored 2,546 goals so far in 2026-27, the most in league history before U.S. Thanksgiving. That's more than 150 above the next closest season, 2019-20 (2,380).",
+          "source": "NHL Public Relations",
+          "url": "https://media.nhl.com/public/news/20222"
+        },
+        {
+          "headline": "Thanksgiving playoff picture: Canadiens look vulnerable",
+          "summary": "Teams in a playoff spot at U.S. Thanksgiving have about a 75 percent chance of staying there, per Sportsnet. Montreal holds a spot but has a minus-one goal differential and a three-game losing streak. Minnesota sets the pace in the Central.",
+          "source": "Sportsnet",
+          "url": "https://www.sportsnet.ca/nhl/article/checking-in-on-the-nhl-playoff-picture-at-u-s-thanksgiving/"
+        }
+      ],
+      "standouts": [],
+      "moves": [
+        {
+          "text": "NHL suspended Devils D Brenden Dillon four games for an illegal check to the head",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Avalanche placed F Gavin Brindley on IR and recalled F Taylor Makar from the AHL",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Canadiens reinstated D Bryce Pickford from non-roster injured and assigned him to Laval",
+          "url": "https://www.espn.com/nhl/transactions"
+        },
+        {
+          "text": "Blackhawks recalled F Dillon Boucher and assigned F Dominic Toninato to Hartford",
+          "url": "https://www.espn.com/nhl/transactions"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · quiet Thanksgiving; Suzuki reportedly wants more than $120M before Tuesday's lockout deadline",
+      "stories": [
+        {
+          "headline": "Seiya Suzuki reportedly seeking more than $120M",
+          "summary": "The New York Post's Jon Heyman reports Suzuki wants more than the six-year, $120MM deal Teruaki Sato got from the Cubs, and figures Randy Arozarena's ask is in the same range. The Blue Jays, Padres and Phillies have been linked to both. Both want to sign before a lockout can begin at 11:59 p.m. ET Tuesday.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/seiya-suzuki-reportedly-asking-for-more-than-120mm.html"
+        },
+        {
+          "headline": "Orioles reportedly willing to trade infielders for starting pitching",
+          "summary": "Baltimore has told teams it will deal from its surplus of third basemen to add starters, per The Athletic and the New York Post. Joel Sherman names Blaze Alexander, Christian Encarnacion-Strand, Coby Mayo and Jordan Westburg. The Orioles already added Freddy Peralta.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/orioles-reportedly-willing-to-trade-infielders-for-starting-pitchers.html"
+        },
+        {
+          "headline": "Yankees show interest in lefty Alex Vesia",
+          "summary": "The Athletic reports the Yankees have interest in the free-agent reliever and also want a right-handed-hitting catcher. Vesia has also been linked to the Mariners, Blue Jays, Mets and Marlins and reportedly wants three years.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/yankees-have-shown-interest-in-alex-vesia.html"
+        },
+        {
+          "headline": "Marlins drawing trade interest in Kyle Stowers",
+          "summary": "The Miami Herald's Barry Jackson writes that Miami is in trade talks and Stowers is drawing interest. He enters his first year of arbitration with three years of control left.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/marlins-receiving-trade-interest-in-kyle-stowers.html"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Nationals sign LHP Tom Cosgrove, minor league deal (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/nationals-to-sign-tom-cosgrove-to-minor-league-deal.html"
+        },
+        {
+          "text": "Braves sign LHP Charlie Barnes (reported) and OF Michael Helman (official), minor league deals",
+          "url": "https://www.mlbtraderumors.com/2026/11/braves-agree-to-minor-league-deals-with-michael-helman-charlie-barnes.html"
+        },
+        {
+          "text": "Astros sign INF Jonah Bride and RHP Matt Sauer, minor league deals",
+          "url": "https://www.mlbtraderumors.com/2026/11/astros-agree-to-minor-league-deals-with-jonah-bride-matt-sauer.html"
+        },
+        {
+          "text": "Dodgers sign INF Eric Wagaman, minor league deal (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/dodgers-sign-eric-wagaman-to-minor-league-contract.html"
+        },
+        {
+          "text": "Rangers sign OF Bryce Johnson, minor league deal",
+          "url": "https://www.mlbtraderumors.com/2026/11/rangers-sign-bryce-johnson-to-minor-league-deal.html"
+        },
+        {
+          "text": "Tigers re-sign INF Trey Sweeney and LHP Jake Miller, minor league deals",
+          "url": "https://www.mlbtraderumors.com/2026/11/tigers-re-sign-trey-sweeney-jake-miller-to-minor-league-deals.html"
+        },
+        {
+          "text": "Mets re-sign C Hayden Senger, minor league deal",
+          "url": "https://www.mlbtraderumors.com/2026/11/mets-re-sign-hayden-senger-to-minor-league-deal.html"
+        },
+        {
+          "text": "Mariners sign INF Liover Peguero, minor league deal",
+          "url": "https://www.mlbtraderumors.com/2026/11/mariners-sign-liover-peguero-to-minor-league-contract.html"
+        },
+        {
+          "text": "Rays sign RHP Alexander Cornielle, minor league deal",
+          "url": "https://www.mlbtraderumors.com/2026/11/rays-sign-alexander-cornielle-to-minors-contract.html"
+        },
+        {
+          "text": "Cardinals re-sign RHP Max Rajcic, minor league deal (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/cardinals-re-sign-max-rajcic.html"
+        },
+        {
+          "text": "Giants sign OF Kenedy Corona, minor league deal",
+          "url": "https://www.mlbtraderumors.com/2026/11/giants-sign-kenedy-corona-to-minors-contract.html"
+        }
+      ]
+    }
+  ]
+}

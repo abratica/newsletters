@@ -1,0 +1,539 @@
+{
+  "date": "2026-11-28",
+  "headline": "Steelers rout Broncos 27-5 two days after Rodgers exit",
+  "ticker": [
+    "Steelers 27, Broncos 5",
+    "Knicks out of NBA Cup",
+    "Spurs 99, Lakers 96",
+    "Avalanche 4, Wild 3 (SO)",
+    "Jazz to Blue Jays (rep.)"
+  ],
+  "top": [
+    {
+      "league": "nfl",
+      "headline": "Steelers rout Broncos 27-5 two days after Rodgers exit",
+      "summary": "Mason Rudolph went 9 of 15 for 142 yards and a touchdown in his first start of the season. T.J. Watt recovered a Bo Nix fumble in the end zone and Jalen Ramsey returned an interception for a score as Pittsburgh (7-4) ended Denver's six-game win streak in the rain. The Broncos (8-3), 4.5-point favorites, passed on a chance to take sole possession of first in the AFC West.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50599095/steelers-beat-broncos-black-friday-two-defensive-touchdowns"
+    },
+    {
+      "league": "nba",
+      "headline": "NBA Cup quarterfinals set; Knicks' title defense over",
+      "summary": "Detroit, Philadelphia and Atlanta won their East groups, and Boston got in as the wild card on point differential despite losing Friday. In the West, Dallas (4-0), Memphis and Portland won their groups and San Antonio took the wild card. Quarterfinals: 76ers at Hawks and Spurs at Mavericks on Dec. 4; Celtics at Pistons and Grizzlies at Trail Blazers on Dec. 5.",
+      "source": "Hoops Rumors",
+      "url": "https://www.hoopsrumors.com/2026/11/nba-cup-quaterfinals-set-as-grizzlies-blazers-spurs-advance.html"
+    },
+    {
+      "league": "nhl",
+      "headline": "Avalanche erase 3-0 deficit in final six minutes, win in shootout",
+      "summary": "Minnesota led 3-0 until Devon Toews scored at 13:37 of the third. Artturi Lehkonen and T.J. Hughes, with 59.4 seconds left, tied it, and Cale Makar scored the only goal of a four-round shootout. NHL.com calls it the latest three-goal comeback win in Avalanche history; Minnesota (18-4-6) has lost two straight.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/colorado-avalanche-minnesota-wild-game-recap-november-27-2026"
+    }
+  ],
+  "leagues": [
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "status": "in-season",
+      "summary": "Steelers rout Broncos 27-5 on Black Friday; Purdy, Herbert and Beck out Sunday",
+      "stories": [
+        {
+          "headline": "Steelers rout Broncos 27-5 two days after Rodgers exit",
+          "summary": "Mason Rudolph went 9 of 15 for 142 yards and a touchdown in his first start of the season. T.J. Watt recovered a Bo Nix fumble in the end zone and Jalen Ramsey returned an interception for a score as Pittsburgh (7-4) ended Denver's six-game win streak in the rain. The Broncos (8-3), 4.5-point favorites, passed on a chance to take sole possession of first in the AFC West.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50599095/steelers-beat-broncos-black-friday-two-defensive-touchdowns"
+        },
+        {
+          "headline": "Rodgers texts Al Michaels mid-game, says Steelers barred him",
+          "summary": "During the Friday broadcast, Michaels read a text from Rodgers defending his public criticism of Mike McCarthy. Rodgers said the team made his benching public before McCarthy told him and barred him from the facility. He has cleared waivers, and no team interest has been reported.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/al-michaels-got-text-aaron-001154801.html"
+        },
+        {
+          "headline": "Backup QBs everywhere: Purdy, Herbert, Beck out Sunday",
+          "summary": "The 49ers ruled out Brock Purdy (ankle), so Mac Jones starts against Seattle. Justin Herbert (concussion) is out and DJ Uiagalelei gets his first career start for the Chargers. Carson Beck (back) is out, so 40-year-old Josh Johnson starts again for Arizona.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-12-injury-report-brock-purdy-justin-herbert-out/"
+        },
+        {
+          "headline": "Bears TE Colston Loveland headed to IR",
+          "summary": "Loveland sprained his knee in Thursday's win at Detroit and is expected to go on injured reserve, per Adam Schefter and Ian Rapoport. The belief is he can return later this season. The 9-2 Bears lose a pass-catcher heading into December.",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-nov-27"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Broncos",
+          "awayScore": 5,
+          "home": "Steelers",
+          "homeScore": 27,
+          "note": "Upset"
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Mason Rudolph",
+          "team": "Steelers",
+          "line": "9-15 · 142 YDS · 1 TD · 0 INT",
+          "note": "No turnovers and a 22-yard back-shoulder touchdown to DK Metcalf."
+        },
+        {
+          "name": "Jalen Ramsey",
+          "team": "Steelers",
+          "line": "1 INT · 36-yd TD return",
+          "note": "His pick-six before halftime made it 24-5."
+        },
+        {
+          "name": "DK Metcalf",
+          "team": "Steelers",
+          "line": "3-36-1",
+          "note": "Scored over Pat Surtain II for the offense's touchdown."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Bears expected to place TE Colston Loveland (knee sprain) on IR",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-nov-27"
+        },
+        {
+          "text": "Browns signed LS Rex Sunahara to a four-year extension through 2030",
+          "url": "https://www.profootballrumors.com/2026/11/browns-sign-ls-rex-sunahara-to-4-year-extension"
+        },
+        {
+          "text": "Chargers promoted QB Jake Browning from the practice squad with Herbert in concussion protocol",
+          "url": "https://www.profootballrumors.com/transactions"
+        },
+        {
+          "text": "Cardinals brought back QB Kedon Slovis after the Ravens waived him",
+          "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-12-020946874.html"
+        },
+        {
+          "text": "Panthers signed S Dan Jackson to the practice squad",
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-nov-27"
+        }
+      ]
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "status": "in-season",
+      "summary": "Cup quarterfinal field set; Heat knock out the defending champion Knicks",
+      "stories": [
+        {
+          "headline": "NBA Cup quarterfinals set; Knicks' title defense over",
+          "summary": "Detroit, Philadelphia and Atlanta won their East groups, and Boston got in as the wild card on point differential despite losing Friday. In the West, Dallas (4-0), Memphis and Portland won their groups and San Antonio took the wild card. Quarterfinals: 76ers at Hawks and Spurs at Mavericks on Dec. 4; Celtics at Pistons and Grizzlies at Trail Blazers on Dec. 5.",
+          "source": "Hoops Rumors",
+          "url": "https://www.hoopsrumors.com/2026/11/nba-cup-quaterfinals-set-as-grizzlies-blazers-spurs-advance.html"
+        },
+        {
+          "headline": "Heat end Knicks' Cup reign at the Garden",
+          "summary": "Miami led 60-44 at the half, let New York erase a 23-point deficit, then held on 108-105. Giannis Antetokounmpo had 22 points and a career-high 23 rebounds, and Bam Adebayo scored 25. Philadelphia's win eliminated the Heat too.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909326"
+        },
+        {
+          "headline": "Spurs come back on Lakers, grab West wild card",
+          "summary": "San Antonio trailed 54-38 at halftime, outscored the Lakers 30-14 in the third and won 99-96. Stephon Castle had 26 points on 10-of-15 shooting and Victor Wembanyama had 25 points and 16 rebounds. Luka Doncic scored 31 as the Lakers went out.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909333"
+        },
+        {
+          "headline": "Flagg leads Mavs back from 21 down, finish Cup group 4-0",
+          "summary": "Cooper Flagg had 34 points, 8 assists, 7 rebounds, 5 steals and 4 blocks in a 113-109 win at Phoenix, scoring Dallas's go-ahead baskets in the final 1:24. Devin Booker scored 31 for the Suns. Dallas has won five straight.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909332"
+        },
+        {
+          "headline": "Curry out at least three more games",
+          "summary": "Stephen Curry has a right oblique tear and has missed six straight games. The Warriors say he has started individual on-court work and will be re-examined next Wednesday. Golden State lost 116-94 in Portland without him.",
+          "source": "Hoops Rumors",
+          "url": "https://www.hoopsrumors.com/2026/11/stephen-curry-oblique-out-at-least-three-more-games.html"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Heat",
+          "awayScore": 108,
+          "home": "Knicks",
+          "homeScore": 105,
+          "note": "Close"
+        },
+        {
+          "away": "Bucks",
+          "awayScore": 98,
+          "home": "Pistons",
+          "homeScore": 113,
+          "note": ""
+        },
+        {
+          "away": "76ers",
+          "awayScore": 111,
+          "home": "Pacers",
+          "homeScore": 87,
+          "note": ""
+        },
+        {
+          "away": "Nets",
+          "awayScore": 100,
+          "home": "Raptors",
+          "homeScore": 124,
+          "note": ""
+        },
+        {
+          "away": "Hawks",
+          "awayScore": 87,
+          "home": "Celtics",
+          "homeScore": 86,
+          "note": "Close"
+        },
+        {
+          "away": "Grizzlies",
+          "awayScore": 114,
+          "home": "Timberwolves",
+          "homeScore": 109,
+          "note": "Close"
+        },
+        {
+          "away": "Mavericks",
+          "awayScore": 113,
+          "home": "Suns",
+          "homeScore": 109,
+          "note": "Close"
+        },
+        {
+          "away": "Lakers",
+          "awayScore": 96,
+          "home": "Spurs",
+          "homeScore": 99,
+          "note": "Close"
+        },
+        {
+          "away": "Nuggets",
+          "awayScore": 120,
+          "home": "Jazz",
+          "homeScore": 107,
+          "note": ""
+        },
+        {
+          "away": "Pelicans",
+          "awayScore": 105,
+          "home": "Clippers",
+          "homeScore": 104,
+          "note": "Close"
+        },
+        {
+          "away": "Warriors",
+          "awayScore": 94,
+          "home": "Trail Blazers",
+          "homeScore": 116,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Cooper Flagg",
+          "team": "Mavericks",
+          "line": "34 PTS · 7 REB · 8 AST · 13-27 FG",
+          "note": "Added 5 steals and 4 blocks as Dallas came back from 21 down in Phoenix."
+        },
+        {
+          "name": "Giannis Antetokounmpo",
+          "team": "Heat",
+          "line": "22 PTS · 23 REB",
+          "note": "A career-high 23 rebounds in the win that knocked the Knicks out of the Cup."
+        },
+        {
+          "name": "Immanuel Quickley",
+          "team": "Raptors",
+          "line": "24 PTS · 10 REB · 14 AST",
+          "note": "Toronto routed Brooklyn but still went out on point differential."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Warriors: Stephen Curry (right oblique tear) out at least three more games; re-exam next Wednesday",
+          "url": "https://www.hoopsrumors.com/2026/11/stephen-curry-oblique-out-at-least-three-more-games.html"
+        },
+        {
+          "text": "Timberwolves played Memphis without LaMelo Ball (left ankle) and Anthony Edwards; Blazers without Damian Lillard (right calf tightness)",
+          "url": "https://www.hoopsrumors.com/2026/11/injury-notes-ball-lillard-m-wagner-kat-kyrie-more.html"
+        },
+        {
+          "text": "Lakers: Austin Reaves returned Friday and scored 21 at San Antonio",
+          "url": "https://www.hoopsrumors.com/2026/11/lakers-austin-reaves-returning-on-friday.html"
+        },
+        {
+          "text": "Pacers at Hawks and Raptors at Spurs moved from Dec. 3 to Dec. 2 for the Cup schedule",
+          "url": "https://www.hoopsrumors.com/2026/11/nba-cup-quaterfinals-set-as-grizzlies-blazers-spurs-advance.html"
+        }
+      ]
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "status": "in-season",
+      "summary": "15-game Black Friday: Avalanche rally from 3-0 late to beat the Wild; Oilers drop a fifth straight",
+      "stories": [
+        {
+          "headline": "Avalanche erase 3-0 deficit in final six minutes, win in shootout",
+          "summary": "Minnesota led 3-0 until Devon Toews scored at 13:37 of the third. Artturi Lehkonen and T.J. Hughes, with 59.4 seconds left, tied it, and Cale Makar scored the only goal of a four-round shootout. NHL.com calls it the latest three-goal comeback win in Avalanche history; Minnesota (18-4-6) has lost two straight.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/colorado-avalanche-minnesota-wild-game-recap-november-27-2026"
+        },
+        {
+          "headline": "McDavid reaches 60 points, Oilers lose fifth straight",
+          "summary": "Connor McDavid had a goal and an assist for 60 points in 28 games or fewer, which NHL.com says has happened six times and not since Mario Lemieux in 1995-96. Kaapo Kakko scored twice in two minutes of the third as Seattle won 4-2. Edmonton has lost a season-high five in a row.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/seattle-kraken-edmonton-oilers-game-recap-november-27-2026"
+        },
+        {
+          "headline": "Sharks beat Vegas at home in regulation for the first time",
+          "summary": "Yaroslav Askarov made 27 saves in a 4-1 win. Vegas had been 16-0-3 at SAP Center in the regular season, and San Jose's 11-game skid against the Golden Knights is over. Mark Stone sat out the final 12:18 with an undisclosed injury.",
+          "source": "NHL.com",
+          "url": "https://www.nhl.com/news/vegas-golden-knights-san-jose-sharks-game-recap-november-27-2026"
+        }
+      ],
+      "scores": [
+        {
+          "away": "Maple Leafs",
+          "awayScore": 3,
+          "home": "Bruins",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Flames",
+          "awayScore": 3,
+          "home": "Devils",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Mammoth",
+          "awayScore": 6,
+          "home": "Predators",
+          "homeScore": 5,
+          "note": "SO"
+        },
+        {
+          "away": "Stars",
+          "awayScore": 3,
+          "home": "Blues",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Senators",
+          "awayScore": 6,
+          "home": "Lightning",
+          "homeScore": 2,
+          "note": ""
+        },
+        {
+          "away": "Canucks",
+          "awayScore": 2,
+          "home": "Flyers",
+          "homeScore": 5,
+          "note": ""
+        },
+        {
+          "away": "Panthers",
+          "awayScore": 3,
+          "home": "Capitals",
+          "homeScore": 2,
+          "note": "Close"
+        },
+        {
+          "away": "Red Wings",
+          "awayScore": 2,
+          "home": "Blue Jackets",
+          "homeScore": 0,
+          "note": ""
+        },
+        {
+          "away": "Avalanche",
+          "awayScore": 4,
+          "home": "Wild",
+          "homeScore": 3,
+          "note": "SO"
+        },
+        {
+          "away": "Kings",
+          "awayScore": 5,
+          "home": "Ducks",
+          "homeScore": 3,
+          "note": ""
+        },
+        {
+          "away": "Golden Knights",
+          "awayScore": 1,
+          "home": "Sharks",
+          "homeScore": 4,
+          "note": ""
+        },
+        {
+          "away": "Rangers",
+          "awayScore": 1,
+          "home": "Blackhawks",
+          "homeScore": 2,
+          "note": "Close"
+        },
+        {
+          "away": "Jets",
+          "awayScore": 3,
+          "home": "Islanders",
+          "homeScore": 1,
+          "note": ""
+        },
+        {
+          "away": "Penguins",
+          "awayScore": 6,
+          "home": "Sabres",
+          "homeScore": 3,
+          "note": ""
+        },
+        {
+          "away": "Kraken",
+          "awayScore": 4,
+          "home": "Oilers",
+          "homeScore": 2,
+          "note": ""
+        }
+      ],
+      "standouts": [
+        {
+          "name": "Jack Hughes",
+          "team": "Devils",
+          "line": "1 G · 3 A",
+          "note": "Tied it 3-3 in the third as New Jersey won its third straight; brother Luke scored twice."
+        },
+        {
+          "name": "Dylan Holloway",
+          "team": "Blues",
+          "line": "2 G · 1 A",
+          "note": "A power-play goal and an empty-netter; St. Louis is 5-0-1 in its past six."
+        },
+        {
+          "name": "Yaroslav Askarov",
+          "team": "Sharks",
+          "line": "27 SV · .964",
+          "note": "Only Jack Eichel's power-play goal got past him."
+        }
+      ],
+      "moves": [
+        {
+          "text": "Jeff Petry retired at 38 after 1,048 NHL games with six teams",
+          "url": "https://www.prohockeyrumors.com/2026/11/jeff-petry-announces-retirement.html"
+        },
+        {
+          "text": "Blackhawks placed Patrick Kane on IR (lower body)",
+          "url": "https://www.nhl.com/news/new-york-rangers-chicago-blackhawks-game-recap-november-27-2026"
+        },
+        {
+          "text": "Rangers recalled Juuso Parssinen; Gabe Perreault out 4-6 weeks (lower body)",
+          "url": "https://www.prohockeyrumors.com/2026/11/rangers-recall-juuso-parssinen-gabe-perreault-out-with-injury.html"
+        },
+        {
+          "text": "Predators placed D William Trudeau on waivers",
+          "url": "https://www.prohockeyrumors.com/2026/11/predators-place-william-trudeau-on-waivers.html"
+        },
+        {
+          "text": "Capitals recalled G Clay Stevenson, assigned Justin Holl to Hershey and activated Vincent Desharnais",
+          "url": "https://www.prohockeyrumors.com/2026/11/captials-make-several-roster-transactions.html"
+        },
+        {
+          "text": "Blues activated Connor McMichael from IR; Jimmy Snuggerud to IR (upper body)",
+          "url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-27-2026"
+        }
+      ]
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "status": "offseason",
+      "summary": "Offseason · Blue Jays land Jazz Chisholm Jr., Cubs add Hiromi Itoh before Tuesday's lockout deadline",
+      "stories": [
+        {
+          "headline": "Blue Jays reach deal with Jazz Chisholm Jr. (reported)",
+          "summary": "Toronto agreed with Chisholm on a one-year deal guaranteeing $34.5M: a $6M signing bonus, $12.5M for 2027 and a $16M player option with a $1.5M buyout. If he declines the option, the Jays hold a $40M club option for 2028. It's a pillow contract after a 98 wRC+ walk year with the Yankees.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/blue-jays-nearing-deal-with-jazz-chisholm-jr.html"
+        },
+        {
+          "headline": "Cubs add Hiromi Itoh, their second big NPB signing",
+          "summary": "The Cubs agreed with right-hander Hiromi Itoh, the 2025 Sawamura Award winner (reported; terms not yet known). That's two of the winter's three marquee Japanese postings for Chicago, after Teruaki Sato's six-year, $120M deal became official Friday. They also agreed with lefty Ryan Yarbrough on a one-year deal.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-hiromi-itoh.html"
+        },
+        {
+          "headline": "Pirates send Henry Davis to Arizona for Tim Tawa",
+          "summary": "The Diamondbacks acquired catcher Henry Davis, the No. 1 overall pick in 2021, for utilityman Tim Tawa in a change-of-scenery swap. Davis hasn't hit in parts of four MLB seasons and will back up Gabriel Moreno.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/pirates-trade-henry-davis-to-diamondbacks.html"
+        },
+        {
+          "headline": "Lockout clock leaves DFA'd players in limbo",
+          "summary": "Clubs designated Beau Brieske and Tsung-Che Cheng (DET), Hayden Harris (COL) and Mitch Spence (KC) for assignment Friday to clear room for new signings. A transaction freeze is expected when the CBA expires Tuesday night. In the last lockout, some DFA'd players stayed frozen until March.",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/11/tigers-designate-beau-brieske-tsung-che-cheng-for-assignment.html"
+        }
+      ],
+      "moves": [
+        {
+          "text": "Blue Jays agree with 2B Jazz Chisholm Jr., 1 yr/$34.5M guaranteed with player and club options (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/blue-jays-nearing-deal-with-jazz-chisholm-jr.html"
+        },
+        {
+          "text": "Cubs agree with RHP Hiromi Itoh, NPB posting; terms not reported (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-hiromi-itoh.html"
+        },
+        {
+          "text": "Cubs agree with LHP Ryan Yarbrough, 1 yr (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-ryan-yarbrough.html"
+        },
+        {
+          "text": "Cubs make OF Teruaki Sato official: 6 yrs/$120M",
+          "url": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-teruaki-sato.html"
+        },
+        {
+          "text": "D-backs acquire C Henry Davis from Pirates for UT Tim Tawa",
+          "url": "https://www.mlbtraderumors.com/2026/11/pirates-trade-henry-davis-to-diamondbacks.html"
+        },
+        {
+          "text": "D-backs agree with RHP Kona Takahashi, 1 yr/$3M (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/diamondbacks-to-sign-kona-takahashi.html"
+        },
+        {
+          "text": "Tigers DFA RHP Beau Brieske and IF Tsung-Che Cheng",
+          "url": "https://www.mlbtraderumors.com/2026/11/tigers-designate-beau-brieske-tsung-che-cheng-for-assignment.html"
+        },
+        {
+          "text": "Rockies DFA LHP Hayden Harris",
+          "url": "https://www.mlbtraderumors.com/2026/11/rockies-designate-hayden-harris-for-assignment.html"
+        },
+        {
+          "text": "Royals DFA RHP Mitch Spence",
+          "url": "https://www.mlbtraderumors.com/2026/11/royals-designate-mitch-spence-for-assignment.html"
+        },
+        {
+          "text": "Twins agree with UT Ryan Fitzgerald on MLB deal (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/twins-to-sign-ryan-fitzgerald-to-major-league-deal.html"
+        },
+        {
+          "text": "Rangers sign RHP Joe Jiménez, minor league deal (reported)",
+          "url": "https://www.mlbtraderumors.com/2026/11/rangers-to-sign-joe-jimenez-to-minor-league-deal.html"
+        },
+        {
+          "text": "Phillies re-sign Brett Harris, Andrew Hoffmann and Moisés Chace, minor league deals",
+          "url": "https://www.mlbtraderumors.com/2026/11/phillies-re-sign-brett-harris-andrew-hoffmann-moises-chace-on-minor-league-deals.html"
+        },
+        {
+          "text": "Blue Jays sign OF Rhylan Thomas, minor league deal",
+          "url": "https://www.mlbtraderumors.com/2026/11/blue-jays-sign-rhylan-thomas-to-minor-league-deal.html"
+        }
+      ]
+    }
+  ]
+}
